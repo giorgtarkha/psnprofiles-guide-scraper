@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"sync"
 	"time"
@@ -21,20 +22,28 @@ const (
 )
 
 type GuideData struct {
-	Game       string `json:"game"`
-	Link       string `json:"link"`
-	Difficulty string `json:"difficulty"`
-	TimeNeeded string `json:"time_needed"`
+	Game           string `json:"game"`
+	Link           string `json:"link"`
+	Difficulty     string `json:"difficulty"`
+	TimeNeeded     string `json:"time_needed"`
+	PlatinumRarity string `json:"platinum_rarity"`
+	UserFavourites string `json:"user_favourites"`
+	Rating         string `json:"rating"`
+	RatingCount    string `json:"rating_count"`
+	Views          string `json:"views"`
 }
 
 type Scraper struct {
 	directory string
 	formats   []string
 
+	lastPage int
+
 	collector *colly.Collector
 
-	wg sync.WaitGroup
-	mu sync.Mutex
+	wg  sync.WaitGroup
+	pmu sync.Mutex
+	mu  sync.Mutex
 
 	links chan string
 	data  []*GuideData
@@ -44,12 +53,16 @@ func NewScraper(directory string, formats []string) *Scraper {
 	return &Scraper{
 		directory: directory,
 		formats:   formats,
+
+		lastPage: 10,
+
 		collector: colly.NewCollector(
 			colly.Async(true),
 			colly.AllowURLRevisit(),
 			colly.UserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"),
 		),
 		wg:    sync.WaitGroup{},
+		pmu:   sync.Mutex{},
 		mu:    sync.Mutex{},
 		links: make(chan string),
 		data:  []*GuideData{},
@@ -78,15 +91,15 @@ func (s *Scraper) init() {
 		if strings.Contains(link, "/guide/") {
 			s.handleGuidePage(link, doc)
 		} else {
-			s.handleGuideListPage(doc)
+			s.handleGuideListPage(link, doc)
 		}
 	})
 }
 
 func (s *Scraper) scrape() {
-	s.wg.Add(1)
+	s.wg.Add(s.lastPage)
 	go func() {
-		for i := 1; i <= 1; i++ {
+		for i := 1; i <= s.lastPage; i++ {
 			s.links <- fmt.Sprintf("%s%d", guidesPage, i)
 		}
 	}()
@@ -134,14 +147,14 @@ func (s *Scraper) scrape() {
 				}()
 			}
 		default:
-			fmt.Printf("unknown format: [%s]", format)
+			fmt.Printf("unknown format: %s\n", format)
 		}
 	}
 
 	s.wg.Wait()
 }
 
-func (s *Scraper) handleGuideListPage(doc *goquery.Document) {
+func (s *Scraper) handleGuideListPage(link string, doc *goquery.Document) {
 	doc.Find("a").Each(func(index int, item *goquery.Selection) {
 		href, exists := item.Attr("href")
 		if exists && strings.Contains(href, "/guide/") {
@@ -149,6 +162,34 @@ func (s *Scraper) handleGuideListPage(doc *goquery.Document) {
 			s.links <- fmt.Sprintf("%s%s", baseUrl, href)
 		}
 	})
+	s.pmu.Lock()
+	maxLastPage := s.lastPage
+	doc.Find(".pagination").First().Find("li").Each(func(index int, item *goquery.Selection) {
+		_, hasClass := item.Attr("class")
+		if !hasClass {
+			page := item.Find("a").First().Text()
+			pageInt, err := strconv.Atoi(page)
+			if err != nil {
+				fmt.Printf("page number could not be resolved from page %s\n", page)
+			} else {
+				if pageInt > maxLastPage {
+					maxLastPage = pageInt
+				}
+			}
+		}
+	})
+	// TODO once whole fetch logic is done, open this and fetch for long
+	/*if maxLastPage > s.lastPage {
+		fmt.Printf("found new max page: %d\n", maxLastPage)
+		for i := s.lastPage + 1; i <= maxLastPage; i++ {
+			s.wg.Add(1)
+			s.links <- fmt.Sprintf("%s%d", guidesPage, i)
+		}
+		s.lastPage = maxLastPage
+	}*/
+	s.pmu.Unlock()
+
+	fmt.Printf("page %s done\n", link)
 	s.wg.Done()
 }
 
@@ -168,6 +209,8 @@ func (s *Scraper) handleGuidePage(link string, doc *goquery.Document) {
 		TimeNeeded: timeNeeded,
 	})
 	s.mu.Unlock()
+
+	fmt.Printf("guide page %s done\n", link)
 
 	s.wg.Done()
 }
