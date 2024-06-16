@@ -22,15 +22,15 @@ const (
 )
 
 type GuideData struct {
-	Game           string `json:"game"`
-	Link           string `json:"link"`
-	Difficulty     string `json:"difficulty"`
-	TimeNeeded     string `json:"time_needed"`
-	PlatinumRarity string `json:"platinum_rarity"`
-	UserFavourites string `json:"user_favourites"`
-	Rating         string `json:"rating"`
-	RatingCount    string `json:"rating_count"`
-	Views          string `json:"views"`
+	Game             string `json:"game"`
+	Link             string `json:"link"`
+	Difficulty       string `json:"difficulty"`
+	TimeNeeded       string `json:"time_needed"`
+	PlatinumRarity   string `json:"platinum_rarity"`
+	Views            string `json:"views"`
+	GuideRating      string `json:"guide_rating"`
+	GuideRatingCount string `json:"guide_rating_count"`
+	UserFavourites   string `json:"user_favourites"`
 }
 
 type Scraper struct {
@@ -46,7 +46,7 @@ type Scraper struct {
 	mu  sync.Mutex
 
 	links chan string
-	data  []*GuideData
+	data  map[string]*GuideData
 }
 
 func NewScraper(directory string, formats []string) *Scraper {
@@ -54,7 +54,7 @@ func NewScraper(directory string, formats []string) *Scraper {
 		directory: directory,
 		formats:   formats,
 
-		lastPage: 10,
+		lastPage: 1,
 
 		collector: colly.NewCollector(
 			colly.Async(true),
@@ -65,7 +65,7 @@ func NewScraper(directory string, formats []string) *Scraper {
 		pmu:   sync.Mutex{},
 		mu:    sync.Mutex{},
 		links: make(chan string),
-		data:  []*GuideData{},
+		data:  make(map[string]*GuideData),
 	}
 }
 
@@ -197,17 +197,82 @@ func (s *Scraper) handleGuidePage(link string, doc *goquery.Document) {
 	titleBar := doc.Find(".title-bar")
 	game := titleBar.Find("h3:nth-of-type(1)").Find("a:nth-of-type(2)").Text()
 
+	userFavourites := ""
+	guideRating := ""
+	guideRatingCount := ""
+	views := ""
+	doc.Find(".guide-info").Parent().Find("div:nth-of-type(2)").Children().Each(func(index int, item *goquery.Selection) {
+		switch index {
+		case 0:
+			{
+				userFavourites = item.Contents().First().Text()
+			}
+		case 1:
+			{
+				maxId := 0
+				item.Children().First().Children().Each(func(index int, star *goquery.Selection) {
+					if _, exists := star.Attr("checked"); exists {
+						if id, idExists := star.Attr("id"); idExists {
+							parts := strings.Split(id, "-")
+							if len(parts) == 2 {
+								idInt, err := strconv.Atoi(parts[1])
+								if err == nil && maxId < idInt {
+									maxId = idInt
+								}
+							}
+						}
+					}
+				})
+
+				foundRatingCount := 0
+				ratingCount := strings.TrimSpace(item.Children().Last().Text())
+				parts := strings.Split(ratingCount, " ")
+				if len(parts) == 2 {
+					ratingCountInt, err := strconv.Atoi(parts[0])
+					if err == nil {
+						foundRatingCount = ratingCountInt
+					}
+				}
+
+				guideRatingCount = fmt.Sprint(foundRatingCount)
+				if maxId > 0 || foundRatingCount > 0 {
+					guideRating = fmt.Sprintf("%d/5", maxId)
+				} else {
+					guideRating = "N/A"
+				}
+			}
+		case 2:
+			{
+				views = item.Contents().First().Text()
+			}
+		default:
+			{
+			}
+		}
+	})
+
 	overviewInfo := doc.Find(".overview-info")
 	difficulty := overviewInfo.Find("span:nth-of-type(1)").Find("span:nth-of-type(1)").Text()
 	timeNeeded := overviewInfo.Find("span:nth-of-type(3)").Find("span:nth-of-type(1)").Text()
 
+	platinumInfo := doc.Find("img[alt='Platinum']").ParentsFiltered("tr").First()
+	platinumRarity := platinumInfo.Children().Eq(platinumInfo.Children().Length() - 2).First().Children().First().Find("span").First().Text()
+	if platinumRarity == "" {
+		platinumRarity = "N/A"
+	}
+
 	s.mu.Lock()
-	s.data = append(s.data, &GuideData{
-		Game:       game,
-		Link:       link,
-		Difficulty: difficulty,
-		TimeNeeded: timeNeeded,
-	})
+	s.data[link] = &GuideData{
+		Game:             game,
+		Link:             link,
+		Difficulty:       difficulty,
+		TimeNeeded:       timeNeeded,
+		PlatinumRarity:   platinumRarity,
+		Views:            views,
+		GuideRating:      guideRating,
+		GuideRatingCount: guideRatingCount,
+		UserFavourites:   userFavourites,
+	}
 	s.mu.Unlock()
 
 	fmt.Printf("guide page %s done\n", link)
@@ -245,7 +310,7 @@ func (s *Scraper) dumpCsv() error {
 	defer writer.Flush()
 
 	entries := [][]string{
-		{"game", "link", "difficulty", "time_needed"},
+		{"game", "link", "difficulty", "time_needed", "platinum_rarity", "views", "guide_rating", "guide_rating_count", "user_favourites"},
 	}
 	for _, entry := range s.data {
 		entries = append(entries, []string{
@@ -253,6 +318,11 @@ func (s *Scraper) dumpCsv() error {
 			entry.Link,
 			entry.Difficulty,
 			entry.TimeNeeded,
+			entry.PlatinumRarity,
+			entry.Views,
+			entry.GuideRating,
+			entry.GuideRatingCount,
+			entry.UserFavourites,
 		})
 	}
 
@@ -271,17 +341,38 @@ func (s *Scraper) dumpMd() error {
 	defer file.Close()
 
 	builder := strings.Builder{}
-	builder.WriteString("| **game** | **difficulty** | **time_needed** |\n")
-	builder.WriteString("|:--------|:--------:|:-------:\n")
+	builder.WriteString("| **game** | **difficulty** | **time_needed** | **platinum_rarity** | **views** | **guide_rating** | **guide_rating_count ** | **user_favourites ** |\n")
+	builder.WriteString("|:--------|:--------:|:-------:|:-----:|:------:|:------:|:-----:|:-----:|\n")
 
 	for _, entry := range s.data {
 		if entry.Game != "" {
 			_, err = builder.WriteString(
-				fmt.Sprintf("| [%s](%s) | %s | %s |\n", entry.Game, entry.Link, entry.Difficulty, entry.TimeNeeded),
+				fmt.Sprintf(
+					"| [%s](%s) | %s | %s | %s | %s | %s | %s | %s |\n",
+					entry.Game,
+					entry.Link,
+					entry.Difficulty,
+					entry.TimeNeeded,
+					entry.PlatinumRarity,
+					entry.Views,
+					entry.GuideRating,
+					entry.GuideRatingCount,
+					entry.UserFavourites,
+				),
 			)
 		} else {
 			_, err = builder.WriteString(
-				fmt.Sprintf("| %s | %s | %s |\n", entry.Link, entry.Difficulty, entry.TimeNeeded),
+				fmt.Sprintf("| %s | %s | %s | %s | %s | %s | %s | %s |\n",
+					entry.Game,
+					entry.Link,
+					entry.Difficulty,
+					entry.TimeNeeded,
+					entry.PlatinumRarity,
+					entry.Views,
+					entry.GuideRating,
+					entry.GuideRatingCount,
+					entry.UserFavourites,
+				),
 			)
 		}
 		if err != nil {
