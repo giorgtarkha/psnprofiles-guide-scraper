@@ -1,9 +1,15 @@
 [
  {
-  "game": "Crow Country",
-  "link": "https://psnprofiles.com/guide/19667-crow-country-trophy-guide",
-  "difficulty": "4/10",
-  "time_needed": "5"
+  "game": "Mighty Goose",
+  "link": "https://psnprofiles.com/guide/19563-mighty-goose-trophy-guide",
+  "difficulty": "2/10",
+  "time_needed": "15"
+ },
+ {
+  "game": "Jak and Daxter: The Lost Frontier",
+  "link": "https://psnprofiles.com/guide/19165-jak-and-daxter-the-lost-frontier-trophy-guide",
+  "difficulty": "3/10",
+  "time_needed": "7"
  },
  {
   "game": "South Park: Snow Day!",
@@ -12,16 +18,10 @@
   "time_needed": "8"
  },
  {
-  "game": "Mighty Goose",
-  "link": "https://psnprofiles.com/guide/19563-mighty-goose-trophy-guide",
-  "difficulty": "2/10",
-  "time_needed": "15"
- },
- {
-  "game": "Sly Cooper and the Thievius Raccoonus",
-  "link": "https://psnprofiles.com/guide/19742-sly-cooper-and-the-thievius-raccoonus-trophy-guide",
-  "difficulty": "3/10",
-  "time_needed": "10"
+  "game": "Crow Country",
+  "link": "https://psnprofiles.com/guide/19667-crow-country-trophy-guide",
+  "difficulty": "4/10",
+  "time_needed": "5"
  },
  {
   "game": "MediEvil: Resurrection",
@@ -54,28 +54,28 @@
   "time_needed": "1"
  },
  {
-  "game": "Shovel Knight: Treasure Trove",
-  "link": "https://psnprofiles.com/guide/19679-shovel-knight-treasure-trove-king-of-cards-dlc-trophy-guide",
-  "difficulty": "5/10",
-  "time_needed": "20"
- },
- {
   "game": "A Fisherman's Tale",
   "link": "https://psnprofiles.com/guide/19654-a-fishermans-tale-trophy-guide",
   "difficulty": "4/10",
   "time_needed": "6"
  },
  {
-  "game": "Out of Space",
-  "link": "https://psnprofiles.com/guide/19202-out-of-space-trophy-guide",
-  "difficulty": "3/10",
-  "time_needed": "10"
+  "game": "Shovel Knight: Treasure Trove",
+  "link": "https://psnprofiles.com/guide/19679-shovel-knight-treasure-trove-king-of-cards-dlc-trophy-guide",
+  "difficulty": "5/10",
+  "time_needed": "20"
  },
  {
   "game": "Ghostbusters: Rise of the Ghost Lord",
   "link": "https://psnprofiles.com/guide/19578-ghostbusters-rise-of-the-ghost-lord-trophy-guide",
   "difficulty": "3/10",
   "time_needed": "20"
+ },
+ {
+  "game": "Out of Space",
+  "link": "https://psnprofiles.com/guide/19202-out-of-space-trophy-guide",
+  "difficulty": "3/10",
+  "time_needed": "10"
  },
  {
   "game": "Knowledge is Power: Decades",
@@ -90,15 +90,21 @@
   "time_needed": "50"
  },
  {
+  "game": "Garten of Banban 2",
+  "link": "https://psnprofiles.com/guide/19658-garten-of-banban-2-trophy-guide",
+  "difficulty": "2/10",
+  "time_needed": "1"
+ },
+ {
   "game": "Kingdom Eighties",
   "link": "https://psnprofiles.com/guide/19629-kingdom-eighties-trophy-guide",
   "difficulty": "5/10",
   "time_needed": "20"
  },
  {
-  "game": "Garten of Banban 2",
-  "link": "https://psnprofiles.com/guide/19658-garten-of-banban-2-trophy-guide",
-  "difficulty": "2/10",
+  "game": "Garten of Banban",
+  "link": "https://psnprofiles.com/guide/19651-garten-of-banban-trophy-guide",
+  "difficulty": "1/10",
   "time_needed": "1"
  },
  {
@@ -108,15 +114,9 @@
   "time_needed": "2"
  },
  {
-  "game": "Garten of Banban",
-  "link": "https://psnprofiles.com/guide/19651-garten-of-banban-trophy-guide",
-  "difficulty": "1/10",
-  "time_needed": "1"
- },
- {
-  "game": "Jak and Daxter: The Lost Frontier",
-  "link": "https://psnprofiles.com/guide/19165-jak-and-daxter-the-lost-frontier-trophy-guide",
+  "game": "Sly Cooper and the Thievius Raccoonus",
+  "link": "https://psnprofiles.com/guide/19742-sly-cooper-and-the-thievius-raccoonus-trophy-guide",
   "difficulty": "3/10",
-  "time_needed": "7"
+  "time_needed": "10"
  }
 ]
