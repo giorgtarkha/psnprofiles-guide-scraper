@@ -18,7 +18,7 @@ import (
 
 const (
 	baseUrl    = "https://psnprofiles.com"
-	guidesPage = baseUrl + "/guides?page="
+	guidesPage = baseUrl + "/guides/popular?page="
 )
 
 type GuideData struct {
@@ -237,8 +237,6 @@ func (s *Scraper) handleGuidePage(link string, doc *goquery.Document) {
 				guideRatingCount = fmt.Sprint(foundRatingCount)
 				if maxId > 0 || foundRatingCount > 0 {
 					guideRating = fmt.Sprintf("%d/5", maxId)
-				} else {
-					guideRating = "N/A"
 				}
 			}
 		case 2:
@@ -363,7 +361,6 @@ func (s *Scraper) dumpMd() error {
 		} else {
 			_, err = builder.WriteString(
 				fmt.Sprintf("| %s | %s | %s | %s | %s | %s | %s | %s |\n",
-					entry.Game,
 					entry.Link,
 					entry.Difficulty,
 					entry.TimeNeeded,
