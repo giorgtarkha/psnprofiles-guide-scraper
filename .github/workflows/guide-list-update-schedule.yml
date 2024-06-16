@@ -18,7 +18,7 @@ jobs:
         go-version: '1.22'
 
     - name: Run script
-      run: make OUTPUT_DIR=$(GITHUB_WORKSPACE)/data
+      run: make OUTPUT_DIR=../data
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
