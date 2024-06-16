@@ -233,7 +233,7 @@ func (s *Scraper) dumpMd() error {
 	for _, entry := range s.data {
 		if entry.Game != "" {
 			_, err = builder.WriteString(
-				fmt.Sprintf("| (%s)[%s] | %s | %s |\n", entry.Game, entry.Link, entry.Difficulty, entry.TimeNeeded),
+				fmt.Sprintf("| [%s](%s) | %s | %s |\n", entry.Game, entry.Link, entry.Difficulty, entry.TimeNeeded),
 			)
 		} else {
 			_, err = builder.WriteString(
