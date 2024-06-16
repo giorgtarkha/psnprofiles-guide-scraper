@@ -47,6 +47,7 @@ func NewScraper(directory string, formats []string) *Scraper {
 		collector: colly.NewCollector(
 			colly.Async(true),
 			colly.AllowURLRevisit(),
+			colly.UserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"),
 		),
 		wg:    sync.WaitGroup{},
 		mu:    sync.Mutex{},

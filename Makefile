@@ -1,4 +1,4 @@
-GO_CMD := go run main.go scrape.go
+GO_CMD := go run main.go scraper.go
 
 OUTPUT_DIR ?= ../
 
