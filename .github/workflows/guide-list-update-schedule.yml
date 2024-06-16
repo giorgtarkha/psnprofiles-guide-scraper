@@ -2,7 +2,7 @@ name: Guide update schedule
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   update-repo:
