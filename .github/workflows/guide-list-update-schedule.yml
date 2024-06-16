@@ -3,6 +3,7 @@ name: Guide update schedule
 on:
   schedule:
     - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-repo:
