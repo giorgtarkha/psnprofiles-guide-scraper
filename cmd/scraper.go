@@ -161,15 +161,14 @@ func (s *Scraper) handleGuideListPage(link string, doc *goquery.Document) {
 			}
 		}
 	})
-	// TODO once whole fetch logic is done, open this and fetch for long
-	/*if maxLastPage > s.lastPage {
+	if maxLastPage > s.lastPage {
 		fmt.Printf("found new max page: %d\n", maxLastPage)
 		for i := s.lastPage + 1; i <= maxLastPage; i++ {
 			s.wg.Add(1)
 			s.links <- fmt.Sprintf("%s%d", guidesPage, i)
 		}
 		s.lastPage = maxLastPage
-	}*/
+	}
 	s.pmu.Unlock()
 
 	fmt.Printf("page %s done\n", link)

@@ -1,102 +1,5003 @@
 | **game** | **difficulty** | **time_needed** | **platinum_rarity** | **views** | **guide_rating** | **guide_rating_count ** | **user_favourites ** |
 |:--------|:--------:|:-------:|:-----:|:------:|:------:|:-----:|:-----:|
+| [Fight Night Round 4](https://psnprofiles.com/guide/2701-fight-night-round-4-trophy-guide) | 1/10 | 10 | 0.09% | 16,076 | 3/5 | 14 | 13 |
+| [That's You!](https://psnprofiles.com/guide/6202-thats-you-trophy-guide) | 1/10 | 7 | 1.65% | 56,009 | 4/5 | 17 | 76 |
+| [Oh...Sir! The Insult Simulator](https://psnprofiles.com/guide/7470-ohsir-the-insult-simulator-trophy-guide) | 1/10 | 100 | 2.50% | 23,044 | 5/5 | 5 | 24 |
+| [Ultimate Chicken Horse](https://psnprofiles.com/guide/18735-ultimate-chicken-horse-trophy-guide) | 1/10 | 15 | 4.49% | 2,805 |  | 0 | 5 |
+| [First Class Trouble](https://psnprofiles.com/guide/13227-first-class-trouble-trophy-guide) | 1/10 | 10 | 5.41% | 14,126 | 5/5 | 5 | 21 |
+| [Farming Simulator 22](https://psnprofiles.com/guide/13412-farming-simulator-22-trophy-guide) | 1/10 | 50 | 6.18% | 190,078 | 5/5 | 11 | 101 |
+| [Danganronpa S: Ultimate Summer Camp](https://psnprofiles.com/guide/15499-danganronpa-s-ultimate-summer-camp-trophy-guide) | 1/10 | 120 | 7.45% | 14,040 |  | 0 | 13 |
+| [International Cricket 2010](https://psnprofiles.com/guide/341-international-cricket-2010-trophy-guide) | 1/10 | 25 | 13.90% | 3,347 |  | 0 | 5 |
+| [Are You Smarter Than A 5th Grader?](https://psnprofiles.com/guide/15675-are-you-smarter-than-a-5th-grader-trophy-guide) | 1/10 | 10 | 15.14% | 5,301 |  | 0 | 8 |
+| [Minecraft: Story Mode](https://psnprofiles.com/guide/3828-minecraft-story-mode-trophy-guide) | 1/10 | 8 | 15.26% | 53,862 | 5/5 | 23 | 67 |
+| [Ashes Cricket 2009](https://psnprofiles.com/guide/340-ashes-cricket-2009-trophy-guide) | 1/10 | 20 | 15.90% | 4,968 |  | 0 | 5 |
+| [Lifeless Planet](https://psnprofiles.com/guide/4729-lifeless-planet-trophy-guide) | 1/10 | 10 | 16.60% | 14,150 | 5/5 | 5 | 25 |
+| [Cricket 22](https://psnprofiles.com/guide/18458-cricket-22-trophy-guide) | 1/10 | 10 | 17.95% | 2,092 |  | 0 | 3 |
+| [Best Month Ever!](https://psnprofiles.com/guide/15665-best-month-ever-trophy-guide) | 1/10 | 7 | 19.01% | 3,920 |  | 0 | 5 |
+| [Gigantosaurus](https://psnprofiles.com/guide/16656-gigantosaurus-trophy-guide) | 1/10 | 5 | 19.82% | 2,057 |  | 0 | 6 |
+| [Grim Fandango](https://psnprofiles.com/guide/2715-grim-fandango-trophy-guide) | 1/10 | 13 | 20.63% | 104,588 | 5/5 | 55 | 306 |
+| [Before Your Eyes](https://psnprofiles.com/guide/18454-before-your-eyes-trophy-guide) | 1/10 | 2 | 21.12% | 4,593 |  | 0 | 8 |
+| [Eastshade](https://psnprofiles.com/guide/16618-eastshade-trophy-guide) | 1/10 | 15 | 22.41% | 2,531 |  | 0 | 3 |
+| [Kentucky Route Zero](https://psnprofiles.com/guide/11058-kentucky-route-zero-trophy-guide) | 1/10 | 8 | 24.28% | 7,578 |  | 0 | 14 |
+| [Barbie and Her Sisters Puppy Rescue](https://psnprofiles.com/guide/3674-barbie-and-her-sisters-puppy-rescue-trophy-guide) | 1/10 | 8 | 24.74% | 7,629 |  | 0 | 15 |
+| [Oxenfree](https://psnprofiles.com/guide/5306-oxenfree-trophy-guide) | 1/10 | 12 | 24.85% | 86,612 | 5/5 | 36 | 131 |
+| [As Dusk Falls](https://psnprofiles.com/guide/19003-as-dusk-falls-trophy-guide) | 1/10 | 9 | 25.78% | 4,794 |  | 0 | 12 |
+| [Hakuoki: Stories of the Shinsengumi](https://psnprofiles.com/guide/901-hakuoki-stories-of-the-shinsengumi-trophy-guide) | 1/10 | 10 | 26.94% | 17,523 | 4/5 | 15 | 25 |
+| [Date A Live: Rio Reincarnation](https://psnprofiles.com/guide/11161-date-a-live-rio-reincarnation-trophy-guide) | 1/10 | 30 | 26.96% | 15,475 |  | 0 | 18 |
+| [Farm Together](https://psnprofiles.com/guide/12116-farm-together-trophy-guide) | 1/10 | 110 | 28.81% | 9,908 | 5/5 | 6 | 6 |
+| [The Great Ace Attorney Chronicles](https://psnprofiles.com/guide/12622-the-great-ace-attorney-chronicles-trophy-guide) | 1/10 | 50 | 29.42% | 64,379 | 5/5 | 6 | 32 |
+| [Milky Way Prince: The Vampire Star](https://psnprofiles.com/guide/19349-milky-way-prince-the-vampire-star-trophy-guide) | 1/10 | 3 | 30.00% | 1,062 |  | 0 | 7 |
+| [Obduction](https://psnprofiles.com/guide/7101-obduction-trophy-guide) | 1/10 | 10 | 30.58% | 13,978 |  | 0 | 15 |
+| [Heavy Fire: Afghanistan](https://psnprofiles.com/guide/35-heavy-fire-afghanistan-trophy-guide) | 1/10 | 5 | 30.79% | 5,786 | 3/5 | 7 | 5 |
+| [Shape of the World](https://psnprofiles.com/guide/11624-shape-of-the-world-trophy-guide) | 1/10 | 10 | 31.49% | 8,741 |  | 0 | 7 |
+| [Life is Strange](https://psnprofiles.com/guide/4060-life-is-strange-trophy-guide) | 1/10 | 10 | 32.32% | 209,588 | 5/5 | 127 | 374 |
+| [Trine 2](https://psnprofiles.com/guide/54-trine-2-trophy-guide) | 1/10 | 5 | 33.47% | 18,288 | 5/5 | 10 | 89 |
+| [Neko Atsume](https://psnprofiles.com/guide/7518-neko-atsume-trophy-guide) | 1/10 | 200 | 34.42% | 5,723 |  | 0 | 7 |
+| [Job Simulator](https://psnprofiles.com/guide/6637-job-simulator-trophy-guide) | 1/10 | 4 | 35.93% | 37,677 | 5/5 | 5 | 22 |
+| [World Quiz](https://psnprofiles.com/guide/14531-world-quiz-trophy-guide) | 1/10 | 10 | 36.77% | 11,204 |  | 0 | 8 |
+| [The Wolf Among Us](https://psnprofiles.com/guide/639-the-wolf-among-us-trophy-guide) | 1/10 | 10 | 37.06% | 143,027 | 5/5 | 39 | 174 |
+| [We Are OFK](https://psnprofiles.com/guide/15198-we-are-ofk-trophy-guide) | 1/10 | 9 | 37.10% | 8,232 |  | 0 | 5 |
+| [Gylt](https://psnprofiles.com/guide/17330-gylt-trophy-guide) | 1/10 | 3 | 38.54% | 9,468 |  | 0 | 12 |
+| [Tokyo Dark: Remembrance](https://psnprofiles.com/guide/11023-tokyo-dark-remembrance-trophy-guide) | 1/10 | 12 | 39.83% | 20,363 | 4/5 | 12 | 8 |
+| [Red Matter](https://psnprofiles.com/guide/19565-red-matter-trophy-guide) | 1/10 | 3 | 40.29% | 665 |  | 0 | 2 |
+| [Steins;Gate](https://psnprofiles.com/guide/2966-steinsgate-trophy-guide) | 1/10 | 30 | 41.08% | 98,815 | 5/5 | 27 | 178 |
+| [Grotto](https://psnprofiles.com/guide/18864-grotto-trophy-guide) | 1/10 | 6 | 42.11% | 980 |  | 0 | 6 |
+| [OneShot](https://psnprofiles.com/guide/17328-oneshot-trophy-guide) | 1/10 | 10 | 42.35% | 5,850 |  | 0 | 12 |
+| [Doki Doki Literature Club Plus!](https://psnprofiles.com/guide/12453-doki-doki-literature-club-plus-trophy-guide) | 1/10 | 15 | 42.79% | 152,619 | 5/5 | 13 | 98 |
+| [Angels of Death](https://psnprofiles.com/guide/12179-angels-of-death-trophy-guide) | 1/10 | 8 | 43.42% | 12,656 |  | 0 | 7 |
+| [Beyond Blue](https://psnprofiles.com/guide/16386-beyond-blue-trophy-guide) | 1/10 | 4 | 43.70% | 3,586 |  | 0 | 15 |
+| [Act It Out XL!](https://psnprofiles.com/guide/11792-act-it-out-xl-trophy-guide) | 1/10 | 10 | 47.44% | 3,660 |  | 0 | 2 |
+| [PJ Masks: Heroes of the Night](https://psnprofiles.com/guide/18060-pj-masks-heroes-of-the-night-trophy-guide) | 1/10 | 5 | 49.24% | 5,852 |  | 0 | 9 |
+| [√Letter](https://psnprofiles.com/guide/5383-letter-trophy-guide) | 1/10 | 15 | 52.61% | 40,720 | 5/5 | 9 | 73 |
+| [Road 96](https://psnprofiles.com/guide/14266-road-96-trophy-guide) | 1/10 | 8 | 53.45% | 53,984 | 5/5 | 11 | 48 |
+| [Clannad](https://psnprofiles.com/guide/7896-clannad-trophy-guide) | 1/10 | 40 | 55.56% | 22,225 | 5/5 | 5 | 27 |
+| [Music Racer](https://psnprofiles.com/guide/9977-music-racer-trophy-guide) | 1/10 | 5 | 55.73% | 16,909 | 4/5 | 6 | 11 |
+| [Steins;Gate: My Darling's Embrace](https://psnprofiles.com/guide/9859-steinsgate-my-darlings-embrace-trophy-guide) | 1/10 | 30 | 56.12% | 2,101 |  | 0 | 8 |
+| [Return of the Obra Dinn](https://psnprofiles.com/guide/15541-return-of-the-obra-dinn-trophy-guide) | 1/10 | 12 | 56.33% | 7,189 |  | 0 | 17 |
+| [Batman: The Telltale Series](https://psnprofiles.com/guide/9847-batman-the-telltale-series-trophy-guide) | 1/10 | 8 | 56.36% | 60,057 | 4/5 | 35 | 54 |
+| [The House In Fata Morgana](https://psnprofiles.com/guide/8745-the-house-in-fata-morgana-trophy-guide) | 1/10 | 1 | 56.65% | 27,307 |  | 0 | 19 |
+| [Nightmares from the Deep: The Cursed Heart](https://psnprofiles.com/guide/4798-nightmares-from-the-deep-the-cursed-heart-trophy-guide) | 1/10 | 6 | 56.82% | 15,746 | 4/5 | 9 | 18 |
+| [Bratz: Flaunt Your Fashion](https://psnprofiles.com/guide/15505-bratz-flaunt-your-fashion-trophy-guide) | 1/10 | 5 | 56.90% | 45,918 |  | 0 | 6 |
+| [Burly Men At Sea](https://psnprofiles.com/guide/10620-burly-men-at-sea-trophy-guide) | 1/10 | 3 | 57.79% | 51,208 | 4/5 | 34 | 47 |
+| [Horror Tales: The Wine](https://psnprofiles.com/guide/17639-horror-tales-the-wine-trophy-guide) | 1/10 | 2 | 58.37% | 3,721 |  | 0 | 6 |
+| [Pantsu Hunter: Back to the 90s](https://psnprofiles.com/guide/8974-pantsu-hunter-back-to-the-90s-trophy-guide) | 1/10 | 5 | 58.74% | 31,441 |  | 0 | 21 |
+| [Bad Apple Wars](https://psnprofiles.com/guide/6730-bad-apple-wars-trophy-guide) | 1/10 | 15 | 59.16% | 14,174 | 5/5 | 6 | 21 |
+| [Telling Lies](https://psnprofiles.com/guide/10139-telling-lies-trophy-guide) | 1/10 | 3 | 59.18% | 115,670 | 3/5 | 16 | 63 |
+| [Hakuoki: Kyoto Winds](https://psnprofiles.com/guide/6415-hakuoki-kyoto-winds-trophy-guide) | 1/10 | 6 | 60.45% | 13,763 | 4/5 | 9 | 22 |
+| [Root Film](https://psnprofiles.com/guide/12035-root-film-trophy-guide) | 1/10 | 8 | 60.62% | 23,159 |  | 0 | 15 |
+| [Toem](https://psnprofiles.com/guide/15169-toem-trophy-guide) | 1/10 | 8 | 63.59% | 63,418 | 5/5 | 37 | 81 |
+| [Witch on the Holy Night](https://psnprofiles.com/guide/15712-witch-on-the-holy-night-trophy-guide) | 1/10 | 30 | 63.65% | 15,485 | 5/5 | 5 | 10 |
+| [The Walking Dead](https://psnprofiles.com/guide/1826-the-walking-dead-trophy-guide) | 1/10 | 10 | 64.44% | 58,283 | 5/5 | 7 | 58 |
+| [Snakeybus](https://psnprofiles.com/guide/13122-snakeybus-trophy-guide) | 1/10 | 2 | 64.46% | 5,864 | 5/5 | 5 | 6 |
+| [Video Poker](https://psnprofiles.com/guide/17738-video-poker-trophy-guide) | 1/10 | 1 | 65.41% | 1,973 |  | 0 | 1 |
+| [Five Dates](https://psnprofiles.com/guide/12193-five-dates-trophy-guide) | 1/10 | 6 | 66.18% | 19,741 |  | 0 | 9 |
+| [Hakuoki: Edo Blossoms](https://psnprofiles.com/guide/7354-hakuoki-edo-blossoms-trophy-guide) | 1/10 | 40 | 66.20% | 14,288 |  | 0 | 12 |
+| [Lost Words: Beyond the Page](https://psnprofiles.com/guide/14910-lost-words-beyond-the-page-trophy-guide) | 1/10 | 5 | 66.25% | 28,733 | 5/5 | 10 | 33 |
+| [Nurse Love Addiction](https://psnprofiles.com/guide/7400-nurse-love-addiction-trophy-guide) | 1/10 | 22 | 66.25% | 14,304 | 4/5 | 7 | 18 |
+| [Plastic Memories](https://psnprofiles.com/guide/5903-plastic-memories-trophy-guide) | 1/10 | 30 | 66.98% | 4,193 |  | 0 | 9 |
+| [Magus](https://psnprofiles.com/guide/1103-magus-trophy-guide) | 1/10 | 5 | 68.51% | 24,486 | 5/5 | 17 | 23 |
+| [Unpacking](https://psnprofiles.com/guide/14423-unpacking-trophy-guide) | 1/10 | 4 | 68.68% | 163,201 | 5/5 | 16 | 97 |
+| [Muv-Luv Alternative](https://psnprofiles.com/guide/7801-muv-luv-alternative-trophy-guide) | 1/10 | 30 | 68.83% | 10,114 |  | 0 | 14 |
+| [Period Cube: Shackles of Amadeus](https://psnprofiles.com/guide/9448-period-cube-shackles-of-amadeus-trophy-guide) | 1/10 | 30 | 71.01% | 4,705 |  | 0 | 4 |
+| [Super Soccer Blast](https://psnprofiles.com/guide/10614-super-soccer-blast-trophy-guide) | 1/10 | 3 | 71.10% | 3,467 | 5/5 | 5 | 8 |
+| [Aer: Memories of Old](https://psnprofiles.com/guide/13041-aer-memories-of-old-trophy-guide) | 1/10 | 2 | 71.73% | 18,916 | 5/5 | 8 | 18 |
+| [Megamind: Ultimate Showdown](https://psnprofiles.com/guide/1081-megamind-ultimate-showdown-trophy-guide) | 1/10 | 5 | 71.98% | 13,339 | 4/5 | 8 | 18 |
+| [Insomnis](https://psnprofiles.com/guide/14176-insomnis-trophy-guide) | 1/10 | 2 | 72.56% | 11,704 |  | 0 | 7 |
+| [映画 五等分の花嫁　～君と過ごした五つの思い出～](https://psnprofiles.com/guide/14650-%E6%98%A0%E7%94%BB-%E4%BA%94%E7%AD%89%E5%88%86%E3%81%AE%E8%8A%B1%E5%AB%81-%E5%90%9B%E3%81%A8%E9%81%8E%E3%81%94%E3%81%97%E3%81%9F%E4%BA%94%E3%81%A4%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA-trophy-guide) | 1/10 | 15 | 74.02% | 4,446 |  | 0 | 4 |
+| [Black & White Bushido](https://psnprofiles.com/guide/6056-black-white-bushido-trophy-guide) | 1/10 | 1 | 74.21% | 14,039 |  | 0 | 27 |
+| [Psychedelica of the Ashen Hawk](https://psnprofiles.com/guide/7590-psychedelica-of-the-ashen-hawk-trophy-guide) | 1/10 | 4 | 74.29% | 12,473 |  | 0 | 6 |
+| [The Little Acre](https://psnprofiles.com/guide/5454-the-little-acre-trophy-guide) | 1/10 | 1 | 74.45% | 25,122 | 5/5 | 17 | 42 |
+| [Code: Realize - Wintertide Miracles](https://psnprofiles.com/guide/11342-code-realize-wintertide-miracles-trophy-guide) | 1/10 | 30 | 74.53% | 8,922 |  | 0 | 10 |
+| [Pinball Heroes](https://psnprofiles.com/guide/15899-pinball-heroes-trophy-guide) | 1/10 | 1 | 75.46% | 28,747 | 5/5 | 5 | 12 |
+| [JoJo Siwa: Worldwide Party](https://psnprofiles.com/guide/15968-jojo-siwa-worldwide-party-trophy-guide) | 1/10 | 2 | 75.81% | 5,241 |  | 0 | 6 |
+| [Code: Realize - Future Blessings](https://psnprofiles.com/guide/8544-code-realize-future-blessings-trophy-guide) | 1/10 | 10 | 76.42% | 10,027 |  | 0 | 11 |
+| [My Friend Peppa Pig](https://psnprofiles.com/guide/14188-my-friend-peppa-pig-trophy-guide) | 1/10 | 1 | 77.01% | 97,704 | 5/5 | 17 | 37 |
+| [Yumeutsutsu Re:Master](https://psnprofiles.com/guide/11951-yumeutsutsu-remaster-trophy-guide) | 1/10 | 30 | 77.03% | 7,887 |  | 0 | 9 |
+| [Color Slayer](https://psnprofiles.com/guide/10210-color-slayer-trophy-guide) | 1/10 | 5 | 77.65% | 11,526 |  | 0 | 8 |
+| [Peppa Pig: World Adventures](https://psnprofiles.com/guide/16417-peppa-pig-world-adventures-trophy-guide) | 1/10 | 3 | 78.00% | 9,207 |  | 0 | 8 |
+| [The Walking Dead: A New Frontier](https://psnprofiles.com/guide/6197-the-walking-dead-a-new-frontier-trophy-guide) | 1/10 | 10 | 78.63% | 25,637 | 3/5 | 18 | 21 |
+| [The Suicide of Rachel Foster](https://psnprofiles.com/guide/10797-the-suicide-of-rachel-foster-trophy-guide) | 1/10 | 3 | 80.63% | 44,162 | 5/5 | 13 | 41 |
+| [Donut County](https://psnprofiles.com/guide/7773-donut-county-trophy-guide) | 1/10 | 3 | 82.30% | 118,474 | 4/5 | 16 | 76 |
+| [Ultra Mission](https://psnprofiles.com/guide/12634-ultra-mission-trophy-guide) | 1/10 | 1 | 83.62% | 8,767 |  | 0 | 2 |
+| [Yumeutsutsu Re:After](https://psnprofiles.com/guide/12137-yumeutsutsu-reafter-trophy-guide) | 1/10 | 15 | 83.69% | 5,178 |  | 0 | 7 |
+| [Muv-Luv Alternative: Total Eclipse](https://psnprofiles.com/guide/3970-muv-luv-alternative-total-eclipse-trophy-guide) | 1/10 | 1 | 85.78% | 2,497 |  | 0 | 5 |
+| [MechaNika](https://psnprofiles.com/guide/14575-mechanika-trophy-guide) | 1/10 | 2 | 86.73% | 2,648 |  | 0 | 4 |
+| [Evan's Remains](https://psnprofiles.com/guide/12704-evans-remains-trophy-guide) | 1/10 | 3 | 87.40% | 6,461 |  | 0 | 10 |
+| [The Light in the Darkness](https://psnprofiles.com/guide/16859-the-light-in-the-darkness-trophy-guide) | 1/10 | 2 | 87.47% | 25,646 | 5/5 | 11 | 15 |
+| [Neon Junctions](https://psnprofiles.com/guide/8723-neon-junctions-trophy-guide) | 1/10 | 1 | 87.51% | 13,909 |  | 0 | 10 |
+| [Warlock's Tower](https://psnprofiles.com/guide/10195-warlocks-tower-trophy-guide) | 1/10 | 2 | 88.58% | 14,030 |  | 0 | 12 |
+| [A Castle Full of Cats](https://psnprofiles.com/guide/17497-a-castle-full-of-cats-trophy-guide) | 1/10 | 2 | 88.74% | 9,368 |  | 0 | 4 |
+| [Hentai vs. Evil](https://psnprofiles.com/guide/14629-hentai-vs-evil-trophy-guide) | 1/10 | 1 | 89.35% | 5,278 |  | 0 | 4 |
+| [Bouncy Bullets](https://psnprofiles.com/guide/8887-bouncy-bullets-trophy-guide) | 1/10 | 1 | 89.61% | 16,521 |  | 0 | 10 |
+| [Super Box Delivery: Beyond the Horizon](https://psnprofiles.com/guide/18397-super-box-delivery-beyond-the-horizon-trophy-guide) | 1/10 | 1 | 89.63% | 1,817 |  | 0 | 4 |
+| [Hentai vs. Evil](https://psnprofiles.com/guide/12272-hentai-vs-evil-trophy-guide) | 1/10 | 1 | 90.83% | 15,467 |  | 0 | 6 |
+| [Alphaset by POWGI](https://psnprofiles.com/guide/11295-alphaset-by-powgi-trophy-guide) | 1/10 | 1 | 92.11% | 8,506 |  | 0 | 11 |
+| [Heroes Trials](https://psnprofiles.com/guide/8266-heroes-trials-trophy-guide) | 1/10 | 1 | 92.57% | 14,028 |  | 0 | 18 |
+| [Concept Destruction](https://psnprofiles.com/guide/11160-concept-destruction-trophy-guide) | 1/10 | 1 | 93.02% | 18,602 |  | 0 | 9 |
+| [Gleylancer](https://psnprofiles.com/guide/13118-gleylancer-trophy-guide) | 1/10 | 1 | 93.17% | 8,261 |  | 0 | 6 |
+| [Super Destronaut: Land Wars](https://psnprofiles.com/guide/10099-super-destronaut-land-wars-trophy-guide) | 1/10 | 1 | 93.30% | 14,974 |  | 0 | 5 |
+| [Nubla](https://psnprofiles.com/guide/5411-nubla-trophy-guide) | 1/10 | 1 | 93.44% | 29,227 |  | 0 | 28 |
+| [Crypto by POWGI](https://psnprofiles.com/guide/10266-crypto-by-powgi-trophy-guide) | 1/10 | 2 | 93.46% | 8,655 |  | 0 | 13 |
+| [The Labyrinth of Grisaia](https://psnprofiles.com/guide/3949-the-labyrinth-of-grisaia-trophy-guide) | 1/10 | 1 | 93.52% | 3,503 |  | 0 | 5 |
+| [Feather](https://psnprofiles.com/guide/10930-feather-trophy-guide) | 1/10 | 1 | 93.92% | 8,775 |  | 0 | 8 |
+| [Lydia](https://psnprofiles.com/guide/14287-lydia-trophy-guide) | 1/10 | 1 | 94.01% | 7,126 |  | 0 | 8 |
+| [Energy Cycle](https://psnprofiles.com/guide/7820-energy-cycle-trophy-guide) | 1/10 | 1 | 94.34% | 32,050 | 5/5 | 7 | 21 |
+| [Mr. Massagy](https://psnprofiles.com/guide/5923-mr-massagy-trophy-guide) | 1/10 | 1 | 94.61% | 33,762 | 5/5 | 17 | 30 |
+| [My Name is Mayo](https://psnprofiles.com/guide/5320-my-name-is-mayo-trophy-guide) | 1/10 | 1 | 94.87% | 112,142 | 4/5 | 48 | 45 |
+| [Robozarro](https://psnprofiles.com/guide/10461-robozarro-trophy-guide) | 1/10 | 1 | 94.94% | 7,052 |  | 0 | 1 |
+| [Super Wiloo Demake](https://psnprofiles.com/guide/9144-super-wiloo-demake-trophy-guide) | 1/10 | 1 | 95.84% | 18,671 |  | 0 | 8 |
+| [Little Adventure on the Prairie](https://psnprofiles.com/guide/7128-little-adventure-on-the-prairie-trophy-guide) | 1/10 | 1 | 96.13% | 19,718 | 5/5 | 10 | 18 |
+| [Sakura Succubus](https://psnprofiles.com/guide/14215-sakura-succubus-trophy-guide) | 1/10 | 3 | 96.22% | 6,747 |  | 0 | 12 |
+| [My Name is Mayo 3](https://psnprofiles.com/guide/16133-my-name-is-mayo-3-trophy-guide) | 1/10 | 1 | 96.65% | 19,760 |  | 0 | 8 |
+| [Mochi Mochi Boy](https://psnprofiles.com/guide/10105-mochi-mochi-boy-trophy-guide) | 1/10 | 1 | 96.71% | 15,736 |  | 0 | 12 |
+| [Milo's Quest](https://psnprofiles.com/guide/10453-milos-quest-trophy-guide) | 1/10 | 1 | 96.84% | 19,418 | 4/5 | 7 | 10 |
+| [My Name is Mayo 2](https://psnprofiles.com/guide/11229-my-name-is-mayo-2-trophy-guide) | 1/10 | 1 | 97.13% | 69,391 | 5/5 | 20 | 19 |
+| [Without Escape](https://psnprofiles.com/guide/9549-without-escape-trophy-guide) | 1/10 | 1 | 97.28% | 27,664 |  | 0 | 14 |
+| [FullBlast](https://psnprofiles.com/guide/7798-fullblast-trophy-guide) | 1/10 | 1 | 97.28% | 20,729 |  | 0 | 16 |
+| [Sakura Succubus 2](https://psnprofiles.com/guide/14213-sakura-succubus-2-trophy-guide) | 1/10 | 3 | 97.41% | 3,339 |  | 0 | 8 |
+| [Blind Men](https://psnprofiles.com/guide/10220-blind-men-trophy-guide) | 1/10 | 1 | 97.44% | 22,817 |  | 0 | 12 |
+| [112th Seed](https://psnprofiles.com/guide/10558-112th-seed-trophy-guide) | 1/10 | 1 | 97.44% | 16,199 |  | 0 | 8 |
+| [Slyde](https://psnprofiles.com/guide/7426-slyde-trophy-guide) | 1/10 | 1 | 97.48% | 59,104 | 5/5 | 23 | 38 |
+| [Sakura Nova](https://psnprofiles.com/guide/14646-sakura-nova-trophy-guide) | 1/10 | 3 | 97.91% | 4,200 |  | 0 | 6 |
+| [Storm Boy](https://psnprofiles.com/guide/17756-storm-boy-trophy-guide) | 1/10 | 1 | 98.00% | 5,496 |  | 0 | 9 |
+| [Road Bustle](https://psnprofiles.com/guide/10779-road-bustle-trophy-guide) | 1/10 | 1 | 98.07% | 30,772 | 5/5 | 6 | 15 |
+| [Jack N' Jill DX](https://psnprofiles.com/guide/10166-jack-n-jill-dx-trophy-guide) | 1/10 | 1 | 98.77% | 21,965 | 5/5 | 7 | 16 |
+| [Sakura Succubus 5](https://psnprofiles.com/guide/14548-sakura-succubus-5-trophy-guide) | 1/10 | 3 | 98.90% | 6,088 |  | 0 | 10 |
+| [Chickens On The Road](https://psnprofiles.com/guide/11308-chickens-on-the-road-trophy-guide) | 1/10 | 1 | 98.99% | 25,305 |  | 0 | 18 |
+| [Takorita Meets Fries](https://psnprofiles.com/guide/13160-takorita-meets-fries-trophy-guide) | 1/10 | 1 | 99.02% | 5,238 |  | 0 | 5 |
+| [Quick Mafs](https://psnprofiles.com/guide/13152-quick-mafs-trophy-guide) | 1/10 | 1 | 99.30% | 15,431 |  | 0 | 9 |
+| [Hajwala](https://psnprofiles.com/guide/19210-hajwala-races-dlc-trophy-guide) | 1/10 | 1 |  | 760 |  | 0 | 1 |
+| [Hell Let Loose](https://psnprofiles.com/guide/19026-hell-let-loose-basic-training-dlc-trophy-guide) | 1/10 | 1 |  | 922 |  | 0 | 1 |
+| [CAT Interstellar](https://psnprofiles.com/guide/16663-cat-interstellar-trophy-guide) | 1/10 | 1 |  | 941 |  | 0 | 1 |
+| [Arcade Archives: City Connection](https://psnprofiles.com/guide/8702-arcade-archives-city-connection-trophy-guide) | 1/10 | 1 |  | 964 |  | 0 | 1 |
+| [HiQ Ace](https://psnprofiles.com/guide/6879-hiq-ace-trophy-guide) | 1/10 | 1 |  | 18,091 | 5/5 | 7 | 11 |
+| [Paint Park Plus](https://psnprofiles.com/guide/199-paint-park-plus-trophy-guide) | 1/10 | 1 |  | 5,960 | 4/5 | 9 | 5 |
+| [Sound Shapes](https://psnprofiles.com/guide/6667-sound-shapes-8-bit-sound-dlc-trophy-guide) | 1/10 | 1 |  | 6,716 |  | 0 | 2 |
+| [One Eyed Kutkh](https://psnprofiles.com/guide/8641-one-eyed-kutkh-trophy-guide) | 1/10 | 1 |  | 5,608 |  | 0 | 2 |
+| [Concrete Genie](https://psnprofiles.com/guide/10336-concrete-genie-vr-dlc-trophy-guide) | 1/10 | 1 |  | 21,812 | 5/5 | 6 | 12 |
+| [Daytona USA](https://psnprofiles.com/guide/9268-daytona-usa-trophy-guide) | 1/10 | 1 |  | 9,313 | 4/5 | 9 | 6 |
+| [Sly Minigames](https://psnprofiles.com/guide/1011-sly-minigames-trophy-guide) | 1/10 | 1 |  | 15,988 | 5/5 | 7 | 12 |
+| [Arcade Archives: Rygar](https://psnprofiles.com/guide/8700-arcade-archives-rygar-trophy-guide) | 1/10 | 1 |  | 1,313 |  | 0 | 0 |
+| [A Night in the Forum VR](https://psnprofiles.com/guide/9821-a-night-in-the-forum-vr-trophy-guide) | 1/10 | 1 |  | 2,230 |  | 0 | 1 |
+| [Paint Park Plus](https://psnprofiles.com/guide/302-paint-park-plus-trophy-guide) | 1/10 | 1 |  | 3,742 |  | 0 | 7 |
+| [Sound Shapes](https://psnprofiles.com/guide/1745-sound-shapes-future-funk-3000-sound-dlc-trophy-guide) | 1/10 | 1 |  | 11,117 | 5/5 | 10 | 5 |
+| [Push Me Pull You](https://psnprofiles.com/guide/10292-push-me-pull-you-trophy-guide) | 1/10 | 1 |  | 1,159 |  | 0 | 4 |
+| [Sam & Max: The Devil's Playhouse Episode 5 - The City That Dares Not Sleep](https://psnprofiles.com/guide/16840-sam-max-the-devils-playhouse-episode-5-the-city-that-dares-not-sleep-trophy-guide) | 1/10 | 1 |  | 1,324 |  | 0 | 1 |
+| [Marvel Heroes Omega](https://psnprofiles.com/guide/6274-marvel-heroes-omega-spider-man-dlc-trophy-guide) | 1/10 | 1 |  | 3,831 |  | 0 | 3 |
+| [North](https://psnprofiles.com/guide/8642-north-trophy-guide) | 1/10 | 1 |  | 7,105 |  | 0 | 5 |
+| [The Playroom](https://psnprofiles.com/guide/278-the-playroom-trophy-guide) | 1/10 | 1 |  | 56,957 | 5/5 | 24 | 66 |
+| [GNOG](https://psnprofiles.com/guide/6010-gnog-trophy-guide) | 1/10 | 1 |  | 6,056 |  | 0 | 7 |
+| [LEGO Batman 3: Beyond Gotham](https://psnprofiles.com/guide/15747-lego-batman-3-beyond-gotham-man-of-steel-dlc-trophy-guide) | 1/10 | 1 |  | 3,355 | 5/5 | 5 | 1 |
+| [Hot Wheels Unleashed 2: Turbocharged](https://psnprofiles.com/guide/19592-hot-wheels-unleashed-2-turbocharged-hot-wheels-unleashed-2-turbocharged-alien-encounters-expansion-dlc-trophy-guide) | 1/10 | 1 |  | 1,019 |  | 0 | 0 |
+| [Sound Shapes](https://psnprofiles.com/guide/6669-sound-shapes-drum-kits-sound-dlc-trophy-guide) | 1/10 | 1 |  | 6,797 |  | 0 | 2 |
+| [Burnout Paradise](https://psnprofiles.com/guide/2237-burnout-paradise-legendary-cars-dlc-trophy-guide) | 1/10 | 1 |  | 16,501 |  | 0 | 8 |
+| [Life of Fly](https://psnprofiles.com/guide/11800-life-of-fly-trophy-guide) | 1/10 | 1 |  | 2,250 |  | 0 | 5 |
+| [NBA 2K19: The Prelude](https://psnprofiles.com/guide/7782-nba-2k19-the-prelude-trophy-guide) | 1/10 | 1 |  | 11,385 | 5/5 | 6 | 4 |
+| [Hot Wheels Unleashed 2: Turbocharged](https://psnprofiles.com/guide/19329-hot-wheels-unleashed-2-turbocharged-hot-wheels-unleashed-2-turbocharged-fast-furious-expansion-dlc-trophy-guide) | 1/10 | 1 |  | 1,350 |  | 0 | 1 |
+| [Trivia for Dummies](https://psnprofiles.com/guide/15900-trivia-for-dummies-trophy-guide) | 1/10 | 1 |  | 2,679 |  | 0 | 2 |
+| [Laid-Back Camp: Virtual - Lake Motosu](https://psnprofiles.com/guide/11791-laid-back-camp-virtual-lake-motosu-trophy-guide) | 1/10 | 1 |  | 2,610 |  | 0 | 2 |
+| [Super Kids Racing](https://psnprofiles.com/guide/7563-super-kids-racing-trophy-guide) | 1/10 | 1 |  | 10,002 |  | 0 | 2 |
+| [Focus on You](https://psnprofiles.com/guide/15257-focus-on-you-season-event-dlc-trophy-guide) | 1/10 | 1 |  | 1,469 |  | 0 | 1 |
+| [Dirt Rally 2.0](https://psnprofiles.com/guide/10397-dirt-rally-20-season-two-dlc-trophy-guide) | 1/10 | 1 |  | 8,130 | 5/5 | 7 | 2 |
+| [Hot Wheels Unleashed 2: Turbocharged](https://psnprofiles.com/guide/18312-hot-wheels-unleashed-2-turbocharged-hot-wheels-unleashed-2-turbocharged-acceleracers-expansion-dlc-trophy-guide) | 1/10 | 1 |  | 3,299 |  | 0 | 1 |
+| [Fractured Minds](https://psnprofiles.com/guide/9344-fractured-minds-trophy-guide) | 1/10 | 1 |  | 14,402 |  | 0 | 5 |
+| [Burnout Paradise](https://psnprofiles.com/guide/2240-burnout-paradise-toy-cars-dlc-trophy-guide) | 1/10 | 1 |  | 16,977 |  | 0 | 9 |
+| [Astrology and Horoscope Premium](https://psnprofiles.com/guide/8728-astrology-and-horoscope-premium-trophy-guide) | 1/10 | 1 |  | 3,334 |  | 0 | 1 |
+| [Focus on You](https://psnprofiles.com/guide/15255-focus-on-you-studio-dlc-trophy-guide) | 1/10 | 1 |  | 1,030 |  | 0 | 1 |
+| [Sam & Max: The Devil's Playhouse Episode 2 - The Tomb of Sammun-Mak](https://psnprofiles.com/guide/16823-sam-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak-trophy-guide) | 1/10 | 1 |  | 1,559 |  | 0 | 1 |
+| [Super Bomberman R Online](https://psnprofiles.com/guide/12290-super-bomberman-r-online-trophy-guide) | 1/10 | 1 |  | 14,920 |  | 0 | 11 |
+| [Phantom Breaker: Omnia](https://psnprofiles.com/guide/15608-phantom-breaker-omnia-spicy-dlc-trophy-guide) | 1/10 | 1 |  | 2,773 |  | 0 | 0 |
+| [The Four Kings Casino and Slots](https://psnprofiles.com/guide/14640-the-four-kings-casino-and-slots-ghost-busted-dlc-trophy-guide) | 1/10 | 1 |  | 1,750 |  | 0 | 1 |
+| [Pacific Wings](https://psnprofiles.com/guide/9026-pacific-wings-trophy-guide) | 1/10 | 1 |  | 5,785 |  | 0 | 2 |
+| [Dragon Ball Xenoverse 2](https://psnprofiles.com/guide/7951-dragon-ball-xenoverse-2-version-112-additional-dlc-trophy-guide) | 1/10 | 1 |  | 44,748 |  | 0 | 2 |
+| [Horror Adventure VR](https://psnprofiles.com/guide/13625-horror-adventure-vr-trophy-guide) | 1/10 | 1 |  | 4,849 |  | 0 | 3 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1865-dragon-age-origins-return-to-ostagar-dlc-trophy-guide) | 1/10 | 1 |  | 6,754 |  | 0 | 9 |
+| [It's Spring Again](https://psnprofiles.com/guide/7194-its-spring-again-trophy-guide) | 1/10 | 1 |  | 7,022 | 5/5 | 7 | 16 |
+| [Super Hang-On](https://psnprofiles.com/guide/9177-super-hang-on-trophy-guide) | 1/10 | 1 |  | 6,956 |  | 0 | 3 |
+| [Hot Wheels Unleashed](https://psnprofiles.com/guide/14846-hot-wheels-unleashed-hot-wheels-looney-tunes-expansion-dlc-trophy-guide) | 1/10 | 1 |  | 6,236 |  | 0 | 3 |
+| [Hot Wheels Unleashed 2: Turbocharged](https://psnprofiles.com/guide/18832-hot-wheels-unleashed-2-turbocharged-hot-wheels-unleashed-2-turbocharged-made-in-italy-expansion-dlc-trophy-guide) | 1/10 | 1 |  | 2,549 |  | 0 | 2 |
+| [PlayStation Home](https://psnprofiles.com/guide/425-playstation-home-trophy-guide) | 1/10 | 1 |  | 10,195 | 4/5 | 16 | 26 |
+| [Sound Shapes](https://psnprofiles.com/guide/6297-sound-shapes-80s-sound-dlc-trophy-guide) | 1/10 | 1 |  | 8,052 | 5/5 | 5 | 5 |
+| [Drowning](https://psnprofiles.com/guide/16099-drowning-trophy-guide) | 1/10 | 1 |  | 4,872 |  | 0 | 7 |
+| [Hagwalla Legend](https://psnprofiles.com/guide/7834-hagwalla-legend-trophy-guide) | 1/10 | 1 |  | 2,609 |  | 0 | 5 |
+| [Nekopara Vol. 1](https://psnprofiles.com/guide/8127-nekopara-vol-1-trophy-guide) | 1/10 | 1 |  | 13,923 | 5/5 | 6 | 11 |
+| [Sonic the Fighters](https://psnprofiles.com/guide/9378-sonic-the-fighters-trophy-guide) | 1/10 | 1 |  | 15,200 | 5/5 | 8 | 11 |
+| [Roblox](https://psnprofiles.com/guide/18479-roblox-trophy-guide) | 1/10 | 1 |  | 10,326 | 5/5 | 8 | 7 |
+| [Ark: Survival Evolved](https://psnprofiles.com/guide/8502-ark-survival-evolved-ascension-dlc-trophy-guide) | 1/10 | 1 |  | 18,931 | 4/5 | 8 | 5 |
+| [Sam & Max: The Devil's Playhouse Episode 4 - Beyond the Alley of the Dolls](https://psnprofiles.com/guide/16838-sam-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls-trophy-guide) | 1/10 | 1 |  | 1,025 |  | 0 | 0 |
+| [detuned](https://psnprofiles.com/guide/327-detuned-trophy-guide) | 1/10 | 1 |  | 10,995 | 5/5 | 10 | 8 |
+| [Sound Shapes](https://psnprofiles.com/guide/6420-sound-shapes-vocoder-sound-dlc-trophy-guide) | 1/10 | 1 |  | 6,509 |  | 0 | 2 |
+| [Leaving Lyndow](https://psnprofiles.com/guide/6264-leaving-lyndow-trophy-guide) | 1/10 | 1 |  | 5,430 |  | 0 | 9 |
+| [Sound Shapes](https://psnprofiles.com/guide/6545-sound-shapes-acoustic-sound-dlc-trophy-guide) | 1/10 | 1 |  | 8,490 |  | 0 | 5 |
+| [Tiny Troopers: Joint Ops](https://psnprofiles.com/guide/6303-tiny-troopers-joint-ops-tiny-troopers-joint-ops-zombie-campaign-dlc-trophy-guide) | 1/10 | 1 |  | 3,175 |  | 0 | 4 |
+| [Burnout Paradise](https://psnprofiles.com/guide/2231-burnout-paradise-boost-specials-dlc-trophy-guide) | 1/10 | 1 |  | 13,872 |  | 0 | 7 |
+| [Resident Evil 2](https://psnprofiles.com/guide/9446-resident-evil-2-another-survivor-dlc-trophy-guide) | 1/10 | 1 |  | 27,361 | 5/5 | 14 | 11 |
+| [Spice and Wolf VR 2](https://psnprofiles.com/guide/11653-spice-and-wolf-vr-2-trophy-guide) | 1/10 | 1 |  | 3,543 |  | 0 | 2 |
+| [Whiteboyz Wit Attitude: The Pursuit of Money](https://psnprofiles.com/guide/10599-whiteboyz-wit-attitude-the-pursuit-of-money-moneyz-in-the-bank-for-real-dlc-trophy-guide) | 1/10 | 1 |  | 3,979 |  | 0 | 2 |
+| [Quiplash](https://psnprofiles.com/guide/3525-quiplash-trophy-guide) | 1/10 | 1 |  | 5,000 |  | 0 | 4 |
+| [Sam & Max: The Devil's Playhouse Episode 3 - They Stole Max's Brain!](https://psnprofiles.com/guide/16829-sam-max-the-devils-playhouse-episode-3-they-stole-maxs-brain-trophy-guide) | 1/10 | 1 |  | 1,111 |  | 0 | 1 |
+| [Deliriant](https://psnprofiles.com/guide/6606-deliriant-trophy-guide) | 1/10 | 1 |  | 5,937 |  | 0 | 5 |
+| [Port Royale 3](https://psnprofiles.com/guide/8160-port-royale-3-harbour-master-dlc-trophy-guide) | 1/10 | 1 |  | 3,936 |  | 0 | 3 |
+| [Kingdom Hearts Re:coded](https://psnprofiles.com/guide/2183-kingdom-hearts-recoded-trophy-guide) | 1/10 | 1 |  | 22,460 | 5/5 | 8 | 33 |
+| [The Playroom](https://psnprofiles.com/guide/983-the-playroom-my-alien-buddy-dlc-trophy-guide) | 1/10 | 1 |  | 12,641 | 5/5 | 8 | 10 |
+| [Virtua Fighter 2](https://psnprofiles.com/guide/4589-virtua-fighter-2-trophy-guide) | 1/10 | 1 |  | 11,217 | 4/5 | 15 | 7 |
+| [LEGO Batman 3: Beyond Gotham](https://psnprofiles.com/guide/15722-lego-batman-3-beyond-gotham-dark-knight-dlc-trophy-guide) | 1/10 | 1 |  | 3,069 | 5/5 | 5 | 2 |
+| [The Park](https://psnprofiles.com/guide/6193-the-park-trophy-guide) | 1/10 | 1 |  | 13,667 |  | 0 | 10 |
+| [Garten of Banban](https://psnprofiles.com/guide/19651-garten-of-banban-trophy-guide) | 1/10 | 1 |  | 2,785 |  | 0 | 4 |
+| [Rocket League](https://psnprofiles.com/guide/5890-rocket-league-dropshot-dlc-trophy-guide) | 1/10 | 1 |  | 32,524 | 5/5 | 25 | 27 |
+| [Hot Wheels Unleashed](https://psnprofiles.com/guide/14558-hot-wheels-unleashed-hot-wheels-monster-trucks-expansion-dlc-trophy-guide) | 1/10 | 1 |  | 6,813 |  | 0 | 3 |
+| [Sound Shapes](https://psnprofiles.com/guide/1315-sound-shapes-hohokum-art-and-sound-dlc-trophy-guide) | 1/10 | 1 |  | 10,047 | 4/5 | 18 | 8 |
+| [Ark: Survival Evolved](https://psnprofiles.com/guide/8577-ark-survival-evolved-the-center-dlc-trophy-guide) | 1/10 | 1 |  | 17,938 | 4/5 | 6 | 6 |
+| [Might & Magic: Clash of Heroes](https://psnprofiles.com/guide/3623-might-magic-clash-of-heroes-might-magic-clash-of-heroes-villains-dlc-trophy-guide) | 1/10 | 1 |  | 1,688 |  | 0 | 2 |
+| [Burnout Paradise](https://psnprofiles.com/guide/2238-burnout-paradise-party-dlc-trophy-guide) | 1/10 | 1 |  | 18,007 |  | 0 | 7 |
+| [Hidden Cats in London](https://psnprofiles.com/guide/18071-hidden-cats-in-london-trophy-guide) | 1/10 | 1 |  | 7,077 |  | 0 | 6 |
+| [Minecraft](https://psnprofiles.com/guide/5761-minecraft-expansion-5-dlc-trophy-guide) | 1/10 | 1 |  | 27,546 | 5/5 | 13 | 15 |
+| [Laid-Back Camp: Virtual - Fumoto Campsite](https://psnprofiles.com/guide/11988-laid-back-camp-virtual-fumoto-campsite-trophy-guide) | 1/10 | 1 |  | 1,983 |  | 0 | 1 |
+| [Fallout 4](https://psnprofiles.com/guide/4555-fallout-4-contraptions-workshop-dlc-trophy-guide) | 1/10 | 1 |  | 45,427 | 5/5 | 15 | 31 |
+| [Never Alone](https://psnprofiles.com/guide/3750-never-alone-foxtales-dlc-trophy-guide) | 1/10 | 1 |  | 9,006 | 5/5 | 8 | 14 |
+| [Killing Floor 2](https://psnprofiles.com/guide/5888-killing-floor-2-post-launch-content-dlc-trophy-guide) | 1/10 | 1 |  | 14,553 | 4/5 | 16 | 9 |
+| [Frogger Returns](https://psnprofiles.com/guide/470-frogger-returns-trophy-guide) | 1/10 | 1 |  | 13,261 |  | 0 | 7 |
+| [Taxi Driver: The Simulation](https://psnprofiles.com/guide/12321-taxi-driver-the-simulation-trophy-guide) | 1/10 | 1 |  | 3,856 |  | 0 | 4 |
+| [The Playroom](https://psnprofiles.com/guide/2179-the-playroom-toy-maker-dlc-trophy-guide) | 1/10 | 1 |  | 15,556 | 5/5 | 10 | 12 |
+| [Hajwala](https://psnprofiles.com/guide/9931-hajwala-trophy-guide) | 1/10 | 1 |  | 4,122 |  | 0 | 0 |
+| [Blindfold](https://psnprofiles.com/guide/9818-blindfold-trophy-guide) | 1/10 | 1 |  | 3,138 |  | 0 | 2 |
+| [The Playroom](https://psnprofiles.com/guide/8815-the-playroom-ar-studio-dlc-trophy-guide) | 1/10 | 1 |  | 11,449 | 5/5 | 10 | 7 |
+| [Disco Elysium](https://psnprofiles.com/guide/16469-disco-elysium-collage-mode-dlc-trophy-guide) | 1/10 | 1 |  | 8,975 | 3/5 | 7 | 2 |
+| [Dead by Daylight](https://psnprofiles.com/guide/19383-dead-by-daylight-yamaoka-visitor-dlc-trophy-guide) | 1/10 | 1 |  | 1,954 |  | 0 | 2 |
+| [Warframe](https://psnprofiles.com/guide/7835-warframe-update-25-dlc-trophy-guide) | 1/10 | 1 |  | 4,815 |  | 0 | 4 |
+| [Evan, Daniel, and Friends: Volume 1](https://psnprofiles.com/guide/10498-evan-daniel-and-friends-volume-1-trophy-guide) | 1/10 | 1 |  | 2,859 |  | 0 | 1 |
+| [Trover Saves The Universe](https://psnprofiles.com/guide/10022-trover-saves-the-universe-jopo-update-dlc-trophy-guide) | 1/10 | 1 |  | 8,337 |  | 0 | 1 |
+| [Trover Saves The Universe](https://psnprofiles.com/guide/10023-trover-saves-the-universe-important-cosmic-jobs-dlc-trophy-guide) | 1/10 | 1 |  | 31,291 | 5/5 | 5 | 3 |
+| [Rocket League](https://psnprofiles.com/guide/3206-rocket-league-utopia-coliseum-dlc-trophy-guide) | 1/10 | 1 |  | 26,520 | 4/5 | 18 | 17 |
+| [Hot Wheels Unleashed](https://psnprofiles.com/guide/13904-hot-wheels-unleashed-hot-wheels-batman-expansion-dlc-trophy-guide) | 1/10 | 1 |  | 9,536 |  | 0 | 3 |
+| [ドリームクラブホストガール　オンステージ](https://psnprofiles.com/guide/10988-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%A9%E3%83%96%E3%83%9B%E3%82%B9%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB-%E3%82%AA%E3%83%B3%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8-trophy-guide) | 1/10 | 1 |  | 5,086 |  | 0 | 3 |
+| [8-bit Adventure Anthology: Volume I](https://psnprofiles.com/guide/6657-8-bit-adventure-anthology-volume-i-trophy-guide) | 1/10 | 1 |  | 10,599 |  | 0 | 5 |
+| [Sound Shapes](https://psnprofiles.com/guide/6269-sound-shapes-do-you-wheelie-want-to-hurt-me-dlc-trophy-guide) | 1/10 | 1 |  | 7,537 | 5/5 | 5 | 4 |
+| [MLB 13 The Show: Home Run Derby Edition](https://psnprofiles.com/guide/34-mlb-13-the-show-home-run-derby-edition-trophy-guide) | 1/10 | 1 |  | 6,486 | 4/5 | 6 | 7 |
+| [Sound Shapes](https://psnprofiles.com/guide/6334-sound-shapes-dubstep-sound-dlc-trophy-guide) | 1/10 | 1 |  | 7,621 |  | 0 | 3 |
+| [Burnout Paradise](https://psnprofiles.com/guide/2239-burnout-paradise-cagney-update-dlc-trophy-guide) | 1/10 | 1 |  | 19,572 | 4/5 | 8 | 9 |
+| [Coaster](https://psnprofiles.com/guide/10480-coaster-trophy-guide) | 1/10 | 1 |  | 6,431 |  | 0 | 2 |
+| [Focus on You](https://psnprofiles.com/guide/15256-focus-on-you-100th-day-dlc-trophy-guide) | 1/10 | 1 |  | 1,047 |  | 0 | 1 |
+| [Act It Out! A Game of Charades](https://psnprofiles.com/guide/8875-act-it-out-a-game-of-charades-trophy-guide) | 1/10 | 1 |  | 5,960 | 4/5 | 9 | 5 |
+| [Arcade Archives: Terra Cresta](https://psnprofiles.com/guide/8724-arcade-archives-terra-cresta-trophy-guide) | 1/10 | 1 |  | 1,064 |  | 0 | 0 |
+| [Paraiso Island](https://psnprofiles.com/guide/12830-paraiso-island-trophy-guide) | 1/10 | 1 |  | 14,603 | 4/5 | 5 | 8 |
+| [Learning with the PooYoos: Episode 1](https://psnprofiles.com/guide/16266-learning-with-the-pooyoos-episode-1-trophy-guide) | 1/10 | 1 |  | 1,744 |  | 0 | 1 |
+| [Gabbuchi](https://psnprofiles.com/guide/14847-gabbuchi-trophy-guide) | 1/10 | 1 |  | 11,003 | 4/5 | 5 | 3 |
+| [Sound Shapes](https://psnprofiles.com/guide/793-sound-shapes-brass-sound-dlc-trophy-guide) | 1/10 | 1 |  | 8,065 | 5/5 | 5 | 4 |
+| [Space Explore](https://psnprofiles.com/guide/13100-space-explore-trophy-guide) | 1/10 | 1 |  | 6,457 |  | 0 | 1 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1863-dragon-age-origins-wardens-keep-dlc-trophy-guide) | 1/10 | 1 |  | 7,636 | 4/5 | 5 | 10 |
+| [Sound Shapes](https://psnprofiles.com/guide/6374-sound-shapes-old-school-sound-dlc-trophy-guide) | 1/10 | 1 |  | 7,611 |  | 0 | 5 |
+| [Maximum Football 2018](https://psnprofiles.com/guide/18942-maximum-football-2018-trophy-guide) | 1/10 | 2 |  | 759 |  | 0 | 1 |
+| [The Walking Dead: Season 2](https://psnprofiles.com/guide/1336-the-walking-dead-season-2-the-walking-dead-season-two-episode-four-dlc-trophy-guide) | 1/10 | 2 |  | 5,432 |  | 0 | 8 |
+| [Frobisher Says!](https://psnprofiles.com/guide/1164-frobisher-says-trophy-guide) | 1/10 | 2 |  | 10,516 | 4/5 | 9 | 15 |
+| [Unearthed: Trail of Ibn Battuta - Episode 1](https://psnprofiles.com/guide/1619-unearthed-trail-of-ibn-battuta-episode-1-trophy-guide) | 1/10 | 2 |  | 3,152 |  | 0 | 3 |
+| [Fallout 4](https://psnprofiles.com/guide/4734-fallout-4-vault-tec-workshop-dlc-trophy-guide) | 1/10 | 2 |  | 42,402 | 5/5 | 14 | 29 |
+| [Minecraft: Story Mode](https://psnprofiles.com/guide/14774-minecraft-story-mode-episode-6-dlc-trophy-guide) | 1/10 | 2 |  | 3,020 |  | 0 | 2 |
+| [The Walking Dead: Season 2](https://psnprofiles.com/guide/1508-the-walking-dead-season-2-the-walking-dead-season-two-episode-five-dlc-trophy-guide) | 1/10 | 2 |  | 4,445 |  | 0 | 8 |
+| [Minecraft](https://psnprofiles.com/guide/7825-minecraft-expansion-7-dlc-trophy-guide) | 1/10 | 2 |  | 24,922 | 4/5 | 14 | 6 |
+| [The Walking Dead: Season 2](https://psnprofiles.com/guide/1065-the-walking-dead-season-2-the-walking-dead-season-two-episode-two-dlc-trophy-guide) | 1/10 | 2 |  | 4,436 |  | 0 | 6 |
+| [NBA 2K17: The Prelude](https://psnprofiles.com/guide/4982-nba-2k17-the-prelude-trophy-guide) | 1/10 | 2 |  | 9,499 | 5/5 | 11 | 11 |
+| [Minecraft: Story Mode](https://psnprofiles.com/guide/14792-minecraft-story-mode-episode-8-dlc-trophy-guide) | 1/10 | 2 |  | 2,424 |  | 0 | 2 |
+| [Focus on You](https://psnprofiles.com/guide/15254-focus-on-you-trophy-guide) | 1/10 | 2 |  | 3,583 |  | 0 | 2 |
+| [Firewatch](https://psnprofiles.com/guide/5617-firewatch-audio-tour-dlc-trophy-guide) | 1/10 | 2 |  | 39,714 | 5/5 | 10 | 31 |
+| [The Swapper](https://psnprofiles.com/guide/2241-the-swapper-trophy-guide) | 1/10 | 2 |  | 30,797 | 5/5 | 19 | 85 |
+| [Assassin's Creed Origins](https://psnprofiles.com/guide/7115-assassins-creed-origins-discovery-tour-ancient-egypt-dlc-trophy-guide) | 1/10 | 2 |  | 49,123 | 5/5 | 20 | 26 |
+| [Three Fourths Home](https://psnprofiles.com/guide/5183-three-fourths-home-trophy-guide) | 1/10 | 2 |  | 6,991 |  | 0 | 10 |
+| [The Walking Dead: Season 2](https://psnprofiles.com/guide/1066-the-walking-dead-season-2-the-walking-dead-season-two-episode-three-dlc-trophy-guide) | 1/10 | 2 |  | 3,491 |  | 0 | 6 |
+| [The Four Kings Casino and Slots](https://psnprofiles.com/guide/14725-the-four-kings-casino-and-slots-gold-rushed-dlc-trophy-guide) | 1/10 | 2 |  | 1,866 |  | 0 | 1 |
+| [Abzû](https://psnprofiles.com/guide/11956-abz%C3%BB-trophy-guide) | 1/10 | 2 |  | 23,053 | 5/5 | 31 | 36 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1864-dragon-age-origins-the-stone-prisoner-dlc-trophy-guide) | 1/10 | 2 |  | 7,530 |  | 0 | 10 |
+| [Roblox](https://psnprofiles.com/guide/18494-roblox-trophy-guide) | 1/10 | 2 |  | 10,746 | 5/5 | 9 | 5 |
+| [HiQ Ace Unlimited](https://psnprofiles.com/guide/14892-hiq-ace-unlimited-trophy-guide) | 1/10 | 2 |  | 6,905 |  | 0 | 3 |
+| [Dirt Rally 2.0](https://psnprofiles.com/guide/10392-dirt-rally-20-season-one-dlc-trophy-guide) | 1/10 | 2 |  | 8,775 | 5/5 | 6 | 3 |
+| [HiQ Ace Deluxe](https://psnprofiles.com/guide/16272-hiq-ace-deluxe-trophy-guide) | 1/10 | 2 |  | 1,673 |  | 0 | 2 |
+| [The Four Kings Casino and Slots](https://psnprofiles.com/guide/14787-the-four-kings-casino-and-slots-the-natural-dlc-trophy-guide) | 1/10 | 2 |  | 1,722 |  | 0 | 2 |
+| [Rocket League](https://psnprofiles.com/guide/3209-rocket-league-supersonic-fury-dlc-trophy-guide) | 1/10 | 2 |  | 36,893 | 5/5 | 26 | 29 |
+| [The Walking Dead](https://psnprofiles.com/guide/2189-the-walking-dead-400-days-dlc-trophy-guide) | 1/10 | 2 |  | 31,133 | 5/5 | 10 | 21 |
+| [L.A. Noire](https://psnprofiles.com/guide/12203-la-noire-new-collections-dlc-trophy-guide) | 1/10 | 2 |  | 10,898 |  | 0 | 10 |
+| [Blacklight: Retribution](https://psnprofiles.com/guide/4069-blacklight-retribution-februrary-content-patch-dlc-trophy-guide) | 1/10 | 2 |  | 5,187 | 5/5 | 5 | 10 |
+| [Soccer Pinball](https://psnprofiles.com/guide/15773-soccer-pinball-trophy-guide) | 1/10 | 2 |  | 1,838 |  | 0 | 1 |
+| [MouseCraft](https://psnprofiles.com/guide/3123-mousecraft-trophy-guide) | 1/10 | 2 |  | 16,274 | 4/5 | 23 | 59 |
+| [Ghost of Tsushima](https://psnprofiles.com/guide/14118-ghost-of-tsushima-legends-rivals-and-mastery-challenges-dlc-trophy-guide) | 1/10 | 2 |  | 51,968 | 4/5 | 11 | 21 |
+| [Burnout Paradise](https://psnprofiles.com/guide/2217-burnout-paradise-big-surf-island-dlc-trophy-guide) | 1/10 | 2 |  | 27,762 | 5/5 | 8 | 8 |
+| [Burnout Paradise](https://psnprofiles.com/guide/2250-burnout-paradise-cops-and-robbers-dlc-trophy-guide) | 1/10 | 2 |  | 16,550 | 5/5 | 5 | 8 |
+| [Personality and Psychology Premium](https://psnprofiles.com/guide/11128-personality-and-psychology-premium-trophy-guide) | 1/10 | 2 |  | 4,073 |  | 0 | 3 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1871-dragon-age-origins-lelianas-song-dlc-trophy-guide) | 1/10 | 2 |  | 15,232 | 5/5 | 5 | 12 |
+| [The Walking Dead: Season 2](https://psnprofiles.com/guide/716-the-walking-dead-season-2-trophy-guide) | 1/10 | 2 |  | 22,027 | 4/5 | 10 | 27 |
+| [Who's Your Daddy?!](https://psnprofiles.com/guide/19614-whos-your-daddy-trophy-guide) | 1/10 | 2 |  | 1,662 |  | 0 | 4 |
+| [Warframe](https://psnprofiles.com/guide/6985-warframe-update-23-dlc-trophy-guide) | 1/10 | 2 |  | 5,891 | 4/5 | 5 | 6 |
+| [I Expect You To Die](https://psnprofiles.com/guide/6779-i-expect-you-to-die-trophy-guide) | 1/10 | 2 |  | 34,539 | 4/5 | 5 | 9 |
+| [Sportsfriends](https://psnprofiles.com/guide/1676-sportsfriends-trophy-guide) | 1/10 | 2 |  | 13,355 | 5/5 | 10 | 44 |
+| [Max Payne 3](https://psnprofiles.com/guide/643-max-payne-3-hostage-negotiation-dlc-trophy-guide) | 1/10 | 2 |  | 6,159 |  | 0 | 10 |
+| [Minecraft: Story Mode](https://psnprofiles.com/guide/14791-minecraft-story-mode-episode-7-dlc-trophy-guide) | 1/10 | 2 |  | 2,337 |  | 0 | 1 |
+| [Lost Judgment](https://psnprofiles.com/guide/17806-lost-judgment-detective-essentials-dlc-trophy-guide) | 1/10 | 3 |  | 3,582 |  | 0 | 1 |
+| [Fat Princess](https://psnprofiles.com/guide/874-fat-princess-fat-roles-dlc-trophy-guide) | 1/10 | 3 |  | 2,812 |  | 0 | 2 |
+| [Dear Esther: Landmark Edition](https://psnprofiles.com/guide/12903-dear-esther-landmark-edition-trophy-guide) | 1/10 | 3 |  | 15,529 | 5/5 | 9 | 10 |
+| [Present for You](https://psnprofiles.com/guide/8586-present-for-you-trophy-guide) | 1/10 | 3 |  | 1,657 |  | 0 | 1 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/11397-minecraft-dungeons-jungle-awakens-and-creeping-winter-dlc-trophy-guide) | 1/10 | 3 |  | 21,931 | 5/5 | 8 | 11 |
+| [Backgammon Blitz](https://psnprofiles.com/guide/167-backgammon-blitz-trophy-guide) | 1/10 | 3 |  | 2,906 |  | 0 | 1 |
+| [Alba: A Wildlife Adventure](https://psnprofiles.com/guide/17166-alba-a-wildlife-adventure-trophy-guide) | 1/10 | 3 |  | 5,587 |  | 0 | 10 |
+| [Abzû](https://psnprofiles.com/guide/4785-abz%C3%BB-trophy-guide) | 1/10 | 3 |  | 116,735 | 5/5 | 50 | 133 |
+| [The Walking Dead: Michonne](https://psnprofiles.com/guide/17131-the-walking-dead-michonne-trophy-guide) | 1/10 | 3 |  | 4,375 |  | 0 | 5 |
+| [Kingdom Hearts 358/2 Days](https://psnprofiles.com/guide/1665-kingdom-hearts-3582-days-trophy-guide) | 1/10 | 3 |  | 52,599 | 4/5 | 12 | 41 |
+| [Murasaki Baby](https://psnprofiles.com/guide/1731-murasaki-baby-trophy-guide) | 1/10 | 3 |  | 6,841 | 4/5 | 11 | 21 |
+| [Warframe](https://psnprofiles.com/guide/6738-warframe-update-22-dlc-trophy-guide) | 1/10 | 3 |  | 5,511 |  | 0 | 5 |
+| [Unmechanical Extended](https://psnprofiles.com/guide/2492-unmechanical-extended-trophy-guide) | 1/10 | 3 |  | 7,911 |  | 0 | 16 |
+| [Jewel Rotation](https://psnprofiles.com/guide/9559-jewel-rotation-trophy-guide) | 1/10 | 4 |  | 3,482 |  | 0 | 2 |
+| [Ib](https://psnprofiles.com/guide/19097-ib-trophy-guide) | 1/10 | 4 |  | 1,370 |  | 0 | 3 |
+| [Season: A Letter to the Future](https://psnprofiles.com/guide/16106-season-a-letter-to-the-future-trophy-guide) | 1/10 | 4 |  | 8,328 |  | 0 | 10 |
+| [天使憑きの少女](https://psnprofiles.com/guide/8588-%E5%A4%A9%E4%BD%BF%E6%86%91%E3%81%8D%E3%81%AE%E5%B0%91%E5%A5%B3-trophy-guide) | 1/10 | 4 |  | 1,510 |  | 0 | 5 |
+| [Firewatch](https://psnprofiles.com/guide/5615-firewatch-trophy-guide) | 1/10 | 4 |  | 60,864 | 5/5 | 10 | 50 |
+| [Ark: Survival Evolved](https://psnprofiles.com/guide/11458-ark-survival-evolved-explorer-notes-dlc-trophy-guide) | 1/10 | 4 |  | 22,442 | 3/5 | 8 | 4 |
+| [Fallout: New Vegas](https://psnprofiles.com/guide/4018-fallout-new-vegas-nvdlc02-dlc-trophy-guide) | 1/10 | 4 |  | 16,425 | 5/5 | 11 | 14 |
+| [Submerged](https://psnprofiles.com/guide/5196-submerged-trophy-guide) | 1/10 | 4 |  | 3,549 |  | 0 | 8 |
+| [The Idolmaster: Cinderella Girls Viewing Revolution](https://psnprofiles.com/guide/9221-the-idolmaster-cinderella-girls-viewing-revolution-trophy-guide) | 1/10 | 4 |  | 3,319 |  | 0 | 2 |
+| [Summer Lesson: Hikari Miyamoto Seven Days Room](https://psnprofiles.com/guide/9101-summer-lesson-hikari-miyamoto-seven-days-room-summer-lesson-hikari-miyamoto-second-feel-dlc-trophy-guide) | 1/10 | 5 |  | 1,990 |  | 0 | 1 |
+| [Summer Lesson: Hikari Miyamoto Seven Days Room](https://psnprofiles.com/guide/9102-summer-lesson-hikari-miyamoto-seven-days-room-summer-lesson-hikari-miyamoto-day-out-dlc-trophy-guide) | 1/10 | 5 |  | 1,541 |  | 0 | 1 |
+| [Phantasy Star Online 2](https://psnprofiles.com/guide/9392-phantasy-star-online-2-episode-4-dlc-trophy-guide) | 1/10 | 5 |  | 1,744 |  | 0 | 1 |
+| [Doki-Doki Universe](https://psnprofiles.com/guide/1569-doki-doki-universe-trophy-guide) | 1/10 | 5 |  | 16,856 | 5/5 | 5 | 37 |
+| [Rain](https://psnprofiles.com/guide/3072-rain-trophy-guide) | 1/10 | 5 |  | 17,309 | 5/5 | 35 | 67 |
+| [Rain](https://psnprofiles.com/guide/5724-rain-trophy-guide) | 1/10 | 5 |  | 6,960 | 5/5 | 7 | 27 |
+| [Surviving the Aftermath](https://psnprofiles.com/guide/15976-surviving-the-aftermath-shattered-hope-dlc-trophy-guide) | 1/10 | 5 |  | 2,662 |  | 0 | 0 |
+| [Thomas Was Alone](https://psnprofiles.com/guide/1052-thomas-was-alone-trophy-guide) | 1/10 | 5 |  | 49,202 | 5/5 | 34 | 62 |
+| [Wake-up Club](https://psnprofiles.com/guide/1104-wake-up-club-trophy-guide) | 1/10 | 6 |  | 12,202 | 4/5 | 7 | 18 |
+| [Hatoful Boyfriend: Holiday Star](https://psnprofiles.com/guide/5166-hatoful-boyfriend-holiday-star-trophy-guide) | 1/10 | 6 |  | 7,313 | 5/5 | 6 | 11 |
+| [Flower](https://psnprofiles.com/guide/102-flower-trophy-guide) | 1/10 | 6 |  | 53,981 | 5/5 | 22 | 113 |
+| [Marvel Ultimate Alliance](https://psnprofiles.com/guide/4942-marvel-ultimate-alliance-expansion-of-dlc-trophy-guide) | 1/10 | 6 |  | 15,547 | 5/5 | 6 | 21 |
+| [Hatoful Boyfriend](https://psnprofiles.com/guide/3183-hatoful-boyfriend-trophy-guide) | 1/10 | 8 |  | 39,672 | 5/5 | 37 | 65 |
+| [Fate/Samurai Remnant](https://psnprofiles.com/guide/19332-fatesamurai-remnant-records-fragment-yagyu-sword-chronicles-dlc-trophy-guide) | 1/10 | 8 |  | 1,221 |  | 0 | 2 |
+| [Island Saver](https://psnprofiles.com/guide/10172-island-saver-trophy-guide) | 1/10 | 8 |  | 23,952 | 5/5 | 10 | 12 |
+| [Doki-Doki Universe](https://psnprofiles.com/guide/1217-doki-doki-universe-trophy-guide) | 1/10 | 10 |  | 8,803 | 4/5 | 13 | 47 |
+| [SOMA](https://psnprofiles.com/guide/8139-soma-trophy-guide) | 1/10 | 10 |  | 86,737 | 5/5 | 11 | 96 |
+| [Graveyard Keeper](https://psnprofiles.com/guide/16569-graveyard-keeper-better-save-soul-dlc-trophy-guide) | 1/10 | 10 |  | 5,117 |  | 0 | 6 |
+| [Graveyard Keeper](https://psnprofiles.com/guide/12444-graveyard-keeper-game-of-crone-dlc-trophy-guide) | 1/10 | 10 |  | 33,755 | 5/5 | 7 | 9 |
+| [Tekken Revolution](https://psnprofiles.com/guide/1311-tekken-revolution-trophy-guide) | 1/10 | 10 |  | 11,582 | 4/5 | 6 | 19 |
+| [Ludo XXL](https://psnprofiles.com/guide/18311-ludo-xxl-trophy-guide) | 1/10 | 10 |  | 1,468 |  | 0 | 1 |
+| [Cities: Skylines](https://psnprofiles.com/guide/13819-cities-skylines-snowfall-dlc-trophy-guide) | 1/10 | 10 |  | 5,225 |  | 0 | 1 |
+| [Farm Together](https://psnprofiles.com/guide/14992-farm-together-title-update-big-farms-dlc-trophy-guide) | 1/10 | 10 |  | 2,372 |  | 0 | 2 |
+| [The Four Kings Casino and Slots](https://psnprofiles.com/guide/17774-the-four-kings-casino-and-slots-treasure-trapped-dlc-trophy-guide) | 1/10 | 12 |  | 1,582 |  | 0 | 1 |
+| [Vampire: The Masquerade - Coteries of New York](https://psnprofiles.com/guide/14232-vampire-the-masquerade-coteries-of-new-york-trophy-guide) | 1/10 | 13 |  | 8,913 |  | 0 | 10 |
+| [The Game of Life 2](https://psnprofiles.com/guide/18635-the-game-of-life-2-trophy-guide) | 1/10 | 15 |  | 2,688 |  | 0 | 5 |
+| [PlayStation Home](https://psnprofiles.com/guide/230-playstation-home-trophy-guide) | 1/10 | 15 |  | 11,566 | 5/5 | 24 | 39 |
+| [Summer Lesson: Hikari Miyamoto Seven Days Room](https://psnprofiles.com/guide/9100-summer-lesson-hikari-miyamoto-seven-days-room-trophy-guide) | 1/10 | 20 |  | 6,886 |  | 0 | 1 |
+| [Phantasy Star Online 2](https://psnprofiles.com/guide/9395-phantasy-star-online-2-episode-5-dlc-trophy-guide) | 1/10 | 30 |  | 2,065 |  | 0 | 1 |
+| [Trove](https://psnprofiles.com/guide/17312-trove-going-green-dlc-trophy-guide) | 1/10 | 30 |  | 1,628 |  | 0 | 0 |
+| [Phantasy Star Online 2](https://psnprofiles.com/guide/9397-phantasy-star-online-2-episode-6-dlc-trophy-guide) | 1/10 | 30 |  | 2,494 |  | 0 | 1 |
+| [Torne](https://psnprofiles.com/guide/16890-torne-trophy-guide) | 1/10 | 100 |  | 1,427 |  | 0 | 4 |
+| [Frozen Free Fall: Snowball Fight](https://psnprofiles.com/guide/6407-frozen-free-fall-snowball-fight-trophy-guide) | 1/10 | 100 |  | 24,095 | 4/5 | 8 | 16 |
+| [Caravan Stories](https://psnprofiles.com/guide/9472-caravan-stories-trophy-guide) | 1/10 | 125 |  | 9,067 |  | 0 | 12 |
+| [9th Dawn III](https://psnprofiles.com/guide/16492-9th-dawn-iii-trophy-guide) | 2/10 | 200 | 1.03% | 3,008 |  | 0 | 1 |
+| [Space Hulk](https://psnprofiles.com/guide/5090-space-hulk-trophy-guide) | 2/10 | 50 | 1.12% | 18,497 |  | 0 | 24 |
+| [FIFA 15](https://psnprofiles.com/guide/5315-fifa-15-trophy-guide) | 2/10 | 20 | 1.14% | 34,156 | 5/5 | 11 | 28 |
+| [Laser League](https://psnprofiles.com/guide/9663-laser-league-trophy-guide) | 2/10 | 25 | 1.17% | 12,987 | 5/5 | 9 | 14 |
+| [The Lord of the Rings: Adventure Card Game](https://psnprofiles.com/guide/16144-the-lord-of-the-rings-adventure-card-game-trophy-guide) | 2/10 | 250 | 1.22% | 6,507 |  | 0 | 8 |
+| [Don Bradman Cricket 17](https://psnprofiles.com/guide/7422-don-bradman-cricket-17-trophy-guide) | 2/10 | 60 | 1.27% | 6,729 |  | 0 | 7 |
+| [PUBG: Battlegrounds](https://psnprofiles.com/guide/8774-pubg-battlegrounds-trophy-guide) | 2/10 | 75 | 1.28% | 72,168 | 3/5 | 17 | 29 |
+| [SingStar](https://psnprofiles.com/guide/9528-singstar-trophy-guide) | 2/10 | 25 | 1.40% | 18,009 |  | 0 | 9 |
+| [PC Building Simulator](https://psnprofiles.com/guide/11854-pc-building-simulator-trophy-guide) | 2/10 | 120 | 1.40% | 35,507 | 5/5 | 7 | 35 |
+| [Jump Stars](https://psnprofiles.com/guide/11742-jump-stars-trophy-guide) | 2/10 | 15 | 1.57% | 3,665 |  | 0 | 3 |
+| [Tropico 5](https://psnprofiles.com/guide/4415-tropico-5-trophy-guide) | 2/10 | 25 | 2.02% | 57,425 | 4/5 | 30 | 131 |
+| [On The Road](https://psnprofiles.com/guide/11681-on-the-road-trophy-guide) | 2/10 | 500 | 2.02% | 14,410 |  | 0 | 15 |
+| [Birthdays the Beginning](https://psnprofiles.com/guide/7013-birthdays-the-beginning-trophy-guide) | 2/10 | 600 | 2.21% | 19,012 | 4/5 | 6 | 20 |
+| [Knowledge is Power](https://psnprofiles.com/guide/18118-knowledge-is-power-trophy-guide) | 2/10 | 12 | 2.29% | 5,669 |  | 0 | 2 |
+| [Train Sim World 2](https://psnprofiles.com/guide/14131-train-sim-world-2-trophy-guide) | 2/10 | 300 | 2.44% | 15,763 |  | 0 | 7 |
+| [Real Farm](https://psnprofiles.com/guide/15914-real-farm-trophy-guide) | 2/10 | 30 | 2.58% | 4,649 |  | 0 | 4 |
+| [Grand Ages Medieval](https://psnprofiles.com/guide/13824-grand-ages-medieval-trophy-guide) | 2/10 | 20 | 2.63% | 9,680 |  | 0 | 12 |
+| [Chess Ultra](https://psnprofiles.com/guide/10706-chess-ultra-trophy-guide) | 2/10 | 15 | 2.66% | 41,926 | 5/5 | 14 | 28 |
+| [Port Royale 3](https://psnprofiles.com/guide/3247-port-royale-3-trophy-guide) | 2/10 | 50 | 2.68% | 18,417 | 4/5 | 7 | 31 |
+| [Melbits World](https://psnprofiles.com/guide/8235-melbits-world-trophy-guide) | 2/10 | 13 | 2.82% | 11,465 | 5/5 | 5 | 10 |
+| [Overlord FOE](https://psnprofiles.com/guide/4380-overlord-foe-trophy-guide) | 2/10 | 18 | 2.89% | 13,136 |  | 0 | 8 |
+| [Black Desert](https://psnprofiles.com/guide/10202-black-desert-trophy-guide) | 2/10 | 550 | 3.02% | 65,574 | 5/5 | 8 | 27 |
+| [Avatar: The Game](https://psnprofiles.com/guide/123-avatar-the-game-trophy-guide) | 2/10 | 25 | 3.16% | 18,625 |  | 0 | 11 |
+| [Lacuna](https://psnprofiles.com/guide/17823-lacuna-trophy-guide) | 2/10 | 20 | 3.19% | 2,139 |  | 0 | 5 |
+| [Through The Darkest of Times](https://psnprofiles.com/guide/14121-through-the-darkest-of-times-trophy-guide) | 2/10 | 40 | 3.46% | 16,456 |  | 0 | 6 |
+| [The Forest](https://psnprofiles.com/guide/8428-the-forest-trophy-guide) | 2/10 | 55 | 3.56% | 206,780 | 4/5 | 39 | 127 |
+| [Wheel of Fortune](https://psnprofiles.com/guide/7746-wheel-of-fortune-trophy-guide) | 2/10 | 40 | 3.57% | 22,824 |  | 0 | 6 |
+| [Party Golf](https://psnprofiles.com/guide/8972-party-golf-trophy-guide) | 2/10 | 10 | 3.63% | 14,286 | 3/5 | 9 | 17 |
+| [Harvest Moon: A Wonderful Life](https://psnprofiles.com/guide/5909-harvest-moon-a-wonderful-life-trophy-guide) | 2/10 | 30 | 3.64% | 51,999 | 4/5 | 14 | 75 |
+| [Madden NFL 11](https://psnprofiles.com/guide/5190-madden-nfl-11-trophy-guide) | 2/10 | 8 | 3.76% | 13,660 | 4/5 | 6 | 23 |
+| [Farming Simulator 19](https://psnprofiles.com/guide/10143-farming-simulator-19-trophy-guide) | 2/10 | 35 | 4.05% | 87,500 | 4/5 | 28 | 96 |
+| [Pillars of Eternity II: Deadfire](https://psnprofiles.com/guide/18729-pillars-of-eternity-ii-deadfire-trophy-guide) | 2/10 | 80 | 4.29% | 2,485 |  | 0 | 10 |
+| [Construction Simulator 3](https://psnprofiles.com/guide/9999-construction-simulator-3-trophy-guide) | 2/10 | 30 | 4.37% | 16,531 |  | 0 | 15 |
+| [Ark: Survival Evolved](https://psnprofiles.com/guide/6852-ark-survival-evolved-trophy-guide) | 2/10 | 10 | 4.49% | 189,664 | 4/5 | 44 | 157 |
+| [Harvest Moon: Light of Hope](https://psnprofiles.com/guide/10758-harvest-moon-light-of-hope-trophy-guide) | 2/10 | 100 | 4.49% | 43,650 |  | 0 | 27 |
+| [Samurai Warriors 4](https://psnprofiles.com/guide/5441-samurai-warriors-4-trophy-guide) | 2/10 | 100 | 4.56% | 53,258 | 5/5 | 9 | 52 |
+| [Pro Evolution Soccer 2014](https://psnprofiles.com/guide/536-pro-evolution-soccer-2014-trophy-guide) | 2/10 | 25 | 4.76% | 20,999 | 5/5 | 25 | 59 |
+| [Rugby Challenge 3](https://psnprofiles.com/guide/13845-rugby-challenge-3-trophy-guide) | 2/10 | 10 | 4.90% | 2,957 |  | 0 | 3 |
+| [Moonglow Bay](https://psnprofiles.com/guide/19231-moonglow-bay-trophy-guide) | 2/10 | 25 | 4.94% | 2,676 |  | 0 | 8 |
+| [Knowledge is Power: Decades](https://psnprofiles.com/guide/19650-knowledge-is-power-decades-trophy-guide) | 2/10 | 8 | 4.99% | 1,235 |  | 0 | 0 |
+| [Star Hammer: The Vanguard Prophecy](https://psnprofiles.com/guide/6118-star-hammer-the-vanguard-prophecy-trophy-guide) | 2/10 | 20 | 5.01% | 5,031 |  | 0 | 3 |
+| [eCrossminton](https://psnprofiles.com/guide/13858-ecrossminton-trophy-guide) | 2/10 | 100 | 5.18% | 2,225 |  | 0 | 2 |
+| [God of Rock](https://psnprofiles.com/guide/18582-god-of-rock-trophy-guide) | 2/10 | 6 | 5.23% | 2,478 |  | 0 | 5 |
+| [Stubbs the Zombie](https://psnprofiles.com/guide/15285-stubbs-the-zombie-trophy-guide) | 2/10 | 30 | 5.62% | 12,404 |  | 0 | 12 |
+| [Broken Age](https://psnprofiles.com/guide/2758-broken-age-trophy-guide) | 2/10 | 10 | 5.71% | 63,758 | 4/5 | 43 | 234 |
+| [White Noise 2](https://psnprofiles.com/guide/12803-white-noise-2-trophy-guide) | 2/10 | 25 | 5.82% | 3,780 |  | 0 | 2 |
+| [This Is the Police 2](https://psnprofiles.com/guide/9527-this-is-the-police-2-trophy-guide) | 2/10 | 30 | 5.92% | 32,762 |  | 0 | 21 |
+| [Dead Alliance](https://psnprofiles.com/guide/6466-dead-alliance-trophy-guide) | 2/10 | 50 | 6.01% | 23,885 | 4/5 | 6 | 13 |
+| [The Dark Pictures Anthology: Man of Medan](https://psnprofiles.com/guide/9192-the-dark-pictures-anthology-man-of-medan-trophy-guide) | 2/10 | 30 | 6.30% | 226,695 | 4/5 | 43 | 144 |
+| [Bush Hockey League](https://psnprofiles.com/guide/5918-bush-hockey-league-trophy-guide) | 2/10 | 20 | 6.58% | 4,662 |  | 0 | 13 |
+| [No Man's Sky](https://psnprofiles.com/guide/15503-no-mans-sky-trophy-guide) | 2/10 | 25 | 6.65% | 28,446 | 5/5 | 10 | 51 |
+| [No Man's Sky](https://psnprofiles.com/guide/4823-no-mans-sky-trophy-guide) | 2/10 | 35 | 6.65% | 161,450 | 4/5 | 44 | 290 |
+| [Snipers: Invisible, Silent, Deadly](https://psnprofiles.com/guide/11339-snipers-invisible-silent-deadly-trophy-guide) | 2/10 | 25 | 6.82% | 6,434 |  | 0 | 4 |
+| [The Texas Chain Saw Massacre](https://psnprofiles.com/guide/17758-the-texas-chain-saw-massacre-trophy-guide) | 2/10 | 120 | 7.13% | 16,126 | 4/5 | 5 | 15 |
+| [I Was A Teenage Exocolonist](https://psnprofiles.com/guide/15751-i-was-a-teenage-exocolonist-trophy-guide) | 2/10 | 60 | 7.35% | 12,303 | 5/5 | 5 | 6 |
+| [Idle Champions of the Forgotten Realms](https://psnprofiles.com/guide/8416-idle-champions-of-the-forgotten-realms-trophy-guide) | 2/10 | 200 | 7.36% | 41,282 | 4/5 | 11 | 26 |
+| [Away: The Survival Series](https://psnprofiles.com/guide/15088-away-the-survival-series-trophy-guide) | 2/10 | 10 | 7.98% | 4,331 |  | 0 | 5 |
+| [Smart As](https://psnprofiles.com/guide/624-smart-as-trophy-guide) | 2/10 | 17 | 8.22% | 10,688 | 4/5 | 16 | 20 |
+| [Axiom Verge 2](https://psnprofiles.com/guide/16198-axiom-verge-2-trophy-guide) | 2/10 | 15 | 8.62% | 23,744 | 5/5 | 6 | 44 |
+| [BQM](https://psnprofiles.com/guide/14391-bqm-trophy-guide) | 2/10 | 40 | 8.63% | 1,679 |  | 0 | 2 |
+| [Ice Station Z](https://psnprofiles.com/guide/14631-ice-station-z-trophy-guide) | 2/10 | 25 | 8.79% | 7,065 |  | 0 | 4 |
+| [Monopoly Madness](https://psnprofiles.com/guide/16208-monopoly-madness-trophy-guide) | 2/10 | 5 | 8.83% | 28,161 | 5/5 | 6 | 30 |
+| [Ratchet & Clank: All 4 One](https://psnprofiles.com/guide/289-ratchet-clank-all-4-one-trophy-guide) | 2/10 | 15 | 8.88% | 86,012 | 5/5 | 27 | 122 |
+| [Time and Eternity](https://psnprofiles.com/guide/4209-time-and-eternity-trophy-guide) | 2/10 | 38 | 8.89% | 12,677 | 4/5 | 9 | 22 |
+| [Saints Row: Gat out of Hell](https://psnprofiles.com/guide/4665-saints-row-gat-out-of-hell-trophy-guide) | 2/10 | 22 | 8.93% | 55,900 | 5/5 | 38 | 158 |
+| [RPG Maker MV](https://psnprofiles.com/guide/10642-rpg-maker-mv-trophy-guide) | 2/10 | 50 | 8.94% | 11,126 |  | 0 | 11 |
+| [One Piece: Pirate Warriors](https://psnprofiles.com/guide/6482-one-piece-pirate-warriors-trophy-guide) | 2/10 | 70 | 9.02% | 44,759 | 4/5 | 7 | 28 |
+| [Esports Life Tycoon](https://psnprofiles.com/guide/11245-esports-life-tycoon-trophy-guide) | 2/10 | 12 | 9.15% | 8,050 |  | 0 | 3 |
+| [Gas Station Simulator](https://psnprofiles.com/guide/15879-gas-station-simulator-trophy-guide) | 2/10 | 100 | 9.22% | 18,702 | 4/5 | 7 | 14 |
+| [Nun Massacre](https://psnprofiles.com/guide/15884-nun-massacre-trophy-guide) | 2/10 | 10 | 9.44% | 15,429 | 5/5 | 5 | 10 |
+| [Lethis: Path of Progress](https://psnprofiles.com/guide/14482-lethis-path-of-progress-trophy-guide) | 2/10 | 40 | 9.52% | 2,310 |  | 0 | 1 |
+| [The Survivalists](https://psnprofiles.com/guide/11532-the-survivalists-trophy-guide) | 2/10 | 30 | 9.60% | 29,483 | 4/5 | 10 | 21 |
+| [Harry Potter and the Deathly Hallows - Part 1](https://psnprofiles.com/guide/1232-harry-potter-and-the-deathly-hallows-part-1-trophy-guide) | 2/10 | 12 | 9.63% | 25,798 | 4/5 | 11 | 24 |
+| [L.A. Noire: The VR Case Files](https://psnprofiles.com/guide/9190-la-noire-the-vr-case-files-trophy-guide) | 2/10 | 15 | 9.69% | 19,118 | 5/5 | 6 | 8 |
+| [Observer: System Redux](https://psnprofiles.com/guide/16673-observer-system-redux-trophy-guide) | 2/10 | 10 | 9.82% | 20,459 | 5/5 | 6 | 31 |
+| [Skylanders Imaginators](https://psnprofiles.com/guide/8548-skylanders-imaginators-trophy-guide) | 2/10 | 15 | 9.85% | 17,912 | 5/5 | 5 | 12 |
+| [Republique](https://psnprofiles.com/guide/4229-republique-trophy-guide) | 2/10 | 10 | 9.89% | 20,836 | 4/5 | 7 | 55 |
+| [Story of Seasons: Friends of Mineral Town](https://psnprofiles.com/guide/14310-story-of-seasons-friends-of-mineral-town-trophy-guide) | 2/10 | 100 | 10.04% | 47,161 | 4/5 | 7 | 25 |
+| [The Inpatient](https://psnprofiles.com/guide/7102-the-inpatient-trophy-guide) | 2/10 | 8 | 10.09% | 22,754 | 4/5 | 7 | 14 |
+| [Prince of Persia](https://psnprofiles.com/guide/6041-prince-of-persia-trophy-guide) | 2/10 | 15 | 10.18% | 46,179 | 5/5 | 15 | 70 |
+| [LEGO Dimensions](https://psnprofiles.com/guide/3842-lego-dimensions-trophy-guide) | 2/10 | 25 | 10.37% | 33,866 | 5/5 | 8 | 54 |
+| [LEGO Movie: The Videogame](https://psnprofiles.com/guide/7624-lego-movie-the-videogame-trophy-guide) | 2/10 | 15 | 10.55% | 85,211 | 4/5 | 9 | 88 |
+| [Ary and the Secret of Seasons](https://psnprofiles.com/guide/13593-ary-and-the-secret-of-seasons-trophy-guide) | 2/10 | 15 | 10.60% | 9,327 |  | 0 | 6 |
+| [PlayStation All-Stars Battle Royale](https://psnprofiles.com/guide/1347-playstation-all-stars-battle-royale-trophy-guide) | 2/10 | 17 | 10.66% | 47,915 | 5/5 | 22 | 95 |
+| [Bakugan: Defenders of the Core](https://psnprofiles.com/guide/1647-bakugan-defenders-of-the-core-trophy-guide) | 2/10 | 20 | 10.68% | 9,698 |  | 0 | 11 |
+| [The Quarry](https://psnprofiles.com/guide/14683-the-quarry-trophy-guide) | 2/10 | 35 | 10.84% | 200,752 | 5/5 | 64 | 170 |
+| [Farming Simulator 17](https://psnprofiles.com/guide/16001-farming-simulator-17-trophy-guide) | 2/10 | 15 | 10.97% | 5,641 | 5/5 | 5 | 10 |
+| [Vacation Simulator](https://psnprofiles.com/guide/8892-vacation-simulator-trophy-guide) | 2/10 | 10 | 10.99% | 43,458 |  | 0 | 14 |
+| [The Dark Pictures Anthology: Little Hope](https://psnprofiles.com/guide/13189-the-dark-pictures-anthology-little-hope-trophy-guide) | 2/10 | 30 | 11.13% | 116,284 | 3/5 | 43 | 57 |
+| [Car Mechanic Simulator 2021](https://psnprofiles.com/guide/12694-car-mechanic-simulator-2021-trophy-guide) | 2/10 | 50 | 11.47% | 39,376 |  | 0 | 21 |
+| [Police Simulator: Patrol Officers](https://psnprofiles.com/guide/15943-police-simulator-patrol-officers-trophy-guide) | 2/10 | 20 | 11.79% | 26,629 |  | 0 | 16 |
+| [Super Street](https://psnprofiles.com/guide/9886-super-street-trophy-guide) | 2/10 | 7 | 11.90% | 18,559 | 5/5 | 5 | 16 |
+| [Farming Simulator 15](https://psnprofiles.com/guide/4430-farming-simulator-15-trophy-guide) | 2/10 | 50 | 12.02% | 19,522 | 5/5 | 7 | 22 |
+| [Nickelodeon All-Star Brawl](https://psnprofiles.com/guide/14081-nickelodeon-all-star-brawl-trophy-guide) | 2/10 | 8 | 12.07% | 29,737 | 5/5 | 16 | 33 |
+| [Saints Row: Gat out of Hell](https://psnprofiles.com/guide/4618-saints-row-gat-out-of-hell-trophy-guide) | 2/10 | 22 | 12.68% | 76,847 | 4/5 | 5 | 85 |
+| [Cars 3: Driven to Win](https://psnprofiles.com/guide/6127-cars-3-driven-to-win-trophy-guide) | 2/10 | 15 | 12.74% | 50,429 | 5/5 | 11 | 54 |
+| [AereA](https://psnprofiles.com/guide/8947-aerea-trophy-guide) | 2/10 | 40 | 12.80% | 30,149 | 5/5 | 6 | 23 |
+| [Wreckfest](https://psnprofiles.com/guide/16762-wreckfest-trophy-guide) | 2/10 | 12 | 12.94% | 13,811 | 4/5 | 15 | 51 |
+| [Sable](https://psnprofiles.com/guide/18412-sable-trophy-guide) | 2/10 | 20 | 12.98% | 6,053 |  | 0 | 31 |
+| [Tails Noir](https://psnprofiles.com/guide/18059-tails-noir-trophy-guide) | 2/10 | 15 | 13.25% | 14,501 |  | 0 | 24 |
+| [Island Time](https://psnprofiles.com/guide/16384-island-time-trophy-guide) | 2/10 | 5 | 13.28% | 2,420 |  | 0 | 5 |
+| [Alone With You](https://psnprofiles.com/guide/4992-alone-with-you-trophy-guide) | 2/10 | 25 | 13.60% | 28,840 | 5/5 | 5 | 29 |
+| [Deer God](https://psnprofiles.com/guide/13303-deer-god-trophy-guide) | 2/10 | 15 | 13.69% | 4,446 |  | 0 | 7 |
+| [New Star Manager](https://psnprofiles.com/guide/18015-new-star-manager-trophy-guide) | 2/10 | 50 | 13.70% | 1,271 |  | 0 | 5 |
+| [MLB The Show 22](https://psnprofiles.com/guide/14216-mlb-the-show-22-trophy-guide) | 2/10 | 5 | 13.88% | 24,491 | 3/5 | 5 | 16 |
+| [Sable](https://psnprofiles.com/guide/18255-sable-trophy-guide) | 2/10 | 20 | 14.15% | 14,599 | 4/5 | 5 | 27 |
+| [Madison](https://psnprofiles.com/guide/16955-madison-trophy-guide) | 2/10 | 25 | 14.16% | 10,349 |  | 0 | 9 |
+| [Graveyard Keeper](https://psnprofiles.com/guide/9844-graveyard-keeper-trophy-guide) | 2/10 | 60 | 14.22% | 83,716 | 5/5 | 17 | 66 |
+| [The Bard's Tale](https://psnprofiles.com/guide/6404-the-bards-tale-trophy-guide) | 2/10 | 20 | 14.26% | 60,141 | 4/5 | 11 | 26 |
+| [Ghostbusters: The Video Game](https://psnprofiles.com/guide/13825-ghostbusters-the-video-game-trophy-guide) | 2/10 | 15 | 14.39% | 58,954 | 4/5 | 13 | 46 |
+| [Ratchet & Clank: Full Frontal Assault](https://psnprofiles.com/guide/132-ratchet-clank-full-frontal-assault-trophy-guide) | 2/10 | 10 | 14.44% | 76,049 | 5/5 | 20 | 104 |
+| [Medusa and Her Lover](https://psnprofiles.com/guide/8888-medusa-and-her-lover-trophy-guide) | 2/10 | 5 | 14.48% | 4,550 |  | 0 | 3 |
+| [Olympic Games: Tokyo 2020](https://psnprofiles.com/guide/12734-olympic-games-tokyo-2020-trophy-guide) | 2/10 | 12 | 14.61% | 26,195 | 4/5 | 13 | 20 |
+| [AKB1/149 恋愛総選挙](https://psnprofiles.com/guide/15910-akb1149-%E6%81%8B%E6%84%9B%E7%B7%8F%E9%81%B8%E6%8C%99-trophy-guide) | 2/10 | 50 | 14.66% | 1,958 |  | 0 | 2 |
+| [Goodbye Volcano High](https://psnprofiles.com/guide/17530-goodbye-volcano-high-trophy-guide) | 2/10 | 35 | 14.81% | 9,759 |  | 0 | 9 |
+| [Petoons Party](https://psnprofiles.com/guide/7747-petoons-party-trophy-guide) | 2/10 | 3 | 14.83% | 5,999 |  | 0 | 11 |
+| [Rogue Trooper Redux](https://psnprofiles.com/guide/16064-rogue-trooper-redux-trophy-guide) | 2/10 | 8 | 14.94% | 2,587 | 5/5 | 5 | 7 |
+| [Rogue Trooper Redux](https://psnprofiles.com/guide/6716-rogue-trooper-redux-trophy-guide) | 2/10 | 10 | 14.94% | 18,359 | 3/5 | 13 | 12 |
+| [WRC 4](https://psnprofiles.com/guide/3342-wrc-4-trophy-guide) | 2/10 | 30 | 15.07% | 13,356 | 5/5 | 5 | 12 |
+| [Tomb Raider: Underworld](https://psnprofiles.com/guide/2982-tomb-raider-underworld-trophy-guide) | 2/10 | 20 | 15.36% | 38,374 | 5/5 | 14 | 70 |
+| [Cozy Grove](https://psnprofiles.com/guide/12063-cozy-grove-trophy-guide) | 2/10 | 60 | 15.53% | 16,501 | 5/5 | 6 | 19 |
+| [LEGO City Undercover](https://psnprofiles.com/guide/13210-lego-city-undercover-trophy-guide) | 2/10 | 40 | 15.67% | 59,293 | 5/5 | 14 | 84 |
+| [Family Game Night 4](https://psnprofiles.com/guide/14416-family-game-night-4-trophy-guide) | 2/10 | 15 | 15.89% | 2,462 |  | 0 | 3 |
+| [Walden](https://psnprofiles.com/guide/8147-walden-trophy-guide) | 2/10 | 17 | 16.05% | 8,311 |  | 0 | 4 |
+| [Ar nosurge: Ode to an Unborn Star](https://psnprofiles.com/guide/2412-ar-nosurge-ode-to-an-unborn-star-trophy-guide) | 2/10 | 40 | 16.10% | 17,553 | 3/5 | 10 | 46 |
+| [Nights of Azure 2: Bride of the New Moon](https://psnprofiles.com/guide/8802-nights-of-azure-2-bride-of-the-new-moon-trophy-guide) | 2/10 | 40 | 16.12% | 54,091 | 5/5 | 10 | 46 |
 | [Until Dawn](https://psnprofiles.com/guide/3260-until-dawn-trophy-guide) | 2/10 | 15 | 16.37% | 435,241 | 5/5 | 181 | 717 |
+| [Ben 10: Power Trip](https://psnprofiles.com/guide/15390-ben-10-power-trip-trophy-guide) | 2/10 | 15 | 16.55% | 59,935 | 4/5 | 5 | 23 |
+| [ToLOVEる ダークネス バトルエクスタシー](https://psnprofiles.com/guide/2050-tolove%E3%82%8B-%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8D%E3%82%B9-%E3%83%90%E3%83%88%E3%83%AB%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%B7%E3%83%BC-trophy-guide) | 2/10 | 35 | 16.72% | 5,893 |  | 0 | 21 |
+| [The Dark Pictures Anthology: The Devil in Me](https://psnprofiles.com/guide/15783-the-dark-pictures-anthology-the-devil-in-me-trophy-guide) | 2/10 | 20 | 16.88% | 50,481 | 5/5 | 5 | 26 |
+| [The Dark Pictures Anthology: The Devil in Me](https://psnprofiles.com/guide/15797-the-dark-pictures-anthology-the-devil-in-me-trophy-guide) | 2/10 | 20 | 16.88% | 15,479 | 5/5 | 5 | 12 |
+| [Everybody's Gone To The Rapture](https://psnprofiles.com/guide/3210-everybodys-gone-to-the-rapture-trophy-guide) | 2/10 | 10 | 17.10% | 134,176 | 5/5 | 77 | 371 |
+| [Alekhine's Gun](https://psnprofiles.com/guide/4679-alekhines-gun-trophy-guide) | 2/10 | 8 | 17.21% | 23,337 | 5/5 | 6 | 36 |
+| [Rocket League](https://psnprofiles.com/guide/3048-rocket-league-trophy-guide) | 2/10 | 50 | 17.67% | 265,245 | 4/5 | 135 | 323 |
+| [The Dark Pictures Anthology: House of Ashes](https://psnprofiles.com/guide/13278-the-dark-pictures-anthology-house-of-ashes-trophy-guide) | 2/10 | 25 | 17.80% | 112,637 | 4/5 | 17 | 73 |
+| [Avatar: The Last Airbender - Quest for Balance](https://psnprofiles.com/guide/17691-avatar-the-last-airbender-quest-for-balance-trophy-guide) | 2/10 | 20 | 17.95% | 21,043 |  | 0 | 13 |
+| [Sonic's Ultimate Genesis Collection](https://psnprofiles.com/guide/1149-sonics-ultimate-genesis-collection-trophy-guide) | 2/10 | 10 | 18.01% | 25,921 | 4/5 | 14 | 42 |
+| [Get Up and Dance](https://psnprofiles.com/guide/2172-get-up-and-dance-trophy-guide) | 2/10 | 5 | 18.04% | 1,672 |  | 0 | 3 |
+| [Megaquarium](https://psnprofiles.com/guide/13631-megaquarium-trophy-guide) | 2/10 | 20 | 18.15% | 2,996 |  | 0 | 4 |
+| [Dead or Alive Xtreme 3: Fortune](https://psnprofiles.com/guide/14570-dead-or-alive-xtreme-3-fortune-trophy-guide) | 2/10 | 45 | 18.29% | 11,988 |  | 0 | 15 |
+| [Neptunia: Sisters vs Sisters](https://psnprofiles.com/guide/17617-neptunia-sisters-vs-sisters-trophy-guide) | 2/10 | 30 | 18.30% | 7,222 |  | 0 | 13 |
+| [Dreamfall Chapters](https://psnprofiles.com/guide/19080-dreamfall-chapters-trophy-guide) | 2/10 | 25 | 18.39% | 2,003 |  | 0 | 9 |
+| [Everdream Valley](https://psnprofiles.com/guide/16900-everdream-valley-trophy-guide) | 2/10 | 20 | 18.50% | 6,477 |  | 0 | 9 |
+| [Yet Another Zombie Defense HD](https://psnprofiles.com/guide/19316-yet-another-zombie-defense-hd-trophy-guide) | 2/10 | 5 | 18.58% | 2,606 |  | 0 | 10 |
+| [Infernium](https://psnprofiles.com/guide/7997-infernium-trophy-guide) | 2/10 | 10 | 18.68% | 5,903 |  | 0 | 14 |
+| [Arcade Game Series: Pac-Man](https://psnprofiles.com/guide/4449-arcade-game-series-pac-man-trophy-guide) | 2/10 | 3 | 18.73% | 50,350 | 3/5 | 28 | 66 |
+| [Dante's Inferno](https://psnprofiles.com/guide/6069-dantes-inferno-trophy-guide) | 2/10 | 16 | 18.75% | 62,394 | 5/5 | 21 | 80 |
+| [Yu-Gi-Oh! Legacy of the Duelist: Link Evolution](https://psnprofiles.com/guide/10373-yu-gi-oh-legacy-of-the-duelist-link-evolution-trophy-guide) | 2/10 | 90 | 19.08% | 47,952 | 4/5 | 9 | 25 |
+| [Nippon Marathon](https://psnprofiles.com/guide/8173-nippon-marathon-trophy-guide) | 2/10 | 15 | 19.32% | 15,560 |  | 0 | 13 |
+| [NASCAR Unleashed](https://psnprofiles.com/guide/60-nascar-unleashed-trophy-guide) | 2/10 | 10 | 19.50% | 5,905 |  | 0 | 11 |
+| [Sense: A Cyberpunk Ghost Story](https://psnprofiles.com/guide/11707-sense-a-cyberpunk-ghost-story-trophy-guide) | 2/10 | 12 | 19.52% | 19,486 |  | 0 | 13 |
+| [Death end re;Quest](https://psnprofiles.com/guide/14717-death-end-request-trophy-guide) | 2/10 | 40 | 19.79% | 15,712 |  | 0 | 21 |
+| [Beat Cop](https://psnprofiles.com/guide/8455-beat-cop-trophy-guide) | 2/10 | 8 | 19.91% | 28,380 |  | 0 | 11 |
+| [Tchia](https://psnprofiles.com/guide/16418-tchia-trophy-guide) | 2/10 | 20 | 19.94% | 102,016 | 5/5 | 18 | 94 |
+| [PlayStation Vita Pets](https://psnprofiles.com/guide/12645-playstation-vita-pets-trophy-guide) | 2/10 | 12 | 20.00% | 7,953 | 5/5 | 6 | 12 |
+| [Fate/Extella Link](https://psnprofiles.com/guide/11812-fateextella-link-trophy-guide) | 2/10 | 35 | 20.07% | 23,051 | 3/5 | 5 | 13 |
+| [Scarlet Nexus](https://psnprofiles.com/guide/12423-scarlet-nexus-trophy-guide) | 2/10 | 60 | 20.29% | 141,557 | 5/5 | 25 | 158 |
+| [LEGO The Lord of the Rings](https://psnprofiles.com/guide/15866-lego-the-lord-of-the-rings-trophy-guide) | 2/10 | 20 | 20.33% | 16,475 | 5/5 | 5 | 28 |
+| [LEGO Ninjago Movie: The Videogame](https://psnprofiles.com/guide/6552-lego-ninjago-movie-the-videogame-trophy-guide) | 2/10 | 20 | 20.37% | 96,027 | 5/5 | 32 | 116 |
+| [Digimon Survive](https://psnprofiles.com/guide/18090-digimon-survive-trophy-guide) | 2/10 | 30 | 20.41% | 8,612 |  | 0 | 14 |
+| [Spy Hunter](https://psnprofiles.com/guide/1179-spy-hunter-trophy-guide) | 2/10 | 7 | 20.59% | 10,930 | 4/5 | 6 | 19 |
+| [Webbed](https://psnprofiles.com/guide/13792-webbed-trophy-guide) | 2/10 | 5 | 20.63% | 6,650 |  | 0 | 2 |
+| [Ben 10 Omniverse](https://psnprofiles.com/guide/11-ben-10-omniverse-trophy-guide) | 2/10 | 8 | 20.63% | 12,459 | 4/5 | 5 | 15 |
+| [Sherlock Holmes: Crimes and Punishments](https://psnprofiles.com/guide/1688-sherlock-holmes-crimes-and-punishments-trophy-guide) | 2/10 | 15 | 20.81% | 64,681 | 5/5 | 27 | 143 |
+| [Rime](https://psnprofiles.com/guide/7077-rime-trophy-guide) | 2/10 | 8 | 21.17% | 92,936 | 5/5 | 45 | 191 |
+| [Marooners](https://psnprofiles.com/guide/7933-marooners-trophy-guide) | 2/10 | 12 | 21.18% | 11,535 | 5/5 | 5 | 8 |
+| [Afterparty](https://psnprofiles.com/guide/10018-afterparty-trophy-guide) | 2/10 | 12 | 21.58% | 33,754 | 5/5 | 11 | 23 |
+| [LEGO Harry Potter Collection: Years 1-4](https://psnprofiles.com/guide/5175-lego-harry-potter-collection-years-1-4-trophy-guide) | 2/10 | 25 | 21.68% | 195,415 | 5/5 | 30 | 214 |
+| [Prototype 2](https://psnprofiles.com/guide/10-prototype-2-trophy-guide) | 2/10 | 20 | 21.73% | 49,442 | 5/5 | 17 | 128 |
+| [LEGO Pirates of the Caribbean](https://psnprofiles.com/guide/6221-lego-pirates-of-the-caribbean-trophy-guide) | 2/10 | 20 | 21.81% | 58,318 | 5/5 | 22 | 73 |
+| [Star Trek: Resurgence](https://psnprofiles.com/guide/17587-star-trek-resurgence-trophy-guide) | 2/10 | 20 | 22.01% | 13,800 |  | 0 | 6 |
+| [Skull Island: Rise of Kong](https://psnprofiles.com/guide/18142-skull-island-rise-of-kong-trophy-guide) | 2/10 | 4 | 22.26% | 7,650 |  | 0 | 5 |
+| [Senran Kagura: Peach Beach Splash](https://psnprofiles.com/guide/6583-senran-kagura-peach-beach-splash-trophy-guide) | 2/10 | 25 | 22.28% | 66,547 | 5/5 | 23 | 72 |
+| [SEGA Mega Drive Ultimate Collection](https://psnprofiles.com/guide/3961-sega-mega-drive-ultimate-collection-trophy-guide) | 2/10 | 8 | 22.85% | 20,982 | 5/5 | 5 | 25 |
+| [Paradise Killer](https://psnprofiles.com/guide/18011-paradise-killer-trophy-guide) | 2/10 | 15 | 22.93% | 10,111 | 5/5 | 5 | 17 |
+| [Everything](https://psnprofiles.com/guide/6803-everything-trophy-guide) | 2/10 | 20 | 23.00% | 42,279 | 5/5 | 15 | 30 |
+| [Citizens of Space](https://psnprofiles.com/guide/9942-citizens-of-space-trophy-guide) | 2/10 | 30 | 23.08% | 14,909 |  | 0 | 10 |
+| [Hyperdimension Neptunia U: Action Unleashed](https://psnprofiles.com/guide/2951-hyperdimension-neptunia-u-action-unleashed-trophy-guide) | 2/10 | 50 | 23.20% | 25,518 | 5/5 | 17 | 73 |
+| [The Stanley Parable: Ultra Deluxe](https://psnprofiles.com/guide/14334-the-stanley-parable-ultra-deluxe-trophy-guide) | 2/10 | 28 | 23.36% | 89,931 | 5/5 | 9 | 25 |
+| [The Stanley Parable: Ultra Deluxe](https://psnprofiles.com/guide/14329-the-stanley-parable-ultra-deluxe-trophy-guide) | 2/10 | 28 | 23.36% | 25,100 | 5/5 | 15 | 40 |
+| [Twilight Zone VR](https://psnprofiles.com/guide/19102-twilight-zone-vr-trophy-guide) | 2/10 | 3 | 23.53% | 1,000 |  | 0 | 0 |
+| [Zombieland Double Tap: Road Trip](https://psnprofiles.com/guide/12000-zombieland-double-tap-road-trip-trophy-guide) | 2/10 | 10 | 23.62% | 15,649 |  | 0 | 15 |
+| [Need for Speed](https://psnprofiles.com/guide/3565-need-for-speed-trophy-guide) | 2/10 | 15 | 23.78% | 156,611 | 4/5 | 65 | 238 |
+| [LEGO The Hobbit](https://psnprofiles.com/guide/13991-lego-the-hobbit-trophy-guide) | 2/10 | 35 | 23.81% | 46,564 | 5/5 | 10 | 51 |
+| [Adventure Time: Pirates of the Enchiridion](https://psnprofiles.com/guide/8939-adventure-time-pirates-of-the-enchiridion-trophy-guide) | 2/10 | 12 | 23.85% | 89,523 | 5/5 | 19 | 93 |
+| [Fe](https://psnprofiles.com/guide/7126-fe-trophy-guide) | 2/10 | 8 | 23.90% | 69,255 | 5/5 | 19 | 77 |
+| [Beast Quest](https://psnprofiles.com/guide/10329-beast-quest-trophy-guide) | 2/10 | 6 | 24.01% | 24,706 | 5/5 | 5 | 18 |
+| [Senran Kagura Bon Appetit! (Hanzo x Crimson Squad)](https://psnprofiles.com/guide/2587-senran-kagura-bon-appetit-hanzo-x-crimson-squad-trophy-guide) | 2/10 | 25 | 24.04% | 20,919 | 5/5 | 12 | 40 |
+| [MegaTagmension Blanc + Neptune VS Zombies](https://psnprofiles.com/guide/4403-megatagmension-blanc-neptune-vs-zombies-trophy-guide) | 2/10 | 25 | 24.05% | 46,259 | 5/5 | 17 | 45 |
+| [Celeste](https://psnprofiles.com/guide/7367-celeste-trophy-guide) | 2/10 | 15 | 24.18% | 165,104 | 5/5 | 36 | 160 |
+| [No Heroes Allowed! VR](https://psnprofiles.com/guide/7783-no-heroes-allowed-vr-trophy-guide) | 2/10 | 4 | 24.28% | 9,901 | 5/5 | 5 | 8 |
+| [House Flipper](https://psnprofiles.com/guide/10694-house-flipper-trophy-guide) | 2/10 | 15 | 24.60% | 99,794 | 5/5 | 9 | 67 |
+| [Winds and Leaves](https://psnprofiles.com/guide/16058-winds-and-leaves-trophy-guide) | 2/10 | 10 | 24.78% | 1,684 |  | 0 | 3 |
+| [Re:ZERO -Starting Life in Another World- The Prophecy of the Throne](https://psnprofiles.com/guide/12501-rezero-starting-life-in-another-world-the-prophecy-of-the-throne-trophy-guide) | 2/10 | 15 | 25.02% | 17,822 | 5/5 | 5 | 18 |
+| [Catlateral Damage](https://psnprofiles.com/guide/4135-catlateral-damage-trophy-guide) | 2/10 | 11 | 25.08% | 23,256 | 5/5 | 19 | 36 |
+| [Operation: Tango](https://psnprofiles.com/guide/12308-operation-tango-trophy-guide) | 2/10 | 5 | 25.11% | 63,917 | 5/5 | 14 | 39 |
+| [Awkward](https://psnprofiles.com/guide/7581-awkward-trophy-guide) | 2/10 | 8 | 25.21% | 6,338 |  | 0 | 4 |
+| [Flynn And Freckles](https://psnprofiles.com/guide/7481-flynn-and-freckles-trophy-guide) | 2/10 | 6 | 25.45% | 10,158 |  | 0 | 14 |
+| [One Piece: World Seeker](https://psnprofiles.com/guide/14742-one-piece-world-seeker-trophy-guide) | 2/10 | 25 | 25.47% | 39,388 | 5/5 | 8 | 39 |
+| [Tour de France 2013: 100th Edition](https://psnprofiles.com/guide/10911-tour-de-france-2013-100th-edition-trophy-guide) | 2/10 | 15 | 25.59% | 2,762 |  | 0 | 2 |
+| [Syphon Filter](https://psnprofiles.com/guide/14673-syphon-filter-trophy-guide) | 2/10 | 10 | 25.61% | 75,387 | 5/5 | 17 | 72 |
+| [Timber Tennis: Versus](https://psnprofiles.com/guide/8083-timber-tennis-versus-trophy-guide) | 2/10 | 10 | 25.67% | 30,154 | 5/5 | 8 | 15 |
+| [F1 Manager 2023](https://psnprofiles.com/guide/19510-f1-manager-2023-trophy-guide) | 2/10 | 15 | 25.78% | 2,588 |  | 0 | 9 |
+| [真・三國無双５ Empires](https://psnprofiles.com/guide/7023-%E7%9C%9F%E4%B8%89%E5%9C%8B%E7%84%A1%E5%8F%8C%EF%BC%95-empires-trophy-guide) | 2/10 | 20 | 25.92% | 10,600 |  | 0 | 9 |
+| [Senran Kagura Shinovi Versus](https://psnprofiles.com/guide/1793-senran-kagura-shinovi-versus-trophy-guide) | 2/10 | 30 | 26.26% | 33,693 | 5/5 | 23 | 79 |
+| [Utawarerumono: Prelude to the Fallen](https://psnprofiles.com/guide/10278-utawarerumono-prelude-to-the-fallen-trophy-guide) | 2/10 | 45 | 27.04% | 27,218 | 4/5 | 7 | 17 |
+| [Superdimension Neptune VS Sega Hard Girls](https://psnprofiles.com/guide/5836-superdimension-neptune-vs-sega-hard-girls-trophy-guide) | 2/10 | 25 | 27.09% | 30,918 | 5/5 | 5 | 39 |
+| [巨影都市](https://psnprofiles.com/guide/11738-%E5%B7%A8%E5%BD%B1%E9%83%BD%E5%B8%82-trophy-guide) | 2/10 | 15 | 27.11% | 5,584 |  | 0 | 9 |
+| [LEGO The Incredibles](https://psnprofiles.com/guide/8516-lego-the-incredibles-trophy-guide) | 2/10 | 20 | 27.17% | 75,288 | 4/5 | 26 | 77 |
+| [Naruto: Ultimate Ninja Storm](https://psnprofiles.com/guide/6391-naruto-ultimate-ninja-storm-trophy-guide) | 2/10 | 20 | 27.43% | 109,055 | 5/5 | 29 | 123 |
+| [Wizards Tourney](https://psnprofiles.com/guide/8840-wizards-tourney-trophy-guide) | 2/10 | 4 | 27.58% | 3,778 | 5/5 | 6 | 6 |
+| [One Punch Man: A Hero Nobody Knows](https://psnprofiles.com/guide/10010-one-punch-man-a-hero-nobody-knows-trophy-guide) | 2/10 | 25 | 27.62% | 50,432 | 5/5 | 8 | 40 |
+| [Toy Story Mania!](https://psnprofiles.com/guide/11614-toy-story-mania-trophy-guide) | 2/10 | 5 | 28.04% | 26,088 | 5/5 | 12 | 22 |
+| [Lemon Cake](https://psnprofiles.com/guide/16423-lemon-cake-trophy-guide) | 2/10 | 20 | 28.16% | 5,532 |  | 0 | 8 |
+| [Beep! Beep! Deliveries](https://psnprofiles.com/guide/9504-beep-beep-deliveries-trophy-guide) | 2/10 | 5 | 28.36% | 2,507 |  | 0 | 6 |
+| [The Book of Unwritten Tales 2](https://psnprofiles.com/guide/3372-the-book-of-unwritten-tales-2-trophy-guide) | 2/10 | 18 | 28.50% | 33,786 | 5/5 | 10 | 41 |
+| [Grow: Song of The Evertree](https://psnprofiles.com/guide/15554-grow-song-of-the-evertree-trophy-guide) | 2/10 | 20 | 28.90% | 4,887 |  | 0 | 7 |
+| [WWE Legends of WrestleMania](https://psnprofiles.com/guide/17601-wwe-legends-of-wrestlemania-trophy-guide) | 2/10 | 8 | 29.22% | 5,644 | 5/5 | 5 | 12 |
+| [SpongeBob SquarePants: Plankton's Robotic Revenge](https://psnprofiles.com/guide/1483-spongebob-squarepants-planktons-robotic-revenge-trophy-guide) | 2/10 | 10 | 29.23% | 15,718 | 5/5 | 5 | 17 |
+| [Paw Patrol: Grand Prix](https://psnprofiles.com/guide/15361-paw-patrol-grand-prix-trophy-guide) | 2/10 | 8 | 29.24% | 14,785 |  | 0 | 8 |
+| [Trials of Mana](https://psnprofiles.com/guide/10084-trials-of-mana-trophy-guide) | 2/10 | 40 | 29.31% | 170,740 | 5/5 | 27 | 112 |
+| [Maquette](https://psnprofiles.com/guide/12325-maquette-trophy-guide) | 2/10 | 3 | 29.32% | 12,619 | 5/5 | 9 | 24 |
+| [Kamen Rider: Climax Fighters](https://psnprofiles.com/guide/6957-kamen-rider-climax-fighters-trophy-guide) | 2/10 | 8 | 29.50% | 9,378 |  | 0 | 12 |
+| [Stay Out of the House](https://psnprofiles.com/guide/16988-stay-out-of-the-house-trophy-guide) | 2/10 | 10 | 29.68% | 7,619 |  | 0 | 5 |
+| [Simulacra](https://psnprofiles.com/guide/14746-simulacra-trophy-guide) | 2/10 | 10 | 29.93% | 7,545 |  | 0 | 8 |
+| [The Last Door](https://psnprofiles.com/guide/9998-the-last-door-trophy-guide) | 2/10 | 15 | 30.12% | 16,252 |  | 0 | 6 |
+| [Amnesia: Memories](https://psnprofiles.com/guide/3257-amnesia-memories-trophy-guide) | 2/10 | 10 | 30.15% | 39,688 | 4/5 | 20 | 54 |
+| [Our World is Ended](https://psnprofiles.com/guide/8732-our-world-is-ended-trophy-guide) | 2/10 | 8 | 30.33% | 33,686 | 5/5 | 6 | 30 |
+| [The Forgotten City](https://psnprofiles.com/guide/13198-the-forgotten-city-trophy-guide) | 2/10 | 15 | 30.34% | 83,606 | 4/5 | 11 | 54 |
+| [My Little Pony: A Zephyr Heights Mystery](https://psnprofiles.com/guide/19554-my-little-pony-a-zephyr-heights-mystery-trophy-guide) | 2/10 | 8 | 30.36% | 1,050 |  | 0 | 3 |
+| [Phoenix Wright: Ace Attorney Trilogy](https://psnprofiles.com/guide/8574-phoenix-wright-ace-attorney-trilogy-trophy-guide) | 2/10 | 40 | 30.37% | 148,106 | 5/5 | 42 | 110 |
+| [Aspire: Ina's Tale](https://psnprofiles.com/guide/16903-aspire-inas-tale-trophy-guide) | 2/10 | 3 | 30.53% | 2,763 |  | 0 | 7 |
+| [Dragon Fantasy Book II](https://psnprofiles.com/guide/3684-dragon-fantasy-book-ii-trophy-guide) | 2/10 | 15 | 30.67% | 6,948 | 5/5 | 6 | 26 |
+| [JoJo's Bizarre Adventure: All-Star Battle](https://psnprofiles.com/guide/836-jojos-bizarre-adventure-all-star-battle-trophy-guide) | 2/10 | 8 | 31.22% | 28,800 | 4/5 | 15 | 44 |
+| [Children of Silentown](https://psnprofiles.com/guide/17335-children-of-silentown-trophy-guide) | 2/10 | 15 | 31.25% | 3,507 |  | 0 | 7 |
+| [Blue Reflection](https://psnprofiles.com/guide/6554-blue-reflection-trophy-guide) | 2/10 | 30 | 31.47% | 63,123 | 5/5 | 16 | 68 |
+| [Dungeon Encounters](https://psnprofiles.com/guide/13092-dungeon-encounters-trophy-guide) | 2/10 | 15 | 31.60% | 17,118 | 5/5 | 5 | 7 |
+| [Konosuba: God's Blessing on This Wonderful World! Love for These Clothes of Desire!](https://psnprofiles.com/guide/18871-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire-trophy-guide) | 2/10 | 35 | 31.61% | 2,675 |  | 0 | 2 |
+| [Killer Frequency](https://psnprofiles.com/guide/16951-killer-frequency-trophy-guide) | 2/10 | 10 | 31.67% | 20,832 | 5/5 | 6 | 8 |
+| [Ice Age: Scrat's Nutty Adventure](https://psnprofiles.com/guide/12641-ice-age-scrats-nutty-adventure-trophy-guide) | 2/10 | 7 | 31.74% | 91,551 | 4/5 | 16 | 76 |
+| [Theatrhythm: Final Bar Line](https://psnprofiles.com/guide/16258-theatrhythm-final-bar-line-trophy-guide) | 2/10 | 50 | 31.81% | 54,542 | 5/5 | 18 | 37 |
+| [The Outbound Ghost](https://psnprofiles.com/guide/15653-the-outbound-ghost-trophy-guide) | 2/10 | 12 | 31.82% | 5,924 |  | 0 | 6 |
+| [LEGO Batman 3: Beyond Gotham](https://psnprofiles.com/guide/18295-lego-batman-3-beyond-gotham-trophy-guide) | 2/10 | 25 | 31.87% | 4,972 |  | 0 | 12 |
+| [A Way Out](https://psnprofiles.com/guide/7228-a-way-out-trophy-guide) | 2/10 | 7 | 32.18% | 286,041 | 5/5 | 87 | 194 |
+| [Volume](https://psnprofiles.com/guide/3495-volume-trophy-guide) | 2/10 | 7 | 32.31% | 16,145 | 5/5 | 14 | 64 |
+| [Phantom Breaker: Omnia](https://psnprofiles.com/guide/15584-phantom-breaker-omnia-trophy-guide) | 2/10 | 10 | 32.34% | 7,500 | 4/5 | 5 | 10 |
+| [Ape Escape: On the Loose](https://psnprofiles.com/guide/17410-ape-escape-on-the-loose-trophy-guide) | 2/10 | 8 | 32.48% | 11,740 |  | 0 | 17 |
+| [Spirit of the North: Enhanced Edition](https://psnprofiles.com/guide/11479-spirit-of-the-north-enhanced-edition-trophy-guide) | 2/10 | 10 | 32.51% | 90,921 | 5/5 | 15 | 97 |
+| [Generator Rex: Agent of Providence](https://psnprofiles.com/guide/6049-generator-rex-agent-of-providence-trophy-guide) | 2/10 | 10 | 32.53% | 7,912 |  | 0 | 15 |
+| [Röki](https://psnprofiles.com/guide/14648-r%C3%B6ki-trophy-guide) | 2/10 | 7 | 32.73% | 38,539 | 3/5 | 5 | 26 |
+| [Barn Finders](https://psnprofiles.com/guide/18480-barn-finders-trophy-guide) | 2/10 | 12 | 32.85% | 3,033 |  | 0 | 6 |
+| [Summer in Mara](https://psnprofiles.com/guide/16888-summer-in-mara-trophy-guide) | 2/10 | 25 | 32.97% | 3,294 |  | 0 | 10 |
+| [Kids on Site: Hard Hat Edition](https://psnprofiles.com/guide/17730-kids-on-site-hard-hat-edition-trophy-guide) | 2/10 | 5 | 33.33% | 1,330 |  | 0 | 5 |
+| [LEGO Movie 2: The Videogame](https://psnprofiles.com/guide/12051-lego-movie-2-the-videogame-trophy-guide) | 2/10 | 16 | 33.51% | 30,379 | 5/5 | 8 | 45 |
+| [ミリオンアーサー アルカナブラッド](https://psnprofiles.com/guide/11425-%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC-%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%96%E3%83%A9%E3%83%83%E3%83%89-trophy-guide) | 2/10 | 2 | 34.16% | 4,218 |  | 0 | 6 |
+| [Twin Mirror](https://psnprofiles.com/guide/13082-twin-mirror-trophy-guide) | 2/10 | 10 | 34.36% | 27,896 | 5/5 | 5 | 24 |
+| [Serial Cleaners](https://psnprofiles.com/guide/15275-serial-cleaners-trophy-guide) | 2/10 | 6 | 34.69% | 7,868 |  | 0 | 10 |
+| [Hellblade: Senua's Sacrifice](https://psnprofiles.com/guide/11814-hellblade-senuas-sacrifice-trophy-guide) | 2/10 | 8 | 34.70% | 18,533 | 5/5 | 11 | 36 |
+| [MediEvil: Resurrection](https://psnprofiles.com/guide/19702-medievil-resurrection-trophy-guide) | 2/10 | 10 | 34.80% | 1,641 |  | 0 | 5 |
+| [Arcade Game Series: Ms. Pac-Man](https://psnprofiles.com/guide/4486-arcade-game-series-ms-pac-man-trophy-guide) | 2/10 | 2 | 34.86% | 22,268 | 5/5 | 12 | 36 |
+| [Deiland](https://psnprofiles.com/guide/8037-deiland-trophy-guide) | 2/10 | 20 | 34.90% | 24,361 |  | 0 | 15 |
+| [Sonic Frontiers](https://psnprofiles.com/guide/15595-sonic-frontiers-trophy-guide) | 2/10 | 25 | 35.03% | 52,171 | 5/5 | 6 | 56 |
+| [Ape Escape](https://psnprofiles.com/guide/14634-ape-escape-trophy-guide) | 2/10 | 8 | 35.05% | 83,841 | 5/5 | 15 | 106 |
+| [Corpse Party](https://psnprofiles.com/guide/13158-corpse-party-trophy-guide) | 2/10 | 10 | 35.12% | 22,287 |  | 0 | 22 |
+| [Day of the Tentacle](https://psnprofiles.com/guide/4149-day-of-the-tentacle-trophy-guide) | 2/10 | 6 | 35.14% | 77,761 | 5/5 | 47 | 153 |
+| [Shadow Warrior 3](https://psnprofiles.com/guide/14418-shadow-warrior-3-trophy-guide) | 2/10 | 9 | 35.17% | 30,159 | 5/5 | 8 | 34 |
+| [RetroMania Wrestling](https://psnprofiles.com/guide/16530-retromania-wrestling-trophy-guide) | 2/10 | 2 | 35.34% | 2,340 |  | 0 | 8 |
+| [Deliver Us The Moon](https://psnprofiles.com/guide/16487-deliver-us-the-moon-trophy-guide) | 2/10 | 8 | 35.43% | 58,118 | 5/5 | 12 | 101 |
+| [Beyond a Steel Sky](https://psnprofiles.com/guide/14468-beyond-a-steel-sky-trophy-guide) | 2/10 | 10 | 35.83% | 12,515 |  | 0 | 11 |
+| [Tales of Arise](https://psnprofiles.com/guide/12881-tales-of-arise-trophy-guide) | 2/10 | 60 | 35.86% | 184,548 | 5/5 | 21 | 179 |
+| [Murdered: Soul Suspect](https://psnprofiles.com/guide/2518-murdered-soul-suspect-trophy-guide) | 2/10 | 7 | 36.36% | 100,138 | 4/5 | 58 | 178 |
+| [Bugsnax](https://psnprofiles.com/guide/11217-bugsnax-trophy-guide) | 2/10 | 15 | 36.37% | 210,747 | 4/5 | 86 | 239 |
+| [激次元タッグ ブラン＋ネプテューヌVSゾンビ軍団](https://psnprofiles.com/guide/3493-%E6%BF%80%E6%AC%A1%E5%85%83%E3%82%BF%E3%83%83%E3%82%B0-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%8D%E3%83%97%E3%83%86%E3%83%A5%E3%83%BC%E3%83%8Cvs%E3%82%BE%E3%83%B3%E3%83%93%E8%BB%8D%E5%9B%A3-trophy-guide) | 2/10 | 25 | 36.37% | 6,167 |  | 0 | 16 |
+| [Semispheres](https://psnprofiles.com/guide/6173-semispheres-trophy-guide) | 2/10 | 1 | 36.38% | 7,558 |  | 0 | 15 |
+| [Toro](https://psnprofiles.com/guide/7267-toro-trophy-guide) | 2/10 | 10 | 36.60% | 12,276 |  | 0 | 16 |
+| [Under Defeat HD: Deluxe Edition](https://psnprofiles.com/guide/2155-under-defeat-hd-deluxe-edition-trophy-guide) | 2/10 | 5 | 36.77% | 5,594 | 4/5 | 5 | 14 |
+| [Accounting+](https://psnprofiles.com/guide/7052-accounting-trophy-guide) | 2/10 | 2 | 36.82% | 18,827 | 5/5 | 8 | 14 |
+| [Quake II](https://psnprofiles.com/guide/18764-quake-ii-trophy-guide) | 2/10 | 6 | 36.92% | 6,084 |  | 0 | 15 |
+| [Subnautica: Below Zero](https://psnprofiles.com/guide/13391-subnautica-below-zero-trophy-guide) | 2/10 | 10 | 36.97% | 52,446 | 5/5 | 7 | 41 |
+| [Resistance: Burning Skies](https://psnprofiles.com/guide/1072-resistance-burning-skies-trophy-guide) | 2/10 | 10 | 37.22% | 36,980 | 4/5 | 22 | 44 |
+| [Mighty Goose](https://psnprofiles.com/guide/19563-mighty-goose-trophy-guide) | 2/10 | 15 | 38.16% | 814 |  | 0 | 1 |
+| [The Pathless](https://psnprofiles.com/guide/11808-the-pathless-trophy-guide) | 2/10 | 15 | 38.50% | 45,778 | 5/5 | 15 | 62 |
+| [Green Lantern: Rise of the Manhunters](https://psnprofiles.com/guide/6408-green-lantern-rise-of-the-manhunters-trophy-guide) | 2/10 | 8 | 38.73% | 14,269 | 4/5 | 9 | 34 |
+| [Alchemist Simulator](https://psnprofiles.com/guide/15605-alchemist-simulator-trophy-guide) | 2/10 | 5 | 39.06% | 6,033 |  | 0 | 6 |
+| [Dragon Sinker](https://psnprofiles.com/guide/7072-dragon-sinker-trophy-guide) | 2/10 | 25 | 39.28% | 28,867 | 3/5 | 6 | 19 |
+| [We Were Here Expeditions: The FriendShip](https://psnprofiles.com/guide/17793-we-were-here-expeditions-the-friendship-trophy-guide) | 2/10 | 4 | 39.34% | 14,706 |  | 0 | 8 |
+| [The 25th Ward: The Silver Case](https://psnprofiles.com/guide/13213-the-25th-ward-the-silver-case-trophy-guide) | 2/10 | 20 | 39.38% | 7,171 |  | 0 | 9 |
+| [Back to the Future: The Game](https://psnprofiles.com/guide/15118-back-to-the-future-the-game-trophy-guide) | 2/10 | 10 | 39.70% | 14,891 | 5/5 | 6 | 26 |
+| [Dragonride VR](https://psnprofiles.com/guide/15289-dragonride-vr-trophy-guide) | 2/10 | 4 | 39.73% | 1,875 |  | 0 | 1 |
+| [Tekken 8](https://psnprofiles.com/guide/18632-tekken-8-trophy-guide) | 2/10 | 7 | 39.79% | 34,376 | 4/5 | 17 | 29 |
+| [We Were Here](https://psnprofiles.com/guide/17961-we-were-here-trophy-guide) | 2/10 | 5 | 40.25% | 10,281 |  | 0 | 12 |
+| [The Addams Family: Mansion Mayhem](https://psnprofiles.com/guide/19158-the-addams-family-mansion-mayhem-trophy-guide) | 2/10 | 6 | 40.29% | 1,546 |  | 0 | 9 |
+| [Cyberdimension Neptunia: 4 Goddesses Online](https://psnprofiles.com/guide/7388-cyberdimension-neptunia-4-goddesses-online-trophy-guide) | 2/10 | 20 | 40.87% | 34,874 | 5/5 | 6 | 38 |
+| [Hellblade: Senua's Sacrifice](https://psnprofiles.com/guide/6346-hellblade-senuas-sacrifice-trophy-guide) | 2/10 | 8 | 41.07% | 107,280 | 5/5 | 29 | 180 |
+| [Timothy vs the Aliens](https://psnprofiles.com/guide/7038-timothy-vs-the-aliens-trophy-guide) | 2/10 | 5 | 41.32% | 14,602 | 5/5 | 5 | 15 |
+| [Antiquia Lost](https://psnprofiles.com/guide/13257-antiquia-lost-trophy-guide) | 2/10 | 15 | 41.48% | 5,836 |  | 0 | 9 |
+| [Song of Memories](https://psnprofiles.com/guide/14319-song-of-memories-trophy-guide) | 2/10 | 60 | 41.66% | 5,673 |  | 0 | 8 |
+| [Ikai](https://psnprofiles.com/guide/17791-ikai-trophy-guide) | 2/10 | 2 | 41.75% | 4,091 |  | 0 | 11 |
+| [Life is Strange 2](https://psnprofiles.com/guide/9772-life-is-strange-2-trophy-guide) | 2/10 | 13 | 41.85% | 199,927 | 5/5 | 35 | 160 |
+| [Fairy Tail](https://psnprofiles.com/guide/12912-fairy-tail-trophy-guide) | 2/10 | 40 | 41.88% | 14,624 | 5/5 | 5 | 15 |
+| [Agatha Christie: Murder on the Orient Express](https://psnprofiles.com/guide/18196-agatha-christie-murder-on-the-orient-express-trophy-guide) | 2/10 | 12 | 42.28% | 7,449 |  | 0 | 8 |
+| [The Wild at Heart](https://psnprofiles.com/guide/16014-the-wild-at-heart-trophy-guide) | 2/10 | 10 | 42.99% | 49,532 | 5/5 | 11 | 34 |
+| [Whitetail Challenge](https://psnprofiles.com/guide/5030-whitetail-challenge-trophy-guide) | 2/10 | 8 | 43.13% | 3,974 |  | 0 | 6 |
+| [Stab Stab Stab!](https://psnprofiles.com/guide/15230-stab-stab-stab-trophy-guide) | 2/10 | 2 | 43.16% | 1,802 |  | 0 | 2 |
 | [Persona 5 Royal](https://psnprofiles.com/guide/9920-persona-5-royal-trophy-guide) | 2/10 | 120 | 43.24% | 701,720 | 5/5 | 57 | 479 |
+| [Foreclosed](https://psnprofiles.com/guide/14353-foreclosed-trophy-guide) | 2/10 | 3 | 43.31% | 41,647 | 4/5 | 10 | 39 |
+| [Undertale](https://psnprofiles.com/guide/6344-undertale-trophy-guide) | 2/10 | 5 | 43.41% | 185,665 | 4/5 | 54 | 231 |
+| [Tinykin](https://psnprofiles.com/guide/18665-tinykin-trophy-guide) | 2/10 | 8 | 43.51% | 17,011 |  | 0 | 29 |
+| [Castle on the Coast](https://psnprofiles.com/guide/16404-castle-on-the-coast-trophy-guide) | 2/10 | 6 | 43.59% | 3,449 |  | 0 | 7 |
+| [Paw Patrol World](https://psnprofiles.com/guide/18009-paw-patrol-world-trophy-guide) | 2/10 | 4 | 43.68% | 6,505 |  | 0 | 8 |
+| [Duke Nukem 3D: 20th Anniversary World Tour](https://psnprofiles.com/guide/9778-duke-nukem-3d-20th-anniversary-world-tour-trophy-guide) | 2/10 | 3 | 43.86% | 43,588 | 5/5 | 12 | 34 |
+| [Voice of Cards: The Isle Dragon Roars](https://psnprofiles.com/guide/13159-voice-of-cards-the-isle-dragon-roars-trophy-guide) | 2/10 | 20 | 43.86% | 38,809 | 5/5 | 5 | 18 |
+| [Geometric Sniper](https://psnprofiles.com/guide/16044-geometric-sniper-trophy-guide) | 2/10 | 3 | 43.89% | 11,871 | 5/5 | 6 | 7 |
+| [Spyro the Dragon](https://psnprofiles.com/guide/8021-spyro-the-dragon-trophy-guide) | 2/10 | 7 | 44.23% | 202,139 | 5/5 | 77 | 295 |
+| [LEGO Legends of Chima](https://psnprofiles.com/guide/11712-lego-legends-of-chima-trophy-guide) | 2/10 | 15 | 44.25% | 13,256 | 4/5 | 9 | 12 |
+| [Code: Realize - Guardian of Rebirth](https://psnprofiles.com/guide/3514-code-realize-guardian-of-rebirth-trophy-guide) | 2/10 | 10 | 44.64% | 47,442 | 5/5 | 30 | 68 |
+| [Maneater](https://psnprofiles.com/guide/10241-maneater-trophy-guide) | 2/10 | 12 | 44.64% | 230,639 | 5/5 | 27 | 272 |
+| [LEGO Jurassic World](https://psnprofiles.com/guide/3009-lego-jurassic-world-trophy-guide) | 2/10 | 12 | 44.74% | 85,588 | 4/5 | 10 | 137 |
+| [Sonic Origins](https://psnprofiles.com/guide/14747-sonic-origins-trophy-guide) | 2/10 | 7 | 45.10% | 43,267 | 4/5 | 10 | 41 |
+| [Hello Neighbor 2](https://psnprofiles.com/guide/19066-hello-neighbor-2-trophy-guide) | 2/10 | 1 | 45.19% | 18,590 | 5/5 | 9 | 31 |
+| [Martha is Dead](https://psnprofiles.com/guide/14149-martha-is-dead-trophy-guide) | 2/10 | 8 | 45.28% | 27,196 | 5/5 | 6 | 22 |
+| [Persona 3: Dancing in Moonlight](https://psnprofiles.com/guide/8132-persona-3-dancing-in-moonlight-trophy-guide) | 2/10 | 9 | 45.46% | 120,154 | 5/5 | 31 | 72 |
+| [Sherlock Holmes: The Devil's Daughter](https://psnprofiles.com/guide/12107-sherlock-holmes-the-devils-daughter-trophy-guide) | 2/10 | 12 | 45.72% | 11,247 | 5/5 | 8 | 21 |
+| [Sherlock Holmes: The Devil's Daughter](https://psnprofiles.com/guide/5499-sherlock-holmes-the-devils-daughter-trophy-guide) | 2/10 | 15 | 45.72% | 74,250 | 5/5 | 29 | 106 |
+| [One Piece: Pirate Warriors 4](https://psnprofiles.com/guide/19275-one-piece-pirate-warriors-4-trophy-guide) | 2/10 | 20 | 45.88% | 3,494 |  | 0 | 10 |
+| [Night at the Gates of Hell](https://psnprofiles.com/guide/17618-night-at-the-gates-of-hell-trophy-guide) | 2/10 | 10 | 46.15% | 3,797 |  | 0 | 5 |
+| [Seasons After Fall](https://psnprofiles.com/guide/7124-seasons-after-fall-trophy-guide) | 2/10 | 8 | 46.37% | 93,939 | 5/5 | 24 | 64 |
+| [Islanders](https://psnprofiles.com/guide/12837-islanders-trophy-guide) | 2/10 | 4 | 46.38% | 14,617 |  | 0 | 11 |
+| [Broken Sword 5: The Serpent's Curse](https://psnprofiles.com/guide/3307-broken-sword-5-the-serpents-curse-trophy-guide) | 2/10 | 6 | 46.49% | 45,248 | 5/5 | 10 | 29 |
+| [AI: The Somnium Files](https://psnprofiles.com/guide/10001-ai-the-somnium-files-trophy-guide) | 2/10 | 30 | 46.53% | 71,135 | 4/5 | 17 | 44 |
+| [The DioField Chronicle](https://psnprofiles.com/guide/15483-the-diofield-chronicle-trophy-guide) | 2/10 | 30 | 46.83% | 18,108 | 5/5 | 6 | 29 |
 | [Astro's Playroom](https://psnprofiles.com/guide/11237-astros-playroom-trophy-guide) | 2/10 | 5 | 46.93% | 317,072 | 5/5 | 168 | 311 |
+| [Fernz Gate](https://psnprofiles.com/guide/8584-fernz-gate-trophy-guide) | 2/10 | 25 | 46.99% | 7,904 |  | 0 | 13 |
+| [Crow Country](https://psnprofiles.com/guide/19675-crow-country-trophy-guide) | 2/10 | 2 | 47.07% | 3,392 |  | 0 | 14 |
+| [SpongeBob HeroPants](https://psnprofiles.com/guide/5902-spongebob-heropants-trophy-guide) | 2/10 | 10 | 47.31% | 22,286 | 5/5 | 7 | 29 |
+| [初音ミク Project DIVA Future Tone DX](https://psnprofiles.com/guide/9219-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-project-diva-future-tone-dx-trophy-guide) | 2/10 | 2 | 47.90% | 8,720 | 5/5 | 6 | 8 |
+| [Kanjozoku](https://psnprofiles.com/guide/16774-kanjozoku-trophy-guide) | 2/10 | 3 | 48.24% | 4,881 |  | 0 | 4 |
+| [LEGO Ninjago: Shadow of Ronin](https://psnprofiles.com/guide/3250-lego-ninjago-shadow-of-ronin-trophy-guide) | 2/10 | 10 | 48.30% | 14,536 | 5/5 | 6 | 22 |
+| [FreezeME](https://psnprofiles.com/guide/5936-freezeme-trophy-guide) | 2/10 | 5 | 48.37% | 4,967 |  | 0 | 16 |
+| [Steins;Gate Elite](https://psnprofiles.com/guide/8562-steinsgate-elite-trophy-guide) | 2/10 | 30 | 48.58% | 47,605 | 4/5 | 8 | 40 |
+| [Sly Cooper and the Thievius Raccoonus](https://psnprofiles.com/guide/3715-sly-cooper-and-the-thievius-raccoonus-trophy-guide) | 2/10 | 10 | 48.94% | 92,531 | 5/5 | 35 | 125 |
+| [Minit](https://psnprofiles.com/guide/7298-minit-trophy-guide) | 2/10 | 5 | 49.07% | 64,923 | 4/5 | 15 | 53 |
+| [Treasure Hunter Simulator](https://psnprofiles.com/guide/17278-treasure-hunter-simulator-trophy-guide) | 2/10 | 8 | 49.08% | 3,013 | 5/5 | 6 | 6 |
+| [Lake](https://psnprofiles.com/guide/14455-lake-trophy-guide) | 2/10 | 6 | 49.19% | 39,575 | 5/5 | 19 | 85 |
+| [Costume Kingdom](https://psnprofiles.com/guide/10945-costume-kingdom-trophy-guide) | 2/10 | 4 | 49.23% | 2,013 |  | 0 | 5 |
+| [五等分の花嫁∬　～夏の思い出も五等分～ 限定版](https://psnprofiles.com/guide/11923-%E4%BA%94%E7%AD%89%E5%88%86%E3%81%AE%E8%8A%B1%E5%AB%81-%E5%A4%8F%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA%E3%82%82%E4%BA%94%E7%AD%89%E5%88%86-%E9%99%90%E5%AE%9A%E7%89%88-trophy-guide) | 2/10 | 20 | 49.26% | 5,573 |  | 0 | 5 |
+| [Assassin's Creed Mirage](https://psnprofiles.com/guide/17792-assassins-creed-mirage-trophy-guide) | 2/10 | 25 | 49.89% | 34,888 | 5/5 | 18 | 66 |
+| [Trine 3: The Artifacts of Power](https://psnprofiles.com/guide/3729-trine-3-the-artifacts-of-power-trophy-guide) | 2/10 | 6 | 49.93% | 25,564 | 5/5 | 8 | 54 |
+| [AI: The Somnium Files - nirvanA Initiative](https://psnprofiles.com/guide/14824-ai-the-somnium-files-nirvana-initiative-trophy-guide) | 2/10 | 30 | 50.09% | 32,384 | 5/5 | 5 | 18 |
+| [The Sexy Brutale](https://psnprofiles.com/guide/5987-the-sexy-brutale-trophy-guide) | 2/10 | 5 | 50.57% | 32,456 | 5/5 | 14 | 47 |
+| [McPixel 3](https://psnprofiles.com/guide/16979-mcpixel-3-trophy-guide) | 2/10 | 6 | 50.68% | 30,119 |  | 0 | 1 |
+| [ブイブイブイテューヌ](https://psnprofiles.com/guide/10723-%E3%83%96%E3%82%A4%E3%83%96%E3%82%A4%E3%83%96%E3%82%A4%E3%83%86%E3%83%A5%E3%83%BC%E3%83%8C-trophy-guide) | 2/10 | 15 | 50.98% | 13,709 |  | 0 | 6 |
+| [Scarf](https://psnprofiles.com/guide/17115-scarf-trophy-guide) | 2/10 | 8 | 51.19% | 3,011 |  | 0 | 6 |
+| [NORN9 Var Commons](https://psnprofiles.com/guide/4085-norn9-var-commons-trophy-guide) | 2/10 | 10 | 51.23% | 7,791 | 4/5 | 5 | 10 |
+| [Twelve Minutes](https://psnprofiles.com/guide/13704-twelve-minutes-trophy-guide) | 2/10 | 6 | 51.26% | 30,326 |  | 0 | 17 |
+| [Paw Patrol: Mighty Pups](https://psnprofiles.com/guide/11789-paw-patrol-mighty-pups-trophy-guide) | 2/10 | 4 | 51.34% | 36,064 | 5/5 | 5 | 25 |
+| [Deliver Us Mars](https://psnprofiles.com/guide/19351-deliver-us-mars-trophy-guide) | 2/10 | 10 | 51.74% | 9,446 |  | 0 | 28 |
+| [嘘つき姫と盲目王子](https://psnprofiles.com/guide/7546-%E5%98%98%E3%81%A4%E3%81%8D%E5%A7%AB%E3%81%A8%E7%9B%B2%E7%9B%AE%E7%8E%8B%E5%AD%90-trophy-guide) | 2/10 | 8 | 51.87% | 11,530 |  | 0 | 15 |
+| [ラブライブ！ School idol paradise Vol.2 BiBi](https://psnprofiles.com/guide/3801-%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96-school-idol-paradise-vol2-bibi-trophy-guide) | 2/10 | 10 | 52.04% | 5,765 |  | 0 | 11 |
+| [13 Sentinels: Aegis Rim](https://psnprofiles.com/guide/15854-13-sentinels-aegis-rim-trophy-guide) | 2/10 | 35 | 52.05% | 52,697 | 5/5 | 12 | 62 |
+| [ラブライブ！ School idol paradise Vol.1 Printemps](https://psnprofiles.com/guide/3802-%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96-school-idol-paradise-vol1-printemps-trophy-guide) | 2/10 | 10 | 52.45% | 12,454 | 5/5 | 5 | 14 |
+| [Dordogne](https://psnprofiles.com/guide/18914-dordogne-trophy-guide) | 2/10 | 4 | 52.65% | 3,486 |  | 0 | 10 |
+| [Word Search by POWGI](https://psnprofiles.com/guide/7698-word-search-by-powgi-trophy-guide) | 2/10 | 18 | 52.73% | 37,258 | 5/5 | 5 | 26 |
+| [Terminator Salvation](https://psnprofiles.com/guide/10309-terminator-salvation-trophy-guide) | 2/10 | 6 | 52.98% | 10,558 | 5/5 | 6 | 17 |
+| [Goosebumps: The Game](https://psnprofiles.com/guide/6238-goosebumps-the-game-trophy-guide) | 2/10 | 4 | 53.04% | 78,033 | 5/5 | 18 | 32 |
+| [Gris](https://psnprofiles.com/guide/11511-gris-trophy-guide) | 2/10 | 5 | 53.05% | 77,805 | 4/5 | 30 | 70 |
+| [Chaos;Child](https://psnprofiles.com/guide/11475-chaoschild-trophy-guide) | 2/10 | 50 | 53.83% | 19,438 |  | 0 | 20 |
+| [Tales from the Borderlands](https://psnprofiles.com/guide/15022-tales-from-the-borderlands-trophy-guide) | 2/10 | 12 | 53.94% | 16,592 | 5/5 | 5 | 27 |
+| [Process of Elimination](https://psnprofiles.com/guide/16916-process-of-elimination-trophy-guide) | 2/10 | 20 | 54.31% | 4,119 |  | 0 | 5 |
+| [Summertime Madness](https://psnprofiles.com/guide/13772-summertime-madness-trophy-guide) | 2/10 | 4 | 54.40% | 2,822 |  | 0 | 4 |
+| [Sly 2: Band of Thieves](https://psnprofiles.com/guide/3716-sly-2-band-of-thieves-trophy-guide) | 2/10 | 14 | 54.61% | 71,222 | 5/5 | 22 | 98 |
+| [Bonfire](https://psnprofiles.com/guide/9317-bonfire-trophy-guide) | 2/10 | 1 | 54.70% | 5,931 | 5/5 | 6 | 6 |
+| [Deponia](https://psnprofiles.com/guide/13351-deponia-trophy-guide) | 2/10 | 4 | 55.32% | 15,556 | 5/5 | 7 | 20 |
+| [Zorro: The Chronicles](https://psnprofiles.com/guide/14981-zorro-the-chronicles-trophy-guide) | 2/10 | 5 | 55.35% | 8,700 |  | 0 | 11 |
+| [Call of the Sea](https://psnprofiles.com/guide/17472-call-of-the-sea-trophy-guide) | 2/10 | 3 | 55.60% | 33,359 | 5/5 | 17 | 53 |
+| [MediEvil](https://psnprofiles.com/guide/19318-medievil-trophy-guide) | 2/10 | 10 | 55.62% | 6,261 |  | 0 | 18 |
+| [Coffee Talk](https://psnprofiles.com/guide/9700-coffee-talk-trophy-guide) | 2/10 | 2 | 55.67% | 51,377 | 4/5 | 20 | 45 |
+| [SkyScrappers](https://psnprofiles.com/guide/3858-skyscrappers-trophy-guide) | 2/10 | 3 | 55.67% | 21,239 | 4/5 | 6 | 25 |
+| [Intruders: Hide and Seek](https://psnprofiles.com/guide/12889-intruders-hide-and-seek-trophy-guide) | 2/10 | 3 | 56.30% | 9,678 |  | 0 | 7 |
+| [The Shapeshifting Detective](https://psnprofiles.com/guide/10088-the-shapeshifting-detective-trophy-guide) | 2/10 | 3 | 56.32% | 21,636 | 5/5 | 8 | 16 |
 | [Ratchet & Clank: Rift Apart](https://psnprofiles.com/guide/12355-ratchet-clank-rift-apart-trophy-guide) | 2/10 | 10 | 57.40% | 433,576 | 5/5 | 133 | 482 |
+| [Bunny Raiders](https://psnprofiles.com/guide/14009-bunny-raiders-trophy-guide) | 2/10 | 2 | 57.73% | 41,110 | 5/5 | 8 | 29 |
+| [ラブライブ！ School idol paradise Vol.3 lily white](https://psnprofiles.com/guide/3770-%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96-school-idol-paradise-vol3-lily-white-trophy-guide) | 2/10 | 10 | 58.50% | 5,659 | 5/5 | 5 | 11 |
+| [Déraciné](https://psnprofiles.com/guide/9099-d%C3%A9racin%C3%A9-trophy-guide) | 2/10 | 3 | 60.19% | 13,662 | 4/5 | 5 | 10 |
+| [Ryan's Rescue Squad](https://psnprofiles.com/guide/14087-ryans-rescue-squad-trophy-guide) | 2/10 | 3 | 60.85% | 4,626 |  | 0 | 3 |
+| [Meow Motors](https://psnprofiles.com/guide/10180-meow-motors-trophy-guide) | 2/10 | 8 | 60.90% | 5,618 |  | 0 | 8 |
+| [Knee Deep](https://psnprofiles.com/guide/6218-knee-deep-trophy-guide) | 2/10 | 8 | 61.05% | 7,156 |  | 0 | 14 |
+| [Life is Strange: True Colors](https://psnprofiles.com/guide/12910-life-is-strange-true-colors-trophy-guide) | 2/10 | 6 | 61.92% | 151,017 | 5/5 | 36 | 166 |
+| [Life is Strange: Before the Storm](https://psnprofiles.com/guide/6394-life-is-strange-before-the-storm-trophy-guide) | 2/10 | 8 | 62.56% | 138,626 | 5/5 | 57 | 175 |
+| [Terminator: Resistance](https://psnprofiles.com/guide/9619-terminator-resistance-trophy-guide) | 2/10 | 10 | 62.67% | 66,783 | 5/5 | 14 | 66 |
+| [Wheels of Aurelia](https://psnprofiles.com/guide/5226-wheels-of-aurelia-trophy-guide) | 2/10 | 6 | 63.21% | 26,762 | 4/5 | 8 | 25 |
+| [Virginia](https://psnprofiles.com/guide/7033-virginia-trophy-guide) | 2/10 | 3 | 63.48% | 57,474 | 4/5 | 28 | 61 |
+| [Choo-Choo Charles](https://psnprofiles.com/guide/18309-choo-choo-charles-trophy-guide) | 2/10 | 5 | 64.04% | 11,643 |  | 0 | 8 |
+| [Cannibal Abduction](https://psnprofiles.com/guide/18742-cannibal-abduction-trophy-guide) | 2/10 | 2 | 64.10% | 2,729 |  | 0 | 7 |
+| [Cabela's Adventure Camp](https://psnprofiles.com/guide/998-cabelas-adventure-camp-trophy-guide) | 2/10 | 3 | 64.27% | 4,233 | 3/5 | 5 | 8 |
+| [Last Stop](https://psnprofiles.com/guide/14729-last-stop-trophy-guide) | 2/10 | 7 | 64.53% | 66,275 | 5/5 | 20 | 58 |
+| [Brothers: A Tale of Two Sons Remake](https://psnprofiles.com/guide/19054-brothers-a-tale-of-two-sons-remake-trophy-guide) | 2/10 | 4 | 64.69% | 5,907 | 5/5 | 5 | 11 |
+| [Gem Smashers](https://psnprofiles.com/guide/6022-gem-smashers-trophy-guide) | 2/10 | 3 | 64.90% | 32,179 | 4/5 | 12 | 21 |
+| [Hannah Montana The Movie](https://psnprofiles.com/guide/3094-hannah-montana-the-movie-trophy-guide) | 2/10 | 4 | 65.40% | 16,510 | 5/5 | 8 | 13 |
+| [Newt One](https://psnprofiles.com/guide/9064-newt-one-trophy-guide) | 2/10 | 4 | 65.54% | 5,037 |  | 0 | 6 |
+| [Bluey](https://psnprofiles.com/guide/18129-bluey-trophy-guide) | 2/10 | 2 | 66.00% | 16,143 |  | 0 | 10 |
+| [Fast & Furious: Spy Racers Rise of SH1FT3R](https://psnprofiles.com/guide/13417-fast-furious-spy-racers-rise-of-sh1ft3r-trophy-guide) | 2/10 | 3 | 66.84% | 52,604 | 5/5 | 8 | 29 |
+| [A Short Hike](https://psnprofiles.com/guide/13264-a-short-hike-trophy-guide) | 2/10 | 4 | 66.95% | 43,829 | 5/5 | 19 | 40 |
+| [Final Fantasy II](https://psnprofiles.com/guide/16576-final-fantasy-ii-trophy-guide) | 2/10 | 20 | 66.96% | 74,432 | 5/5 | 66 | 88 |
+| [Hitman GO](https://psnprofiles.com/guide/4503-hitman-go-trophy-guide) | 2/10 | 4 | 68.66% | 16,200 | 5/5 | 17 | 30 |
+| [Hitman GO](https://psnprofiles.com/guide/3975-hitman-go-trophy-guide) | 2/10 | 4 | 68.66% | 44,011 | 5/5 | 48 | 99 |
+| [Full Throttle](https://psnprofiles.com/guide/5968-full-throttle-trophy-guide) | 2/10 | 2 | 68.84% | 34,201 | 5/5 | 16 | 58 |
+| [Psychedelica of the Black Butterfly](https://psnprofiles.com/guide/8836-psychedelica-of-the-black-butterfly-trophy-guide) | 2/10 | 20 | 69.30% | 7,454 |  | 0 | 10 |
+| [DC League of Super-Pets: The Adventures of Krypto and Ace](https://psnprofiles.com/guide/15403-dc-league-of-super-pets-the-adventures-of-krypto-and-ace-trophy-guide) | 2/10 | 2 | 70.10% | 33,964 | 5/5 | 8 | 21 |
+| [Candleman](https://psnprofiles.com/guide/7303-candleman-trophy-guide) | 2/10 | 5 | 70.53% | 11,053 |  | 0 | 21 |
+| [Gemini: Heroes Reborn](https://psnprofiles.com/guide/3874-gemini-heroes-reborn-trophy-guide) | 2/10 | 5 | 70.97% | 7,693 | 5/5 | 6 | 24 |
+| [Super Soccer Blast](https://psnprofiles.com/guide/10468-super-soccer-blast-trophy-guide) | 2/10 | 6 | 71.10% | 7,788 |  | 0 | 5 |
+| [Iris.Fall](https://psnprofiles.com/guide/12811-irisfall-trophy-guide) | 2/10 | 2 | 71.18% | 7,870 |  | 0 | 6 |
+| [Crypt of the Serpent King Remastered](https://psnprofiles.com/guide/16607-crypt-of-the-serpent-king-remastered-trophy-guide) | 2/10 | 1 | 71.88% | 4,640 |  | 0 | 3 |
+| [The Inner World: The Last Wind Monk](https://psnprofiles.com/guide/15528-the-inner-world-the-last-wind-monk-trophy-guide) | 2/10 | 3 | 71.91% | 3,044 |  | 0 | 6 |
+| [The Redress of Mira](https://psnprofiles.com/guide/16595-the-redress-of-mira-trophy-guide) | 2/10 | 3 | 72.09% | 2,412 |  | 0 | 3 |
+| [Rockets Rockets Rockets](https://psnprofiles.com/guide/4951-rockets-rockets-rockets-trophy-guide) | 2/10 | 4 | 72.18% | 11,041 |  | 0 | 20 |
+| [Doctor Who: The Lonely Assassins](https://psnprofiles.com/guide/13488-doctor-who-the-lonely-assassins-trophy-guide) | 2/10 | 3 | 72.24% | 7,519 |  | 0 | 9 |
+| [Twin Robots](https://psnprofiles.com/guide/6762-twin-robots-trophy-guide) | 2/10 | 3 | 72.26% | 31,870 |  | 0 | 33 |
+| [Hercule Poirot: The London Case](https://psnprofiles.com/guide/18380-hercule-poirot-the-london-case-trophy-guide) | 2/10 | 6 | 72.55% | 3,005 |  | 0 | 6 |
+| [Coffin Dodgers](https://psnprofiles.com/guide/4365-coffin-dodgers-trophy-guide) | 2/10 | 4 | 72.68% | 21,994 | 4/5 | 15 | 42 |
+| [Omno](https://psnprofiles.com/guide/14229-omno-trophy-guide) | 2/10 | 4 | 73.03% | 60,448 | 5/5 | 34 | 63 |
+| [Flatland Prologue](https://psnprofiles.com/guide/13155-flatland-prologue-trophy-guide) | 2/10 | 1 | 73.08% | 6,664 | 5/5 | 5 | 5 |
+| [Bloodwash](https://psnprofiles.com/guide/16911-bloodwash-trophy-guide) | 2/10 | 2 | 73.10% | 7,664 |  | 0 | 4 |
+| [The Bunker](https://psnprofiles.com/guide/6908-the-bunker-trophy-guide) | 2/10 | 2 | 73.20% | 22,997 | 3/5 | 15 | 30 |
+| [Reflection of Mine](https://psnprofiles.com/guide/14262-reflection-of-mine-trophy-guide) | 2/10 | 2 | 73.76% | 3,858 |  | 0 | 7 |
+| [What Remains of Edith Finch](https://psnprofiles.com/guide/15142-what-remains-of-edith-finch-trophy-guide) | 2/10 | 2 | 74.00% | 90,356 | 5/5 | 32 | 79 |
+| [Jazzpunk](https://psnprofiles.com/guide/5026-jazzpunk-trophy-guide) | 2/10 | 2 | 74.33% | 26,698 | 5/5 | 8 | 34 |
+| [The Inner World](https://psnprofiles.com/guide/5989-the-inner-world-trophy-guide) | 2/10 | 2 | 74.97% | 14,734 | 5/5 | 5 | 27 |
+| [Garfield Lasagna Party](https://psnprofiles.com/guide/16109-garfield-lasagna-party-trophy-guide) | 2/10 | 1 | 75.97% | 6,177 |  | 0 | 7 |
+| [Perils of Baking](https://psnprofiles.com/guide/7484-perils-of-baking-trophy-guide) | 2/10 | 3 | 76.13% | 20,303 | 5/5 | 7 | 17 |
+| [Puzzle Showdown 4K](https://psnprofiles.com/guide/6172-puzzle-showdown-4k-trophy-guide) | 2/10 | 3 | 76.16% | 16,870 | 5/5 | 7 | 17 |
+| [Mecho Tales](https://psnprofiles.com/guide/6734-mecho-tales-trophy-guide) | 2/10 | 4 | 77.02% | 20,291 |  | 0 | 18 |
+| [Eekeemoo: Splinters of Dark Shard](https://psnprofiles.com/guide/5889-eekeemoo-splinters-of-dark-shard-trophy-guide) | 2/10 | 3 | 77.26% | 15,013 |  | 0 | 17 |
+| [Behind the Frame: The Finest Scenery](https://psnprofiles.com/guide/17284-behind-the-frame-the-finest-scenery-trophy-guide) | 2/10 | 2 | 77.46% | 4,597 |  | 0 | 5 |
+| [Venba](https://psnprofiles.com/guide/17282-venba-trophy-guide) | 2/10 | 2 | 78.18% | 10,446 | 5/5 | 5 | 17 |
+| [A Painter's Tale: Curon, 1950](https://psnprofiles.com/guide/16948-a-painters-tale-curon-1950-trophy-guide) | 2/10 | 3 | 78.95% | 1,981 |  | 0 | 2 |
+| [Orc Slayer](https://psnprofiles.com/guide/4799-orc-slayer-trophy-guide) | 2/10 | 4 | 78.98% | 19,188 |  | 0 | 30 |
+| [Batu Ta Batu](https://psnprofiles.com/guide/11419-batu-ta-batu-trophy-guide) | 2/10 | 1 | 79.43% | 8,947 |  | 0 | 3 |
+| [Football Cup 2022](https://psnprofiles.com/guide/13525-football-cup-2022-trophy-guide) | 2/10 | 5 | 79.85% | 7,426 |  | 0 | 9 |
+| [Old Man's Journey](https://psnprofiles.com/guide/7491-old-mans-journey-trophy-guide) | 2/10 | 2 | 79.93% | 27,474 | 5/5 | 12 | 28 |
+| [The Gardens Between](https://psnprofiles.com/guide/7886-the-gardens-between-trophy-guide) | 2/10 | 2 | 81.00% | 79,275 | 5/5 | 14 | 70 |
+| [My Little Pony: A Maretime Bay Adventure](https://psnprofiles.com/guide/14523-my-little-pony-a-maretime-bay-adventure-trophy-guide) | 2/10 | 2 | 81.21% | 38,273 | 5/5 | 6 | 25 |
+| [Yohane the Parhelion: Blaze in the Deepblue](https://psnprofiles.com/guide/18201-yohane-the-parhelion-blaze-in-the-deepblue-trophy-guide) | 2/10 | 10 | 81.36% | 4,139 |  | 0 | 14 |
+| [The Artful Escape](https://psnprofiles.com/guide/13771-the-artful-escape-trophy-guide) | 2/10 | 4 | 81.93% | 97,399 | 5/5 | 16 | 87 |
+| [Legend of the Skyfish](https://psnprofiles.com/guide/10437-legend-of-the-skyfish-trophy-guide) | 2/10 | 3 | 82.32% | 13,227 |  | 0 | 13 |
+| [Habroxia](https://psnprofiles.com/guide/9087-habroxia-trophy-guide) | 2/10 | 2 | 83.09% | 26,532 | 5/5 | 6 | 16 |
+| [Grass Cutter](https://psnprofiles.com/guide/9030-grass-cutter-trophy-guide) | 2/10 | 1 | 83.26% | 8,215 |  | 0 | 12 |
+| [Squareboy vs Bullies](https://psnprofiles.com/guide/6788-squareboy-vs-bullies-trophy-guide) | 2/10 | 3 | 83.57% | 20,711 |  | 0 | 24 |
+| [Freddy Spaghetti](https://psnprofiles.com/guide/11390-freddy-spaghetti-trophy-guide) | 2/10 | 2 | 84.35% | 24,082 |  | 0 | 9 |
+| [Fifty Words by POWGI](https://psnprofiles.com/guide/9433-fifty-words-by-powgi-trophy-guide) | 2/10 | 2 | 84.53% | 12,954 | 5/5 | 5 | 15 |
+| [Wordsweeper by POWGI](https://psnprofiles.com/guide/8990-wordsweeper-by-powgi-trophy-guide) | 2/10 | 3 | 84.78% | 10,041 |  | 0 | 10 |
+| [Avenging Spirit](https://psnprofiles.com/guide/14949-avenging-spirit-trophy-guide) | 2/10 | 1 | 86.08% | 2,427 |  | 0 | 5 |
+| [Astro Miner](https://psnprofiles.com/guide/18329-astro-miner-trophy-guide) | 2/10 | 5 | 86.53% | 1,667 |  | 0 | 3 |
+| [Delicious! Pretty Girls Mahjong Solitaire](https://psnprofiles.com/guide/11991-delicious-pretty-girls-mahjong-solitaire-trophy-guide) | 2/10 | 2 | 86.74% | 9,803 |  | 0 | 6 |
+| [Duck Souls+](https://psnprofiles.com/guide/14780-duck-souls-trophy-guide) | 2/10 | 1 | 86.87% | 6,542 |  | 0 | 7 |
+| [Prehistoric Dude](https://psnprofiles.com/guide/11017-prehistoric-dude-trophy-guide) | 2/10 | 1 | 87.34% | 13,391 |  | 0 | 1 |
+| [Crossovers by POWGI](https://psnprofiles.com/guide/8960-crossovers-by-powgi-trophy-guide) | 2/10 | 3 | 88.88% | 11,385 |  | 0 | 9 |
+| [Inferno 2](https://psnprofiles.com/guide/9128-inferno-2-trophy-guide) | 2/10 | 1 | 89.13% | 12,496 |  | 0 | 8 |
+| [Bird Game +](https://psnprofiles.com/guide/9086-bird-game-trophy-guide) | 2/10 | 2 | 89.53% | 21,261 |  | 0 | 8 |
+| [Otoko Cross: Pretty Boys Mahjong Solitaire](https://psnprofiles.com/guide/15250-otoko-cross-pretty-boys-mahjong-solitaire-trophy-guide) | 2/10 | 2 | 90.34% | 3,700 |  | 0 | 5 |
+| [Dungeons & Bombs](https://psnprofiles.com/guide/11809-dungeons-bombs-trophy-guide) | 2/10 | 1 | 90.68% | 10,904 |  | 0 | 5 |
+| [Jigsaw Zen](https://psnprofiles.com/guide/9235-jigsaw-zen-trophy-guide) | 2/10 | 2 | 90.82% | 4,739 |  | 0 | 7 |
+| [Daggerhood](https://psnprofiles.com/guide/8391-daggerhood-trophy-guide) | 2/10 | 1 | 91.32% | 14,386 | 4/5 | 6 | 14 |
+| [Zeroptian Invasion](https://psnprofiles.com/guide/8606-zeroptian-invasion-trophy-guide) | 2/10 | 1 | 91.35% | 12,596 |  | 0 | 5 |
+| [Himno](https://psnprofiles.com/guide/12616-himno-trophy-guide) | 2/10 | 1 | 91.43% | 9,120 |  | 0 | 8 |
+| [InkSplosion](https://psnprofiles.com/guide/7394-inksplosion-trophy-guide) | 2/10 | 1 | 91.94% | 29,715 |  | 0 | 27 |
+| [Access Denied](https://psnprofiles.com/guide/8319-access-denied-trophy-guide) | 2/10 | 2 | 91.97% | 33,522 | 5/5 | 9 | 21 |
+| [Paradox Soul](https://psnprofiles.com/guide/8850-paradox-soul-trophy-guide) | 2/10 | 1 | 92.98% | 16,663 |  | 0 | 9 |
+| [Alien Destroyer](https://psnprofiles.com/guide/12046-alien-destroyer-trophy-guide) | 2/10 | 1 | 93.54% | 21,748 |  | 0 | 6 |
+| [Castle Pals](https://psnprofiles.com/guide/10334-castle-pals-trophy-guide) | 2/10 | 1 | 93.59% | 9,761 |  | 0 | 4 |
+| [Iron Snout](https://psnprofiles.com/guide/8575-iron-snout-trophy-guide) | 2/10 | 1 | 93.89% | 19,505 |  | 0 | 7 |
+| [Peasant Knight](https://psnprofiles.com/guide/8534-peasant-knight-trophy-guide) | 2/10 | 1 | 94.08% | 16,329 |  | 0 | 12 |
+| [Birthday of Midnight](https://psnprofiles.com/guide/11152-birthday-of-midnight-trophy-guide) | 2/10 | 1 | 94.61% | 17,641 |  | 0 | 11 |
+| [Tamiku](https://psnprofiles.com/guide/14955-tamiku-trophy-guide) | 2/10 | 1 | 94.75% | 1,177 |  | 0 | 0 |
+| [One Word by POWGI](https://psnprofiles.com/guide/18950-one-word-by-powgi-trophy-guide) | 2/10 | 3 | 94.99% | 1,355 |  | 0 | 4 |
+| [Project Starship](https://psnprofiles.com/guide/9680-project-starship-trophy-guide) | 2/10 | 1 | 95.39% | 12,267 |  | 0 | 7 |
+| [Super Weekend Mode](https://psnprofiles.com/guide/8552-super-weekend-mode-trophy-guide) | 2/10 | 1 | 95.78% | 28,213 |  | 0 | 12 |
+| [One Escape](https://psnprofiles.com/guide/15057-one-escape-trophy-guide) | 2/10 | 1 | 95.92% | 4,234 |  | 0 | 6 |
+| [Daggerhood](https://psnprofiles.com/guide/8533-daggerhood-trophy-guide) | 2/10 | 1 | 95.92% | 4,898 |  | 0 | 10 |
+| [Midnight Deluxe](https://psnprofiles.com/guide/7160-midnight-deluxe-trophy-guide) | 2/10 | 1 | 96.49% | 27,792 |  | 0 | 18 |
+| [Mekabolt](https://psnprofiles.com/guide/10492-mekabolt-trophy-guide) | 2/10 | 1 | 96.85% | 13,524 |  | 0 | 5 |
+| [Iro Hero](https://psnprofiles.com/guide/9439-iro-hero-trophy-guide) | 2/10 | 1 | 97.01% | 11,791 |  | 0 | 11 |
+| [Super Destronaut DX](https://psnprofiles.com/guide/7636-super-destronaut-dx-trophy-guide) | 2/10 | 1 | 97.56% | 27,992 | 4/5 | 6 | 22 |
+| [Sakura Succubus 3](https://psnprofiles.com/guide/14217-sakura-succubus-3-trophy-guide) | 2/10 | 5 | 97.61% | 3,453 |  | 0 | 7 |
+| [Pity Pit](https://psnprofiles.com/guide/10317-pity-pit-trophy-guide) | 2/10 | 1 | 97.78% | 11,228 |  | 0 | 7 |
+| [Drunkn Bar Fight](https://psnprofiles.com/guide/19684-drunkn-bar-fight-trophy-guide) | 2/10 | 1 |  | 616 |  | 0 | 3 |
+| [Disgaea D2](https://psnprofiles.com/guide/12114-disgaea-d2-additional-trophy-2-dlc-trophy-guide) | 2/10 | 1 |  | 797 |  | 0 | 1 |
+| [Disgaea D2](https://psnprofiles.com/guide/12147-disgaea-d2-additional-trophy-5-dlc-trophy-guide) | 2/10 | 1 |  | 860 |  | 0 | 1 |
+| [Disgaea D2](https://psnprofiles.com/guide/12121-disgaea-d2-additional-trophy-3-dlc-trophy-guide) | 2/10 | 1 |  | 899 |  | 0 | 1 |
+| [Saints Row](https://psnprofiles.com/guide/17128-saints-row-the-heist-and-the-hazardous-dlc-trophy-guide) | 2/10 | 1 |  | 7,329 |  | 0 | 3 |
+| [Dante's Inferno](https://psnprofiles.com/guide/11159-dantes-inferno-dark-forest-dlc-trophy-guide) | 2/10 | 1 |  | 11,588 | 4/5 | 7 | 0 |
+| [Tom Clancy's The Division 2](https://psnprofiles.com/guide/17054-tom-clancys-the-division-2-tom-clancys-the-division2-coney-island-dlc-trophy-guide) | 2/10 | 1 |  | 3,097 |  | 0 | 2 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7498-payday-2-crimewave-edition-biker-heist-dlc-trophy-guide) | 2/10 | 1 |  | 5,001 |  | 0 | 3 |
+| [LEGO Batman 3: Beyond Gotham](https://psnprofiles.com/guide/5337-lego-batman-3-beyond-gotham-batman-75th-anniversary-dlc-trophy-guide) | 2/10 | 1 |  | 20,207 |  | 0 | 7 |
+| [Disgaea D2](https://psnprofiles.com/guide/12153-disgaea-d2-additional-trophy-6-dlc-trophy-guide) | 2/10 | 1 |  | 1,071 |  | 0 | 1 |
+| [Mass Effect 2](https://psnprofiles.com/guide/6866-mass-effect-2-zaeed-the-price-of-revenge-dlc-trophy-guide) | 2/10 | 1 |  | 6,417 |  | 0 | 5 |
+| [RWBY: Grimm Eclipse](https://psnprofiles.com/guide/5957-rwby-grimm-eclipse-jnpr-dlc-trophy-guide) | 2/10 | 1 |  | 2,209 |  | 0 | 7 |
+| [Gone Home](https://psnprofiles.com/guide/4488-gone-home-trophy-guide) | 2/10 | 1 |  | 43,611 | 5/5 | 38 | 110 |
+| [MXGP2 Compact](https://psnprofiles.com/guide/11964-mxgp2-compact-trophy-guide) | 2/10 | 1 |  | 3,137 |  | 0 | 1 |
+| [Saints Row: The Third](https://psnprofiles.com/guide/10287-saints-row-the-third-the-trouble-with-clones-dlc-trophy-guide) | 2/10 | 1 |  | 31,490 | 5/5 | 5 | 10 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/13175-assassins-creed-valhalla-tombs-of-the-fallen-dlc-trophy-guide) | 2/10 | 1 |  | 36,034 | 5/5 | 8 | 16 |
+| [Black Clover: Quartet Knights](https://psnprofiles.com/guide/11960-black-clover-quartet-knights-royal-magic-knight-set-blue-dlc-trophy-guide) | 2/10 | 1 |  | 2,523 |  | 0 | 1 |
+| [LEGO Star Wars: The Force Awakens](https://psnprofiles.com/guide/5371-lego-star-wars-the-force-awakens-escape-from-starkiller-base-dlc-trophy-guide) | 2/10 | 1 |  | 13,071 | 5/5 | 8 | 10 |
+| [Actual Sunlight](https://psnprofiles.com/guide/5085-actual-sunlight-trophy-guide) | 2/10 | 1 |  | 9,751 | 5/5 | 11 | 19 |
+| [LEGO Marvel Super Heroes 2](https://psnprofiles.com/guide/12619-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-character-and-level-dlc-trophy-guide) | 2/10 | 1 |  | 7,705 |  | 0 | 5 |
+| [Doom 64](https://psnprofiles.com/guide/9897-doom-64-trophy-guide) | 2/10 | 1 |  | 52,560 | 5/5 | 18 | 53 |
+| [LEGO Batman 3: Beyond Gotham](https://psnprofiles.com/guide/5340-lego-batman-3-beyond-gotham-arrow-dlc-trophy-guide) | 2/10 | 1 |  | 9,007 |  | 0 | 4 |
+| [Dirt 3](https://psnprofiles.com/guide/15041-dirt-3-mud-and-guts-car-dlc-trophy-guide) | 2/10 | 1 |  | 1,509 |  | 0 | 2 |
+| [LEGO Dimensions](https://psnprofiles.com/guide/4612-lego-dimensions-back-to-the-future-level-dlc-trophy-guide) | 2/10 | 1 |  | 4,877 |  | 0 | 7 |
+| [LEGO Marvel's Avengers](https://psnprofiles.com/guide/4372-lego-marvels-avengers-black-panther-dlc-trophy-guide) | 2/10 | 1 |  | 13,608 | 4/5 | 6 | 17 |
+| [LEGO Marvel Super Heroes 2](https://psnprofiles.com/guide/14485-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-movie-character-and-level-dlc-trophy-guide) | 2/10 | 1 |  | 6,594 |  | 0 | 6 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7717-payday-2-crimewave-edition-gage-russian-weapon-dlc-trophy-guide) | 2/10 | 1 |  | 4,669 |  | 0 | 4 |
+| [LEGO Star Wars: The Force Awakens](https://psnprofiles.com/guide/5089-lego-star-wars-the-force-awakens-poes-quest-for-survival-dlc-trophy-guide) | 2/10 | 1 |  | 20,070 | 5/5 | 11 | 13 |
+| [Disgaea D2](https://psnprofiles.com/guide/12112-disgaea-d2-additional-trophy-1-dlc-trophy-guide) | 2/10 | 1 |  | 1,245 |  | 0 | 1 |
+| [Caravan Stories](https://psnprofiles.com/guide/8557-caravan-stories-trophy-guide) | 2/10 | 1 |  | 17,783 |  | 0 | 16 |
+| [LEGO Star Wars: The Force Awakens](https://psnprofiles.com/guide/5241-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-dlc-trophy-guide) | 2/10 | 1 |  | 10,851 | 5/5 | 8 | 9 |
+| [Minefield](https://psnprofiles.com/guide/7420-minefield-trophy-guide) | 2/10 | 1 |  | 27,552 | 5/5 | 9 | 10 |
+| [LEGO Star Wars: The Force Awakens](https://psnprofiles.com/guide/4763-lego-star-wars-the-force-awakens-the-phantom-limb-dlc-trophy-guide) | 2/10 | 1 |  | 17,852 | 5/5 | 8 | 13 |
+| [Fighting Vipers](https://psnprofiles.com/guide/11926-fighting-vipers-trophy-guide) | 2/10 | 1 |  | 5,451 |  | 0 | 3 |
+| [Arcade Archives: Double Dragon](https://psnprofiles.com/guide/8703-arcade-archives-double-dragon-trophy-guide) | 2/10 | 1 |  | 4,182 |  | 0 | 0 |
+| [Arcade Archives: Contra](https://psnprofiles.com/guide/8874-arcade-archives-contra-trophy-guide) | 2/10 | 1 |  | 2,089 |  | 0 | 4 |
+| [Accounting+](https://psnprofiles.com/guide/8576-accounting-trickshots-dlc-trophy-guide) | 2/10 | 1 |  | 6,573 |  | 0 | 2 |
+| [Arcade Archives: Moon Cresta](https://psnprofiles.com/guide/8727-arcade-archives-moon-cresta-trophy-guide) | 2/10 | 1 |  | 1,072 |  | 0 | 0 |
+| [Xenon Racer](https://psnprofiles.com/guide/15553-xenon-racer-final-sprint-dlc-trophy-guide) | 2/10 | 1 |  | 1,355 |  | 0 | 0 |
+| [LEGO Marvel's Avengers](https://psnprofiles.com/guide/4381-lego-marvels-avengers-doctor-strange-dlc-trophy-guide) | 2/10 | 1 |  | 12,187 | 5/5 | 5 | 15 |
+| [Skullgirls 2nd Encore](https://psnprofiles.com/guide/15442-skullgirls-2nd-encore-annie-dlc-trophy-guide) | 2/10 | 1 |  | 4,573 |  | 0 | 0 |
+| [Sniper Elite 3](https://psnprofiles.com/guide/18425-sniper-elite-3-hunt-the-grey-wolf-dlc-trophy-guide) | 2/10 | 1 |  | 1,249 |  | 0 | 1 |
+| [LEGO Marvel Super Heroes 2](https://psnprofiles.com/guide/14477-lego-marvel-super-heroes-2-runaways-character-and-level-dlc-trophy-guide) | 2/10 | 1 |  | 5,985 | 5/5 | 5 | 5 |
+| [Human Fall Flat](https://psnprofiles.com/guide/14389-human-fall-flat-lumber-dlc-trophy-guide) | 2/10 | 1 |  | 5,264 |  | 0 | 1 |
+| [Human Fall Flat](https://psnprofiles.com/guide/9582-human-fall-flat-steam-dlc-trophy-guide) | 2/10 | 1 |  | 6,364 |  | 0 | 1 |
+| [Hatsune Miku: Project DIVA Future Tone](https://psnprofiles.com/guide/8220-hatsune-miku-project-diva-future-tone-trophy-guide) | 2/10 | 1 |  | 20,172 | 4/5 | 15 | 13 |
+| [LEGO Batman 3: Beyond Gotham](https://psnprofiles.com/guide/16373-lego-batman-3-beyond-gotham-the-squad-dlc-trophy-guide) | 2/10 | 1 |  | 3,030 |  | 0 | 2 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7756-payday-2-crimewave-edition-classic-dlc-trophy-guide) | 2/10 | 1 |  | 6,196 |  | 0 | 6 |
+| [LEGO Marvel Super Heroes 2](https://psnprofiles.com/guide/14475-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-dlc-trophy-guide) | 2/10 | 1 |  | 3,485 |  | 0 | 5 |
+| [LEGO Marvel Super Heroes 2](https://psnprofiles.com/guide/14480-lego-marvel-super-heroes-2-marvels-avengers-infinity-war-movie-character-and-level-dlc-trophy-guide) | 2/10 | 1 |  | 5,432 |  | 0 | 5 |
+| [Disgaea D2](https://psnprofiles.com/guide/12128-disgaea-d2-additional-trophy-4-dlc-trophy-guide) | 2/10 | 1 |  | 1,005 |  | 0 | 1 |
+| [Black Clover: Quartet Knights](https://psnprofiles.com/guide/11961-black-clover-quartet-knights-royal-magic-knight-set-wizard-king-dlc-trophy-guide) | 2/10 | 1 |  | 2,861 |  | 0 | 1 |
+| [The Playroom](https://psnprofiles.com/guide/984-the-playroom-ninja-bots-dlc-trophy-guide) | 2/10 | 1 |  | 17,805 | 5/5 | 10 | 18 |
+| [Mars Odyssey](https://psnprofiles.com/guide/14382-mars-odyssey-trophy-guide) | 2/10 | 1 |  | 1,358 |  | 0 | 2 |
+| [LEGO Marvel's Avengers](https://psnprofiles.com/guide/4212-lego-marvels-avengers-the-masters-of-evil-dlc-trophy-guide) | 2/10 | 1 |  | 11,193 | 5/5 | 7 | 17 |
+| [LEGO Marvel's Avengers](https://psnprofiles.com/guide/4213-lego-marvels-avengers-captain-marvel-dlc-trophy-guide) | 2/10 | 1 |  | 10,377 | 4/5 | 7 | 16 |
+| [Garten of Banban 2](https://psnprofiles.com/guide/19658-garten-of-banban-2-trophy-guide) | 2/10 | 1 |  | 1,327 |  | 0 | 2 |
+| [Dirt 3](https://psnprofiles.com/guide/15042-dirt-3-power-and-glory-car-dlc-trophy-guide) | 2/10 | 1 |  | 1,710 |  | 0 | 2 |
+| [Arcade Archives: Mat Mania Exciting Hour](https://psnprofiles.com/guide/8701-arcade-archives-mat-mania-exciting-hour-trophy-guide) | 2/10 | 1 |  | 1,077 |  | 0 | 1 |
+| [International Table Tennis](https://psnprofiles.com/guide/14852-international-table-tennis-trophy-guide) | 2/10 | 1 |  | 1,462 |  | 0 | 0 |
+| [NBA 2K18: The Prelude](https://psnprofiles.com/guide/6678-nba-2k18-the-prelude-trophy-guide) | 2/10 | 1 |  | 10,042 | 5/5 | 10 | 6 |
+| [LEGO Worlds](https://psnprofiles.com/guide/7745-lego-worlds-classic-space-dlc-trophy-guide) | 2/10 | 1 |  | 6,998 |  | 0 | 5 |
+| [Black Clover: Quartet Knights](https://psnprofiles.com/guide/11962-black-clover-quartet-knights-royal-magic-knight-set-red-dlc-trophy-guide) | 2/10 | 1 |  | 2,818 |  | 0 | 1 |
+| [LEGO Marvel's Avengers](https://psnprofiles.com/guide/4405-lego-marvels-avengers-marvels-agents-of-shield-dlc-trophy-guide) | 2/10 | 1 |  | 12,426 | 5/5 | 5 | 15 |
+| [Arcade Archives: Crazy Climber](https://psnprofiles.com/guide/8725-arcade-archives-crazy-climber-trophy-guide) | 2/10 | 1 |  | 1,116 |  | 0 | 0 |
+| [Dirt Rally 2.0](https://psnprofiles.com/guide/10405-dirt-rally-20-season-three-dlc-trophy-guide) | 2/10 | 1 |  | 8,628 | 5/5 | 5 | 3 |
+| [LEGO Dimensions](https://psnprofiles.com/guide/14413-lego-dimensions-the-simpsons-level-dlc-trophy-guide) | 2/10 | 1 |  | 2,915 |  | 0 | 3 |
+| [Sonic Forces](https://psnprofiles.com/guide/9563-sonic-forces-episode-shadow-dlc-trophy-guide) | 2/10 | 1 |  | 9,613 | 5/5 | 9 | 11 |
+| [Poppy Playtime: Chapter 1](https://psnprofiles.com/guide/18291-poppy-playtime-chapter-1-trophy-guide) | 2/10 | 1 |  | 13,667 | 5/5 | 5 | 8 |
+| [Licky The Lucky Lizard Lives Again](https://psnprofiles.com/guide/9523-licky-the-lucky-lizard-lives-again-trophy-guide) | 2/10 | 1 |  | 5,978 | 5/5 | 5 | 1 |
+| [LEGO Batman 3: Beyond Gotham](https://psnprofiles.com/guide/16372-lego-batman-3-beyond-gotham-bizarro-dlc-trophy-guide) | 2/10 | 1 |  | 2,370 |  | 0 | 2 |
+| [LEGO Marvel's Avengers](https://psnprofiles.com/guide/4262-lego-marvels-avengers-marvels-ant-man-dlc-trophy-guide) | 2/10 | 1 |  | 15,999 | 4/5 | 7 | 19 |
+| [LEGO Marvel Super Heroes 2](https://psnprofiles.com/guide/12623-lego-marvel-super-heroes-2-marvels-black-panther-movie-character-and-level-dlc-trophy-guide) | 2/10 | 1 |  | 4,954 |  | 0 | 5 |
+| [The Playroom VR](https://psnprofiles.com/guide/9310-the-playroom-vr-toy-wars-dlc-trophy-guide) | 2/10 | 1 |  | 9,673 | 5/5 | 5 | 7 |
+| [Warframe](https://psnprofiles.com/guide/7594-warframe-update-24-dlc-trophy-guide) | 2/10 | 1 |  | 4,385 |  | 0 | 5 |
+| [Red Faction: Armageddon](https://psnprofiles.com/guide/15923-red-faction-armageddon-dlc-group-dlc-trophy-guide) | 2/10 | 1 |  | 2,210 |  | 0 | 1 |
+| [Arcade Archives: Ninja-Kid](https://psnprofiles.com/guide/8726-arcade-archives-ninja-kid-trophy-guide) | 2/10 | 1 |  | 1,295 |  | 0 | 0 |
+| [Tools Up!](https://psnprofiles.com/guide/19282-tools-up-episode-1-the-tree-house-dlc-trophy-guide) | 2/10 | 2 |  | 403 |  | 0 | 0 |
+| [Sam & Max: Beyond Time & Space Episode 3 - Night of the Raving Dead](https://psnprofiles.com/guide/18612-sam-max-beyond-time-space-episode-3-night-of-the-raving-dead-trophy-guide) | 2/10 | 2 |  | 742 |  | 0 | 1 |
+| [Sam & Max: Beyond Time & Space Episode 4 - Chariots of the Dogs](https://psnprofiles.com/guide/19501-sam-max-beyond-time-space-episode-4-chariots-of-the-dogs-trophy-guide) | 2/10 | 2 |  | 769 |  | 0 | 0 |
+| [Guns Up!](https://psnprofiles.com/guide/19226-guns-up-dlc-trophy-update-01-dlc-trophy-guide) | 2/10 | 2 |  | 833 |  | 0 | 0 |
+| [Sam & Max: Beyond Time & Space Episode 2 - Moai Better Blues](https://psnprofiles.com/guide/18293-sam-max-beyond-time-space-episode-2-moai-better-blues-trophy-guide) | 2/10 | 2 |  | 849 |  | 0 | 2 |
+| [Nelson Tethers: Puzzle Agent](https://psnprofiles.com/guide/19265-nelson-tethers-puzzle-agent-trophy-guide) | 2/10 | 2 |  | 854 |  | 0 | 3 |
+| [Jurassic Park: The Depths](https://psnprofiles.com/guide/2182-jurassic-park-the-depths-trophy-guide) | 2/10 | 2 |  | 2,587 |  | 0 | 7 |
+| [Last Day of June](https://psnprofiles.com/guide/14076-last-day-of-june-trophy-guide) | 2/10 | 2 |  | 24,091 | 5/5 | 13 | 16 |
+| [Saints Row: The Third](https://psnprofiles.com/guide/6773-saints-row-the-third-gangstas-in-space-dlc-trophy-guide) | 2/10 | 2 |  | 36,127 | 5/5 | 10 | 12 |
+| [Alienation](https://psnprofiles.com/guide/4925-alienation-expanded-arsenal-dlc-trophy-guide) | 2/10 | 2 |  | 9,958 |  | 0 | 3 |
+| [Warframe](https://psnprofiles.com/guide/2098-warframe-update-12-dlc-trophy-guide) | 2/10 | 2 |  | 3,139 |  | 0 | 4 |
+| [The Awakening of Mummies](https://psnprofiles.com/guide/16521-the-awakening-of-mummies-trophy-guide) | 2/10 | 2 |  | 1,424 |  | 0 | 5 |
+| [The Revenge of Shinobi](https://psnprofiles.com/guide/779-the-revenge-of-shinobi-trophy-guide) | 2/10 | 2 |  | 5,910 |  | 0 | 5 |
+| [Mass Effect 2](https://psnprofiles.com/guide/1617-mass-effect-2-arrival-dlc-trophy-guide) | 2/10 | 2 |  | 10,040 | 5/5 | 6 | 21 |
+| [Rocket League](https://psnprofiles.com/guide/7787-rocket-league-clubs-update-dlc-trophy-guide) | 2/10 | 2 |  | 38,626 | 5/5 | 16 | 22 |
+| [We Happy Few](https://psnprofiles.com/guide/8938-we-happy-few-lightbearer-dlc-trophy-guide) | 2/10 | 2 |  | 14,409 |  | 0 | 8 |
+| [The Last of Us Remastered](https://psnprofiles.com/guide/1358-the-last-of-us-remastered-reclaimed-territories-dlc-trophy-guide) | 2/10 | 2 |  | 35,324 | 4/5 | 21 | 45 |
+| [The Escapists](https://psnprofiles.com/guide/6561-the-escapists-escape-team-dlc-trophy-guide) | 2/10 | 2 |  | 5,503 | 5/5 | 5 | 10 |
+| [Army of Two: The 40th Day](https://psnprofiles.com/guide/15518-army-of-two-the-40th-day-chapters-of-deceit-dlc-trophy-guide) | 2/10 | 2 |  | 2,060 |  | 0 | 1 |
+| [Saints Row IV](https://psnprofiles.com/guide/1371-saints-row-iv-how-the-saints-save-christmas-dlc-trophy-guide) | 2/10 | 2 |  | 40,621 | 4/5 | 13 | 36 |
+| [The Last of Us Remastered](https://psnprofiles.com/guide/1360-the-last-of-us-remastered-abandoned-territories-dlc-trophy-guide) | 2/10 | 2 |  | 28,620 | 4/5 | 15 | 38 |
+| [Battlefield 3](https://psnprofiles.com/guide/6397-battlefield-3-armored-kill-dlc-trophy-guide) | 2/10 | 2 |  | 7,688 | 5/5 | 5 | 5 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7306-payday-2-crimewave-edition-wolf-dlc-trophy-guide) | 2/10 | 2 |  | 5,886 |  | 0 | 4 |
+| [Homefront: The Revolution](https://psnprofiles.com/guide/5854-homefront-the-revolution-beyond-the-walls-dlc-trophy-guide) | 2/10 | 2 |  | 20,238 | 5/5 | 6 | 5 |
+| [Cuties Hacked](https://psnprofiles.com/guide/15430-cuties-hacked-trophy-guide) | 2/10 | 2 |  | 23,953 |  | 0 | 7 |
+| [Welcome Park](https://psnprofiles.com/guide/3245-welcome-park-trophy-guide) | 2/10 | 2 |  | 34,510 | 5/5 | 42 | 54 |
+| [Rocket League](https://psnprofiles.com/guide/3646-rocket-league-chaos-run-dlc-trophy-guide) | 2/10 | 2 |  | 36,102 | 5/5 | 16 | 27 |
+| [SteamWorld Heist](https://psnprofiles.com/guide/6653-steamworld-heist-the-outsider-dlc-trophy-guide) | 2/10 | 2 |  | 7,073 |  | 0 | 3 |
+| [Guacamelee!](https://psnprofiles.com/guide/66-guacamelee-skin-dlc-trophy-guide) | 2/10 | 2 |  | 5,995 | 5/5 | 6 | 9 |
+| [Virtua Fighter 5 Final Showdown](https://psnprofiles.com/guide/9340-virtua-fighter-5-final-showdown-trophy-guide) | 2/10 | 2 |  | 14,592 | 4/5 | 8 | 9 |
+| [Rise of the Tomb Raider](https://psnprofiles.com/guide/5276-rise-of-the-tomb-raider-cold-darkness-dlc-trophy-guide) | 2/10 | 2 |  | 58,672 | 5/5 | 28 | 49 |
+| [Assassin's Creed III](https://psnprofiles.com/guide/8256-assassins-creed-iii-the-battle-hardened-dlc-trophy-guide) | 2/10 | 2 |  | 19,226 | 5/5 | 8 | 11 |
+| [Goat Simulator](https://psnprofiles.com/guide/4528-goat-simulator-goatmmo-dlc-trophy-guide) | 2/10 | 2 |  | 42,423 | 4/5 | 21 | 22 |
+| [Resident Evil 5](https://psnprofiles.com/guide/833-resident-evil-5-lost-in-nightmares-dlc-trophy-guide) | 2/10 | 2 |  | 31,518 | 5/5 | 9 | 35 |
+| [Star Wars Battlefront II](https://psnprofiles.com/guide/7097-star-wars-battlefront-ii-resurrection-dlc-trophy-guide) | 2/10 | 2 |  | 17,834 | 4/5 | 10 | 8 |
+| [Frobisher Says!](https://psnprofiles.com/guide/5365-frobisher-says-super-fun-dlc-trophy-guide) | 2/10 | 2 |  | 4,252 |  | 0 | 8 |
+| [Drakengard 3](https://psnprofiles.com/guide/2539-drakengard-3-zeros-chapter-fate-dlc-trophy-guide) | 2/10 | 2 |  | 8,636 | 5/5 | 5 | 3 |
+| [Virtua Fighter 5: Ultimate Showdown](https://psnprofiles.com/guide/13013-virtua-fighter-5-ultimate-showdown-virtua-fighter-5-ultimate-showdown-dlc-trophy-guide) | 2/10 | 2 |  | 6,505 | 4/5 | 9 | 4 |
+| [The Cat and the Coup](https://psnprofiles.com/guide/7893-the-cat-and-the-coup-trophy-guide) | 2/10 | 2 |  | 3,483 |  | 0 | 1 |
+| [Drakengard 3](https://psnprofiles.com/guide/2534-drakengard-3-twos-chapter-bliss-dlc-trophy-guide) | 2/10 | 2 |  | 9,105 | 5/5 | 5 | 1 |
+| [Tom Clancy's The Division 2](https://psnprofiles.com/guide/17113-tom-clancys-the-division-2-tom-clancys-the-division2-the-pentagon-dlc-trophy-guide) | 2/10 | 2 |  | 3,604 |  | 0 | 1 |
+| [Fallout 4](https://psnprofiles.com/guide/4282-fallout-4-wasteland-workshop-dlc-trophy-guide) | 2/10 | 2 |  | 65,366 | 5/5 | 19 | 47 |
+| [GreedFall](https://psnprofiles.com/guide/12762-greedfall-the-de-vespe-conspiracy-dlc-trophy-guide) | 2/10 | 2 |  | 23,485 | 4/5 | 5 | 5 |
+| [Bullet Roulette VR](https://psnprofiles.com/guide/13746-bullet-roulette-vr-trophy-guide) | 2/10 | 2 |  | 2,810 |  | 0 | 1 |
+| [The Last Blade 2](https://psnprofiles.com/guide/11912-the-last-blade-2-trophy-guide) | 2/10 | 2 |  | 6,889 |  | 0 | 1 |
+| [Dredge](https://psnprofiles.com/guide/18103-dredge-the-pale-reach-dlc-trophy-guide) | 2/10 | 2 |  | 9,622 | 5/5 | 8 | 8 |
+| [We Happy Few](https://psnprofiles.com/guide/18688-we-happy-few-we-all-fall-down-dlc-trophy-guide) | 2/10 | 2 |  | 1,278 |  | 0 | 1 |
+| [Drakengard 3](https://psnprofiles.com/guide/2536-drakengard-3-threes-chapter-play-dlc-trophy-guide) | 2/10 | 2 |  | 9,083 | 5/5 | 5 | 0 |
+| [Sam & Max: Beyond Time & Space Episode 1 - Ice Station Santa](https://psnprofiles.com/guide/18004-sam-max-beyond-time-space-episode-1-ice-station-santa-trophy-guide) | 2/10 | 2 |  | 1,264 |  | 0 | 2 |
+| [Woodle Tree Adventures](https://psnprofiles.com/guide/11613-woodle-tree-adventures-trophy-guide) | 2/10 | 2 |  | 19,711 |  | 0 | 5 |
+| [Frobisher Says!](https://psnprofiles.com/guide/5366-frobisher-says-mega-fun-dlc-trophy-guide) | 2/10 | 2 |  | 3,820 | 5/5 | 5 | 8 |
+| [We Happy Few](https://psnprofiles.com/guide/13942-we-happy-few-they-came-from-below-dlc-trophy-guide) | 2/10 | 2 |  | 6,145 |  | 0 | 3 |
+| [Watch Dogs 2](https://psnprofiles.com/guide/14599-watch-dogs-2-no-compromise-dlc-trophy-guide) | 2/10 | 2 |  | 9,006 | 4/5 | 5 | 5 |
+| [Stranger of Paradise: Final Fantasy Origin](https://psnprofiles.com/guide/16015-stranger-of-paradise-final-fantasy-origin-different-future-dlc-trophy-guide) | 2/10 | 2 |  | 24,860 | 4/5 | 8 | 9 |
+| [Tom Clancy's The Division 2](https://psnprofiles.com/guide/17104-tom-clancys-the-division-2-tom-clancys-the-division2-dc-outskirts-dlc-trophy-guide) | 2/10 | 2 |  | 2,696 |  | 0 | 2 |
+| [Dark Mystery](https://psnprofiles.com/guide/7352-dark-mystery-trophy-guide) | 2/10 | 2 |  | 10,593 |  | 0 | 5 |
+| [The King of Fighters '98 Ultimate Match](https://psnprofiles.com/guide/10541-the-king-of-fighters-98-ultimate-match-trophy-guide) | 2/10 | 2 |  | 7,200 |  | 0 | 1 |
+| [Jurassic Park: The Cavalry](https://psnprofiles.com/guide/2159-jurassic-park-the-cavalry-trophy-guide) | 2/10 | 2 |  | 3,504 |  | 0 | 6 |
+| [Spot the Difference](https://psnprofiles.com/guide/17004-spot-the-difference-trophy-guide) | 2/10 | 2 |  | 2,264 |  | 0 | 0 |
+| [Rocket League](https://psnprofiles.com/guide/6191-rocket-league-champions-field-dlc-trophy-guide) | 2/10 | 2 |  | 34,251 | 5/5 | 15 | 25 |
+| [What Remains of Edith Finch](https://psnprofiles.com/guide/6001-what-remains-of-edith-finch-trophy-guide) | 2/10 | 2 |  | 139,285 | 5/5 | 22 | 125 |
+| [Space Rift](https://psnprofiles.com/guide/8678-space-rift-trophy-guide) | 2/10 | 2 |  | 2,513 |  | 0 | 1 |
+| [Max Payne 3](https://psnprofiles.com/guide/883-max-payne-3-hostage-negotiation-dlc-trophy-guide) | 2/10 | 2 |  | 5,282 |  | 0 | 6 |
+| [Drakengard 3](https://psnprofiles.com/guide/2537-drakengard-3-fours-chapter-frigidity-dlc-trophy-guide) | 2/10 | 2 |  | 10,762 | 5/5 | 5 | 0 |
+| [Mad Dog McCree](https://psnprofiles.com/guide/9028-mad-dog-mccree-trophy-guide) | 2/10 | 2 |  | 2,574 |  | 0 | 4 |
+| [Datura](https://psnprofiles.com/guide/137-datura-trophy-guide) | 2/10 | 2 |  | 7,724 | 4/5 | 9 | 15 |
+| [LEGO Worlds](https://psnprofiles.com/guide/8408-lego-worlds-monsters-dlc-trophy-guide) | 2/10 | 2 |  | 10,801 |  | 0 | 3 |
+| [Metro: Last Light](https://psnprofiles.com/guide/15704-metro-last-light-the-chronicles-dlc-trophy-guide) | 2/10 | 2 |  | 2,175 |  | 0 | 2 |
+| [Disco Elysium](https://psnprofiles.com/guide/13881-disco-elysium-jamais-vu-dlc-trophy-guide) | 2/10 | 2 |  | 20,328 | 4/5 | 6 | 7 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7081-payday-2-crimewave-edition-the-butchers-bbq-dlc-trophy-guide) | 2/10 | 2 |  | 4,628 |  | 0 | 4 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1867-dragon-age-origins-darkspawn-chronicles-dlc-trophy-guide) | 2/10 | 2 |  | 14,531 | 4/5 | 5 | 12 |
+| [Escape Plan](https://psnprofiles.com/guide/2916-escape-plan-the-underground-dlc-trophy-guide) | 2/10 | 2 |  | 3,852 |  | 0 | 6 |
+| [Jurassic Park: The Survivors](https://psnprofiles.com/guide/2187-jurassic-park-the-survivors-trophy-guide) | 2/10 | 2 |  | 4,532 |  | 0 | 4 |
+| [Goat Simulator](https://psnprofiles.com/guide/12702-goat-simulator-payday-dlc-trophy-guide) | 2/10 | 2 |  | 19,411 | 5/5 | 9 | 13 |
+| [Minecraft](https://psnprofiles.com/guide/4945-minecraft-expansion-5-dlc-trophy-guide) | 2/10 | 2 |  | 19,486 | 5/5 | 12 | 15 |
+| [Murder House](https://psnprofiles.com/guide/16913-murder-house-trophy-guide) | 2/10 | 2 |  | 5,976 |  | 0 | 3 |
+| [Drakengard 3](https://psnprofiles.com/guide/2538-drakengard-3-fives-chapter-hunger-dlc-trophy-guide) | 2/10 | 2 |  | 9,712 | 5/5 | 5 | 0 |
+| [Minecraft](https://psnprofiles.com/guide/7822-minecraft-expansion-10-dlc-trophy-guide) | 2/10 | 2 |  | 15,991 | 5/5 | 7 | 8 |
+| [Shantae: Half-Genie Hero](https://psnprofiles.com/guide/6387-shantae-half-genie-hero-pirate-queens-quest-dlc-trophy-guide) | 2/10 | 2 |  | 17,536 |  | 0 | 7 |
+| [Sniper Elite 4](https://psnprofiles.com/guide/12607-sniper-elite-4-deathstorm-2-dlc-trophy-guide) | 2/10 | 3 |  | 14,581 |  | 0 | 2 |
+| [Forager](https://psnprofiles.com/guide/17852-forager-nuclear-update-dlc-trophy-guide) | 2/10 | 3 |  | 2,801 |  | 0 | 2 |
+| [The Turing Test](https://psnprofiles.com/guide/5660-the-turing-test-trophy-guide) | 2/10 | 3 |  | 34,069 | 5/5 | 5 | 18 |
+| [The Escapists](https://psnprofiles.com/guide/9630-the-escapists-duct-tapes-are-forever-dlc-trophy-guide) | 2/10 | 3 |  | 4,853 | 4/5 | 5 | 3 |
+| [Cel Damage HD](https://psnprofiles.com/guide/746-cel-damage-hd-trophy-guide) | 2/10 | 3 |  | 12,598 |  | 0 | 14 |
+| [Saints Row IV](https://psnprofiles.com/guide/1367-saints-row-iv-enter-the-dominatrix-dlc-trophy-guide) | 2/10 | 3 |  | 33,629 | 5/5 | 16 | 33 |
+| [Table Top Tanks](https://psnprofiles.com/guide/366-table-top-tanks-trophy-guide) | 2/10 | 3 |  | 3,477 |  | 0 | 6 |
+| [Skylar & Plux: Adventure on Clover Island](https://psnprofiles.com/guide/6884-skylar-plux-adventure-on-clover-island-trophy-guide) | 2/10 | 3 |  | 3,951 |  | 0 | 5 |
+| [Starship Disco](https://psnprofiles.com/guide/5680-starship-disco-trophy-guide) | 2/10 | 3 |  | 1,430 |  | 0 | 1 |
+| [Back to the Future - Episode 1: It's About Time](https://psnprofiles.com/guide/2191-back-to-the-future-episode-1-its-about-time-trophy-guide) | 2/10 | 3 |  | 13,391 | 5/5 | 8 | 21 |
+| [Red Johnson's Chronicles: One Against All](https://psnprofiles.com/guide/2545-red-johnsons-chronicles-one-against-all-trophy-guide) | 2/10 | 3 |  | 3,184 |  | 0 | 1 |
+| [Back to Bed](https://psnprofiles.com/guide/15792-back-to-bed-trophy-guide) | 2/10 | 3 |  | 2,597 |  | 0 | 3 |
+| [Another World](https://psnprofiles.com/guide/1240-another-world-trophy-guide) | 2/10 | 3 |  | 35,930 | 4/5 | 18 | 62 |
+| [Sniper Ghost Warrior 2](https://psnprofiles.com/guide/14046-sniper-ghost-warrior-2-siberian-strike-dlc-trophy-guide) | 2/10 | 3 |  | 3,580 |  | 0 | 1 |
+| [Brothers: A Tale of Two Sons](https://psnprofiles.com/guide/115-brothers-a-tale-of-two-sons-trophy-guide) | 2/10 | 3 |  | 79,238 | 5/5 | 38 | 110 |
+| [Deus Ex: Mankind Divided](https://psnprofiles.com/guide/15159-deus-ex-mankind-divided-system-rift-dlc-trophy-guide) | 2/10 | 3 |  | 6,241 | 5/5 | 7 | 2 |
+| [The Escapists 2](https://psnprofiles.com/guide/7123-the-escapists-2-big-top-breakout-dlc-trophy-guide) | 2/10 | 3 |  | 11,805 |  | 0 | 8 |
+| [Titan Attacks!](https://psnprofiles.com/guide/924-titan-attacks-trophy-guide) | 2/10 | 3 |  | 13,268 | 4/5 | 12 | 44 |
+| [Honor and Duty](https://psnprofiles.com/guide/8116-honor-and-duty-trophy-guide) | 2/10 | 3 |  | 5,876 |  | 0 | 2 |
+| [Statik](https://psnprofiles.com/guide/6286-statik-trophy-guide) | 2/10 | 3 |  | 28,940 |  | 0 | 5 |
+| [House Flipper](https://psnprofiles.com/guide/12132-house-flipper-garden-dlc-trophy-guide) | 2/10 | 3 |  | 18,818 |  | 0 | 8 |
+| [Toem](https://psnprofiles.com/guide/15265-toem-basto-dlc-trophy-guide) | 2/10 | 3 |  | 45,305 | 5/5 | 24 | 9 |
+| [Batman: Arkham Knight](https://psnprofiles.com/guide/3118-batman-arkham-knight-a-matter-of-family-dlc-trophy-guide) | 2/10 | 3 |  | 54,350 | 5/5 | 20 | 43 |
+| [Shaq Fu: A Legend Reborn](https://psnprofiles.com/guide/8077-shaq-fu-a-legend-reborn-barackfu-dlc-trophy-guide) | 2/10 | 3 |  | 5,299 | 5/5 | 6 | 3 |
+| [Reveil](https://psnprofiles.com/guide/19339-reveil-trophy-guide) | 2/10 | 3 |  | 1,518 |  | 0 | 2 |
+| [The Vanishing of Ethan Carter](https://psnprofiles.com/guide/12108-the-vanishing-of-ethan-carter-trophy-guide) | 2/10 | 3 |  | 14,280 | 5/5 | 10 | 21 |
+| [Kingdom: Two Crowns](https://psnprofiles.com/guide/15688-kingdom-two-crowns-deadlands-update-dlc-trophy-guide) | 2/10 | 3 |  | 2,476 |  | 0 | 2 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7740-payday-2-crimewave-edition-gage-spec-ops-dlc-trophy-guide) | 2/10 | 3 |  | 6,629 |  | 0 | 6 |
+| [Pneuma: Breath of Life](https://psnprofiles.com/guide/3044-pneuma-breath-of-life-trophy-guide) | 2/10 | 3 |  | 3,108 |  | 0 | 7 |
+| [Tekken Tag Tournament 2 Prologue](https://psnprofiles.com/guide/12168-tekken-tag-tournament-2-prologue-trophy-guide) | 2/10 | 3 |  | 10,230 | 4/5 | 6 | 3 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/6980-payday-2-crimewave-edition-gage-ninja-dlc-trophy-guide) | 2/10 | 3 |  | 5,687 |  | 0 | 5 |
+| [Contrast](https://psnprofiles.com/guide/694-contrast-trophy-guide) | 2/10 | 3 |  | 18,952 | 5/5 | 6 | 51 |
+| [Rocket League](https://psnprofiles.com/guide/5062-rocket-league-aquadome-dlc-trophy-guide) | 2/10 | 3 |  | 31,365 | 5/5 | 21 | 32 |
+| [Burnout Paradise](https://psnprofiles.com/guide/2249-burnout-paradise-bikes-dlc-trophy-guide) | 2/10 | 3 |  | 22,436 | 4/5 | 6 | 12 |
+| [Call of Duty: Black Ops 4](https://psnprofiles.com/guide/8190-call-of-duty-black-ops-4-classified-dlc-trophy-guide) | 2/10 | 3 |  | 17,444 | 5/5 | 6 | 6 |
+| [Hitman](https://psnprofiles.com/guide/5690-hitman-bonus-episode-landslide-dlc-trophy-guide) | 2/10 | 3 |  | 19,436 | 5/5 | 7 | 16 |
+| [Never Alone](https://psnprofiles.com/guide/2209-never-alone-trophy-guide) | 2/10 | 3 |  | 10,682 | 5/5 | 13 | 36 |
+| [ホラー Sense ～だるまさんがころんだ～](https://psnprofiles.com/guide/9408-%E3%83%9B%E3%83%A9%E3%83%BC-sense-%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%95%E3%82%93%E3%81%8C%E3%81%93%E3%82%8D%E3%82%93%E3%81%A0-trophy-guide) | 2/10 | 3 |  | 1,632 |  | 0 | 0 |
+| [Fallout: New Vegas](https://psnprofiles.com/guide/5407-fallout-new-vegas-nvdlc01-dlc-trophy-guide) | 2/10 | 3 |  | 18,684 | 4/5 | 15 | 14 |
+| [Fairune](https://psnprofiles.com/guide/6439-fairune-trophy-guide) | 2/10 | 3 |  | 4,480 |  | 0 | 5 |
+| [Hawken](https://psnprofiles.com/guide/15652-hawken-trophy-guide) | 2/10 | 3 |  | 7,861 | 5/5 | 8 | 7 |
+| [Marvel's Spider-Man](https://psnprofiles.com/guide/8491-marvels-spider-man-ctns-the-heist-dlc-trophy-guide) | 2/10 | 3 |  | 99,909 | 5/5 | 35 | 43 |
+| [Dragon Age II](https://psnprofiles.com/guide/14445-dragon-age-ii-the-exiled-prince-dlc-trophy-guide) | 2/10 | 3 |  | 3,324 |  | 0 | 1 |
+| [Fallout 4](https://psnprofiles.com/guide/4214-fallout-4-automatron-dlc-trophy-guide) | 2/10 | 3 |  | 37,651 | 5/5 | 20 | 36 |
+| [Hitman 2](https://psnprofiles.com/guide/8795-hitman-2-singapore-dlc-trophy-guide) | 2/10 | 3 |  | 17,850 | 5/5 | 6 | 7 |
+| [Forspoken](https://psnprofiles.com/guide/17005-forspoken-in-tanta-we-trust-dlc-trophy-guide) | 2/10 | 3 |  | 12,334 | 5/5 | 7 | 8 |
+| [Brothers: A Tale of Two Sons](https://psnprofiles.com/guide/11907-brothers-a-tale-of-two-sons-trophy-guide) | 2/10 | 3 |  | 17,993 | 5/5 | 14 | 37 |
+| [Evolve](https://psnprofiles.com/guide/2875-evolve-arena-mode-dlc-trophy-guide) | 2/10 | 3 |  | 3,594 |  | 0 | 6 |
+| [River City Girls Zero](https://psnprofiles.com/guide/15231-river-city-girls-zero-trophy-guide) | 2/10 | 3 | Ken | 8,466 |  | 0 | 9 |
+| [Dogfight 1942](https://psnprofiles.com/guide/2153-dogfight-1942-eastern-winds-dlc-trophy-guide) | 2/10 | 4 |  | 898 |  | 0 | 1 |
+| [Fallout: New Vegas](https://psnprofiles.com/guide/5421-fallout-new-vegas-nvdlc03-dlc-trophy-guide) | 2/10 | 4 |  | 16,031 | 5/5 | 10 | 14 |
+| [Batman: Arkham City](https://psnprofiles.com/guide/3148-batman-arkham-city-harley-pdlc-dlc-trophy-guide) | 2/10 | 4 |  | 33,653 | 5/5 | 8 | 39 |
+| [House Flipper](https://psnprofiles.com/guide/16245-house-flipper-pets-dlc-trophy-guide) | 2/10 | 4 |  | 6,855 |  | 0 | 7 |
+| [Far Cry 4](https://psnprofiles.com/guide/2558-far-cry-4-valley-of-the-yetis-dlc-trophy-guide) | 2/10 | 4 |  | 30,600 | 5/5 | 23 | 35 |
+| [Four Sided Fantasy](https://psnprofiles.com/guide/9116-four-sided-fantasy-trophy-guide) | 2/10 | 4 |  | 12,156 |  | 0 | 3 |
+| [A King's Tale: Final Fantasy XV](https://psnprofiles.com/guide/5380-a-kings-tale-final-fantasy-xv-trophy-guide) | 2/10 | 4 |  | 50,188 | 4/5 | 32 | 97 |
+| [Rise of the Tomb Raider](https://psnprofiles.com/guide/5436-rise-of-the-tomb-raider-baba-yaga-dlc-trophy-guide) | 2/10 | 4 |  | 45,260 | 5/5 | 23 | 30 |
+| [Sleeping Dogs](https://psnprofiles.com/guide/3870-sleeping-dogs-year-of-the-snake-dlc-trophy-guide) | 2/10 | 4 |  | 39,895 | 5/5 | 12 | 24 |
+| [Minecraft • Set 2](https://psnprofiles.com/guide/14275-minecraft-set-2-expansion-14-dlc-trophy-guide) | 2/10 | 4 |  | 11,419 |  | 0 | 2 |
+| [Kingdoms of Amalur: Reckoning](https://psnprofiles.com/guide/6600-kingdoms-of-amalur-reckoning-the-teeth-of-naros-dlc-trophy-guide) | 2/10 | 4 |  | 27,951 |  | 0 | 18 |
+| [Race The Sun](https://psnprofiles.com/guide/5494-race-the-sun-trophy-guide) | 2/10 | 4 |  | 16,232 | 4/5 | 30 | 48 |
+| [The Hungry Horde](https://psnprofiles.com/guide/2259-the-hungry-horde-holiday-hijinx-dlc-trophy-guide) | 2/10 | 4 |  | 2,593 |  | 0 | 3 |
+| [Inside](https://psnprofiles.com/guide/6258-inside-trophy-guide) | 2/10 | 4 |  | 108,035 | 5/5 | 29 | 77 |
+| [Kitten Squad](https://psnprofiles.com/guide/3449-kitten-squad-trophy-guide) | 2/10 | 4 |  | 21,209 | 5/5 | 8 | 16 |
+| [Fallout 3](https://psnprofiles.com/guide/1292-fallout-3-operation-anchorage-dlc-trophy-guide) | 2/10 | 4 |  | 6,961 | 5/5 | 11 | 18 |
+| [Gunstar Heroes](https://psnprofiles.com/guide/3516-gunstar-heroes-trophy-guide) | 2/10 | 4 |  | 3,431 |  | 0 | 10 |
+| [Hatsune Miku VR: Future Live](https://psnprofiles.com/guide/5156-hatsune-miku-vr-future-live-1st-stage-dlc-trophy-guide) | 2/10 | 4 |  | 3,545 |  | 0 | 5 |
+| [Resident Evil 6](https://psnprofiles.com/guide/5130-resident-evil-6-predator-dlc-trophy-guide) | 2/10 | 4 |  | 20,852 | 4/5 | 12 | 13 |
+| [Dead Rising 4](https://psnprofiles.com/guide/12445-dead-rising-4-super-ultra-mini-golf-dlc-trophy-guide) | 2/10 | 4 |  | 5,311 |  | 0 | 2 |
+| [Minecraft](https://psnprofiles.com/guide/10420-minecraft-expansion-13-dlc-trophy-guide) | 2/10 | 4 |  | 21,943 | 4/5 | 9 | 6 |
+| [Battlefield 3](https://psnprofiles.com/guide/6401-battlefield-3-aftermath-dlc-trophy-guide) | 2/10 | 4 |  | 9,714 | 5/5 | 5 | 5 |
+| [Pangeon](https://psnprofiles.com/guide/13590-pangeon-trophy-guide) | 2/10 | 4 |  | 2,748 |  | 0 | 3 |
+| [Goat Simulator](https://psnprofiles.com/guide/15913-goat-simulator-waste-of-space-dlc-trophy-guide) | 2/10 | 4 |  | 4,287 |  | 0 | 5 |
+| [Paranormal Pursuit: The Gifted One](https://psnprofiles.com/guide/2654-paranormal-pursuit-the-gifted-one-trophy-guide) | 2/10 | 4 |  | 1,651 |  | 0 | 3 |
+| [Here They Lie](https://psnprofiles.com/guide/5893-here-they-lie-trophy-guide) | 2/10 | 4 |  | 35,083 | 5/5 | 13 | 39 |
+| [Batman: Arkham Origins](https://psnprofiles.com/guide/785-batman-arkham-origins-cold-cold-heart-dlc-trophy-guide) | 2/10 | 4 |  | 23,005 | 5/5 | 10 | 34 |
+| [Warframe](https://psnprofiles.com/guide/16156-warframe-update-28-dlc-trophy-guide) | 2/10 | 4 |  | 1,932 |  | 0 | 0 |
+| [Plants vs. Zombies: Garden Warfare](https://psnprofiles.com/guide/6745-plants-vs-zombies-garden-warfare-zomboss-down-dlc-trophy-guide) | 2/10 | 4 |  | 9,075 | 5/5 | 6 | 7 |
+| [Terminator: Resistance Enhanced](https://psnprofiles.com/guide/16341-terminator-resistance-enhanced-terminator-resistance-annihilation-line-dlc-trophy-guide) | 2/10 | 4 |  | 12,045 | 5/5 | 5 | 5 |
+| [Doctor Who: The Edge of Time](https://psnprofiles.com/guide/13249-doctor-who-the-edge-of-time-trophy-guide) | 2/10 | 4 |  | 5,931 |  | 0 | 6 |
+| [Port Royale 3](https://psnprofiles.com/guide/8161-port-royale-3-new-adventures-dlc-trophy-guide) | 2/10 | 4 |  | 3,991 |  | 0 | 3 |
+| [Fallout 3](https://psnprofiles.com/guide/100-fallout-3-operation-anchorage-dlc-trophy-guide) | 2/10 | 4 |  | 13,261 | 5/5 | 8 | 15 |
+| [Narcosis](https://psnprofiles.com/guide/14532-narcosis-trophy-guide) | 2/10 | 4 |  | 4,666 |  | 0 | 7 |
+| [Home](https://psnprofiles.com/guide/1893-home-trophy-guide) | 2/10 | 4 |  | 12,030 |  | 0 | 20 |
+| [Phantom Breaker: Battle Grounds](https://psnprofiles.com/guide/3743-phantom-breaker-battle-grounds-kurisu-dlc-trophy-guide) | 2/10 | 4 |  | 1,756 |  | 0 | 4 |
+| [Minecraft](https://psnprofiles.com/guide/8717-minecraft-expansion-10-dlc-trophy-guide) | 2/10 | 4 |  | 23,874 | 5/5 | 6 | 8 |
+| [Degrees of Separation](https://psnprofiles.com/guide/8479-degrees-of-separation-trophy-guide) | 2/10 | 4 |  | 20,311 |  | 0 | 4 |
+| [Minecraft • Set 2](https://psnprofiles.com/guide/16953-minecraft-set-2-expansion-17-dlc-trophy-guide) | 2/10 | 4 |  | 9,573 | 4/5 | 6 | 5 |
+| [Never Alone](https://psnprofiles.com/guide/2670-never-alone-trophy-guide) | 2/10 | 4 |  | 21,918 | 5/5 | 10 | 53 |
+| [Phantom Breaker: Battle Grounds](https://psnprofiles.com/guide/5332-phantom-breaker-battle-grounds-frau-dlc-trophy-guide) | 2/10 | 4 |  | 2,552 |  | 0 | 1 |
+| [War of the Monsters](https://psnprofiles.com/guide/3732-war-of-the-monsters-trophy-guide) | 2/10 | 4 |  | 21,016 | 4/5 | 9 | 17 |
+| [Age of Wonders 4](https://psnprofiles.com/guide/19117-age-of-wonders-4-primal-fury-dlc-trophy-guide) | 2/10 | 5 |  | 887 |  | 0 | 1 |
+| [Castle of Illusion Starring Mickey Mouse](https://psnprofiles.com/guide/6355-castle-of-illusion-starring-mickey-mouse-trophy-guide) | 2/10 | 5 |  | 14,237 | 5/5 | 6 | 24 |
+| [Party Hard](https://psnprofiles.com/guide/5386-party-hard-trophy-guide) | 2/10 | 5 |  | 22,575 | 4/5 | 13 | 18 |
+| [Hohokum](https://psnprofiles.com/guide/1439-hohokum-trophy-guide) | 2/10 | 5 |  | 37,183 | 5/5 | 14 | 63 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/12682-final-fantasy-xiv-shadowbringers-death-unto-dawn-dlc-trophy-guide) | 2/10 | 5 |  | 6,844 | 5/5 | 8 | 4 |
+| [Weird Park: The Final Show](https://psnprofiles.com/guide/2893-weird-park-the-final-show-trophy-guide) | 2/10 | 5 |  | 2,582 |  | 0 | 2 |
+| [Synth Riders](https://psnprofiles.com/guide/17429-synth-riders-trophy-guide) | 2/10 | 5 |  | 3,520 |  | 0 | 4 |
+| [Gungrave G.O.R.E.](https://psnprofiles.com/guide/17236-gungrave-gore-gungrave-gore-add-contents-dlc-trophy-guide) | 2/10 | 5 |  | 3,670 |  | 0 | 0 |
+| [Papo & Yo](https://psnprofiles.com/guide/2505-papo-yo-trophy-guide) | 2/10 | 5 |  | 10,160 | 5/5 | 9 | 36 |
+| [Dragons Online Ultra](https://psnprofiles.com/guide/8587-dragons-online-ultra-trophy-guide) | 2/10 | 5 |  | 3,266 |  | 0 | 3 |
+| [Steep](https://psnprofiles.com/guide/7129-steep-road-to-the-olympics-dlc-trophy-guide) | 2/10 | 5 |  | 19,018 | 5/5 | 9 | 6 |
+| [Jurassic Park: The Intruder](https://psnprofiles.com/guide/1977-jurassic-park-the-intruder-trophy-guide) | 2/10 | 5 |  | 5,924 | 5/5 | 8 | 10 |
+| [Octodad: Dadliest Catch](https://psnprofiles.com/guide/771-octodad-dadliest-catch-trophy-guide) | 2/10 | 5 |  | 32,156 | 5/5 | 8 | 38 |
+| [PowerWash Simulator](https://psnprofiles.com/guide/18219-powerwash-simulator-powerwash-simulator-back-to-the-future-special-dlc-trophy-guide) | 2/10 | 5 |  | 10,837 |  | 0 | 7 |
+| [Call of Duty: Black Ops](https://psnprofiles.com/guide/8766-call-of-duty-black-ops-first-strike-dlc-trophy-guide) | 2/10 | 5 |  | 18,848 | 5/5 | 6 | 7 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/17235-dead-by-daylight-additional-chapters-dead-by-daylight-nicolas-cage-chapter-dlc-trophy-guide) | 2/10 | 5 |  | 2,108 |  | 0 | 2 |
+| [Proteus](https://psnprofiles.com/guide/1385-proteus-trophy-guide) | 2/10 | 5 |  | 15,606 | 5/5 | 18 | 57 |
+| [Dead by Daylight](https://psnprofiles.com/guide/18659-dead-by-daylight-alan-wake-chapter-dlc-trophy-guide) | 2/10 | 5 |  | 1,651 |  | 0 | 1 |
+| [Port Royale 3](https://psnprofiles.com/guide/3246-port-royale-3-dawn-of-pirates-dlc-trophy-guide) | 2/10 | 5 |  | 6,903 |  | 0 | 8 |
+| [Titan Quest](https://psnprofiles.com/guide/10454-titan-quest-ragnar%C3%B6k-dlc-trophy-guide) | 2/10 | 5 |  | 8,997 |  | 0 | 1 |
+| [Fallout: New Vegas](https://psnprofiles.com/guide/5451-fallout-new-vegas-nvdlc04-dlc-trophy-guide) | 2/10 | 5 |  | 19,457 | 4/5 | 15 | 14 |
+| [Figment 2: Creed Valley](https://psnprofiles.com/guide/16326-figment-2-creed-valley-trophy-guide) | 2/10 | 5 |  | 5,236 |  | 0 | 3 |
+| [Rage 2](https://psnprofiles.com/guide/10545-rage-2-rise-of-the-ghosts-dlc-trophy-guide) | 2/10 | 5 |  | 25,984 | 5/5 | 6 | 3 |
+| [Sniper Elite 4](https://psnprofiles.com/guide/10149-sniper-elite-4-deathstorm-1-dlc-trophy-guide) | 2/10 | 5 |  | 28,493 |  | 0 | 3 |
+| [Phantasy Star Online 2](https://psnprofiles.com/guide/9372-phantasy-star-online-2-episode-3-dlc-trophy-guide) | 2/10 | 5 |  | 2,151 |  | 0 | 1 |
+| [Minecraft](https://psnprofiles.com/guide/9442-minecraft-expansion-12-dlc-trophy-guide) | 2/10 | 5 |  | 26,025 | 4/5 | 9 | 5 |
+| [3D Mini Golf](https://psnprofiles.com/guide/13527-3d-mini-golf-trophy-guide) | 2/10 | 5 |  | 5,708 |  | 0 | 2 |
+| [Middle-earth: Shadow of War](https://psnprofiles.com/guide/7118-middle-earth-shadow-of-war-the-blade-of-galadriel-story-expansion-dlc-trophy-guide) | 2/10 | 5 |  | 47,028 | 5/5 | 14 | 20 |
+| [Star Wars Battlefront](https://psnprofiles.com/guide/5025-star-wars-battlefront-death-star-dlc-trophy-guide) | 2/10 | 5 |  | 15,137 | 5/5 | 5 | 26 |
+| [Grow Up](https://psnprofiles.com/guide/19287-grow-up-trophy-guide) | 2/10 | 5 |  | 1,416 |  | 0 | 5 |
+| [Stick It To the Man](https://psnprofiles.com/guide/845-stick-it-to-the-man-trophy-guide) | 2/10 | 5 |  | 16,297 | 5/5 | 21 | 69 |
+| [Scrabble](https://psnprofiles.com/guide/10530-scrabble-trophy-guide) | 2/10 | 5 |  | 4,909 |  | 0 | 4 |
+| [Kingdoms of Amalur: Reckoning](https://psnprofiles.com/guide/6517-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel-dlc-trophy-guide) | 2/10 | 5 |  | 31,994 | 5/5 | 5 | 19 |
+| [PowerWash Simulator](https://psnprofiles.com/guide/18928-powerwash-simulator-powerwash-simulator-warhammer-40000-special-dlc-trophy-guide) | 2/10 | 5 |  | 3,189 |  | 0 | 3 |
+| [Girl Fight](https://psnprofiles.com/guide/17585-girl-fight-trophy-guide) | 2/10 | 5 |  | 1,976 |  | 0 | 2 |
+| [Gems of War](https://psnprofiles.com/guide/9025-gems-of-war-hero-class-update-dlc-trophy-guide) | 2/10 | 5 |  | 3,775 |  | 0 | 1 |
+| [Active Soccer 2 DX](https://psnprofiles.com/guide/5627-active-soccer-2-dx-trophy-guide) | 2/10 | 5 |  | 8,509 |  | 0 | 7 |
+| [Unmechanical Extended](https://psnprofiles.com/guide/5349-unmechanical-extended-trophy-guide) | 2/10 | 5 |  | 5,018 |  | 0 | 20 |
+| [Phantom Breaker: Battle Grounds](https://psnprofiles.com/guide/5331-phantom-breaker-battle-grounds-kurisu-dlc-trophy-guide) | 2/10 | 5 |  | 2,263 |  | 0 | 2 |
+| [Disc Jam](https://psnprofiles.com/guide/15161-disc-jam-trophy-guide) | 2/10 | 5 |  | 2,744 | 3/5 | 6 | 3 |
+| [Journey](https://psnprofiles.com/guide/4878-journey-trophy-guide) | 2/10 | 5 |  | 153,182 | 5/5 | 54 | 229 |
+| [PowerWash Simulator](https://psnprofiles.com/guide/17304-powerwash-simulator-powerwash-simulator-spongebob-squarepants-special-dlc-trophy-guide) | 2/10 | 5 |  | 8,751 |  | 0 | 1 |
+| [Phantasy Star Online 2](https://psnprofiles.com/guide/9229-phantasy-star-online-2-episode-2-dlc-trophy-guide) | 2/10 | 5 |  | 2,933 |  | 0 | 1 |
+| [BioShock 2](https://psnprofiles.com/guide/5091-bioshock-2-minervas-den-dlc-trophy-guide) | 2/10 | 5 |  | 55,760 | 5/5 | 22 | 36 |
+| [Stick It To the Man](https://psnprofiles.com/guide/603-stick-it-to-the-man-trophy-guide) | 2/10 | 5 |  | 4,252 |  | 0 | 13 |
+| [Dead by Daylight](https://psnprofiles.com/guide/18177-dead-by-daylight-chucky-chapter-dlc-trophy-guide) | 2/10 | 5 |  | 2,961 |  | 0 | 2 |
+| [Sleeping Dogs](https://psnprofiles.com/guide/3866-sleeping-dogs-nightmare-in-north-point-dlc-trophy-guide) | 2/10 | 5 |  | 47,636 | 5/5 | 15 | 22 |
+| [Disc Jam](https://psnprofiles.com/guide/5848-disc-jam-trophy-guide) | 2/10 | 5 |  | 19,829 | 4/5 | 20 | 31 |
+| [The Vanishing of Ethan Carter](https://psnprofiles.com/guide/3122-the-vanishing-of-ethan-carter-trophy-guide) | 2/10 | 5 |  | 49,691 | 5/5 | 29 | 60 |
+| [Journey](https://psnprofiles.com/guide/1271-journey-trophy-guide) | 2/10 | 6 |  | 48,698 | 5/5 | 16 | 93 |
+| [Syberia 2](https://psnprofiles.com/guide/4597-syberia-2-trophy-guide) | 2/10 | 6 |  | 11,210 |  | 0 | 13 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/15597-minecraft-dungeons-season-3-dlc-trophy-guide) | 2/10 | 6 |  | 15,867 |  | 0 | 1 |
+| [After Burner Climax](https://psnprofiles.com/guide/8287-after-burner-climax-trophy-guide) | 2/10 | 6 |  | 3,740 |  | 0 | 4 |
+| [Grand Theft Auto IV](https://psnprofiles.com/guide/2929-grand-theft-auto-iv-tlad-dlc-trophy-guide) | 2/10 | 6 |  | 25,791 | 4/5 | 10 | 36 |
+| [Doom VFR](https://psnprofiles.com/guide/9632-doom-vfr-trophy-guide) | 2/10 | 6 |  | 13,439 | 5/5 | 7 | 10 |
+| [Battle: Los Angeles](https://psnprofiles.com/guide/52-battle-los-angeles-trophy-guide) | 2/10 | 6 |  | 4,248 |  | 0 | 4 |
+| [Ghost of Tsushima](https://psnprofiles.com/guide/12700-ghost-of-tsushima-iki-island-story-dlc-trophy-guide) | 2/10 | 6 |  | 126,633 | 4/5 | 27 | 41 |
+| [Borderlands](https://psnprofiles.com/guide/4833-borderlands-zombie-island-of-dr-ned-dlc-trophy-guide) | 2/10 | 6 |  | 28,645 | 5/5 | 8 | 21 |
+| [Montgomery Fox and the Case of the Missing Ballerinas](https://psnprofiles.com/guide/16550-montgomery-fox-and-the-case-of-the-missing-ballerinas-trophy-guide) | 2/10 | 6 |  | 1,436 |  | 0 | 2 |
+| [LittleBigPlanet](https://psnprofiles.com/guide/7582-littlebigplanet-metal-gear-solid-level-kit-dlc-trophy-guide) | 2/10 | 6 |  | 7,852 | 5/5 | 7 | 4 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/17525-dead-by-daylight-additional-chapters-dead-by-daylight-alien-chapter-dlc-trophy-guide) | 2/10 | 6 |  | 3,639 |  | 0 | 2 |
+| [Assassin's Creed Odyssey](https://psnprofiles.com/guide/8773-assassins-creed-odyssey-legacy-of-the-first-blade-episode-1-dlc-trophy-guide) | 2/10 | 6 |  | 65,585 | 5/5 | 18 | 23 |
+| [Need for Speed: Shift](https://psnprofiles.com/guide/1309-need-for-speed-shift-exotic-racing-series-dlc-trophy-guide) | 2/10 | 6 |  | 7,428 | 4/5 | 6 | 11 |
+| [House Flipper](https://psnprofiles.com/guide/17855-house-flipper-farm-dlc-trophy-guide) | 2/10 | 6 |  | 4,708 |  | 0 | 6 |
+| [Toybox Turbos](https://psnprofiles.com/guide/1924-toybox-turbos-trophy-guide) | 2/10 | 6 |  | 4,470 |  | 0 | 5 |
+| [Minecraft](https://psnprofiles.com/guide/14856-minecraft-expansion-2-dlc-trophy-guide) | 2/10 | 6 |  | 10,233 | 5/5 | 6 | 5 |
+| [Minecraft • Set 2](https://psnprofiles.com/guide/14596-minecraft-set-2-expansion-16-dlc-trophy-guide) | 2/10 | 6 |  | 13,886 | 3/5 | 6 | 3 |
+| [Gravity Badgers](https://psnprofiles.com/guide/2001-gravity-badgers-trophy-guide) | 2/10 | 6 |  | 2,788 |  | 0 | 0 |
+| [Minecraft](https://psnprofiles.com/guide/9489-minecraft-expansion-11-dlc-trophy-guide) | 2/10 | 6 |  | 30,066 | 5/5 | 7 | 8 |
+| [FEZ](https://psnprofiles.com/guide/16021-fez-trophy-guide) | 2/10 | 6 |  | 8,852 |  | 0 | 12 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/12581-minecraft-dungeons-echoing-void-dlc-trophy-guide) | 2/10 | 6 |  | 25,327 | 5/5 | 6 | 4 |
+| [One Piece: Grand Cruise](https://psnprofiles.com/guide/7449-one-piece-grand-cruise-trophy-guide) | 2/10 | 6 |  | 12,821 |  | 0 | 6 |
+| [Little Red Lie](https://psnprofiles.com/guide/6932-little-red-lie-trophy-guide) | 2/10 | 6 |  | 4,811 |  | 0 | 4 |
+| [Proteus](https://psnprofiles.com/guide/1381-proteus-trophy-guide) | 2/10 | 6 |  | 5,246 | 3/5 | 15 | 27 |
+| [Layers of Fear](https://psnprofiles.com/guide/14328-layers-of-fear-trophy-guide) | 2/10 | 6 |  | 12,763 |  | 0 | 14 |
+| [Assassin's Creed Odyssey](https://psnprofiles.com/guide/8941-assassins-creed-odyssey-legacy-of-the-first-blade-episode-2-dlc-trophy-guide) | 2/10 | 6 |  | 51,186 | 5/5 | 20 | 18 |
+| [Wheel of Fortune](https://psnprofiles.com/guide/16611-wheel-of-fortune-trophy-guide) | 2/10 | 6 |  | 8,602 |  | 0 | 9 |
+| [Immortals Fenyx Rising](https://psnprofiles.com/guide/11885-immortals-fenyx-rising-myths-of-the-eastern-realm-dlc-trophy-guide) | 2/10 | 6 |  | 41,243 | 5/5 | 9 | 15 |
+| [Assassin's Creed Odyssey](https://psnprofiles.com/guide/8950-assassins-creed-odyssey-legacy-of-the-first-blade-episode-3-dlc-trophy-guide) | 2/10 | 6 |  | 46,385 | 5/5 | 18 | 19 |
+| [Shaq Fu: A Legend Reborn](https://psnprofiles.com/guide/8076-shaq-fu-a-legend-reborn-trophy-guide) | 2/10 | 6 |  | 17,196 | 5/5 | 6 | 9 |
+| [Battlefield 1](https://psnprofiles.com/guide/5907-battlefield-1-they-shall-not-pass-dlc-trophy-guide) | 2/10 | 6 |  | 45,420 | 4/5 | 17 | 18 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/12261-minecraft-dungeons-hidden-depths-dlc-trophy-guide) | 2/10 | 6 |  | 22,622 | 5/5 | 7 | 6 |
+| [Monopoly Plus](https://psnprofiles.com/guide/10917-monopoly-plus-trophy-guide) | 2/10 | 6 |  | 48,945 | 4/5 | 15 | 25 |
+| [Feeding Frenzy 2: Shipwreck Showdown](https://psnprofiles.com/guide/2891-feeding-frenzy-2-shipwreck-showdown-trophy-guide) | 2/10 | 6 |  | 3,402 |  | 0 | 9 |
+| [Hitman](https://psnprofiles.com/guide/4081-hitman-trophy-guide) | 2/10 | 7 |  | 74,753 | 4/5 | 15 | 56 |
+| [Plantera](https://psnprofiles.com/guide/6080-plantera-trophy-guide) | 2/10 | 7 |  | 4,979 |  | 0 | 3 |
+| [Hue](https://psnprofiles.com/guide/4923-hue-trophy-guide) | 2/10 | 7 |  | 45,100 | 4/5 | 24 | 63 |
+| [Knight Solitaire](https://psnprofiles.com/guide/18027-knight-solitaire-trophy-guide) | 2/10 | 8 |  | 900 |  | 0 | 2 |
+| [Costume Quest 2](https://psnprofiles.com/guide/1909-costume-quest-2-trophy-guide) | 2/10 | 8 |  | 17,088 | 5/5 | 5 | 26 |
+| [Uno](https://psnprofiles.com/guide/11769-uno-trophy-guide) | 2/10 | 8 |  | 63,160 | 5/5 | 13 | 31 |
+| [Far Cry 3 Blood Dragon](https://psnprofiles.com/guide/2115-far-cry-3-blood-dragon-trophy-guide) | 2/10 | 8 |  | 38,712 | 5/5 | 18 | 90 |
+| [Far Cry 3 Blood Dragon Classic Edition](https://psnprofiles.com/guide/13457-far-cry-3-blood-dragon-classic-edition-trophy-guide) | 2/10 | 8 |  | 63,335 | 5/5 | 7 | 39 |
+| [Short Peace: Ranko Tsukigime's Longest Day](https://psnprofiles.com/guide/2769-short-peace-ranko-tsukigimes-longest-day-trophy-guide) | 2/10 | 8 |  | 7,113 |  | 0 | 12 |
+| [Sam & Max: The Devil's Playhouse Episode 1 - The Penal Zone](https://psnprofiles.com/guide/701-sam-max-the-devils-playhouse-episode-1-the-penal-zone-trophy-guide) | 2/10 | 8 |  | 10,854 | 5/5 | 7 | 11 |
+| [Dead by Daylight](https://psnprofiles.com/guide/8522-dead-by-daylight-ash-vs-evil-dead-dlc-trophy-guide) | 2/10 | 8 |  | 7,464 |  | 0 | 3 |
+| [お姉チャンバラZ～カグラ～ With NoNoNo!](https://psnprofiles.com/guide/16385-%E3%81%8A%E5%A7%89%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%A9z%E3%82%AB%E3%82%B0%E3%83%A9-with-nonono-%E8%BF%BD%E5%8A%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84-dlc-trophy-guide) | 2/10 | 10 |  | 908 |  | 0 | 1 |
+| [Cult of the Lamb](https://psnprofiles.com/guide/18615-cult-of-the-lamb-sins-of-the-flesh-dlc-trophy-guide) | 2/10 | 10 |  | 10,358 | 5/5 | 10 | 7 |
+| [Blood Knights](https://psnprofiles.com/guide/4687-blood-knights-trophy-guide) | 2/10 | 10 |  | 11,798 | 3/5 | 11 | 13 |
+| [Bugsnax](https://psnprofiles.com/guide/14347-bugsnax-the-isle-of-bigsnax-dlc-trophy-guide) | 2/10 | 10 |  | 41,204 | 5/5 | 26 | 26 |
+| [Nova-111](https://psnprofiles.com/guide/6743-nova-111-trophy-guide) | 2/10 | 10 |  | 17,549 | 4/5 | 7 | 20 |
+| [Plague Road](https://psnprofiles.com/guide/7451-plague-road-trophy-guide) | 2/10 | 10 |  | 8,903 |  | 0 | 5 |
+| [Pocket RPG](https://psnprofiles.com/guide/8835-pocket-rpg-trophy-guide) | 2/10 | 10 |  | 1,789 |  | 0 | 2 |
+| [Primal](https://psnprofiles.com/guide/4466-primal-trophy-guide) | 2/10 | 10 |  | 23,268 | 4/5 | 5 | 20 |
+| [Fallout 4](https://psnprofiles.com/guide/4417-fallout-4-far-harbor-dlc-trophy-guide) | 2/10 | 10 |  | 86,456 | 4/5 | 33 | 48 |
+| [Brink](https://psnprofiles.com/guide/321-brink-agents-of-change-dlc-trophy-guide) | 2/10 | 10 |  | 5,232 |  | 0 | 6 |
+| [AdVenture Capitalist](https://psnprofiles.com/guide/7220-adventure-capitalist-trophy-guide) | 2/10 | 10 |  | 54,615 | 5/5 | 25 | 51 |
+| [The Walking Dead: Destinies](https://psnprofiles.com/guide/18399-the-walking-dead-destinies-trophy-guide) | 2/10 | 10 |  | 10,549 |  | 0 | 10 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7317-payday-2-crimewave-edition-the-butchers-akcar-mod-dlc-trophy-guide) | 2/10 | 10 |  | 4,138 |  | 0 | 3 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/13106-dead-by-daylight-additional-chapters-dead-by-daylight-hour-of-the-witch-chapter-dlc-trophy-guide) | 2/10 | 10 |  | 7,401 |  | 0 | 2 |
+| [Jetpack Joyride Deluxe](https://psnprofiles.com/guide/8209-jetpack-joyride-deluxe-trophy-guide) | 2/10 | 10 |  | 16,435 |  | 0 | 9 |
+| [Tropico 5](https://psnprofiles.com/guide/6151-tropico-5-espionage-dlc-trophy-guide) | 2/10 | 10 |  | 11,659 | 5/5 | 8 | 8 |
+| [Poop Slinger](https://psnprofiles.com/guide/7695-poop-slinger-trophy-guide) | 2/10 | 10 |  | 6,093 |  | 0 | 3 |
+| [Assassin's Creed Freedom Cry](https://psnprofiles.com/guide/5172-assassins-creed-freedom-cry-trophy-guide) | 2/10 | 10 |  | 24,142 |  | 0 | 31 |
+| [Street Fighter 6](https://psnprofiles.com/guide/16898-street-fighter-6-fighting-ground-dlc-trophy-guide) | 2/10 | 10 |  | 5,315 |  | 0 | 5 |
+| [Pure Chess](https://psnprofiles.com/guide/1557-pure-chess-trophy-guide) | 2/10 | 10 |  | 4,862 | 5/5 | 6 | 7 |
+| [Legal Dungeon](https://psnprofiles.com/guide/18710-legal-dungeon-trophy-guide) | 2/10 | 10 |  | 1,142 |  | 0 | 2 |
+| [Wandersong](https://psnprofiles.com/guide/16532-wandersong-trophy-guide) | 2/10 | 10 |  | 1,791 |  | 0 | 3 |
+| [Pure Chess](https://psnprofiles.com/guide/1512-pure-chess-trophy-guide) | 2/10 | 10 |  | 11,601 | 4/5 | 5 | 12 |
+| [Mafia III](https://psnprofiles.com/guide/6307-mafia-iii-faster-baby-dlc-trophy-guide) | 2/10 | 10 |  | 42,108 | 5/5 | 23 | 21 |
+| [Flashback](https://psnprofiles.com/guide/7084-flashback-trophy-guide) | 2/10 | 10 |  | 16,287 |  | 0 | 3 |
+| [Agatha Christie: The ABC Murders](https://psnprofiles.com/guide/12215-agatha-christie-the-abc-murders-trophy-guide) | 2/10 | 10 |  | 31,435 | 4/5 | 7 | 23 |
+| [Tropico 5](https://psnprofiles.com/guide/6145-tropico-5-waterborne-dlc-trophy-guide) | 2/10 | 10 |  | 11,013 | 5/5 | 7 | 7 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/14298-minecraft-dungeons-season-2-dlc-trophy-guide) | 2/10 | 10 |  | 17,915 |  | 0 | 4 |
+| [Pinballistik](https://psnprofiles.com/guide/7560-pinballistik-trophy-guide) | 2/10 | 10 |  | 6,036 |  | 0 | 6 |
+| [One Piece: World Seeker](https://psnprofiles.com/guide/14797-one-piece-world-seeker-the-unfinished-map-dlc-trophy-guide) | 2/10 | 10 |  | 7,199 |  | 0 | 4 |
+| [Dragon Ball Xenoverse 2](https://psnprofiles.com/guide/9470-dragon-ball-xenoverse-2-extra-1-dlc-trophy-guide) | 2/10 | 10 |  | 14,835 | 4/5 | 5 | 3 |
+| [Gems of War](https://psnprofiles.com/guide/9034-gems-of-war-pvp-update-dlc-trophy-guide) | 2/10 | 10 |  | 4,337 |  | 0 | 1 |
+| [Pure Chess](https://psnprofiles.com/guide/1558-pure-chess-trophy-guide) | 2/10 | 10 |  | 4,229 |  | 0 | 5 |
+| [One Piece: World Seeker](https://psnprofiles.com/guide/14795-one-piece-world-seeker-the-void-mirror-prototype-dlc-trophy-guide) | 2/10 | 10 |  | 8,652 |  | 0 | 4 |
+| [House Flipper](https://psnprofiles.com/guide/16220-house-flipper-luxury-dlc-trophy-guide) | 2/10 | 10 |  | 9,498 |  | 0 | 9 |
+| [Dead by Daylight](https://psnprofiles.com/guide/8112-dead-by-daylight-darkness-among-us-chapter-dlc-trophy-guide) | 2/10 | 10 |  | 9,821 | 5/5 | 5 | 8 |
+| [Among Us](https://psnprofiles.com/guide/15693-among-us-hide-n-seek-dlc-trophy-guide) | 2/10 | 10 |  | 8,485 | 5/5 | 5 | 10 |
+| [One Piece: World Seeker](https://psnprofiles.com/guide/14796-one-piece-world-seeker-where-justice-lies-dlc-trophy-guide) | 2/10 | 10 |  | 7,047 |  | 0 | 4 |
+| [Phantom Breaker: Battle Grounds](https://psnprofiles.com/guide/5330-phantom-breaker-battle-grounds-trophy-guide) | 2/10 | 12 |  | 8,747 | 5/5 | 5 | 7 |
+| [Surviving the Aftermath](https://psnprofiles.com/guide/16448-surviving-the-aftermath-rebirth-dlc-trophy-guide) | 2/10 | 12 |  | 3,140 |  | 0 | 0 |
+| [Immortals Fenyx Rising](https://psnprofiles.com/guide/12076-immortals-fenyx-rising-the-lost-gods-dlc-trophy-guide) | 2/10 | 12 |  | 49,128 | 5/5 | 8 | 13 |
+| [BioShock 2](https://psnprofiles.com/guide/3807-bioshock-2-rapture-metro-dlc-trophy-guide) | 2/10 | 12 |  | 21,353 | 4/5 | 6 | 13 |
+| [Horizon Forbidden West](https://psnprofiles.com/guide/16568-horizon-forbidden-west-burning-shores-dlc-trophy-guide) | 2/10 | 12 |  | 72,759 | 5/5 | 39 | 31 |
+| [Heavy Fire: Red Shadow](https://psnprofiles.com/guide/19527-heavy-fire-red-shadow-trophy-guide) | 2/10 | 12 |  | 1,144 |  | 0 | 2 |
+| [DeathSpank](https://psnprofiles.com/guide/7809-deathspank-trophy-guide) | 2/10 | 12 |  | 4,574 |  | 0 | 1 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/12549-assassins-creed-valhalla-the-siege-of-paris-dlc-trophy-guide) | 2/10 | 12 |  | 46,558 | 5/5 | 11 | 24 |
+| [The Elder Scrolls V: Skyrim](https://psnprofiles.com/guide/6270-the-elder-scrolls-v-skyrim-hearthfire-dlc-trophy-guide) | 2/10 | 15 |  | 60,181 | 4/5 | 11 | 28 |
+| [Prey: Typhon Hunter](https://psnprofiles.com/guide/12238-prey-typhon-hunter-trophy-guide) | 2/10 | 15 |  | 7,811 |  | 0 | 7 |
+| [Fate/Samurai Remnant](https://psnprofiles.com/guide/18756-fatesamurai-remnant-records-fragment-keian-command-championship-dlc-trophy-guide) | 2/10 | 15 |  | 2,514 |  | 0 | 1 |
+| [Jetpack Joyride](https://psnprofiles.com/guide/4438-jetpack-joyride-trophy-guide) | 2/10 | 15 |  | 21,194 |  | 0 | 9 |
+| [Shake Spears!](https://psnprofiles.com/guide/2466-shake-spears-trophy-guide) | 2/10 | 15 |  | 7,814 | 4/5 | 6 | 17 |
+| [Doodle Kingdom](https://psnprofiles.com/guide/8630-doodle-kingdom-trophy-guide) | 2/10 | 15 |  | 10,424 |  | 0 | 7 |
+| [Letter Quest](https://psnprofiles.com/guide/4470-letter-quest-trophy-guide) | 2/10 | 15 |  | 24,161 | 5/5 | 14 | 45 |
+| [Dead Ahead: Zombie Warfare](https://psnprofiles.com/guide/8360-dead-ahead-zombie-warfare-trophy-guide) | 2/10 | 15 |  | 7,686 |  | 0 | 3 |
+| [The Warriors](https://psnprofiles.com/guide/7934-the-warriors-trophy-guide) | 2/10 | 15 |  | 40,553 | 5/5 | 6 | 20 |
+| [Sonic Adventure 2](https://psnprofiles.com/guide/5652-sonic-adventure-2-battle-dlc-trophy-guide) | 2/10 | 15 |  | 7,548 |  | 0 | 7 |
+| [Citizens of Earth](https://psnprofiles.com/guide/5736-citizens-of-earth-trophy-guide) | 2/10 | 15 |  | 17,775 | 5/5 | 5 | 19 |
+| [Secret Ponchos](https://psnprofiles.com/guide/17033-secret-ponchos-trophy-guide) | 2/10 | 15 |  | 2,970 |  | 0 | 6 |
+| [Tourist Bus Simulator](https://psnprofiles.com/guide/14439-tourist-bus-simulator-trophy-guide) | 2/10 | 20 |  | 4,867 |  | 0 | 4 |
+| [Run Sackboy! Run!](https://psnprofiles.com/guide/2994-run-sackboy-run-trophy-guide) | 2/10 | 20 |  | 13,735 | 5/5 | 7 | 25 |
+| [Diablo III: Reaper of Souls](https://psnprofiles.com/guide/6171-diablo-iii-reaper-of-souls-diablo-iii-rise-of-the-necromancer-dlc-trophy-guide) | 2/10 | 20 |  | 51,125 | 5/5 | 17 | 54 |
+| [Doom](https://psnprofiles.com/guide/7550-doom-update-666-dlc-trophy-guide) | 2/10 | 20 |  | 25,588 | 5/5 | 9 | 17 |
+| [Corridor Z](https://psnprofiles.com/guide/15196-corridor-z-trophy-guide) | 2/10 | 20 |  | 5,522 | 5/5 | 7 | 6 |
+| [Tales of Arise](https://psnprofiles.com/guide/18229-tales-of-arise-beyond-the-dawn-dlc-trophy-guide) | 2/10 | 20 |  | 13,117 | 5/5 | 10 | 14 |
+| [Injustice 2](https://psnprofiles.com/guide/7226-injustice-2-legendary-edition-dlc-trophy-guide) | 2/10 | 20 |  | 39,302 | 4/5 | 16 | 24 |
+| [Dragon Ball Xenoverse 2](https://psnprofiles.com/guide/9474-dragon-ball-xenoverse-2-extra-2-dlc-trophy-guide) | 2/10 | 20 |  | 23,898 |  | 0 | 4 |
+| [Dragon Ball Xenoverse 2](https://psnprofiles.com/guide/7949-dragon-ball-xenoverse-2-version-114-additional-dlc-trophy-guide) | 2/10 | 20 |  | 23,531 |  | 0 | 3 |
+| [Asdivine Hearts](https://psnprofiles.com/guide/7958-asdivine-hearts-trophy-guide) | 2/10 | 20 |  | 15,999 |  | 0 | 15 |
+| [theHunter: Call of the Wild](https://psnprofiles.com/guide/19084-thehunter-call-of-the-wild-vurhonga-savanna-dlc-trophy-guide) | 2/10 | 20 |  | 1,098 |  | 0 | 0 |
+| [Graveyard Keeper](https://psnprofiles.com/guide/9845-graveyard-keeper-stranger-sins-dlc-trophy-guide) | 2/10 | 20 |  | 25,794 | 5/5 | 6 | 11 |
+| [Yu-Gi-Oh! Legacy of the Duelist](https://psnprofiles.com/guide/16887-yu-gi-oh-legacy-of-the-duelist-trophy-guide) | 2/10 | 20 |  | 6,804 |  | 0 | 6 |
+| [Genshin Impact](https://psnprofiles.com/guide/12104-genshin-impact-trophy-series-iii-dlc-trophy-guide) | 2/10 | 20 |  | 11,675 |  | 0 | 6 |
+| [Genshin Impact](https://psnprofiles.com/guide/14068-genshin-impact-trophy-series-vi-dlc-trophy-guide) | 2/10 | 20 |  | 7,568 |  | 0 | 5 |
+| [Cuboid](https://psnprofiles.com/guide/16023-cuboid-level-editor-dlc-trophy-guide) | 2/10 | 22 |  | 684 |  | 0 | 0 |
+| [Dungeons & Dragons: Daggerdale](https://psnprofiles.com/guide/4475-dungeons-dragons-daggerdale-trophy-guide) | 2/10 | 24 |  | 3,156 |  | 0 | 5 |
+| [Genshin Impact](https://psnprofiles.com/guide/15074-genshin-impact-trophy-series-iv-dlc-trophy-guide) | 2/10 | 25 |  | 7,735 |  | 0 | 8 |
+| [Secret Ponchos](https://psnprofiles.com/guide/9335-secret-ponchos-trophy-guide) | 2/10 | 25 |  | 15,792 |  | 0 | 16 |
+| [Lara Croft and the Temple of Osiris](https://psnprofiles.com/guide/6411-lara-croft-and-the-temple-of-osiris-trophy-guide) | 2/10 | 25 |  | 30,644 | 4/5 | 11 | 49 |
+| [Phantasy Star Online 2](https://psnprofiles.com/guide/12342-phantasy-star-online-2-new-genesis-dlc-trophy-guide) | 2/10 | 25 |  | 8,239 |  | 0 | 4 |
+| [Order Up!!](https://psnprofiles.com/guide/4688-order-up-trophy-guide) | 2/10 | 25 |  | 6,293 | 5/5 | 6 | 5 |
+| [Battle Ages](https://psnprofiles.com/guide/6646-battle-ages-trophy-guide) | 2/10 | 30 |  | 15,951 |  | 0 | 14 |
+| [Genshin Impact](https://psnprofiles.com/guide/15284-genshin-impact-trophy-series-v-dlc-trophy-guide) | 2/10 | 30 |  | 7,226 |  | 0 | 5 |
+| [Clicker Heroes](https://psnprofiles.com/guide/16573-clicker-heroes-trophy-guide) | 2/10 | 30 |  | 16,559 | 5/5 | 11 | 19 |
+| [Forager](https://psnprofiles.com/guide/17732-forager-trophy-guide) | 2/10 | 30 |  | 13,875 |  | 0 | 18 |
+| [Might & Magic: Clash of Heroes](https://psnprofiles.com/guide/3612-might-magic-clash-of-heroes-trophy-guide) | 2/10 | 30 |  | 6,097 |  | 0 | 6 |
+| [Minecraft](https://psnprofiles.com/guide/14848-minecraft-expansion-1-dlc-trophy-guide) | 2/10 | 35 |  | 11,743 | 5/5 | 6 | 5 |
+| [Siralim](https://psnprofiles.com/guide/4376-siralim-trophy-guide) | 2/10 | 35 |  | 10,483 |  | 0 | 10 |
+| [Genshin Impact](https://psnprofiles.com/guide/14069-genshin-impact-trophy-series-vii-dlc-trophy-guide) | 2/10 | 40 |  | 11,531 |  | 0 | 7 |
+| [Run Sackboy! Run!](https://psnprofiles.com/guide/2655-run-sackboy-run-trophy-guide) | 2/10 | 40 |  | 19,700 | 5/5 | 9 | 22 |
+| [Virtua Fighter 5: Ultimate Showdown](https://psnprofiles.com/guide/12304-virtua-fighter-5-ultimate-showdown-trophy-guide) | 2/10 | 40 |  | 32,863 | 4/5 | 14 | 30 |
+| [Spellbreak](https://psnprofiles.com/guide/15687-spellbreak-trophy-guide) | 2/10 | 55 |  | 4,796 |  | 0 | 1 |
+| [High Stakes on the Vegas Strip: Poker Edition](https://psnprofiles.com/guide/19127-high-stakes-on-the-vegas-strip-poker-edition-trophy-guide) | 2/10 | 100 |  | 1,101 |  | 0 | 3 |
+| [Gems of War](https://psnprofiles.com/guide/4758-gems-of-war-trophy-guide) | 2/10 | 100 |  | 29,426 | 4/5 | 6 | 14 |
+| [Cities: Skylines](https://psnprofiles.com/guide/16961-cities-skylines-natural-disasters-dlc-trophy-guide) | 2/10 | 100 |  | 2,913 |  | 0 | 0 |
+| [Trove](https://psnprofiles.com/guide/17311-trove-geode-dlc-trophy-guide) | 2/10 | 100 |  | 2,156 |  | 0 | 2 |
+| [Deadman's Cross](https://psnprofiles.com/guide/2599-deadmans-cross-trophy-guide) | 2/10 | 300 |  | 1,695 |  | 0 | 3 |
+| [Backfirewall](https://psnprofiles.com/guide/16286-backfirewall-trophy-guide) | 3/10 | 5 | 0.00% | 4,787 |  | 0 | 7 |
+| [Fortnite](https://psnprofiles.com/guide/7964-fortnite-trophy-guide) | 3/10 | 999 | 0.16% | 191,943 | 4/5 | 13 | 134 |
+| [WWE 2K17](https://psnprofiles.com/guide/6437-wwe-2k17-trophy-guide) | 3/10 | 200 | 0.55% | 21,590 |  | 0 | 8 |
+| [Neverwinter](https://psnprofiles.com/guide/4880-neverwinter-trophy-guide) | 3/10 | 200 | 0.58% | 78,799 | 4/5 | 15 | 71 |
+| [DC Universe Online](https://psnprofiles.com/guide/1024-dc-universe-online-trophy-guide) | 3/10 | 120 | 0.66% | 39,932 |  | 0 | 38 |
+| [Friday the 13th](https://psnprofiles.com/guide/12512-friday-the-13th-trophy-guide) | 3/10 | 145 | 0.66% | 27,327 | 5/5 | 7 | 18 |
+| [CarX Drift Racing Online](https://psnprofiles.com/guide/9519-carx-drift-racing-online-trophy-guide) | 3/10 | 40 | 0.86% | 39,141 | 5/5 | 8 | 19 |
+| [MotoGP 09/10](https://psnprofiles.com/guide/9243-motogp-0910-trophy-guide) | 3/10 | 30 | 0.90% | 9,117 | 5/5 | 5 | 5 |
+| [Grand Kingdom](https://psnprofiles.com/guide/5209-grand-kingdom-trophy-guide) | 3/10 | 100 | 0.93% | 102,820 | 4/5 | 22 | 95 |
+| [Unturned](https://psnprofiles.com/guide/17058-unturned-trophy-guide) | 3/10 | 20 | 0.96% | 14,395 |  | 0 | 13 |
+| [SpellForce III Reforced](https://psnprofiles.com/guide/18953-spellforce-iii-reforced-trophy-guide) | 3/10 | 50 | 0.98% | 2,572 |  | 0 | 7 |
+| [Super Bomberman R](https://psnprofiles.com/guide/14606-super-bomberman-r-trophy-guide) | 3/10 | 900 | 1.04% | 14,521 | 5/5 | 5 | 8 |
+| [Age of Wonders: Planetfall](https://psnprofiles.com/guide/16189-age-of-wonders-planetfall-trophy-guide) | 3/10 | 80 | 1.11% | 9,858 |  | 0 | 8 |
+| [PixelJunk Nom Nom Galaxy](https://psnprofiles.com/guide/3926-pixeljunk-nom-nom-galaxy-trophy-guide) | 3/10 | 30 | 1.15% | 23,498 | 4/5 | 7 | 71 |
+| [EVE: Valkyrie - Warzone](https://psnprofiles.com/guide/6748-eve-valkyrie-warzone-trophy-guide) | 3/10 | 50 | 1.15% | 3,683 |  | 0 | 4 |
+| [Laser League](https://psnprofiles.com/guide/9894-laser-league-trophy-guide) | 3/10 | 35 | 1.17% | 16,842 | 3/5 | 12 | 6 |
+| [Battleborn](https://psnprofiles.com/guide/7098-battleborn-trophy-guide) | 3/10 | 80 | 1.32% | 21,945 | 5/5 | 10 | 23 |
+| [MultiVersus](https://psnprofiles.com/guide/15023-multiversus-trophy-guide) | 3/10 | 150 | 1.54% | 61,598 | 4/5 | 14 | 43 |
+| [Arcadegeddon](https://psnprofiles.com/guide/15000-arcadegeddon-trophy-guide) | 3/10 | 60 | 1.71% | 9,265 |  | 0 | 10 |
+| [Dreams](https://psnprofiles.com/guide/9694-dreams-trophy-guide) | 3/10 | 75 | 1.72% | 139,843 | 5/5 | 33 | 109 |
+| [Rugby League Live 3](https://psnprofiles.com/guide/7148-rugby-league-live-3-trophy-guide) | 3/10 | 80 | 1.81% | 6,641 |  | 0 | 4 |
+| [Oddworld: Munch's Oddysee HD](https://psnprofiles.com/guide/2883-oddworld-munchs-oddysee-hd-trophy-guide) | 3/10 | 30 | 1.84% | 10,750 | 5/5 | 5 | 27 |
+| [Switchblade](https://psnprofiles.com/guide/9556-switchblade-trophy-guide) | 3/10 | 35 | 1.87% | 19,651 | 5/5 | 9 | 11 |
+| [Stellaris](https://psnprofiles.com/guide/16873-stellaris-trophy-guide) | 3/10 | 100 | 1.87% | 13,662 | 5/5 | 5 | 18 |
+| [Torment: Tides of Numenera](https://psnprofiles.com/guide/7359-torment-tides-of-numenera-trophy-guide) | 3/10 | 50 | 1.94% | 41,349 | 4/5 | 8 | 43 |
+| [FIFA 22](https://psnprofiles.com/guide/13075-fifa-22-trophy-guide) | 3/10 | 65 | 1.94% | 181,578 | 5/5 | 20 | 75 |
+| [Space Overlords](https://psnprofiles.com/guide/5435-space-overlords-trophy-guide) | 3/10 | 17 | 2.04% | 30,041 | 4/5 | 8 | 50 |
+| [Cities: Skylines](https://psnprofiles.com/guide/13818-cities-skylines-trophy-guide) | 3/10 | 150 | 2.04% | 67,538 | 4/5 | 32 | 56 |
+| [Strike Vector EX](https://psnprofiles.com/guide/4966-strike-vector-ex-trophy-guide) | 3/10 | 20 | 2.06% | 27,722 | 4/5 | 7 | 30 |
+| [Record of Agarest War](https://psnprofiles.com/guide/6938-record-of-agarest-war-trophy-guide) | 3/10 | 125 | 2.13% | 13,422 | 4/5 | 6 | 22 |
+| [Prison Architect](https://psnprofiles.com/guide/13828-prison-architect-trophy-guide) | 3/10 | 40 | 2.19% | 25,157 | 4/5 | 7 | 29 |
+| [The Escapists 2](https://psnprofiles.com/guide/6468-the-escapists-2-trophy-guide) | 3/10 | 20 | 2.20% | 62,280 | 5/5 | 16 | 55 |
+| [Pillars of Eternity](https://psnprofiles.com/guide/8290-pillars-of-eternity-trophy-guide) | 3/10 | 80 | 2.23% | 86,197 | 5/5 | 9 | 56 |
+| [Shoppe Keep](https://psnprofiles.com/guide/7192-shoppe-keep-trophy-guide) | 3/10 | 120 | 2.23% | 9,357 |  | 0 | 5 |
+| [Don't Starve Together](https://psnprofiles.com/guide/11566-dont-starve-together-trophy-guide) | 3/10 | 80 | 2.45% | 36,624 | 4/5 | 8 | 21 |
+| [Hardware: Rivals](https://psnprofiles.com/guide/3778-hardware-rivals-trophy-guide) | 3/10 | 30 | 2.54% | 23,269 | 4/5 | 16 | 57 |
+| [FIFA 23](https://psnprofiles.com/guide/15671-fifa-23-trophy-guide) | 3/10 | 60 | 2.58% | 71,374 | 4/5 | 16 | 33 |
+| [Blood Bowl 3](https://psnprofiles.com/guide/18669-blood-bowl-3-trophy-guide) | 3/10 | 15 | 2.63% | 7,824 |  | 0 | 9 |
+| [Dynasty Warriors 8](https://psnprofiles.com/guide/3490-dynasty-warriors-8-trophy-guide) | 3/10 | 100 | 2.71% | 25,791 | 5/5 | 6 | 14 |
+| [Disney Infinity](https://psnprofiles.com/guide/17047-disney-infinity-trophy-guide) | 3/10 | 25 | 2.81% | 6,664 |  | 0 | 7 |
+| [Portal Knights](https://psnprofiles.com/guide/8477-portal-knights-trophy-guide) | 3/10 | 20 | 2.84% | 44,103 | 4/5 | 16 | 89 |
+| [GreedFall](https://psnprofiles.com/guide/9923-greedfall-trophy-guide) | 3/10 | 60 | 2.90% | 210,560 | 5/5 | 27 | 165 |
+| [Anomaly 2](https://psnprofiles.com/guide/16822-anomaly-2-trophy-guide) | 3/10 | 12 | 3.16% | 3,718 |  | 0 | 5 |
+| [Sunless Sea: Zubmariner Edition](https://psnprofiles.com/guide/16019-sunless-sea-zubmariner-edition-trophy-guide) | 3/10 | 40 | 3.18% | 3,011 |  | 0 | 5 |
+| [Frantics](https://psnprofiles.com/guide/7391-frantics-trophy-guide) | 3/10 | 10 | 3.24% | 19,061 | 5/5 | 7 | 15 |
+| [Knockout City](https://psnprofiles.com/guide/13145-knockout-city-trophy-guide) | 3/10 | 100 | 3.26% | 43,176 | 5/5 | 9 | 24 |
+| [FIFA 14](https://psnprofiles.com/guide/124-fifa-14-trophy-guide) | 3/10 | 25 | 3.29% | 19,021 | 4/5 | 6 | 28 |
+| [Ghostbusters: Rise of the Ghost Lord](https://psnprofiles.com/guide/19578-ghostbusters-rise-of-the-ghost-lord-trophy-guide) | 3/10 | 20 | 3.36% | 1,558 |  | 0 | 2 |
+| [Rugby League Live 4](https://psnprofiles.com/guide/6999-rugby-league-live-4-trophy-guide) | 3/10 | 15 | 3.39% | 12,923 | 4/5 | 5 | 6 |
+| [Conception Plus: Maidens of the Twelve Stars](https://psnprofiles.com/guide/17392-conception-plus-maidens-of-the-twelve-stars-trophy-guide) | 3/10 | 70 | 3.41% | 4,964 |  | 0 | 8 |
+| [Sonic Forces](https://psnprofiles.com/guide/6675-sonic-forces-trophy-guide) | 3/10 | 30 | 3.44% | 59,518 | 5/5 | 17 | 65 |
+| [Tokyo Twilight Ghost Hunters](https://psnprofiles.com/guide/2979-tokyo-twilight-ghost-hunters-trophy-guide) | 3/10 | 45 | 3.52% | 18,213 |  | 0 | 37 |
+| [Marvel Ultimate Alliance 2](https://psnprofiles.com/guide/8771-marvel-ultimate-alliance-2-trophy-guide) | 3/10 | 20 | 3.63% | 31,386 | 4/5 | 6 | 35 |
+| [Amnesia Collection](https://psnprofiles.com/guide/6595-amnesia-collection-trophy-guide) | 3/10 | 16 | 3.68% | 124,705 | 5/5 | 21 | 173 |
+| [Samurai Warriors 4-II](https://psnprofiles.com/guide/5470-samurai-warriors-4-ii-trophy-guide) | 3/10 | 130 | 3.90% | 31,982 | 4/5 | 7 | 32 |
+| [One Hand Clapping](https://psnprofiles.com/guide/16344-one-hand-clapping-trophy-guide) | 3/10 | 6 | 4.03% | 2,069 |  | 0 | 4 |
+| [Rogue Warrior](https://psnprofiles.com/guide/457-rogue-warrior-trophy-guide) | 3/10 | 20 | 4.08% | 19,540 | 5/5 | 6 | 13 |
+| [MXGP](https://psnprofiles.com/guide/490-mxgp-trophy-guide) | 3/10 | 30 | 4.15% | 14,409 | 4/5 | 6 | 9 |
+| [Realm Royale](https://psnprofiles.com/guide/8289-realm-royale-trophy-guide) | 3/10 | 20 | 4.16% | 42,480 | 5/5 | 11 | 23 |
+| [Zombie Vikings](https://psnprofiles.com/guide/19006-zombie-vikings-trophy-guide) | 3/10 | 20 | 4.28% | 2,433 |  | 0 | 8 |
+| [Plants vs. Zombies: Battle for Neighborville](https://psnprofiles.com/guide/9174-plants-vs-zombies-battle-for-neighborville-trophy-guide) | 3/10 | 130 | 4.28% | 158,118 | 5/5 | 20 | 96 |
+| [Stick Fight](https://psnprofiles.com/guide/15394-stick-fight-trophy-guide) | 3/10 | 5 | 4.30% | 10,737 |  | 0 | 10 |
+| [RealPolitiks: New Power](https://psnprofiles.com/guide/18726-realpolitiks-new-power-trophy-guide) | 3/10 | 35 | 4.35% | 1,511 |  | 0 | 4 |
+| [Rapala Pro Bass Fishing](https://psnprofiles.com/guide/15-rapala-pro-bass-fishing-trophy-guide) | 3/10 | 25 | 4.37% | 16,246 |  | 0 | 6 |
+| [ガールズ＆パンツァー 戦車道、極めます！](https://psnprofiles.com/guide/2035-%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC-%E6%88%A6%E8%BB%8A%E9%81%93%E6%A5%B5%E3%82%81%E3%81%BE%E3%81%99-trophy-guide) | 3/10 | 60 | 4.43% | 3,826 | 5/5 | 5 | 11 |
+| [Oddworld: Munch's Oddysee HD](https://psnprofiles.com/guide/6828-oddworld-munchs-oddysee-hd-trophy-guide) | 3/10 | 30 | 4.45% | 11,507 |  | 0 | 15 |
+| [Red Faction II](https://psnprofiles.com/guide/10038-red-faction-ii-trophy-guide) | 3/10 | 15 | 4.47% | 28,925 | 4/5 | 14 | 25 |
+| [Rainbow Moon](https://psnprofiles.com/guide/2174-rainbow-moon-trophy-guide) | 3/10 | 100 | 4.48% | 19,708 | 5/5 | 6 | 15 |
+| [Troll and I](https://psnprofiles.com/guide/10115-troll-and-i-trophy-guide) | 3/10 | 10 | 4.63% | 12,877 |  | 0 | 5 |
+| [Tony Hawk's Pro Skater 5](https://psnprofiles.com/guide/3690-tony-hawks-pro-skater-5-trophy-guide) | 3/10 | 15 | 4.70% | 20,431 | 5/5 | 8 | 28 |
+| [The Culling 2](https://psnprofiles.com/guide/7629-the-culling-2-trophy-guide) | 3/10 | 25 | 4.74% | 4,064 |  | 0 | 3 |
+| [Tomb Raider](https://psnprofiles.com/guide/1541-tomb-raider-trophy-guide) | 3/10 | 25 | 4.75% | 78,869 | 4/5 | 32 | 176 |
+| [Mafia III](https://psnprofiles.com/guide/7324-mafia-iii-trophy-guide) | 3/10 | 40 | 4.78% | 222,058 | 4/5 | 69 | 307 |
+| [Mafia III](https://psnprofiles.com/guide/15377-mafia-iii-trophy-guide) | 3/10 | 50 | 4.78% | 34,269 | 5/5 | 20 | 60 |
+| [Just Cause 2](https://psnprofiles.com/guide/4067-just-cause-2-trophy-guide) | 3/10 | 80 | 4.79% | 44,006 | 4/5 | 12 | 72 |
+| [Teardown](https://psnprofiles.com/guide/18097-teardown-trophy-guide) | 3/10 | 30 | 4.82% | 48,286 | 4/5 | 6 | 60 |
+| [Sword Art Online: Hollow Realization](https://psnprofiles.com/guide/6136-sword-art-online-hollow-realization-trophy-guide) | 3/10 | 120 | 4.85% | 111,931 | 5/5 | 13 | 81 |
+| [PixelJunk Shooter Ultimate](https://psnprofiles.com/guide/1529-pixeljunk-shooter-ultimate-trophy-guide) | 3/10 | 10 | 4.87% | 27,902 | 5/5 | 12 | 78 |
+| [Warhammer 40,000: Inquisitor - Martyr](https://psnprofiles.com/guide/7860-warhammer-40000-inquisitor-martyr-trophy-guide) | 3/10 | 60 | 4.90% | 64,455 | 4/5 | 11 | 34 |
+| [Battlefield V](https://psnprofiles.com/guide/8043-battlefield-v-trophy-guide) | 3/10 | 30 | 4.93% | 136,937 | 3/5 | 45 | 114 |
+| [ReadySet Heroes](https://psnprofiles.com/guide/9185-readyset-heroes-trophy-guide) | 3/10 | 20 | 5.00% | 31,028 | 5/5 | 12 | 24 |
+| [Double Switch: 25th Anniversary Edition](https://psnprofiles.com/guide/8540-double-switch-25th-anniversary-edition-trophy-guide) | 3/10 | 25 | 5.00% | 8,375 |  | 0 | 2 |
+| [Fallen Legion Revenants](https://psnprofiles.com/guide/12392-fallen-legion-revenants-trophy-guide) | 3/10 | 25 | 5.05% | 6,687 |  | 0 | 7 |
+| [J-Stars Victory VS+](https://psnprofiles.com/guide/5045-j-stars-victory-vs-trophy-guide) | 3/10 | 25 | 5.07% | 44,744 | 5/5 | 7 | 52 |
+| [Just Cause 4](https://psnprofiles.com/guide/8088-just-cause-4-trophy-guide) | 3/10 | 40 | 5.20% | 219,929 | 5/5 | 38 | 220 |
+| [The King of Fighters XV](https://psnprofiles.com/guide/15601-the-king-of-fighters-xv-trophy-guide) | 3/10 | 50 | 5.20% | 20,177 | 5/5 | 5 | 16 |
+| [Dying Light 2: Stay Human](https://psnprofiles.com/guide/14655-dying-light-2-stay-human-trophy-guide) | 3/10 | 120 | 5.32% | 99,315 | 5/5 | 21 | 81 |
+| [Madden NFL 13](https://psnprofiles.com/guide/8608-madden-nfl-13-trophy-guide) | 3/10 | 10 | 5.37% | 11,582 | 5/5 | 7 | 11 |
+| [Anthem](https://psnprofiles.com/guide/9743-anthem-trophy-guide) | 3/10 | 70 | 5.46% | 93,028 | 4/5 | 22 | 65 |
+| [Strider](https://psnprofiles.com/guide/1227-strider-trophy-guide) | 3/10 | 9 | 5.47% | 49,516 | 4/5 | 25 | 139 |
+| [Street Fighter 6](https://psnprofiles.com/guide/16897-street-fighter-6-trophy-guide) | 3/10 | 50 | 5.62% | 49,975 | 4/5 | 14 | 40 |
+| [Urbek City Builder](https://psnprofiles.com/guide/18077-urbek-city-builder-trophy-guide) | 3/10 | 50 | 5.63% | 2,754 |  | 0 | 1 |
+| [Tomb Raider: Definitive Edition](https://psnprofiles.com/guide/4610-tomb-raider-definitive-edition-trophy-guide) | 3/10 | 25 | 5.64% | 244,143 | 5/5 | 62 | 330 |
+| [Persha and the Magic Labyrinth: Arabian Nyaights](https://psnprofiles.com/guide/17726-persha-and-the-magic-labyrinth-arabian-nyaights-trophy-guide) | 3/10 | 8 | 5.65% | 1,448 |  | 0 | 1 |
+| [The Awakened Fate Ultimatum](https://psnprofiles.com/guide/2581-the-awakened-fate-ultimatum-trophy-guide) | 3/10 | 50 | 5.66% | 10,271 | 5/5 | 9 | 32 |
+| [New Gundam Breaker](https://psnprofiles.com/guide/9831-new-gundam-breaker-trophy-guide) | 3/10 | 25 | 5.72% | 13,839 |  | 0 | 10 |
+| [Scott Pilgrim vs. the World](https://psnprofiles.com/guide/14029-scott-pilgrim-vs-the-world-trophy-guide) | 3/10 | 20 | 5.75% | 64,055 | 5/5 | 9 | 54 |
+| [The Playroom VR](https://psnprofiles.com/guide/5723-the-playroom-vr-trophy-guide) | 3/10 | 5 | 5.76% | 63,375 | 4/5 | 24 | 64 |
+| [WWE 2K14](https://psnprofiles.com/guide/1310-wwe-2k14-trophy-guide) | 3/10 | 25 | 5.84% | 14,270 | 4/5 | 6 | 11 |
+| [Ancestors: The Humankind Odyssey](https://psnprofiles.com/guide/9416-ancestors-the-humankind-odyssey-trophy-guide) | 3/10 | 50 | 5.84% | 59,057 | 5/5 | 9 | 29 |
+| [PGA Tour 2K21](https://psnprofiles.com/guide/11910-pga-tour-2k21-trophy-guide) | 3/10 | 30 | 5.87% | 114,304 | 5/5 | 19 | 54 |
+| [Marvel's Avengers](https://psnprofiles.com/guide/12138-marvels-avengers-trophy-guide) | 3/10 | 80 | 5.87% | 200,417 | 4/5 | 24 | 99 |
+| [Apotheon](https://psnprofiles.com/guide/2694-apotheon-trophy-guide) | 3/10 | 12 | 5.90% | 48,994 | 5/5 | 33 | 163 |
+| [The Sims 4](https://psnprofiles.com/guide/7109-the-sims-4-trophy-guide) | 3/10 | 30 | 5.94% | 252,014 | 5/5 | 40 | 201 |
+| [Tribes of Midgard](https://psnprofiles.com/guide/13066-tribes-of-midgard-trophy-guide) | 3/10 | 50 | 6.12% | 85,643 | 5/5 | 7 | 40 |
+| [Trillion: God of Destruction](https://psnprofiles.com/guide/4834-trillion-god-of-destruction-trophy-guide) | 3/10 | 50 | 6.14% | 20,050 | 4/5 | 6 | 36 |
+| [Accel World vs. Sword Art Online: Millennium Twilight](https://psnprofiles.com/guide/6253-accel-world-vs-sword-art-online-millennium-twilight-trophy-guide) | 3/10 | 100 | 6.28% | 59,008 | 4/5 | 9 | 34 |
+| [Beyond: Two Souls](https://psnprofiles.com/guide/3609-beyond-two-souls-trophy-guide) | 3/10 | 20 | 6.31% | 232,580 | 5/5 | 64 | 376 |
+| [Night Trap: 25th Anniversary Edition](https://psnprofiles.com/guide/6624-night-trap-25th-anniversary-edition-trophy-guide) | 3/10 | 20 | 6.47% | 27,289 | 5/5 | 5 | 29 |
+| [Night in the Woods](https://psnprofiles.com/guide/6179-night-in-the-woods-trophy-guide) | 3/10 | 20 | 6.47% | 111,036 | 4/5 | 15 | 80 |
+| [Pool Blitz](https://psnprofiles.com/guide/16975-pool-blitz-trophy-guide) | 3/10 | 40 | 6.50% | 15,444 |  | 0 | 4 |
+| [F1 2016](https://psnprofiles.com/guide/10189-f1-2016-trophy-guide) | 3/10 | 40 | 6.55% | 15,811 | 5/5 | 5 | 10 |
+| [Dungeon Punks](https://psnprofiles.com/guide/7253-dungeon-punks-trophy-guide) | 3/10 | 25 | 6.63% | 23,733 | 5/5 | 10 | 41 |
+| [Dead Island Riptide](https://psnprofiles.com/guide/3187-dead-island-riptide-trophy-guide) | 3/10 | 30 | 6.66% | 90,765 | 4/5 | 9 | 71 |
+| [Drill Deal: Oil Tycoon](https://psnprofiles.com/guide/18327-drill-deal-oil-tycoon-trophy-guide) | 3/10 | 60 | 6.67% | 1,142 |  | 0 | 2 |
+| [Call of Duty: Modern Warfare](https://psnprofiles.com/guide/9269-call-of-duty-modern-warfare-trophy-guide) | 3/10 | 10 | 6.73% | 264,627 | 5/5 | 64 | 267 |
+| [Rugby Challenge 4](https://psnprofiles.com/guide/18217-rugby-challenge-4-trophy-guide) | 3/10 | 15 | 6.81% | 1,165 |  | 0 | 0 |
+| [Kingdoms of Amalur: Reckoning](https://psnprofiles.com/guide/6452-kingdoms-of-amalur-reckoning-trophy-guide) | 3/10 | 70 | 6.83% | 211,426 | 5/5 | 16 | 135 |
+| [Zombie Army 4: Dead War](https://psnprofiles.com/guide/11996-zombie-army-4-dead-war-trophy-guide) | 3/10 | 35 | 6.84% | 74,535 | 5/5 | 25 | 68 |
+| [Titan Quest](https://psnprofiles.com/guide/8094-titan-quest-trophy-guide) | 3/10 | 100 | 6.84% | 43,537 | 4/5 | 5 | 15 |
+| [Connectank](https://psnprofiles.com/guide/17347-connectank-trophy-guide) | 3/10 | 35 | 6.85% | 5,618 |  | 0 | 2 |
+| [Plants vs. Zombies: Garden Warfare](https://psnprofiles.com/guide/2188-plants-vs-zombies-garden-warfare-trophy-guide) | 3/10 | 25 | 6.87% | 63,763 | 5/5 | 26 | 116 |
+| [Chivalry: Medieval Warfare](https://psnprofiles.com/guide/2828-chivalry-medieval-warfare-trophy-guide) | 3/10 | 16 | 6.91% | 11,212 |  | 0 | 6 |
+| [Hunting Simulator](https://psnprofiles.com/guide/6319-hunting-simulator-trophy-guide) | 3/10 | 15 | 6.93% | 22,750 |  | 0 | 16 |
+| [Cursed to Golf](https://psnprofiles.com/guide/17496-cursed-to-golf-trophy-guide) | 3/10 | 12 | 7.02% | 12,281 |  | 0 | 22 |
+| [Alchemist Adventure](https://psnprofiles.com/guide/17889-alchemist-adventure-trophy-guide) | 3/10 | 35 | 7.04% | 2,111 |  | 0 | 2 |
+| [Plants vs. Zombies: Garden Warfare 2](https://psnprofiles.com/guide/4930-plants-vs-zombies-garden-warfare-2-trophy-guide) | 3/10 | 45 | 7.09% | 101,472 | 4/5 | 43 | 117 |
+| [WWE 2K23](https://psnprofiles.com/guide/16410-wwe-2k23-trophy-guide) | 3/10 | 50 | 7.10% | 88,978 | 4/5 | 10 | 37 |
+| [Jumanji](https://psnprofiles.com/guide/15330-jumanji-trophy-guide) | 3/10 | 15 | 7.18% | 13,426 |  | 0 | 9 |
+| [Sheltered](https://psnprofiles.com/guide/6353-sheltered-trophy-guide) | 3/10 | 100 | 7.30% | 13,029 |  | 0 | 7 |
+| [Just In Time Incorporated](https://psnprofiles.com/guide/8318-just-in-time-incorporated-trophy-guide) | 3/10 | 5 | 7.31% | 7,809 |  | 0 | 10 |
+| [Family Feud](https://psnprofiles.com/guide/16613-family-feud-trophy-guide) | 3/10 | 20 | 7.33% | 4,722 |  | 0 | 5 |
+| [Chimparty](https://psnprofiles.com/guide/15741-chimparty-trophy-guide) | 3/10 | 10 | 7.35% | 2,357 |  | 0 | 4 |
+| [F1 2020](https://psnprofiles.com/guide/10496-f1-2020-trophy-guide) | 3/10 | 45 | 7.36% | 86,185 | 4/5 | 25 | 37 |
+| [Warhammer 40,000: Mechanicus](https://psnprofiles.com/guide/16860-warhammer-40000-mechanicus-trophy-guide) | 3/10 | 50 | 7.36% | 4,507 |  | 0 | 7 |
+| [Bravo Team](https://psnprofiles.com/guide/17827-bravo-team-trophy-guide) | 3/10 | 6 | 7.38% | 1,649 |  | 0 | 5 |
+| [Journey to the Savage Planet](https://psnprofiles.com/guide/14392-journey-to-the-savage-planet-trophy-guide) | 3/10 | 15 | 7.52% | 40,694 | 5/5 | 7 | 45 |
+| [MLB The Show 21](https://psnprofiles.com/guide/12052-mlb-the-show-21-trophy-guide) | 3/10 | 25 | 7.53% | 26,576 | 3/5 | 5 | 11 |
+| [Tour de France 2017](https://psnprofiles.com/guide/12260-tour-de-france-2017-trophy-guide) | 3/10 | 15 | 7.59% | 5,871 |  | 0 | 3 |
+| [Weird West](https://psnprofiles.com/guide/17953-weird-west-trophy-guide) | 3/10 | 20 | 7.64% | 40,151 | 5/5 | 8 | 47 |
+| [Wobbly Life](https://psnprofiles.com/guide/16434-wobbly-life-trophy-guide) | 3/10 | 12 | 7.66% | 19,508 | 3/5 | 5 | 7 |
+| [NieR](https://psnprofiles.com/guide/7393-nier-trophy-guide) | 3/10 | 80 | 7.70% | 64,638 | 5/5 | 16 | 64 |
+| [Monster Energy Supercross](https://psnprofiles.com/guide/9409-monster-energy-supercross-trophy-guide) | 3/10 | 20 | 7.75% | 64,265 | 4/5 | 37 | 63 |
+| [Sunless Skies](https://psnprofiles.com/guide/16020-sunless-skies-trophy-guide) | 3/10 | 70 | 7.76% | 2,603 |  | 0 | 5 |
+| [Nour: Play With Your Food](https://psnprofiles.com/guide/19402-nour-play-with-your-food-trophy-guide) | 3/10 | 4 | 7.83% | 9,572 |  | 0 | 16 |
+| [Risen 3: Titan Lords](https://psnprofiles.com/guide/5688-risen-3-titan-lords-trophy-guide) | 3/10 | 35 | 7.85% | 39,525 | 5/5 | 10 | 38 |
+| [Pure Farming 2018](https://psnprofiles.com/guide/12897-pure-farming-2018-trophy-guide) | 3/10 | 30 | 7.88% | 11,326 | 5/5 | 5 | 3 |
+| [Moss](https://psnprofiles.com/guide/7146-moss-trophy-guide) | 3/10 | 7 | 7.94% | 75,931 | 5/5 | 10 | 70 |
+| [Let's Fish! Hooked On](https://psnprofiles.com/guide/3321-lets-fish-hooked-on-trophy-guide) | 3/10 | 40 | 7.95% | 6,755 | 4/5 | 5 | 10 |
+| [New Little King's Story](https://psnprofiles.com/guide/3076-new-little-kings-story-trophy-guide) | 3/10 | 40 | 7.97% | 10,935 | 5/5 | 5 | 32 |
+| [Vambrace: Cold Soul](https://psnprofiles.com/guide/16299-vambrace-cold-soul-trophy-guide) | 3/10 | 50 | 8.14% | 4,723 |  | 0 | 8 |
+| [The Banner Saga 3](https://psnprofiles.com/guide/17724-the-banner-saga-3-trophy-guide) | 3/10 | 15 | 8.21% | 1,686 |  | 0 | 4 |
+| [God Wars: Future Past](https://psnprofiles.com/guide/8138-god-wars-future-past-trophy-guide) | 3/10 | 100 | 8.22% | 30,892 |  | 0 | 25 |
+| [Puyo Puyo Tetris 2](https://psnprofiles.com/guide/14499-puyo-puyo-tetris-2-trophy-guide) | 3/10 | 30 | 8.28% | 12,122 |  | 0 | 9 |
+| [Watch Dogs](https://psnprofiles.com/guide/971-watch-dogs-trophy-guide) | 3/10 | 50 | 8.28% | 72,065 | 5/5 | 38 | 199 |
+| [Saints Row IV](https://psnprofiles.com/guide/1350-saints-row-iv-trophy-guide) | 3/10 | 40 | 8.32% | 164,192 | 5/5 | 31 | 215 |
+| [Sword and Fairy 6](https://psnprofiles.com/guide/8535-sword-and-fairy-6-trophy-guide) | 3/10 | 45 | 8.39% | 8,252 |  | 0 | 7 |
+| [F1 2021](https://psnprofiles.com/guide/12914-f1-2021-trophy-guide) | 3/10 | 60 | 8.40% | 49,020 | 4/5 | 15 | 24 |
+| [Dirt 2](https://psnprofiles.com/guide/11779-dirt-2-trophy-guide) | 3/10 | 30 | 8.45% | 9,807 |  | 0 | 6 |
+| [Beyond: Two Souls](https://psnprofiles.com/guide/910-beyond-two-souls-trophy-guide) | 3/10 | 30 | 8.48% | 72,314 | 5/5 | 53 | 210 |
+| [Toy Story 3](https://psnprofiles.com/guide/12141-toy-story-3-trophy-guide) | 3/10 | 20 | 8.65% | 46,273 | 5/5 | 7 | 39 |
+| [Falling Skies](https://psnprofiles.com/guide/2886-falling-skies-trophy-guide) | 3/10 | 45 | 8.70% | 6,047 |  | 0 | 7 |
+| [The Caligula Effect: Overdose](https://psnprofiles.com/guide/12855-the-caligula-effect-overdose-trophy-guide) | 3/10 | 50 | 8.70% | 34,098 | 5/5 | 5 | 30 |
+| [Teenage Mutant Ninja Turtles: Danger of the Ooze](https://psnprofiles.com/guide/5253-teenage-mutant-ninja-turtles-danger-of-the-ooze-trophy-guide) | 3/10 | 6 | 8.72% | 13,001 |  | 0 | 16 |
+| [Devil May Cry 2](https://psnprofiles.com/guide/888-devil-may-cry-2-trophy-guide) | 3/10 | 16 | 8.77% | 85,772 | 5/5 | 10 | 122 |
+| [Klaus](https://psnprofiles.com/guide/6529-klaus-trophy-guide) | 3/10 | 30 | 8.77% | 8,895 | 5/5 | 5 | 11 |
+| [Fallout Shelter](https://psnprofiles.com/guide/7526-fallout-shelter-trophy-guide) | 3/10 | 40 | 8.82% | 132,932 | 4/5 | 62 | 227 |
+| [Venetica](https://psnprofiles.com/guide/2816-venetica-trophy-guide) | 3/10 | 40 | 8.99% | 8,451 |  | 0 | 7 |
+| [Pacific Drive](https://psnprofiles.com/guide/19069-pacific-drive-trophy-guide) | 3/10 | 35 | 9.00% | 11,694 | 4/5 | 6 | 22 |
+| [My Time at Portia](https://psnprofiles.com/guide/8573-my-time-at-portia-trophy-guide) | 3/10 | 100 | 9.00% | 93,911 | 5/5 | 7 | 59 |
+| [uDraw Studio: Instant Artist](https://psnprofiles.com/guide/53-udraw-studio-instant-artist-trophy-guide) | 3/10 | 10 | 9.05% | 3,641 |  | 0 | 2 |
+| [Sonic & SEGA All-Stars Racing](https://psnprofiles.com/guide/4681-sonic-sega-all-stars-racing-trophy-guide) | 3/10 | 15 | 9.08% | 25,085 | 5/5 | 16 | 22 |
+| [WWE 2K24](https://psnprofiles.com/guide/19000-wwe-2k24-trophy-guide) | 3/10 | 50 | 9.10% | 17,455 | 5/5 | 10 | 27 |
+| [Ys: Memories of Celceta](https://psnprofiles.com/guide/2854-ys-memories-of-celceta-trophy-guide) | 3/10 | 60 | 9.14% | 90,076 | 5/5 | 21 | 100 |
 | [Persona 5](https://psnprofiles.com/guide/5919-persona-5-trophy-guide) | 3/10 | 140 | 9.14% | 494,416 | 5/5 | 110 | 566 |
+| [Persona 5](https://psnprofiles.com/guide/5998-persona-5-trophy-guide) | 3/10 | 150 | 9.14% | 85,120 | 4/5 | 58 | 91 |
+| [Monster Jam: Steel Titans](https://psnprofiles.com/guide/11135-monster-jam-steel-titans-trophy-guide) | 3/10 | 20 | 9.18% | 32,457 | 5/5 | 10 | 10 |
+| [Monster of the Deep: Final Fantasy XV](https://psnprofiles.com/guide/11674-monster-of-the-deep-final-fantasy-xv-trophy-guide) | 3/10 | 20 | 9.24% | 12,456 |  | 0 | 13 |
+| [Remember Me](https://psnprofiles.com/guide/10407-remember-me-trophy-guide) | 3/10 | 16 | 9.27% | 29,660 | 4/5 | 17 | 44 |
+| [Batman: Arkham Origins Blackgate](https://psnprofiles.com/guide/3294-batman-arkham-origins-blackgate-trophy-guide) | 3/10 | 35 | 9.32% | 54,474 | 4/5 | 13 | 88 |
+| [AEW: Fight Forever](https://psnprofiles.com/guide/17271-aew-fight-forever-trophy-guide) | 3/10 | 35 | 9.32% | 31,551 | 5/5 | 9 | 34 |
+| [My Hero One's Justice](https://psnprofiles.com/guide/7996-my-hero-ones-justice-trophy-guide) | 3/10 | 35 | 9.34% | 56,349 | 4/5 | 11 | 38 |
+| [ScourgeBringer](https://psnprofiles.com/guide/14637-scourgebringer-trophy-guide) | 3/10 | 7 | 9.38% | 7,407 |  | 0 | 10 |
+| [Story of Seasons: Pioneers of Olive Town](https://psnprofiles.com/guide/16942-story-of-seasons-pioneers-of-olive-town-trophy-guide) | 3/10 | 80 | 9.50% | 14,979 | 5/5 | 7 | 15 |
+| [Family Guy: Back to the Multiverse](https://psnprofiles.com/guide/16232-family-guy-back-to-the-multiverse-trophy-guide) | 3/10 | 15 | 9.56% | 11,957 | 5/5 | 7 | 28 |
+| [Little Big Workshop](https://psnprofiles.com/guide/14089-little-big-workshop-trophy-guide) | 3/10 | 20 | 9.57% | 19,131 | 5/5 | 6 | 17 |
+| [Zombie Army Trilogy](https://psnprofiles.com/guide/15902-zombie-army-trilogy-trophy-guide) | 3/10 | 35 | 9.61% | 10,726 | 5/5 | 9 | 15 |
+| [Moving Out](https://psnprofiles.com/guide/10103-moving-out-trophy-guide) | 3/10 | 15 | 9.71% | 120,465 | 4/5 | 31 | 71 |
+| [Valkyria Chronicles](https://psnprofiles.com/guide/4686-valkyria-chronicles-trophy-guide) | 3/10 | 35 | 9.78% | 111,226 | 5/5 | 28 | 152 |
+| [Robinson: The Journey](https://psnprofiles.com/guide/5343-robinson-the-journey-trophy-guide) | 3/10 | 10 | 9.81% | 16,421 | 5/5 | 8 | 27 |
+| [Megadimension Neptunia VII](https://psnprofiles.com/guide/3905-megadimension-neptunia-vii-trophy-guide) | 3/10 | 50 | 9.84% | 98,780 | 5/5 | 40 | 135 |
+| [Warriors Orochi 3](https://psnprofiles.com/guide/4691-warriors-orochi-3-trophy-guide) | 3/10 | 80 | 9.88% | 20,434 | 5/5 | 5 | 19 |
 | [Doom](https://psnprofiles.com/guide/4434-doom-trophy-guide) | 3/10 | 25 | 9.89% | 298,615 | 5/5 | 86 | 461 |
 | [Cyberpunk 2077](https://psnprofiles.com/guide/11418-cyberpunk-2077-trophy-guide) | 3/10 | 70 | 9.97% | 814,651 | 5/5 | 74 | 702 |
+| [Tom Clancy's Ghost Recon Breakpoint](https://psnprofiles.com/guide/9373-tom-clancys-ghost-recon-breakpoint-trophy-guide) | 3/10 | 30 | 10.02% | 201,889 | 4/5 | 27 | 146 |
+| [88 Heroes](https://psnprofiles.com/guide/5900-88-heroes-trophy-guide) | 3/10 | 15 | 10.03% | 14,553 |  | 0 | 13 |
+| [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](https://psnprofiles.com/guide/13247-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure-trophy-guide) | 3/10 | 25 | 10.06% | 131,252 | 4/5 | 45 | 66 |
+| [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](https://psnprofiles.com/guide/13206-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure-trophy-guide) | 3/10 | 25 | 10.06% | 58,249 | 4/5 | 39 | 44 |
+| [Observer](https://psnprofiles.com/guide/7173-observer-trophy-guide) | 3/10 | 10 | 10.23% | 75,350 | 4/5 | 7 | 46 |
+| [Tekken Tag Tournament 2](https://psnprofiles.com/guide/902-tekken-tag-tournament-2-trophy-guide) | 3/10 | 13 | 10.24% | 44,935 | 3/5 | 40 | 60 |
+| [World of Final Fantasy](https://psnprofiles.com/guide/5986-world-of-final-fantasy-trophy-guide) | 3/10 | 80 | 10.29% | 121,025 | 5/5 | 28 | 187 |
+| [Fairy Fencer F](https://psnprofiles.com/guide/2808-fairy-fencer-f-trophy-guide) | 3/10 | 75 | 10.31% | 18,582 | 4/5 | 9 | 57 |
+| [Bus Simulator](https://psnprofiles.com/guide/11333-bus-simulator-trophy-guide) | 3/10 | 30 | 10.33% | 47,216 | 5/5 | 6 | 33 |
+| [Nickelodeon All-Star Brawl](https://psnprofiles.com/guide/13205-nickelodeon-all-star-brawl-trophy-guide) | 3/10 | 11 | 10.34% | 82,746 | 5/5 | 7 | 50 |
+| [Jurassic World Evolution](https://psnprofiles.com/guide/7529-jurassic-world-evolution-trophy-guide) | 3/10 | 50 | 10.39% | 52,433 | 4/5 | 21 | 63 |
+| [Ether One](https://psnprofiles.com/guide/2874-ether-one-trophy-guide) | 3/10 | 5 | 10.42% | 39,039 | 5/5 | 38 | 166 |
+| [Deadfall Adventures: Heart of Atlantis](https://psnprofiles.com/guide/14370-deadfall-adventures-heart-of-atlantis-trophy-guide) | 3/10 | 40 | 10.44% | 4,054 |  | 0 | 5 |
+| [Scribblenauts Mega Pack](https://psnprofiles.com/guide/14513-scribblenauts-mega-pack-trophy-guide) | 3/10 | 40 | 10.61% | 15,683 | 4/5 | 5 | 17 |
+| [Saints Row: The Third](https://psnprofiles.com/guide/6634-saints-row-the-third-trophy-guide) | 3/10 | 40 | 10.67% | 121,131 | 4/5 | 28 | 108 |
+| [.hack//G.U. Last Recode](https://psnprofiles.com/guide/6659-hackgu-last-recode-trophy-guide) | 3/10 | 100 | 10.67% | 57,652 | 5/5 | 13 | 85 |
+| [FIFA 15](https://psnprofiles.com/guide/19237-fifa-15-trophy-guide) | 3/10 | 25 | 10.68% | 3,333 |  | 0 | 4 |
+| [Burnout Paradise: Remastered](https://psnprofiles.com/guide/7230-burnout-paradise-remastered-trophy-guide) | 3/10 | 15 | 10.69% | 172,160 | 5/5 | 20 | 197 |
+| [Cris Tales](https://psnprofiles.com/guide/12931-cris-tales-trophy-guide) | 3/10 | 30 | 10.70% | 62,207 | 5/5 | 6 | 61 |
+| [Monster Monpiece](https://psnprofiles.com/guide/2038-monster-monpiece-trophy-guide) | 3/10 | 25 | 10.71% | 13,962 | 5/5 | 12 | 37 |
+| [WWE SmackDown vs. RAW 2010](https://psnprofiles.com/guide/2448-wwe-smackdown-vs-raw-2010-trophy-guide) | 3/10 | 15 | 10.78% | 31,572 | 5/5 | 9 | 38 |
+| [Fairy Fencer F: Advent Dark Force](https://psnprofiles.com/guide/10179-fairy-fencer-f-advent-dark-force-trophy-guide) | 3/10 | 60 | 10.78% | 29,860 | 4/5 | 5 | 19 |
 | [Fallout 4](https://psnprofiles.com/guide/3638-fallout-4-trophy-guide) | 3/10 | 70 | 10.84% | 606,693 | 5/5 | 147 | 918 |
+| [Saints Row](https://psnprofiles.com/guide/15068-saints-row-trophy-guide) | 3/10 | 30 | 10.87% | 41,236 | 4/5 | 8 | 56 |
+| [Among Us](https://psnprofiles.com/guide/13765-among-us-trophy-guide) | 3/10 | 10 | 10.89% | 60,809 | 4/5 | 11 | 42 |
+| [MLB The Show 23](https://psnprofiles.com/guide/16438-mlb-the-show-23-trophy-guide) | 3/10 | 30 | 10.93% | 26,975 |  | 0 | 9 |
+| [Wreckfest](https://psnprofiles.com/guide/11010-wreckfest-trophy-guide) | 3/10 | 22 | 10.94% | 166,419 | 5/5 | 17 | 130 |
+| [The Lord of the Rings: Aragorn's Quest](https://psnprofiles.com/guide/18012-the-lord-of-the-rings-aragorns-quest-trophy-guide) | 3/10 | 20 | 11.03% | 5,438 |  | 0 | 12 |
+| [Legend of Mana](https://psnprofiles.com/guide/15555-legend-of-mana-trophy-guide) | 3/10 | 50 | 11.06% | 282,032 | 5/5 | 46 | 85 |
+| [Sly Cooper: Thieves in Time](https://psnprofiles.com/guide/577-sly-cooper-thieves-in-time-trophy-guide) | 3/10 | 20 | 11.07% | 41,135 | 5/5 | 21 | 118 |
+| [LEGO DC Super-Villains](https://psnprofiles.com/guide/7979-lego-dc-super-villains-trophy-guide) | 3/10 | 30 | 11.08% | 230,312 | 5/5 | 30 | 260 |
+| [Phineas and Ferb: Across the 2nd Dimension](https://psnprofiles.com/guide/2735-phineas-and-ferb-across-the-2nd-dimension-trophy-guide) | 3/10 | 24 | 11.09% | 31,399 | 4/5 | 10 | 33 |
+| [Five Nights at Freddy's: Security Breach](https://psnprofiles.com/guide/14065-five-nights-at-freddys-security-breach-trophy-guide) | 3/10 | 20 | 11.17% | 72,009 | 5/5 | 10 | 41 |
+| [Mega Man Battle Network Legacy Collection: Volume 1](https://psnprofiles.com/guide/19366-mega-man-battle-network-legacy-collection-volume-1-trophy-guide) | 3/10 | 80 | 11.17% | 2,517 |  | 0 | 16 |
+| [Hyperdevotion Noire: Goddess Black Heart](https://psnprofiles.com/guide/2523-hyperdevotion-noire-goddess-black-heart-trophy-guide) | 3/10 | 70 | 11.20% | 27,695 | 5/5 | 18 | 66 |
+| [Spooky's Jump Scare Mansion: HD Renovation](https://psnprofiles.com/guide/9297-spookys-jump-scare-mansion-hd-renovation-trophy-guide) | 3/10 | 30 | 11.21% | 23,645 | 5/5 | 5 | 7 |
+| [Akiba's Trip: Undead & Undressed](https://psnprofiles.com/guide/2051-akibas-trip-undead-undressed-trophy-guide) | 3/10 | 30 | 11.30% | 71,593 | 5/5 | 9 | 118 |
+| [JoJo's Bizarre Adventure: Eyes of Heaven](https://psnprofiles.com/guide/4715-jojos-bizarre-adventure-eyes-of-heaven-trophy-guide) | 3/10 | 35 | 11.34% | 47,721 | 5/5 | 13 | 59 |
+| [Star Wars Jedi Knight II: Jedi Outcast](https://psnprofiles.com/guide/9222-star-wars-jedi-knight-ii-jedi-outcast-trophy-guide) | 3/10 | 12 | 11.37% | 52,551 | 5/5 | 11 | 55 |
+| [Cloudpunk](https://psnprofiles.com/guide/11568-cloudpunk-trophy-guide) | 3/10 | 10 | 11.38% | 40,448 | 4/5 | 8 | 53 |
+| [Wolfenstein: Youngblood](https://psnprofiles.com/guide/8975-wolfenstein-youngblood-trophy-guide) | 3/10 | 40 | 11.41% | 90,037 | 3/5 | 32 | 75 |
+| [Constructor](https://psnprofiles.com/guide/13821-constructor-trophy-guide) | 3/10 | 15 | 11.46% | 4,337 |  | 0 | 7 |
+| [Incredible Mandy](https://psnprofiles.com/guide/14660-incredible-mandy-trophy-guide) | 3/10 | 15 | 11.63% | 2,657 |  | 0 | 3 |
+| [Manual Samuel](https://psnprofiles.com/guide/5481-manual-samuel-trophy-guide) | 3/10 | 3 | 11.64% | 28,178 | 3/5 | 22 | 44 |
+| [Sword Art Online: Lost Song](https://psnprofiles.com/guide/2904-sword-art-online-lost-song-trophy-guide) | 3/10 | 50 | 11.65% | 57,249 | 4/5 | 23 | 100 |
+| [Overcooked! All You Can Eat](https://psnprofiles.com/guide/11239-overcooked-all-you-can-eat-trophy-guide) | 3/10 | 15 | 11.78% | 115,854 | 5/5 | 25 | 82 |
+| [Thief Simulator](https://psnprofiles.com/guide/16502-thief-simulator-trophy-guide) | 3/10 | 25 | 11.79% | 16,805 | 5/5 | 5 | 18 |
+| [BioShock](https://psnprofiles.com/guide/5341-bioshock-trophy-guide) | 3/10 | 15 | 11.90% | 213,883 | 5/5 | 69 | 419 |
+| [PGA Tour 2K23](https://psnprofiles.com/guide/15631-pga-tour-2k23-trophy-guide) | 3/10 | 20 | 11.95% | 95,357 | 5/5 | 14 | 47 |
+| [Fallout 3](https://psnprofiles.com/guide/15637-fallout-3-trophy-guide) | 3/10 | 40 | 11.98% | 22,696 | 5/5 | 16 | 60 |
+| [Deadly Premonition: The Director's Cut](https://psnprofiles.com/guide/3272-deadly-premonition-the-directors-cut-trophy-guide) | 3/10 | 40 | 12.01% | 38,757 | 5/5 | 16 | 89 |
+| [Surviving the Aftermath](https://psnprofiles.com/guide/16056-surviving-the-aftermath-trophy-guide) | 3/10 | 80 | 12.01% | 16,728 |  | 0 | 6 |
+| [Grand Theft Auto: San Andreas](https://psnprofiles.com/guide/5722-grand-theft-auto-san-andreas-trophy-guide) | 3/10 | 35 | 12.07% | 194,328 | 5/5 | 35 | 240 |
+| [Claire](https://psnprofiles.com/guide/6064-claire-trophy-guide) | 3/10 | 3 | 12.08% | 95,925 | 4/5 | 13 | 100 |
 | [Minecraft](https://psnprofiles.com/guide/1643-minecraft-trophy-guide) | 3/10 | 35 | 12.24% | 300,193 | 4/5 | 81 | 382 |
+| [Metal Gear Solid 3: Snake Eater](https://psnprofiles.com/guide/5449-metal-gear-solid-3-snake-eater-trophy-guide) | 3/10 | 10 | 12.26% | 157,549 | 5/5 | 73 | 211 |
+| [Saints Row](https://psnprofiles.com/guide/15117-saints-row-trophy-guide) | 3/10 | 45 | 12.26% | 140,942 | 4/5 | 24 | 93 |
+| [Fairy Fencer F: Refrain Chord](https://psnprofiles.com/guide/19347-fairy-fencer-f-refrain-chord-trophy-guide) | 3/10 | 40 | 12.29% | 2,474 |  | 0 | 5 |
+| [CrossCode](https://psnprofiles.com/guide/13136-crosscode-trophy-guide) | 3/10 | 30 | 12.31% | 20,272 |  | 0 | 19 |
+| [Super Exploding Zoo!](https://psnprofiles.com/guide/2912-super-exploding-zoo-trophy-guide) | 3/10 | 6 | 12.32% | 32,329 | 5/5 | 48 | 109 |
+| [Need for Speed Unbound](https://psnprofiles.com/guide/15674-need-for-speed-unbound-trophy-guide) | 3/10 | 40 | 12.39% | 124,175 | 5/5 | 26 | 104 |
+| [JoJo's Bizarre Adventure: All-Star Battle R](https://psnprofiles.com/guide/15486-jojos-bizarre-adventure-all-star-battle-r-trophy-guide) | 3/10 | 25 | 12.42% | 35,507 | 5/5 | 7 | 29 |
+| [Gintama Rumble](https://psnprofiles.com/guide/6982-gintama-rumble-trophy-guide) | 3/10 | 50 | 12.43% | 28,892 |  | 0 | 16 |
+| [Werewolf: The Apocalypse - Earthblood](https://psnprofiles.com/guide/17595-werewolf-the-apocalypse-earthblood-trophy-guide) | 3/10 | 10 | 12.44% | 10,729 |  | 0 | 11 |
+| [Metro 2033 Redux](https://psnprofiles.com/guide/18450-metro-2033-redux-trophy-guide) | 3/10 | 17 | 12.57% | 6,985 | 4/5 | 5 | 13 |
+| [Metro 2033 Redux](https://psnprofiles.com/guide/3847-metro-2033-redux-trophy-guide) | 3/10 | 20 | 12.57% | 210,167 | 5/5 | 57 | 260 |
+| [Typoman](https://psnprofiles.com/guide/8873-typoman-trophy-guide) | 3/10 | 12 | 12.61% | 15,455 |  | 0 | 16 |
+| [How to Train Your Dragon](https://psnprofiles.com/guide/13929-how-to-train-your-dragon-trophy-guide) | 3/10 | 24 | 12.61% | 4,201 |  | 0 | 4 |
 | [Assassin's Creed Valhalla](https://psnprofiles.com/guide/11538-assassins-creed-valhalla-trophy-guide) | 3/10 | 100 | 12.63% | 517,820 | 5/5 | 34 | 511 |
+| [PowerWash Simulator](https://psnprofiles.com/guide/16270-powerwash-simulator-trophy-guide) | 3/10 | 40 | 12.64% | 241,340 | 5/5 | 25 | 112 |
+| [Dysmantle](https://psnprofiles.com/guide/17716-dysmantle-trophy-guide) | 3/10 | 55 | 12.66% | 17,912 |  | 0 | 22 |
 | [Middle-earth: Shadow of War](https://psnprofiles.com/guide/6615-middle-earth-shadow-of-war-trophy-guide) | 3/10 | 40 | 12.67% | 333,431 | 5/5 | 79 | 407 |
+| [We Dare](https://psnprofiles.com/guide/4720-we-dare-trophy-guide) | 3/10 | 7 | 12.70% | 3,816 |  | 0 | 6 |
 | [Detroit: Become Human](https://psnprofiles.com/guide/7464-detroit-become-human-trophy-guide) | 3/10 | 20 | 12.87% | 544,256 | 5/5 | 227 | 827 |
+| [Katamari Damacy Reroll](https://psnprofiles.com/guide/11881-katamari-damacy-reroll-trophy-guide) | 3/10 | 20 | 12.88% | 46,835 | 5/5 | 43 | 59 |
+| [Blade Arcus Rebellion from Shining](https://psnprofiles.com/guide/10203-blade-arcus-rebellion-from-shining-trophy-guide) | 3/10 | 25 | 12.89% | 4,761 |  | 0 | 7 |
+| [Hitman 3](https://psnprofiles.com/guide/14561-hitman-3-trophy-guide) | 3/10 | 47 | 12.91% | 21,970 | 5/5 | 14 | 53 |
+| [LEGO Indiana Jones 2: The Adventure Continues](https://psnprofiles.com/guide/8635-lego-indiana-jones-2-the-adventure-continues-trophy-guide) | 3/10 | 25 | 12.94% | 51,261 | 3/5 | 14 | 45 |
+| [Eiyuu Senki: The World Conquest](https://psnprofiles.com/guide/4960-eiyuu-senki-the-world-conquest-trophy-guide) | 3/10 | 40 | 12.97% | 13,516 | 4/5 | 6 | 17 |
+| [Moe Chronicle](https://psnprofiles.com/guide/3475-moe-chronicle-trophy-guide) | 3/10 | 80 | 13.03% | 16,637 | 5/5 | 6 | 28 |
+| [Sly Cooper: Thieves in Time](https://psnprofiles.com/guide/507-sly-cooper-thieves-in-time-trophy-guide) | 3/10 | 20 | 13.09% | 106,530 | 5/5 | 50 | 208 |
+| [Killzone](https://psnprofiles.com/guide/14943-killzone-trophy-guide) | 3/10 | 25 | 13.11% | 15,274 | 5/5 | 9 | 22 |
+| [Dynasty Warriors 9](https://psnprofiles.com/guide/9835-dynasty-warriors-9-trophy-guide) | 3/10 | 80 | 13.12% | 54,694 | 5/5 | 7 | 27 |
+| [Samurai Shodown](https://psnprofiles.com/guide/8882-samurai-shodown-trophy-guide) | 3/10 | 10 | 13.14% | 21,978 | 4/5 | 7 | 15 |
+| [DreamWorks All-Star Kart Racing](https://psnprofiles.com/guide/18907-dreamworks-all-star-kart-racing-trophy-guide) | 3/10 | 40 | 13.14% | 4,253 |  | 0 | 6 |
+| [One Piece: Pirate Warriors 2](https://psnprofiles.com/guide/4599-one-piece-pirate-warriors-2-trophy-guide) | 3/10 | 55 | 13.14% | 27,686 | 3/5 | 10 | 21 |
+| [Stories: The Path of Destinies](https://psnprofiles.com/guide/4303-stories-the-path-of-destinies-trophy-guide) | 3/10 | 15 | 13.22% | 63,907 | 4/5 | 47 | 130 |
+| [Grand Theft Auto: Vice City](https://psnprofiles.com/guide/14753-grand-theft-auto-vice-city-trophy-guide) | 3/10 | 45 | 13.37% | 129,703 | 5/5 | 18 | 117 |
+| [Destroy All Humans!](https://psnprofiles.com/guide/5265-destroy-all-humans-trophy-guide) | 3/10 | 15 | 13.40% | 180,217 | 5/5 | 28 | 162 |
 | [Far Cry 5](https://psnprofiles.com/guide/7339-far-cry-5-trophy-guide) | 3/10 | 25 | 13.43% | 321,659 | 5/5 | 88 | 404 |
+| [Unholy Heights](https://psnprofiles.com/guide/5616-unholy-heights-trophy-guide) | 3/10 | 12 | 13.46% | 9,061 | 5/5 | 5 | 12 |
+| [Shovel Knight: Specter of Torment](https://psnprofiles.com/guide/17074-shovel-knight-specter-of-torment-trophy-guide) | 3/10 | 25 | 13.51% | 3,217 |  | 0 | 5 |
+| [Yaga](https://psnprofiles.com/guide/10169-yaga-trophy-guide) | 3/10 | 15 | 13.57% | 14,250 | 5/5 | 5 | 11 |
+| [Shantae and the Pirate's Curse](https://psnprofiles.com/guide/4313-shantae-and-the-pirates-curse-trophy-guide) | 3/10 | 10 | 13.62% | 30,578 | 5/5 | 14 | 42 |
+| [Sniper Ghost Warrior 3](https://psnprofiles.com/guide/9333-sniper-ghost-warrior-3-trophy-guide) | 3/10 | 15 | 13.75% | 45,974 | 4/5 | 14 | 44 |
+| [Omori](https://psnprofiles.com/guide/14793-omori-trophy-guide) | 3/10 | 45 | 13.76% | 31,056 | 4/5 | 15 | 33 |
+| [LEGO Marvel Super Heroes](https://psnprofiles.com/guide/3205-lego-marvel-super-heroes-trophy-guide) | 3/10 | 40 | 13.77% | 114,272 | 5/5 | 19 | 105 |
+| [Banishers: Ghosts of New Eden](https://psnprofiles.com/guide/18783-banishers-ghosts-of-new-eden-trophy-guide) | 3/10 | 40 | 13.79% | 20,863 | 5/5 | 7 | 25 |
 | [Death Stranding](https://psnprofiles.com/guide/9355-death-stranding-trophy-guide) | 3/10 | 100 | 13.80% | 456,036 | 5/5 | 128 | 603 |
+| [Yasai Ninja](https://psnprofiles.com/guide/4846-yasai-ninja-trophy-guide) | 3/10 | 12 | 13.81% | 11,899 |  | 0 | 11 |
+| [魔法科高校の劣等生 Out of Order](https://psnprofiles.com/guide/3892-%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9F-out-of-order-trophy-guide) | 3/10 | 20 | 13.94% | 5,776 |  | 0 | 15 |
+| [Dengeki Bunko: Fighting Climax Ignition](https://psnprofiles.com/guide/4101-dengeki-bunko-fighting-climax-ignition-trophy-guide) | 3/10 | 6 | 14.00% | 15,446 | 5/5 | 5 | 23 |
+| [Shining Resonance Refrain](https://psnprofiles.com/guide/7697-shining-resonance-refrain-trophy-guide) | 3/10 | 50 | 14.00% | 72,775 | 5/5 | 12 | 47 |
+| [Harry Potter and the Deathly Hallows - Part 2](https://psnprofiles.com/guide/3464-harry-potter-and-the-deathly-hallows-part-2-trophy-guide) | 3/10 | 15 | 14.07% | 19,057 | 5/5 | 10 | 22 |
+| [BlazBlue: Cross Tag Battle](https://psnprofiles.com/guide/7513-blazblue-cross-tag-battle-trophy-guide) | 3/10 | 7 | 14.12% | 46,312 | 3/5 | 27 | 20 |
+| [Okami HD](https://psnprofiles.com/guide/4520-okami-hd-trophy-guide) | 3/10 | 60 | 14.12% | 115,991 | 5/5 | 37 | 155 |
+| [Woodle Tree 2 Deluxe+](https://psnprofiles.com/guide/12212-woodle-tree-2-deluxe-trophy-guide) | 3/10 | 50 | 14.13% | 14,863 |  | 0 | 7 |
+| [Zone of the Enders: The 2nd Runner HD Edition](https://psnprofiles.com/guide/7511-zone-of-the-enders-the-2nd-runner-hd-edition-trophy-guide) | 3/10 | 10 | 14.14% | 56,320 | 3/5 | 24 | 42 |
+| [Grand Theft Auto III](https://psnprofiles.com/guide/13382-grand-theft-auto-iii-trophy-guide) | 3/10 | 25 | 14.24% | 62,012 | 5/5 | 26 | 82 |
+| [Saturday Morning RPG](https://psnprofiles.com/guide/3991-saturday-morning-rpg-trophy-guide) | 3/10 | 15 | 14.31% | 13,807 | 4/5 | 13 | 37 |
+| [Alice: Madness Returns](https://psnprofiles.com/guide/1273-alice-madness-returns-trophy-guide) | 3/10 | 20 | 14.32% | 57,172 | 4/5 | 33 | 126 |
+| [Watch Dogs: Legion](https://psnprofiles.com/guide/11111-watch-dogs-legion-trophy-guide) | 3/10 | 40 | 14.33% | 229,152 | 4/5 | 43 | 281 |
+| [Dungeons 2](https://psnprofiles.com/guide/8261-dungeons-2-trophy-guide) | 3/10 | 35 | 14.47% | 16,900 | 4/5 | 5 | 13 |
+| [MLB The Show 21](https://psnprofiles.com/guide/12098-mlb-the-show-21-trophy-guide) | 3/10 | 30 | 14.48% | 10,460 | 3/5 | 7 | 14 |
+| [Unravel](https://psnprofiles.com/guide/3978-unravel-trophy-guide) | 3/10 | 9 | 14.51% | 123,566 | 5/5 | 53 | 239 |
+| [Blair Witch](https://psnprofiles.com/guide/10434-blair-witch-trophy-guide) | 3/10 | 10 | 14.54% | 60,433 | 5/5 | 8 | 36 |
+| [Outcast: Second Contact](https://psnprofiles.com/guide/6696-outcast-second-contact-trophy-guide) | 3/10 | 15 | 14.60% | 41,978 | 4/5 | 5 | 21 |
+| [Torchlight 2](https://psnprofiles.com/guide/10349-torchlight-2-trophy-guide) | 3/10 | 65 | 14.64% | 37,902 | 5/5 | 8 | 27 |
+| [Prison Break](https://psnprofiles.com/guide/10509-prison-break-trophy-guide) | 3/10 | 8 | 14.67% | 12,267 | 4/5 | 5 | 18 |
 | [Far Cry 6](https://psnprofiles.com/guide/13040-far-cry-6-trophy-guide) | 3/10 | 30 | 14.71% | 395,499 | 4/5 | 37 | 329 |
+| [Metal Max Xeno](https://psnprofiles.com/guide/8600-metal-max-xeno-trophy-guide) | 3/10 | 60 | 14.72% | 19,983 |  | 0 | 15 |
+| [Silent Hill 3 HD](https://psnprofiles.com/guide/64-silent-hill-3-hd-trophy-guide) | 3/10 | 10 | 14.75% | 40,654 | 5/5 | 20 | 70 |
+| [WRC 5](https://psnprofiles.com/guide/4519-wrc-5-trophy-guide) | 3/10 | 25 | 14.76% | 38,593 | 4/5 | 11 | 35 |
+| [Orten Was The Case](https://psnprofiles.com/guide/18181-orten-was-the-case-trophy-guide) | 3/10 | 6 | 14.81% | 1,760 |  | 0 | 3 |
+| [MotoGP 13](https://psnprofiles.com/guide/993-motogp-13-trophy-guide) | 3/10 | 25 | 14.81% | 11,392 | 4/5 | 12 | 12 |
+| [God of War III](https://psnprofiles.com/guide/2007-god-of-war-iii-trophy-guide) | 3/10 | 15 | 14.83% | 79,814 | 5/5 | 35 | 205 |
+| [Hardspace: Shipbreaker](https://psnprofiles.com/guide/16522-hardspace-shipbreaker-trophy-guide) | 3/10 | 40 | 14.93% | 27,244 | 4/5 | 10 | 19 |
+| [Corpse Party: Blood Drive](https://psnprofiles.com/guide/3443-corpse-party-blood-drive-trophy-guide) | 3/10 | 25 | 14.98% | 18,910 | 4/5 | 9 | 47 |
+| [Saints Row: The Third](https://psnprofiles.com/guide/12362-saints-row-the-third-trophy-guide) | 3/10 | 30 | 15.01% | 163,980 | 4/5 | 18 | 114 |
+| [Sleeping Dogs: Definitive Edition](https://psnprofiles.com/guide/4660-sleeping-dogs-definitive-edition-trophy-guide) | 3/10 | 30 | 15.05% | 248,428 | 5/5 | 26 | 358 |
+| [Gravity Rush 2](https://psnprofiles.com/guide/5802-gravity-rush-2-trophy-guide) | 3/10 | 40 | 15.05% | 136,313 | 4/5 | 56 | 202 |
+| [Killzone 3 Multiplayer](https://psnprofiles.com/guide/186-killzone-3-multiplayer-trophy-guide) | 3/10 | 25 | 15.07% | 11,066 |  | 0 | 17 |
+| [Destroy All Humans! 2](https://psnprofiles.com/guide/5373-destroy-all-humans-2-trophy-guide) | 3/10 | 15 | 15.08% | 83,412 | 5/5 | 10 | 95 |
+| [Romancelvania](https://psnprofiles.com/guide/16454-romancelvania-trophy-guide) | 3/10 | 25 | 15.10% | 6,855 |  | 0 | 4 |
+| [Final Fantasy Type-0 HD](https://psnprofiles.com/guide/2560-final-fantasy-type-0-hd-trophy-guide) | 3/10 | 40 | 15.11% | 114,272 | 5/5 | 68 | 265 |
+| [Far Cry 4](https://psnprofiles.com/guide/2088-far-cry-4-trophy-guide) | 3/10 | 25 | 15.14% | 274,029 | 5/5 | 64 | 440 |
+| [CyberHive](https://psnprofiles.com/guide/15656-cyberhive-trophy-guide) | 3/10 | 25 | 15.15% | 2,987 |  | 0 | 1 |
+| [Destroy All Humans! Clone Carnage](https://psnprofiles.com/guide/15574-destroy-all-humans-clone-carnage-trophy-guide) | 3/10 | 7 | 15.17% | 24,750 | 4/5 | 9 | 18 |
+| [Visage](https://psnprofiles.com/guide/11125-visage-trophy-guide) | 3/10 | 20 | 15.17% | 43,962 | 4/5 | 6 | 19 |
+| [Top Racer Collection](https://psnprofiles.com/guide/19051-top-racer-collection-trophy-guide) | 3/10 | 25 | 15.17% | 2,423 |  | 0 | 2 |
+| [Biomutant](https://psnprofiles.com/guide/12313-biomutant-trophy-guide) | 3/10 | 30 | 15.17% | 162,949 | 5/5 | 27 | 189 |
+| [Aegis of Earth: Protonovus Assault](https://psnprofiles.com/guide/4596-aegis-of-earth-protonovus-assault-trophy-guide) | 3/10 | 40 | 15.18% | 20,333 | 4/5 | 8 | 29 |
+| [Monark](https://psnprofiles.com/guide/13834-monark-trophy-guide) | 3/10 | 60 | 15.33% | 30,334 | 5/5 | 7 | 33 |
+| [Wayward Strand](https://psnprofiles.com/guide/15835-wayward-strand-trophy-guide) | 3/10 | 20 | 15.38% | 3,268 |  | 0 | 3 |
+| [SNK Heroines: Tag Team Frenzy](https://psnprofiles.com/guide/9218-snk-heroines-tag-team-frenzy-trophy-guide) | 3/10 | 15 | 15.40% | 11,582 |  | 0 | 7 |
+| [NieR Replicant ver.1.22474487139...](https://psnprofiles.com/guide/12106-nier-replicant-ver122474487139-trophy-guide) | 3/10 | 70 | 15.43% | 217,989 | 5/5 | 36 | 136 |
+| [Psychonauts](https://psnprofiles.com/guide/7672-psychonauts-trophy-guide) | 3/10 | 20 | 15.48% | 121,863 | 4/5 | 25 | 97 |
+| [ハイスクール DxD NEW FIGHT](https://psnprofiles.com/guide/2105-%E3%83%8F%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB-dxd-new-fight-trophy-guide) | 3/10 | 150 | 15.58% | 5,828 |  | 0 | 5 |
+| [Middle-earth: Shadow of Mordor](https://psnprofiles.com/guide/1697-middle-earth-shadow-of-mordor-trophy-guide) | 3/10 | 25 | 15.61% | 285,595 | 5/5 | 67 | 578 |
+| [Ghostbusters: Spirits Unleashed](https://psnprofiles.com/guide/18016-ghostbusters-spirits-unleashed-trophy-guide) | 3/10 | 20 | 15.64% | 7,745 |  | 0 | 4 |
+| [Shenmue III](https://psnprofiles.com/guide/9426-shenmue-iii-trophy-guide) | 3/10 | 40 | 15.66% | 79,127 | 5/5 | 16 | 50 |
+| [Lost Dimension](https://psnprofiles.com/guide/3262-lost-dimension-trophy-guide) | 3/10 | 50 | 15.66% | 17,066 |  | 0 | 28 |
+| [Honkai: Star Rail](https://psnprofiles.com/guide/17815-honkai-star-rail-trophy-guide) | 3/10 | 100 | 15.71% | 57,520 | 5/5 | 28 | 48 |
+| [FIA European Truck Racing Championship](https://psnprofiles.com/guide/14988-fia-european-truck-racing-championship-trophy-guide) | 3/10 | 20 | 15.88% | 13,539 | 5/5 | 5 | 14 |
+| [LEGO Batman 3: Beyond Gotham](https://psnprofiles.com/guide/15660-lego-batman-3-beyond-gotham-trophy-guide) | 3/10 | 25 | 15.97% | 55,806 | 5/5 | 9 | 96 |
+| [Shantae: Half-Genie Hero](https://psnprofiles.com/guide/5503-shantae-half-genie-hero-trophy-guide) | 3/10 | 10 | 16.06% | 43,260 | 5/5 | 6 | 58 |
+| [American Fugitive](https://psnprofiles.com/guide/8697-american-fugitive-trophy-guide) | 3/10 | 18 | 16.09% | 52,205 | 5/5 | 12 | 22 |
+| [OneeChanbara Origin](https://psnprofiles.com/guide/11118-oneechanbara-origin-trophy-guide) | 3/10 | 25 | 16.23% | 61,402 | 4/5 | 15 | 49 |
+| [Rage 2](https://psnprofiles.com/guide/10547-rage-2-trophy-guide) | 3/10 | 25 | 16.24% | 91,810 | 5/5 | 21 | 98 |
+| [Sakura Wars](https://psnprofiles.com/guide/10090-sakura-wars-trophy-guide) | 3/10 | 40 | 16.27% | 80,248 | 5/5 | 12 | 73 |
+| [The Mark of Kri](https://psnprofiles.com/guide/3671-the-mark-of-kri-trophy-guide) | 3/10 | 15 | 16.39% | 20,865 | 4/5 | 6 | 26 |
+| [X-Blades](https://psnprofiles.com/guide/3420-x-blades-trophy-guide) | 3/10 | 20 | 16.48% | 11,864 |  | 0 | 25 |
+| [Risk of Rain 2](https://psnprofiles.com/guide/9841-risk-of-rain-2-trophy-guide) | 3/10 | 15 | 16.49% | 74,260 | 4/5 | 30 | 37 |
+| [Assassin's Creed Liberation](https://psnprofiles.com/guide/12621-assassins-creed-liberation-trophy-guide) | 3/10 | 15 | 16.50% | 115,810 | 4/5 | 26 | 114 |
 | [Erica](https://psnprofiles.com/guide/9027-erica-trophy-guide) | 3/10 | 9 | 16.54% | 294,416 | 4/5 | 32 | 241 |
+| [Wild Arms 2](https://psnprofiles.com/guide/16818-wild-arms-2-trophy-guide) | 3/10 | 40 | 16.72% | 16,749 |  | 0 | 19 |
+| [Hyperdimension Neptunia Victory](https://psnprofiles.com/guide/3256-hyperdimension-neptunia-victory-trophy-guide) | 3/10 | 55 | 16.74% | 15,727 | 5/5 | 9 | 41 |
+| [Nobody Saves the World](https://psnprofiles.com/guide/18422-nobody-saves-the-world-trophy-guide) | 3/10 | 35 | 16.86% | 36,603 | 5/5 | 9 | 50 |
+| [Uncharted: Drake's Fortune](https://psnprofiles.com/guide/2092-uncharted-drakes-fortune-trophy-guide) | 3/10 | 30 | 16.87% | 92,210 | 5/5 | 42 | 191 |
+| [Nickelodeon Kart Racers](https://psnprofiles.com/guide/11469-nickelodeon-kart-racers-trophy-guide) | 3/10 | 20 | 16.88% | 31,536 |  | 0 | 12 |
+| [The Riftbreaker](https://psnprofiles.com/guide/13896-the-riftbreaker-trophy-guide) | 3/10 | 50 | 17.00% | 13,584 |  | 0 | 8 |
+| [Naruto Shippuden: Ultimate Ninja Storm Revolution](https://psnprofiles.com/guide/10419-naruto-shippuden-ultimate-ninja-storm-revolution-trophy-guide) | 3/10 | 30 | 17.08% | 20,354 | 4/5 | 7 | 12 |
+| [The Outlast Trials](https://psnprofiles.com/guide/18983-the-outlast-trials-trophy-guide) | 3/10 | 25 | 17.10% | 12,880 | 5/5 | 6 | 13 |
+| [Bullet Girls 2](https://psnprofiles.com/guide/4395-bullet-girls-2-trophy-guide) | 3/10 | 35 | 17.25% | 6,030 | 5/5 | 5 | 8 |
+| [Dark Cloud](https://psnprofiles.com/guide/3705-dark-cloud-trophy-guide) | 3/10 | 20 | 17.27% | 75,374 | 5/5 | 16 | 125 |
+| [The Cruel King and the Great Hero](https://psnprofiles.com/guide/14064-the-cruel-king-and-the-great-hero-trophy-guide) | 3/10 | 40 | 17.28% | 16,273 |  | 0 | 6 |
+| [Ride](https://psnprofiles.com/guide/11025-ride-trophy-guide) | 3/10 | 20 | 17.31% | 13,795 |  | 0 | 4 |
+| [Superliminal](https://psnprofiles.com/guide/14685-superliminal-trophy-guide) | 3/10 | 5 | 17.41% | 73,399 |  | 0 | 85 |
+| [Bullet Girls](https://psnprofiles.com/guide/2049-bullet-girls-trophy-guide) | 3/10 | 25 | 17.58% | 6,383 | 5/5 | 7 | 14 |
+| [Sea of Stars](https://psnprofiles.com/guide/17640-sea-of-stars-trophy-guide) | 3/10 | 40 | 17.62% | 165,946 | 5/5 | 33 | 156 |
+| [LEGO Batman 2: DC Super Heroes](https://psnprofiles.com/guide/8468-lego-batman-2-dc-super-heroes-trophy-guide) | 3/10 | 20 | 17.63% | 33,891 | 5/5 | 13 | 58 |
+| [Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst](https://psnprofiles.com/guide/8332-naruto-shippuden-ultimate-ninja-storm-3-full-burst-trophy-guide) | 3/10 | 34 | 17.71% | 104,177 | 5/5 | 19 | 93 |
+| [Achilles: Legends Untold](https://psnprofiles.com/guide/18490-achilles-legends-untold-trophy-guide) | 3/10 | 15 | 17.73% | 6,753 |  | 0 | 9 |
+| [Square Heroes](https://psnprofiles.com/guide/4940-square-heroes-trophy-guide) | 3/10 | 6 | 17.87% | 9,716 |  | 0 | 15 |
+| [Assassin's Creed Rogue](https://psnprofiles.com/guide/3601-assassins-creed-rogue-trophy-guide) | 3/10 | 35 | 17.94% | 253,258 | 5/5 | 30 | 280 |
+| [The Darkness II](https://psnprofiles.com/guide/42-the-darkness-ii-trophy-guide) | 3/10 | 15 | 18.03% | 44,280 | 5/5 | 17 | 76 |
+| [Wattam](https://psnprofiles.com/guide/14844-wattam-trophy-guide) | 3/10 | 10 | 18.05% | 9,908 |  | 0 | 14 |
+| [One More Dungeon](https://psnprofiles.com/guide/6794-one-more-dungeon-trophy-guide) | 3/10 | 5 | 18.08% | 25,829 |  | 0 | 21 |
+| [I Am Setsuna](https://psnprofiles.com/guide/6878-i-am-setsuna-trophy-guide) | 3/10 | 35 | 18.08% | 76,944 | 5/5 | 15 | 62 |
+| [EA Sports WRC](https://psnprofiles.com/guide/17977-ea-sports-wrc-trophy-guide) | 3/10 | 25 | 18.09% | 17,874 | 5/5 | 7 | 21 |
+| [Jettomero](https://psnprofiles.com/guide/17375-jettomero-trophy-guide) | 3/10 | 5 | 18.20% | 1,413 |  | 0 | 2 |
+| [Disgaea 6 Complete](https://psnprofiles.com/guide/14849-disgaea-6-complete-trophy-guide) | 3/10 | 75 | 18.22% | 21,642 |  | 0 | 16 |
+| [Do Not Feed The Monkeys](https://psnprofiles.com/guide/10918-do-not-feed-the-monkeys-trophy-guide) | 3/10 | 25 | 18.30% | 15,146 |  | 0 | 10 |
+| [Utawarerumono: Mask of Deception](https://psnprofiles.com/guide/6393-utawarerumono-mask-of-deception-trophy-guide) | 3/10 | 70 | 18.32% | 39,693 | 5/5 | 7 | 38 |
+| [The Guy VR](https://psnprofiles.com/guide/18839-the-guy-vr-trophy-guide) | 3/10 | 5 | 18.34% | 1,351 |  | 0 | 1 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/10289-minecraft-dungeons-trophy-guide) | 3/10 | 20 | 18.34% | 158,669 | 5/5 | 27 | 150 |
+| [Rustler](https://psnprofiles.com/guide/13987-rustler-trophy-guide) | 3/10 | 20 | 18.38% | 20,921 |  | 0 | 11 |
+| [Valthirian Arc: Hero School Story](https://psnprofiles.com/guide/10094-valthirian-arc-hero-school-story-trophy-guide) | 3/10 | 18 | 18.41% | 27,685 | 5/5 | 6 | 12 |
+| [The Crew Motorfest](https://psnprofiles.com/guide/17736-the-crew-motorfest-trophy-guide) | 3/10 | 30 | 18.66% | 53,546 | 5/5 | 17 | 53 |
 | [Subnautica](https://psnprofiles.com/guide/10701-subnautica-trophy-guide) | 3/10 | 40 | 18.66% | 345,394 | 5/5 | 65 | 277 |
+| [LEGO Marvel Super Heroes](https://psnprofiles.com/guide/3843-lego-marvel-super-heroes-trophy-guide) | 3/10 | 40 | 18.66% | 57,584 | 5/5 | 37 | 176 |
+| [Hyperdimension Neptunia Re;Birth1](https://psnprofiles.com/guide/3322-hyperdimension-neptunia-rebirth1-trophy-guide) | 3/10 | 45 | 18.66% | 35,844 | 5/5 | 24 | 87 |
+| [Secret of Mana](https://psnprofiles.com/guide/7127-secret-of-mana-trophy-guide) | 3/10 | 25 | 18.86% | 102,614 | 5/5 | 13 | 89 |
+| [Dirt 5](https://psnprofiles.com/guide/11801-dirt-5-trophy-guide) | 3/10 | 25 | 18.93% | 191,016 | 5/5 | 31 | 156 |
+| [Dusk Diver 2](https://psnprofiles.com/guide/15124-dusk-diver-2-trophy-guide) | 3/10 | 30 | 18.95% | 8,994 |  | 0 | 16 |
+| [The Talos Principle II](https://psnprofiles.com/guide/17976-the-talos-principle-ii-trophy-guide) | 3/10 | 30 | 19.02% | 32,776 | 5/5 | 10 | 20 |
+| [Gotham Knights](https://psnprofiles.com/guide/15441-gotham-knights-trophy-guide) | 3/10 | 40 | 19.02% | 167,504 | 4/5 | 38 | 172 |
+| [Tamashii](https://psnprofiles.com/guide/11939-tamashii-trophy-guide) | 3/10 | 5 | 19.03% | 3,298 |  | 0 | 1 |
+| [Pyre](https://psnprofiles.com/guide/6598-pyre-trophy-guide) | 3/10 | 15 | 19.05% | 41,637 | 4/5 | 14 | 54 |
+| [Mato Anomalies](https://psnprofiles.com/guide/17813-mato-anomalies-trophy-guide) | 3/10 | 25 | 19.14% | 5,547 |  | 0 | 8 |
+| [Rugby World Cup 2015](https://psnprofiles.com/guide/5125-rugby-world-cup-2015-trophy-guide) | 3/10 | 6 | 19.20% | 8,809 |  | 0 | 4 |
+| [Dungeon Munchies](https://psnprofiles.com/guide/18881-dungeon-munchies-trophy-guide) | 3/10 | 12 | 19.21% | 1,199 |  | 0 | 5 |
+| [Sly Cooper and the Thievius Raccoonus](https://psnprofiles.com/guide/19742-sly-cooper-and-the-thievius-raccoonus-trophy-guide) | 3/10 | 10 | 19.45% | 6,822 |  | 0 | 17 |
+| [Project Highrise](https://psnprofiles.com/guide/12952-project-highrise-trophy-guide) | 3/10 | 30 | 19.50% | 9,176 |  | 0 | 7 |
+| [Ratchet & Clank: A Crack in Time](https://psnprofiles.com/guide/5048-ratchet-clank-a-crack-in-time-trophy-guide) | 3/10 | 25 | 19.61% | 92,554 | 4/5 | 29 | 126 |
+| [Crayola Scoot](https://psnprofiles.com/guide/8349-crayola-scoot-trophy-guide) | 3/10 | 10 | 19.69% | 14,585 | 5/5 | 6 | 12 |
 | [Ratchet & Clank](https://psnprofiles.com/guide/4315-ratchet-clank-trophy-guide) | 3/10 | 25 | 19.69% | 773,409 | 5/5 | 228 | 1,095 |
+| [Valley](https://psnprofiles.com/guide/4987-valley-trophy-guide) | 3/10 | 10 | 19.70% | 29,689 | 4/5 | 14 | 28 |
+| [Yooka-Laylee](https://psnprofiles.com/guide/7178-yooka-laylee-trophy-guide) | 3/10 | 25 | 19.77% | 56,228 | 5/5 | 11 | 66 |
+| [Final Fantasy XIII-2](https://psnprofiles.com/guide/3837-final-fantasy-xiii-2-trophy-guide) | 3/10 | 60 | 19.86% | 67,324 | 4/5 | 31 | 128 |
 | [Uncharted: The Lost Legacy](https://psnprofiles.com/guide/6375-uncharted-the-lost-legacy-trophy-guide) | 3/10 | 20 | 19.90% | 349,539 | 5/5 | 139 | 491 |
+| [Danganronpa: Trigger Happy Havoc](https://psnprofiles.com/guide/2230-danganronpa-trigger-happy-havoc-trophy-guide) | 3/10 | 50 | 20.00% | 85,190 | 5/5 | 29 | 144 |
+| [Super Blood Hockey](https://psnprofiles.com/guide/11022-super-blood-hockey-trophy-guide) | 3/10 | 15 | 20.02% | 7,097 |  | 0 | 10 |
+| [Shantae and the Seven Sirens](https://psnprofiles.com/guide/10305-shantae-and-the-seven-sirens-trophy-guide) | 3/10 | 15 | 20.24% | 34,307 | 5/5 | 5 | 21 |
+| [Valkyria Chronicles 4](https://psnprofiles.com/guide/7805-valkyria-chronicles-4-trophy-guide) | 3/10 | 60 | 20.27% | 166,649 | 4/5 | 23 | 80 |
+| [Amnesia: The Bunker](https://psnprofiles.com/guide/18138-amnesia-the-bunker-trophy-guide) | 3/10 | 10 | 20.34% | 6,897 |  | 0 | 9 |
+| [Danganronpa Another Episode: Ultra Despair Girls](https://psnprofiles.com/guide/3293-danganronpa-another-episode-ultra-despair-girls-trophy-guide) | 3/10 | 30 | 20.37% | 59,714 | 5/5 | 18 | 87 |
+| [LEGO Star Wars: The Force Awakens](https://psnprofiles.com/guide/4602-lego-star-wars-the-force-awakens-trophy-guide) | 3/10 | 24 | 20.48% | 87,306 | 5/5 | 37 | 153 |
+| [The Godfather II](https://psnprofiles.com/guide/6065-the-godfather-ii-trophy-guide) | 3/10 | 15 | 20.53% | 29,399 | 5/5 | 14 | 52 |
+| [Destroy All Humans! 2 Reprobed](https://psnprofiles.com/guide/15140-destroy-all-humans-2-reprobed-trophy-guide) | 3/10 | 20 | 20.59% | 94,292 | 5/5 | 11 | 80 |
+| [Cooking Mama: Cookstar](https://psnprofiles.com/guide/15594-cooking-mama-cookstar-trophy-guide) | 3/10 | 10 | 20.68% | 5,591 |  | 0 | 7 |
+| [River City Girls 2](https://psnprofiles.com/guide/16027-river-city-girls-2-trophy-guide) | 3/10 | 30 | 20.78% | 15,864 |  | 0 | 16 |
+| [Prince of Persia: The Sands of Time](https://psnprofiles.com/guide/71-prince-of-persia-the-sands-of-time-trophy-guide) | 3/10 | 10 | 20.82% | 39,790 | 5/5 | 20 | 118 |
+| [Wild Arms](https://psnprofiles.com/guide/14563-wild-arms-trophy-guide) | 3/10 | 35 | 20.83% | 72,683 | 5/5 | 6 | 60 |
+| [Atelier Sophie: The Alchemist of the Mysterious Book](https://psnprofiles.com/guide/12061-atelier-sophie-the-alchemist-of-the-mysterious-book-trophy-guide) | 3/10 | 50 | 20.90% | 27,403 |  | 0 | 24 |
+| [Hyperdimension Neptunia Re;Birth3: V Generation](https://psnprofiles.com/guide/3025-hyperdimension-neptunia-rebirth3-v-generation-trophy-guide) | 3/10 | 50 | 21.08% | 51,468 | 4/5 | 28 | 76 |
+| [LEGO Marvel's Avengers](https://psnprofiles.com/guide/3901-lego-marvels-avengers-trophy-guide) | 3/10 | 40 | 21.10% | 106,520 | 5/5 | 23 | 188 |
+| [Humanity](https://psnprofiles.com/guide/16824-humanity-trophy-guide) | 3/10 | 15 | 21.18% | 70,433 | 5/5 | 24 | 90 |
+| [Five Nights at Freddy's: Help Wanted 2](https://psnprofiles.com/guide/18315-five-nights-at-freddys-help-wanted-2-trophy-guide) | 3/10 | 20 | 21.21% | 10,592 |  | 0 | 6 |
+| [Mark of the Ninja Remastered](https://psnprofiles.com/guide/10456-mark-of-the-ninja-remastered-trophy-guide) | 3/10 | 15 | 21.23% | 27,458 | 5/5 | 5 | 27 |
+| [Crash Time 5: Undercover](https://psnprofiles.com/guide/731-crash-time-5-undercover-trophy-guide) | 3/10 | 20 | 21.23% | 6,144 |  | 0 | 2 |
 | [Star Wars Jedi: Fallen Order](https://psnprofiles.com/guide/9339-star-wars-jedi-fallen-order-trophy-guide) | 3/10 | 30 | 21.29% | 653,809 | 5/5 | 53 | 841 |
+| [Azur Lane: Crosswave](https://psnprofiles.com/guide/9705-azur-lane-crosswave-trophy-guide) | 3/10 | 25 | 21.34% | 34,422 | 5/5 | 9 | 34 |
+| [One Piece: Burning Blood](https://psnprofiles.com/guide/4604-one-piece-burning-blood-trophy-guide) | 3/10 | 20 | 21.36% | 55,258 | 4/5 | 20 | 55 |
+| [Bramble: The Mountain King](https://psnprofiles.com/guide/17308-bramble-the-mountain-king-trophy-guide) | 3/10 | 6 | 21.44% | 15,497 |  | 0 | 11 |
+| [Crossing Souls](https://psnprofiles.com/guide/8335-crossing-souls-trophy-guide) | 3/10 | 10 | 21.44% | 22,965 | 3/5 | 9 | 19 |
+| [Odin Sphere Leifthrasir](https://psnprofiles.com/guide/4548-odin-sphere-leifthrasir-trophy-guide) | 3/10 | 35 | 21.44% | 114,013 | 5/5 | 35 | 177 |
+| [Dragon Quest Builders 2](https://psnprofiles.com/guide/8943-dragon-quest-builders-2-trophy-guide) | 3/10 | 50 | 21.45% | 63,451 | 5/5 | 10 | 62 |
+| [Ni no Kuni II: Revenant Kingdom](https://psnprofiles.com/guide/7351-ni-no-kuni-ii-revenant-kingdom-trophy-guide) | 3/10 | 85 | 21.47% | 135,340 | 5/5 | 40 | 211 |
+| [Dragon Quest XI: Echoes of an Elusive Age](https://psnprofiles.com/guide/8464-dragon-quest-xi-echoes-of-an-elusive-age-trophy-guide) | 3/10 | 90 | 21.49% | 225,011 | 5/5 | 31 | 194 |
+| [The Sinking City](https://psnprofiles.com/guide/8828-the-sinking-city-trophy-guide) | 3/10 | 25 | 21.69% | 84,867 | 5/5 | 18 | 71 |
+| [Tekken Tag Tournament HD](https://psnprofiles.com/guide/14977-tekken-tag-tournament-hd-trophy-guide) | 3/10 | 8 | 21.73% | 13,054 | 4/5 | 9 | 13 |
+| [Slender: The Arrival](https://psnprofiles.com/guide/18583-slender-the-arrival-trophy-guide) | 3/10 | 5 | 21.88% | 3,898 |  | 0 | 7 |
+| [Baldur's Gate: Siege of Dragonspear](https://psnprofiles.com/guide/17619-baldurs-gate-siege-of-dragonspear-trophy-guide) | 3/10 | 40 | 21.99% | 6,504 | 4/5 | 5 | 7 |
+| [Black Clover: Quartet Knights](https://psnprofiles.com/guide/8662-black-clover-quartet-knights-trophy-guide) | 3/10 | 8 | 22.04% | 39,642 | 3/5 | 16 | 26 |
+| [Haven](https://psnprofiles.com/guide/11372-haven-trophy-guide) | 3/10 | 14 | 22.12% | 97,588 | 4/5 | 25 | 84 |
+| [Demoniaca: Everlasting Night](https://psnprofiles.com/guide/15820-demoniaca-everlasting-night-trophy-guide) | 3/10 | 10 | 22.28% | 4,069 |  | 0 | 3 |
+| [Naruto x Boruto: Ultimate Ninja Storm Connections](https://psnprofiles.com/guide/18144-naruto-x-boruto-ultimate-ninja-storm-connections-trophy-guide) | 3/10 | 40 | 22.43% | 30,889 | 5/5 | 5 | 22 |
+| [Stray](https://psnprofiles.com/guide/14874-stray-trophy-guide) | 3/10 | 7 | 22.45% | 169,812 | 5/5 | 32 | 163 |
 | [South Park: The Fractured But Whole](https://psnprofiles.com/guide/6591-south-park-the-fractured-but-whole-trophy-guide) | 3/10 | 20 | 22.47% | 301,330 | 5/5 | 68 | 369 |
+| [Truck Racer](https://psnprofiles.com/guide/8496-truck-racer-trophy-guide) | 3/10 | 12 | 22.49% | 13,528 | 4/5 | 10 | 8 |
+| [Strange Brigade](https://psnprofiles.com/guide/10260-strange-brigade-trophy-guide) | 3/10 | 30 | 22.51% | 37,867 | 5/5 | 10 | 19 |
+| [Rugby 15](https://psnprofiles.com/guide/5115-rugby-15-trophy-guide) | 3/10 | 6 | 22.57% | 9,411 |  | 0 | 8 |
+| [Legends of War: Patton](https://psnprofiles.com/guide/6989-legends-of-war-patton-trophy-guide) | 3/10 | 12 | 22.64% | 10,963 |  | 0 | 19 |
 | [Hogwarts Legacy](https://psnprofiles.com/guide/16103-hogwarts-legacy-trophy-guide) | 3/10 | 50 | 22.82% | 391,074 | 5/5 | 83 | 442 |
 | [Assassin's Creed II](https://psnprofiles.com/guide/208-assassins-creed-ii-trophy-guide) | 3/10 | 20 | 22.92% | 372,202 | 5/5 | 47 | 538 |
+| [The Deadly Tower of Monsters](https://psnprofiles.com/guide/3845-the-deadly-tower-of-monsters-trophy-guide) | 3/10 | 7 | 22.96% | 47,996 | 5/5 | 51 | 135 |
+| [Alex Kidd in Miracle World DX](https://psnprofiles.com/guide/14372-alex-kidd-in-miracle-world-dx-trophy-guide) | 3/10 | 5 | 22.99% | 47,355 | 4/5 | 5 | 32 |
+| [Bridge Constructor Portal](https://psnprofiles.com/guide/14540-bridge-constructor-portal-trophy-guide) | 3/10 | 15 | 22.99% | 12,311 |  | 0 | 10 |
+| [Yonder: The Cloud Catcher Chronicles](https://psnprofiles.com/guide/6389-yonder-the-cloud-catcher-chronicles-trophy-guide) | 3/10 | 25 | 23.20% | 27,943 | 5/5 | 5 | 40 |
+| [Sifu](https://psnprofiles.com/guide/14190-sifu-trophy-guide) | 3/10 | 15 | 23.23% | 235,969 | 5/5 | 17 | 243 |
+| [Welcome to Hanwell](https://psnprofiles.com/guide/12717-welcome-to-hanwell-trophy-guide) | 3/10 | 10 | 23.27% | 14,549 |  | 0 | 7 |
+| [Tekken 7](https://psnprofiles.com/guide/6092-tekken-7-trophy-guide) | 3/10 | 10 | 23.35% | 205,970 | 4/5 | 69 | 181 |
+| [Ghostwire: Tokyo](https://psnprofiles.com/guide/14788-ghostwire-tokyo-trophy-guide) | 3/10 | 40 | 23.38% | 171,692 | 5/5 | 29 | 172 |
+| [Mass Effect](https://psnprofiles.com/guide/12222-mass-effect-trophy-guide) | 3/10 | 20 | 23.45% | 176,766 | 5/5 | 38 | 192 |
+| [Dave the Diver](https://psnprofiles.com/guide/19514-dave-the-diver-trophy-guide) | 3/10 | 40 | 23.50% | 36,120 | 5/5 | 17 | 81 |
+| [Castlevania Advance Collection](https://psnprofiles.com/guide/13115-castlevania-advance-collection-trophy-guide) | 3/10 | 25 | 23.52% | 76,536 | 5/5 | 18 | 55 |
+| [God of War II](https://psnprofiles.com/guide/3562-god-of-war-ii-trophy-guide) | 3/10 | 12 | 23.54% | 169,934 | 5/5 | 44 | 273 |
+| [Goat Simulator 3](https://psnprofiles.com/guide/15561-goat-simulator-3-trophy-guide) | 3/10 | 25 | 23.63% | 80,498 | 5/5 | 19 | 44 |
+| [Owlboy](https://psnprofiles.com/guide/10293-owlboy-trophy-guide) | 3/10 | 10 | 23.66% | 23,350 | 5/5 | 5 | 35 |
+| [LEGO Batman 2: DC Super Heroes](https://psnprofiles.com/guide/4946-lego-batman-2-dc-super-heroes-trophy-guide) | 3/10 | 20 | 23.74% | 44,502 | 5/5 | 8 | 48 |
 | [Final Fantasy VII](https://psnprofiles.com/guide/3661-final-fantasy-vii-trophy-guide) | 3/10 | 40 | 23.87% | 459,925 | 4/5 | 93 | 472 |
+| [Star Wars: Republic Commando](https://psnprofiles.com/guide/11984-star-wars-republic-commando-trophy-guide) | 3/10 | 15 | 23.97% | 51,824 | 5/5 | 11 | 77 |
+| [Defense Grid 2](https://psnprofiles.com/guide/2566-defense-grid-2-trophy-guide) | 3/10 | 25 | 24.01% | 27,480 | 5/5 | 7 | 32 |
+| [Final Fantasy XVI](https://psnprofiles.com/guide/17065-final-fantasy-xvi-trophy-guide) | 3/10 | 75 | 24.06% | 240,078 | 5/5 | 98 | 215 |
+| [Crystar](https://psnprofiles.com/guide/14958-crystar-trophy-guide) | 3/10 | 40 | 24.11% | 11,951 | 5/5 | 5 | 20 |
+| [Anno: Mutationem](https://psnprofiles.com/guide/15657-anno-mutationem-trophy-guide) | 3/10 | 15 | 24.20% | 20,953 |  | 0 | 26 |
 | [Assassin's Creed Origins](https://psnprofiles.com/guide/6626-assassins-creed-origins-trophy-guide) | 3/10 | 50 | 24.20% | 483,075 | 5/5 | 126 | 737 |
+| [Indivisible](https://psnprofiles.com/guide/11155-indivisible-trophy-guide) | 3/10 | 25 | 24.21% | 50,076 | 5/5 | 8 | 43 |
+| [LEGO Movie: The Videogame](https://psnprofiles.com/guide/4559-lego-movie-the-videogame-trophy-guide) | 3/10 | 15 | 24.24% | 36,847 | 4/5 | 7 | 70 |
+| [LEGO Marvel Super Heroes: Universe in Peril](https://psnprofiles.com/guide/1409-lego-marvel-super-heroes-universe-in-peril-trophy-guide) | 3/10 | 15 | 24.40% | 35,397 | 4/5 | 16 | 51 |
+| [Centipede: Recharged](https://psnprofiles.com/guide/16089-centipede-recharged-trophy-guide) | 3/10 | 3 | 24.43% | 2,144 |  | 0 | 4 |
+| [35MM](https://psnprofiles.com/guide/14110-35mm-trophy-guide) | 3/10 | 8 | 24.52% | 12,052 |  | 0 | 7 |
+| [Shredders](https://psnprofiles.com/guide/15662-shredders-trophy-guide) | 3/10 | 10 | 24.58% | 9,421 |  | 0 | 12 |
+| [Cult of the Lamb](https://psnprofiles.com/guide/14999-cult-of-the-lamb-trophy-guide) | 3/10 | 15 | 24.60% | 148,006 | 4/5 | 35 | 146 |
+| [Kamiko](https://psnprofiles.com/guide/17876-kamiko-trophy-guide) | 3/10 | 3 | 24.64% | 1,754 |  | 0 | 6 |
+| [Dex](https://psnprofiles.com/guide/8089-dex-trophy-guide) | 3/10 | 15 | 24.70% | 14,118 |  | 0 | 23 |
+| [SpongeBob SquarePants: Battle for Bikini Bottom](https://psnprofiles.com/guide/10416-spongebob-squarepants-battle-for-bikini-bottom-trophy-guide) | 3/10 | 10 | 24.73% | 69,307 | 4/5 | 50 | 119 |
+| [SpongeBob SquarePants: Battle for Bikini Bottom](https://psnprofiles.com/guide/10421-spongebob-squarepants-battle-for-bikini-bottom-trophy-guide) | 3/10 | 14 | 24.73% | 201,264 | 4/5 | 55 | 191 |
 | [Final Fantasy XV](https://psnprofiles.com/guide/5390-final-fantasy-xv-trophy-guide) | 3/10 | 80 | 24.76% | 347,889 | 5/5 | 54 | 634 |
+| [Lost in Random](https://psnprofiles.com/guide/12996-lost-in-random-trophy-guide) | 3/10 | 15 | 24.81% | 63,961 | 4/5 | 13 | 40 |
+| [Escape from Life Inc](https://psnprofiles.com/guide/14991-escape-from-life-inc-trophy-guide) | 3/10 | 4 | 25.00% | 2,141 |  | 0 | 4 |
+| [Wintermoor Tactics Club](https://psnprofiles.com/guide/13546-wintermoor-tactics-club-trophy-guide) | 3/10 | 20 | 25.00% | 5,683 |  | 0 | 2 |
+| [DreadOut 2](https://psnprofiles.com/guide/14995-dreadout-2-trophy-guide) | 3/10 | 7 | 25.04% | 8,093 |  | 0 | 7 |
+| [InnerSpace](https://psnprofiles.com/guide/6965-innerspace-trophy-guide) | 3/10 | 5 | 25.09% | 14,484 |  | 0 | 27 |
+| [Crysis](https://psnprofiles.com/guide/1504-crysis-trophy-guide) | 3/10 | 10 | 25.16% | 116,248 | 5/5 | 13 | 125 |
+| [Far Cry: New Dawn](https://psnprofiles.com/guide/8377-far-cry-new-dawn-trophy-guide) | 3/10 | 20 | 25.19% | 197,746 | 5/5 | 41 | 227 |
+| [Far Cry Primal](https://psnprofiles.com/guide/4003-far-cry-primal-trophy-guide) | 3/10 | 24 | 25.21% | 218,267 | 5/5 | 70 | 385 |
+| [Stranger Things 3](https://psnprofiles.com/guide/8846-stranger-things-3-trophy-guide) | 3/10 | 12 | 25.23% | 24,328 | 4/5 | 5 | 24 |
+| [El Hijo](https://psnprofiles.com/guide/15755-el-hijo-trophy-guide) | 3/10 | 18 | 25.29% | 10,307 |  | 0 | 6 |
+| [CASE: Animatronics](https://psnprofiles.com/guide/13109-case-animatronics-trophy-guide) | 3/10 | 1 | 25.32% | 6,241 |  | 0 | 4 |
+| [Sakuna: Of Rice and Ruin](https://psnprofiles.com/guide/19148-sakuna-of-rice-and-ruin-trophy-guide) | 3/10 | 30 | 25.32% | 3,365 |  | 0 | 20 |
+| [Chernobylite](https://psnprofiles.com/guide/16150-chernobylite-trophy-guide) | 3/10 | 20 | 25.66% | 15,915 |  | 0 | 29 |
+| [Immortals Fenyx Rising](https://psnprofiles.com/guide/11374-immortals-fenyx-rising-trophy-guide) | 3/10 | 40 | 25.80% | 265,856 | 5/5 | 40 | 284 |
+| [Mary Skelter: Nightmares](https://psnprofiles.com/guide/6994-mary-skelter-nightmares-trophy-guide) | 3/10 | 45 | 25.86% | 57,660 |  | 0 | 46 |
+| [Thronebreaker: The Witcher Tales](https://psnprofiles.com/guide/13498-thronebreaker-the-witcher-tales-trophy-guide) | 3/10 | 35 | 25.94% | 38,916 | 4/5 | 17 | 36 |
+| [Jak and Daxter: The Lost Frontier](https://psnprofiles.com/guide/19165-jak-and-daxter-the-lost-frontier-trophy-guide) | 3/10 | 7 | 25.95% | 2,733 |  | 0 | 7 |
+| [Outriders](https://psnprofiles.com/guide/12005-outriders-trophy-guide) | 3/10 | 40 | 26.01% | 85,152 | 5/5 | 12 | 74 |
+| [Aragami 2](https://psnprofiles.com/guide/17624-aragami-2-trophy-guide) | 3/10 | 25 | 26.03% | 6,694 |  | 0 | 16 |
+| [Demon Gaze II](https://psnprofiles.com/guide/7492-demon-gaze-ii-trophy-guide) | 3/10 | 35 | 26.06% | 30,708 | 5/5 | 6 | 26 |
+| [Super Neptunia RPG](https://psnprofiles.com/guide/10601-super-neptunia-rpg-trophy-guide) | 3/10 | 40 | 26.09% | 31,797 | 4/5 | 7 | 23 |
+| [Going Under](https://psnprofiles.com/guide/13517-going-under-trophy-guide) | 3/10 | 15 | 26.13% | 15,554 | 5/5 | 5 | 15 |
+| [Adventures of Mana](https://psnprofiles.com/guide/5000-adventures-of-mana-trophy-guide) | 3/10 | 21 | 26.20% | 35,181 | 5/5 | 16 | 57 |
+| [inFamous: Second Son](https://psnprofiles.com/guide/14079-infamous-second-son-trophy-guide) | 3/10 | 20 | 26.27% | 28,851 | 5/5 | 30 | 61 |
 | [inFamous: Second Son](https://psnprofiles.com/guide/454-infamous-second-son-trophy-guide) | 3/10 | 20 | 26.27% | 314,822 | 5/5 | 141 | 703 |
 | [The Last of Us Part II](https://psnprofiles.com/guide/10411-the-last-of-us-part-ii-trophy-guide) | 3/10 | 35 | 26.32% | 443,446 | 5/5 | 159 | 590 |
+| [涼宮ハルヒの追想](https://psnprofiles.com/guide/2053-%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E8%BF%BD%E6%83%B3-trophy-guide) | 3/10 | 25 | 26.38% | 2,234 |  | 0 | 8 |
+| [Hot Shots Golf](https://psnprofiles.com/guide/14936-hot-shots-golf-trophy-guide) | 3/10 | 15 | 26.42% | 20,864 |  | 0 | 18 |
+| [The Council](https://psnprofiles.com/guide/10303-the-council-trophy-guide) | 3/10 | 18 | 26.61% | 46,222 | 5/5 | 14 | 48 |
+| [XBlaze Code: Embryo](https://psnprofiles.com/guide/1150-xblaze-code-embryo-trophy-guide) | 3/10 | 20 | 26.71% | 21,533 | 4/5 | 8 | 38 |
+| [Happy's Humble Burger Farm](https://psnprofiles.com/guide/15795-happys-humble-burger-farm-trophy-guide) | 3/10 | 9 | 26.91% | 9,856 |  | 0 | 7 |
+| [DreamWorks Super Star Kartz](https://psnprofiles.com/guide/880-dreamworks-super-star-kartz-trophy-guide) | 3/10 | 12 | 27.09% | 7,393 |  | 0 | 6 |
 | [Assassin's Creed Odyssey](https://psnprofiles.com/guide/8002-assassins-creed-odyssey-trophy-guide) | 3/10 | 70 | 27.09% | 542,884 | 5/5 | 126 | 724 |
+| [Puella Magi Madoka Magica: The Battle Pentagram](https://psnprofiles.com/guide/4796-puella-magi-madoka-magica-the-battle-pentagram-trophy-guide) | 3/10 | 35 | 27.16% | 7,967 |  | 0 | 22 |
+| [Battleship](https://psnprofiles.com/guide/6039-battleship-trophy-guide) | 3/10 | 10 | 27.18% | 9,664 |  | 0 | 13 |
+| [アイドルマスター　スターリットシーズン](https://psnprofiles.com/guide/13139-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%83%E3%83%88%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3-trophy-guide) | 3/10 | 75 | 27.21% | 2,989 |  | 0 | 6 |
+| [Death Tales](https://psnprofiles.com/guide/11771-death-tales-trophy-guide) | 3/10 | 7 | 27.25% | 8,038 |  | 0 | 1 |
+| [Dishonored: Death of the Outsider](https://psnprofiles.com/guide/6484-dishonored-death-of-the-outsider-trophy-guide) | 3/10 | 10 | 27.30% | 81,307 | 4/5 | 27 | 112 |
+| [Stray](https://psnprofiles.com/guide/14877-stray-trophy-guide) | 3/10 | 8 | 27.35% | 199,872 | 5/5 | 80 | 275 |
+| [Nelke & the Legendary Alchemists: Ateliers of the New World](https://psnprofiles.com/guide/12532-nelke-the-legendary-alchemists-ateliers-of-the-new-world-trophy-guide) | 3/10 | 60 | 27.43% | 13,638 |  | 0 | 12 |
+| [龍が如く6 命の詩](https://psnprofiles.com/guide/6440-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F6-%E5%91%BD%E3%81%AE%E8%A9%A9-trophy-guide) | 3/10 | 40 | 27.58% | 169,731 |  | 0 | 80 |
+| [The House of the Dead: Remake](https://psnprofiles.com/guide/14342-the-house-of-the-dead-remake-trophy-guide) | 3/10 | 7 | 27.71% | 46,515 | 5/5 | 5 | 19 |
 | [Horizon Zero Dawn](https://psnprofiles.com/guide/5810-horizon-zero-dawn-trophy-guide) | 3/10 | 40 | 27.83% | 814,836 | 5/5 | 324 | 1,590 |
+| [High on Life](https://psnprofiles.com/guide/17211-high-on-life-trophy-guide) | 3/10 | 12 | 28.12% | 75,127 | 5/5 | 12 | 61 |
+| [It Takes Two](https://psnprofiles.com/guide/14366-it-takes-two-trophy-guide) | 3/10 | 15 | 28.57% | 240,544 | 5/5 | 41 | 157 |
+| [South Park: Snow Day!](https://psnprofiles.com/guide/19713-south-park-snow-day-trophy-guide) | 3/10 | 8 | 28.59% | 757 |  | 0 | 2 |
+| [Madagascar Kartz](https://psnprofiles.com/guide/14942-madagascar-kartz-trophy-guide) | 3/10 | 7 | 28.82% | 5,222 |  | 0 | 7 |
+| [Persona 3 Reload](https://psnprofiles.com/guide/18798-persona-3-reload-trophy-guide) | 3/10 | 60 | 28.87% | 122,325 |  | 0 | 36 |
 | [NieR: Automata](https://psnprofiles.com/guide/5884-nier-automata-trophy-guide) | 3/10 | 60 | 29.04% | 425,653 | 5/5 | 106 | 488 |
 | [Marvel's Guardians of the Galaxy](https://psnprofiles.com/guide/13221-marvels-guardians-of-the-galaxy-trophy-guide) | 3/10 | 20 | 29.05% | 388,352 | 4/5 | 79 | 492 |
+| [A Hat in Time](https://psnprofiles.com/guide/6802-a-hat-in-time-trophy-guide) | 3/10 | 20 | 29.26% | 96,420 | 5/5 | 19 | 107 |
+| [Death end re;Quest 2](https://psnprofiles.com/guide/17535-death-end-request-2-trophy-guide) | 3/10 | 30 | 29.34% | 3,308 |  | 0 | 6 |
+| [Trover Saves The Universe](https://psnprofiles.com/guide/10021-trover-saves-the-universe-trophy-guide) | 3/10 | 10 | 29.35% | 33,170 | 5/5 | 10 | 26 |
+| [Blue Reflection: Second Light](https://psnprofiles.com/guide/13301-blue-reflection-second-light-trophy-guide) | 3/10 | 50 | 29.46% | 27,023 | 5/5 | 10 | 19 |
+| [Cosmic Star Heroine](https://psnprofiles.com/guide/6741-cosmic-star-heroine-trophy-guide) | 3/10 | 15 | 29.79% | 40,685 | 5/5 | 15 | 65 |
+| [Ratchet & Clank: Into the Nexus](https://psnprofiles.com/guide/1862-ratchet-clank-into-the-nexus-trophy-guide) | 3/10 | 20 | 29.82% | 77,062 | 5/5 | 24 | 126 |
+| [Demon's Tier+](https://psnprofiles.com/guide/18331-demons-tier-trophy-guide) | 3/10 | 8 | 30.08% | 2,729 |  | 0 | 3 |
+| [Final Fantasy VIII](https://psnprofiles.com/guide/9066-final-fantasy-viii-trophy-guide) | 3/10 | 45 | 30.08% | 263,381 | 4/5 | 94 | 183 |
+| [Senran Kagura Estival Versus](https://psnprofiles.com/guide/4120-senran-kagura-estival-versus-trophy-guide) | 3/10 | 30 | 30.52% | 59,433 | 5/5 | 23 | 104 |
+| [Heavy Fire: Afghanistan](https://psnprofiles.com/guide/2793-heavy-fire-afghanistan-trophy-guide) | 3/10 | 5 | 30.79% | 14,456 | 5/5 | 5 | 16 |
+| [Jurassic: The Hunted](https://psnprofiles.com/guide/10472-jurassic-the-hunted-trophy-guide) | 3/10 | 7 | 31.04% | 8,001 |  | 0 | 11 |
+| [Dragon Ball Z: Kakarot](https://psnprofiles.com/guide/13706-dragon-ball-z-kakarot-trophy-guide) | 3/10 | 40 | 31.32% | 158,542 | 4/5 | 31 | 144 |
+| [Star Wars: Battlefront Classic Collection](https://psnprofiles.com/guide/19057-star-wars-battlefront-classic-collection-trophy-guide) | 3/10 | 15 | 31.41% | 16,649 |  | 0 | 22 |
+| [Kona](https://psnprofiles.com/guide/6590-kona-trophy-guide) | 3/10 | 10 | 31.42% | 65,759 | 4/5 | 18 | 77 |
+| [Shadwen](https://psnprofiles.com/guide/6641-shadwen-trophy-guide) | 3/10 | 15 | 31.47% | 12,774 | 5/5 | 10 | 21 |
+| [VA-11 Hall-A](https://psnprofiles.com/guide/9120-va-11-hall-a-trophy-guide) | 3/10 | 2 | 31.57% | 33,800 | 4/5 | 17 | 39 |
+| [The Medium](https://psnprofiles.com/guide/14968-the-medium-trophy-guide) | 3/10 | 10 | 31.71% | 73,147 | 3/5 | 21 | 82 |
+| [After Us](https://psnprofiles.com/guide/18096-after-us-trophy-guide) | 3/10 | 10 | 31.76% | 7,205 |  | 0 | 13 |
+| [Theatrhythm: Final Bar Line](https://psnprofiles.com/guide/16168-theatrhythm-final-bar-line-trophy-guide) | 3/10 | 45 | 31.81% | 21,191 | 4/5 | 18 | 20 |
+| [Sonic Frontiers](https://psnprofiles.com/guide/15829-sonic-frontiers-trophy-guide) | 3/10 | 25 | 32.01% | 11,787 |  | 0 | 25 |
+| [Resident Evil 3](https://psnprofiles.com/guide/9983-resident-evil-3-trophy-guide) | 3/10 | 20 | 32.05% | 94,514 | 5/5 | 40 | 190 |
+| [BDSM: Big Drunk Satanic Massacre](https://psnprofiles.com/guide/16699-bdsm-big-drunk-satanic-massacre-trophy-guide) | 3/10 | 4 | 32.09% | 4,409 |  | 0 | 9 |
+| [F.I.S.T.: Forged In Shadow Torch](https://psnprofiles.com/guide/13258-fist-forged-in-shadow-torch-trophy-guide) | 3/10 | 20 | 32.26% | 52,281 | 4/5 | 10 | 37 |
+| [Atelier Ryza 2: Lost Legends & the Secret Fairy](https://psnprofiles.com/guide/17249-atelier-ryza-2-lost-legends-the-secret-fairy-trophy-guide) | 3/10 | 60 | 33.03% | 8,838 |  | 0 | 17 |
+| [MediEvil Remake](https://psnprofiles.com/guide/10973-medievil-remake-trophy-guide) | 3/10 | 15 | 33.05% | 152,989 | 5/5 | 49 | 183 |
+| [Star Wars Jedi: Survivor](https://psnprofiles.com/guide/16676-star-wars-jedi-survivor-trophy-guide) | 3/10 | 50 | 33.06% | 270,990 | 5/5 | 59 | 226 |
+| [Shenmue](https://psnprofiles.com/guide/7739-shenmue-trophy-guide) | 3/10 | 14 | 33.22% | 101,358 | 5/5 | 30 | 109 |
+| [Spyro 3: Year of the Dragon](https://psnprofiles.com/guide/8036-spyro-3-year-of-the-dragon-trophy-guide) | 3/10 | 7 | 33.23% | 126,645 | 5/5 | 47 | 214 |
+| [Atelier Sophie: The Alchemist of the Mysterious Book DX](https://psnprofiles.com/guide/12070-atelier-sophie-the-alchemist-of-the-mysterious-book-dx-trophy-guide) | 3/10 | 40 | 33.33% | 21,266 |  | 0 | 19 |
+| [Narita Boy](https://psnprofiles.com/guide/12019-narita-boy-trophy-guide) | 3/10 | 8 | 33.53% | 25,847 | 5/5 | 6 | 21 |
+| [God of War: Chains of Olympus](https://psnprofiles.com/guide/2031-god-of-war-chains-of-olympus-trophy-guide) | 3/10 | 10 | 33.55% | 99,587 | 4/5 | 55 | 173 |
+| [Assassin's Creed II](https://psnprofiles.com/guide/18569-assassins-creed-ii-trophy-guide) | 3/10 | 30 | 33.79% | 11,568 | 5/5 | 17 | 49 |
+| [Rainbow Billy: The Curse of the Leviathan](https://psnprofiles.com/guide/15843-rainbow-billy-the-curse-of-the-leviathan-trophy-guide) | 3/10 | 20 | 33.99% | 8,868 |  | 0 | 5 |
+| [Astro Aqua Kitty](https://psnprofiles.com/guide/17968-astro-aqua-kitty-trophy-guide) | 3/10 | 8 | 34.02% | 1,866 |  | 0 | 3 |
+| [The Mummy Demastered](https://psnprofiles.com/guide/7034-the-mummy-demastered-trophy-guide) | 3/10 | 5 | 34.16% | 21,554 | 4/5 | 5 | 21 |
+| [The Order: 1886](https://psnprofiles.com/guide/2435-the-order-1886-trophy-guide) | 3/10 | 10 | 34.30% | 164,888 | 5/5 | 123 | 432 |
+| [God of War: Ghost of Sparta](https://psnprofiles.com/guide/1927-god-of-war-ghost-of-sparta-trophy-guide) | 3/10 | 15 | 34.32% | 108,249 | 5/5 | 50 | 166 |
+| [Dead Island 2](https://psnprofiles.com/guide/16604-dead-island-2-trophy-guide) | 3/10 | 20 | 34.46% | 69,089 | 4/5 | 12 | 67 |
+| [Ratchet & Clank 2: Going Commando](https://psnprofiles.com/guide/30-ratchet-clank-2-going-commando-trophy-guide) | 3/10 | 15 | 34.49% | 109,820 | 4/5 | 37 | 187 |
+| [Atelier Ryza: Ever Darkness & the Secret Hideout](https://psnprofiles.com/guide/9294-atelier-ryza-ever-darkness-the-secret-hideout-trophy-guide) | 3/10 | 40 | 34.49% | 125,954 | 5/5 | 26 | 81 |
+| [Speed Crew](https://psnprofiles.com/guide/18949-speed-crew-trophy-guide) | 3/10 | 8 | 34.65% | 1,465 |  | 0 | 7 |
+| [Ratchet & Clank 3: Up Your Arsenal](https://psnprofiles.com/guide/3548-ratchet-clank-3-up-your-arsenal-trophy-guide) | 3/10 | 20 | 34.67% | 97,069 | 5/5 | 31 | 143 |
+| [Star Trek Prodigy: Supernova](https://psnprofiles.com/guide/15616-star-trek-prodigy-supernova-trophy-guide) | 3/10 | 15 | 34.72% | 8,383 |  | 0 | 8 |
+| [Rally Cross](https://psnprofiles.com/guide/18867-rally-cross-trophy-guide) | 3/10 | 5 | 34.74% | 5,051 |  | 0 | 11 |
+| [SwapQuest](https://psnprofiles.com/guide/3981-swapquest-trophy-guide) | 3/10 | 8 | 34.86% | 9,245 | 4/5 | 5 | 15 |
+| [Sherlock Holmes: Chapter One](https://psnprofiles.com/guide/14583-sherlock-holmes-chapter-one-trophy-guide) | 3/10 | 25 | 35.05% | 36,557 | 5/5 | 5 | 35 |
+| [The Caligula Effect 2](https://psnprofiles.com/guide/14478-the-caligula-effect-2-trophy-guide) | 3/10 | 40 | 35.12% | 16,592 | 5/5 | 5 | 13 |
+| [Shadow Warrior 3](https://psnprofiles.com/guide/14369-shadow-warrior-3-trophy-guide) | 3/10 | 8 | 35.17% | 13,429 | 4/5 | 6 | 20 |
+| [Oceanhorn 2: Knights of the Lost Realm](https://psnprofiles.com/guide/17324-oceanhorn-2-knights-of-the-lost-realm-trophy-guide) | 3/10 | 15 | 35.23% | 9,880 |  | 0 | 14 |
+| [Spyro 2: Ripto's Rage!](https://psnprofiles.com/guide/8055-spyro-2-riptos-rage-trophy-guide) | 3/10 | 8 | 35.24% | 153,299 | 5/5 | 70 | 227 |
+| [Twin Breaker: A Sacred Symbols Adventure](https://psnprofiles.com/guide/9882-twin-breaker-a-sacred-symbols-adventure-trophy-guide) | 3/10 | 8 | 35.33% | 22,174 | 5/5 | 10 | 13 |
+| [Far Cry 3: Classic Edition](https://psnprofiles.com/guide/7519-far-cry-3-classic-edition-trophy-guide) | 3/10 | 20 | 35.41% | 259,078 | 5/5 | 75 | 343 |
+| [Oceanhorn: Monster of Uncharted Seas](https://psnprofiles.com/guide/7136-oceanhorn-monster-of-uncharted-seas-trophy-guide) | 3/10 | 11 | 35.60% | 35,760 | 4/5 | 9 | 42 |
+| [Dredge](https://psnprofiles.com/guide/16657-dredge-trophy-guide) | 3/10 | 20 | 35.70% | 97,426 | 5/5 | 27 | 109 |
+| [LEGO Harry Potter Collection: Years 5-7](https://psnprofiles.com/guide/7183-lego-harry-potter-collection-years-5-7-trophy-guide) | 3/10 | 20 | 35.91% | 133,157 | 4/5 | 37 | 198 |
+| [Metal: Hellsinger](https://psnprofiles.com/guide/18363-metal-hellsinger-trophy-guide) | 3/10 | 5 | 35.94% | 20,964 | 5/5 | 11 | 40 |
+| [Wytchwood](https://psnprofiles.com/guide/14238-wytchwood-trophy-guide) | 3/10 | 10 | 36.06% | 21,707 | 4/5 | 11 | 31 |
+| [Game Tengoku CruisinMix](https://psnprofiles.com/guide/12225-game-tengoku-cruisinmix-trophy-guide) | 3/10 | 5 | 36.17% | 3,552 |  | 0 | 5 |
+| [Persona 4: Dancing All Night](https://psnprofiles.com/guide/3376-persona-4-dancing-all-night-trophy-guide) | 3/10 | 15 | 36.18% | 136,241 | 5/5 | 29 | 138 |
+| [Virtue's Last Reward](https://psnprofiles.com/guide/4797-virtues-last-reward-trophy-guide) | 3/10 | 30 | 36.36% | 29,290 |  | 0 | 32 |
+| [Scars Above](https://psnprofiles.com/guide/16422-scars-above-trophy-guide) | 3/10 | 8 | 36.45% | 28,476 | 4/5 | 7 | 20 |
+| [Kitaria Fables](https://psnprofiles.com/guide/12899-kitaria-fables-trophy-guide) | 3/10 | 25 | 36.55% | 21,463 |  | 0 | 25 |
+| [Gravel](https://psnprofiles.com/guide/10914-gravel-trophy-guide) | 3/10 | 15 | 36.61% | 29,380 | 5/5 | 11 | 16 |
+| [Ratchet: Deadlocked](https://psnprofiles.com/guide/6747-ratchet-deadlocked-trophy-guide) | 3/10 | 20 | 36.63% | 62,619 | 3/5 | 26 | 62 |
+| [Concrete Genie](https://psnprofiles.com/guide/10335-concrete-genie-trophy-guide) | 3/10 | 8 | 36.94% | 204,213 | 5/5 | 66 | 242 |
+| [Final Fantasy XV Pocket Edition HD](https://psnprofiles.com/guide/9247-final-fantasy-xv-pocket-edition-hd-trophy-guide) | 3/10 | 20 | 37.12% | 46,787 | 4/5 | 14 | 43 |
+| [Paper Trail](https://psnprofiles.com/guide/19580-paper-trail-trophy-guide) | 3/10 | 8 | 37.25% | 993 |  | 0 | 2 |
+| [Killzone: Liberation](https://psnprofiles.com/guide/17444-killzone-liberation-trophy-guide) | 3/10 | 7 | 37.40% | 19,373 |  | 0 | 27 |
+| [Shakedown: Hawaii](https://psnprofiles.com/guide/12359-shakedown-hawaii-trophy-guide) | 3/10 | 13 | 37.48% | 15,281 | 4/5 | 6 | 12 |
+| [Under Night In-Birth II Sys:Celes](https://psnprofiles.com/guide/18606-under-night-in-birth-ii-sysceles-trophy-guide) | 3/10 | 5 | 37.50% | 2,521 |  | 0 | 8 |
 | [Ghost of Tsushima](https://psnprofiles.com/guide/10531-ghost-of-tsushima-trophy-guide) | 3/10 | 50 | 37.65% | 819,381 | 5/5 | 187 | 1,114 |
+| [Ghost of Tsushima](https://psnprofiles.com/guide/12231-ghost-of-tsushima-trophy-guide) | 3/10 | 55 | 37.65% | 127,453 | 5/5 | 73 | 244 |
+| [Slipstream](https://psnprofiles.com/guide/16165-slipstream-trophy-guide) | 3/10 | 5 | 37.85% | 4,566 | 5/5 | 6 | 9 |
+| [The Walking Dead: The Final Season](https://psnprofiles.com/guide/17133-the-walking-dead-the-final-season-trophy-guide) | 3/10 | 9 | 37.89% | 10,515 | 5/5 | 5 | 15 |
 | [Marvel's Spider-Man: Miles Morales](https://psnprofiles.com/guide/11179-marvels-spider-man-miles-morales-trophy-guide) | 3/10 | 20 | 37.95% | 753,936 | 5/5 | 87 | 704 |
+| [Endling: Extinction is Forever](https://psnprofiles.com/guide/17055-endling-extinction-is-forever-trophy-guide) | 3/10 | 6 | 37.98% | 78,379 | 5/5 | 13 | 89 |
+| [Wife Quest](https://psnprofiles.com/guide/16121-wife-quest-trophy-guide) | 3/10 | 8 | 38.04% | 5,540 |  | 0 | 7 |
+| [Horizon Forbidden West](https://psnprofiles.com/guide/13939-horizon-forbidden-west-trophy-guide) | 3/10 | 35 | 38.30% | 98,189 | 5/5 | 50 | 131 |
+| [SpongeBob SquarePants: The Cosmic Shake](https://psnprofiles.com/guide/16059-spongebob-squarepants-the-cosmic-shake-trophy-guide) | 3/10 | 12 | 38.39% | 76,999 | 5/5 | 12 | 76 |
+| [Miracle Girls Festival](https://psnprofiles.com/guide/4082-miracle-girls-festival-trophy-guide) | 3/10 | 24 | 39.16% | 6,386 | 4/5 | 6 | 16 |
+| [The Assembly](https://psnprofiles.com/guide/6140-the-assembly-trophy-guide) | 3/10 | 5 | 39.33% | 10,121 | 5/5 | 6 | 24 |
+| [Little Nightmares II](https://psnprofiles.com/guide/11759-little-nightmares-ii-trophy-guide) | 3/10 | 6 | 39.63% | 142,342 | 5/5 | 19 | 107 |
+| [Mass Effect 3](https://psnprofiles.com/guide/12255-mass-effect-3-trophy-guide) | 3/10 | 25 | 39.68% | 195,485 | 5/5 | 40 | 130 |
+| [Final Fantasy VI](https://psnprofiles.com/guide/16584-final-fantasy-vi-trophy-guide) | 3/10 | 40 | 40.32% | 70,525 | 5/5 | 50 | 65 |
+| [Bright Memory: Infinite](https://psnprofiles.com/guide/15346-bright-memory-infinite-trophy-guide) | 3/10 | 7 | 40.77% | 22,107 | 5/5 | 5 | 25 |
+| [Nexomon](https://psnprofiles.com/guide/12957-nexomon-trophy-guide) | 3/10 | 25 | 40.89% | 56,300 | 5/5 | 10 | 36 |
+| [Jet Moto 2](https://psnprofiles.com/guide/18917-jet-moto-2-trophy-guide) | 3/10 | 10 | 41.08% | 5,064 |  | 0 | 8 |
+| [Teenage Mutant Ninja Turtles: The Cowabunga Collection](https://psnprofiles.com/guide/15260-teenage-mutant-ninja-turtles-the-cowabunga-collection-trophy-guide) | 3/10 | 2 | 41.29% | 56,391 | 5/5 | 9 | 37 |
+| [Klonoa Phantasy Reverie Series](https://psnprofiles.com/guide/14830-klonoa-phantasy-reverie-series-trophy-guide) | 3/10 | 10 | 41.56% | 45,472 | 5/5 | 5 | 35 |
+| [We Love Katamari Reroll+ Royal Reverie](https://psnprofiles.com/guide/16907-we-love-katamari-reroll-royal-reverie-trophy-guide) | 3/10 | 10 | 41.66% | 23,615 | 5/5 | 7 | 18 |
+| [Mass Effect 2](https://psnprofiles.com/guide/12228-mass-effect-2-trophy-guide) | 3/10 | 25 | 42.05% | 40,244 | 5/5 | 28 | 78 |
+| [Mass Effect 2](https://psnprofiles.com/guide/12262-mass-effect-2-trophy-guide) | 3/10 | 35 | 42.05% | 128,550 | 5/5 | 30 | 81 |
 | [Marvel's Spider-Man](https://psnprofiles.com/guide/7818-marvels-spider-man-trophy-guide) | 3/10 | 25 | 42.17% | 604,513 | 5/5 | 200 | 828 |
+| [Race Arcade](https://psnprofiles.com/guide/7625-race-arcade-trophy-guide) | 3/10 | 12 | 42.36% | 4,559 |  | 0 | 9 |
+| [Kamen Rider: Memory of Heroez](https://psnprofiles.com/guide/11312-kamen-rider-memory-of-heroez-trophy-guide) | 3/10 | 25 | 42.89% | 9,347 |  | 0 | 9 |
+| [Persona 5: Dancing in Starlight](https://psnprofiles.com/guide/10958-persona-5-dancing-in-starlight-trophy-guide) | 3/10 | 10 | 42.97% | 77,304 | 5/5 | 25 | 61 |
+| [Ooops! 2](https://psnprofiles.com/guide/13931-ooops-2-trophy-guide) | 3/10 | 8 | 43.24% | 3,135 |  | 0 | 1 |
+| [Deliver Us Mars](https://psnprofiles.com/guide/19320-deliver-us-mars-trophy-guide) | 3/10 | 10 | 43.28% | 3,227 |  | 0 | 7 |
+| [A Plague Tale: Innocence](https://psnprofiles.com/guide/11730-a-plague-tale-innocence-trophy-guide) | 3/10 | 15 | 43.51% | 59,832 | 4/5 | 21 | 87 |
+| [A Plague Tale: Innocence](https://psnprofiles.com/guide/9822-a-plague-tale-innocence-trophy-guide) | 3/10 | 20 | 43.51% | 259,072 | 5/5 | 40 | 292 |
+| [Minoria](https://psnprofiles.com/guide/16627-minoria-trophy-guide) | 3/10 | 7 | 44.11% | 2,983 |  | 0 | 5 |
+| [Psychonauts 2](https://psnprofiles.com/guide/13752-psychonauts-2-trophy-guide) | 3/10 | 25 | 44.34% | 38,635 | 5/5 | 7 | 35 |
+| [Buried Stars](https://psnprofiles.com/guide/10668-buried-stars-trophy-guide) | 3/10 | 10 | 44.54% | 19,934 |  | 0 | 4 |
+| [Alan Wake II](https://psnprofiles.com/guide/17938-alan-wake-ii-trophy-guide) | 3/10 | 18 | 44.75% | 84,014 | 5/5 | 13 | 107 |
+| [Blood Waves](https://psnprofiles.com/guide/17837-blood-waves-trophy-guide) | 3/10 | 5 | 45.00% | 2,550 |  | 0 | 5 |
+| [Jet Moto](https://psnprofiles.com/guide/18284-jet-moto-trophy-guide) | 3/10 | 10 | 45.01% | 8,914 |  | 0 | 9 |
+| [Mirror 2](https://psnprofiles.com/guide/18258-mirror-2-trophy-guide) | 3/10 | 15 | 45.10% | 2,085 |  | 0 | 1 |
+| [Kawaii Deathu Desu](https://psnprofiles.com/guide/14680-kawaii-deathu-desu-trophy-guide) | 3/10 | 20 | 45.55% | 7,776 |  | 0 | 8 |
+| [Witchcrafty](https://psnprofiles.com/guide/16557-witchcrafty-trophy-guide) | 3/10 | 3 | 45.93% | 2,798 |  | 0 | 7 |
+| [Trigger Witch](https://psnprofiles.com/guide/12586-trigger-witch-trophy-guide) | 3/10 | 10 | 45.93% | 16,770 | 5/5 | 5 | 11 |
+| [GrimGrimoire OnceMore](https://psnprofiles.com/guide/19458-grimgrimoire-oncemore-trophy-guide) | 3/10 | 6 | 46.11% | 1,973 |  | 0 | 10 |
+| [Witchcrafty](https://psnprofiles.com/guide/12772-witchcrafty-trophy-guide) | 3/10 | 4 | 46.13% | 10,494 |  | 0 | 4 |
+| [Carrion](https://psnprofiles.com/guide/13123-carrion-trophy-guide) | 3/10 | 7 | 46.61% | 27,455 | 5/5 | 10 | 27 |
+| [Touhou: New World](https://psnprofiles.com/guide/19115-touhou-new-world-trophy-guide) | 3/10 | 12 | 47.83% | 1,651 |  | 0 | 7 |
+| [イース・メモワール -フェルガナの誓い-](https://psnprofiles.com/guide/19593-%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%A1%E3%83%A2%E3%83%AF%E3%83%BC%E3%83%AB-%E3%83%95%E3%82%A7%E3%83%AB%E3%82%AC%E3%83%8A%E3%81%AE%E8%AA%93%E3%81%84-trophy-guide) | 3/10 | 21 | 47.93% | 1,890 |  | 0 | 3 |
+| [Taco Master](https://psnprofiles.com/guide/3790-taco-master-trophy-guide) | 3/10 | 8 | 48.48% | 11,745 | 4/5 | 9 | 25 |
+| [Rusty Spout Rescue Adventure](https://psnprofiles.com/guide/11933-rusty-spout-rescue-adventure-trophy-guide) | 3/10 | 4 | 48.72% | 2,991 |  | 0 | 3 |
+| [Crash Team Rumble](https://psnprofiles.com/guide/17015-crash-team-rumble-trophy-guide) | 3/10 | 25 | 49.42% | 23,795 | 5/5 | 5 | 14 |
+| [ペルソナ５ ダンシング・スターナイト](https://psnprofiles.com/guide/7476-%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A%EF%BC%95-%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88-trophy-guide) | 3/10 | 8 | 49.63% | 60,578 | 4/5 | 5 | 34 |
+| [Assassin's Creed Mirage](https://psnprofiles.com/guide/17777-assassins-creed-mirage-trophy-guide) | 3/10 | 25 | 49.89% | 148,654 | 5/5 | 35 | 151 |
+| [Teslagrad 2](https://psnprofiles.com/guide/16597-teslagrad-2-trophy-guide) | 3/10 | 5 | 50.16% | 6,656 |  | 0 | 6 |
+| [Black Mirror](https://psnprofiles.com/guide/14924-black-mirror-trophy-guide) | 3/10 | 6 | 50.34% | 24,980 | 4/5 | 11 | 37 |
+| [Effie](https://psnprofiles.com/guide/8721-effie-trophy-guide) | 3/10 | 4 | 50.75% | 9,216 |  | 0 | 14 |
+| [RoboCop: Rogue City](https://psnprofiles.com/guide/17962-robocop-rogue-city-trophy-guide) | 3/10 | 12 | 50.79% | 58,752 | 5/5 | 19 | 57 |
+| [Gorogoa](https://psnprofiles.com/guide/15763-gorogoa-trophy-guide) | 3/10 | 2 | 51.46% | 5,588 |  | 0 | 9 |
+| [Friday the 13th: Killer Puzzle](https://psnprofiles.com/guide/11389-friday-the-13th-killer-puzzle-trophy-guide) | 3/10 | 10 | 52.41% | 20,515 | 4/5 | 8 | 6 |
+| [Vesta](https://psnprofiles.com/guide/6816-vesta-trophy-guide) | 3/10 | 6 | 52.43% | 6,661 |  | 0 | 12 |
+| [Collar×Malice](https://psnprofiles.com/guide/6275-collarmalice-trophy-guide) | 3/10 | 15 | 52.45% | 19,938 | 5/5 | 6 | 20 |
+| [Gnosia](https://psnprofiles.com/guide/18302-gnosia-trophy-guide) | 3/10 | 18 | 53.96% | 5,306 |  | 0 | 12 |
+| [Guns, Gore & Cannoli 2](https://psnprofiles.com/guide/15611-guns-gore-cannoli-2-trophy-guide) | 3/10 | 5 | 54.21% | 6,145 |  | 0 | 10 |
+| [Flavouride](https://psnprofiles.com/guide/15780-flavouride-trophy-guide) | 3/10 | 2 | 55.05% | 1,873 |  | 0 | 1 |
+| [Final Fantasy V](https://psnprofiles.com/guide/16582-final-fantasy-v-trophy-guide) | 3/10 | 60 | 56.93% | 49,910 | 5/5 | 63 | 49 |
+| [Senses: Midnight](https://psnprofiles.com/guide/16936-senses-midnight-trophy-guide) | 3/10 | 3 | 57.58% | 3,408 |  | 0 | 4 |
+| [Bunny Raiders](https://psnprofiles.com/guide/13866-bunny-raiders-trophy-guide) | 3/10 | 6 | 57.73% | 16,814 | 4/5 | 8 | 11 |
+| [Like a Dragon Gaiden: The Man Who Erased His Name](https://psnprofiles.com/guide/18534-like-a-dragon-gaiden-the-man-who-erased-his-name-trophy-guide) | 3/10 | 25 | 58.11% | 17,022 | 4/5 | 8 | 29 |
+| [Marsupilami: Hoobadventure](https://psnprofiles.com/guide/15564-marsupilami-hoobadventure-trophy-guide) | 3/10 | 6 | 59.24% | 10,319 |  | 0 | 10 |
+| [Unknown Fate](https://psnprofiles.com/guide/9560-unknown-fate-trophy-guide) | 3/10 | 3 | 59.52% | 2,011 |  | 0 | 6 |
+| [Wukong](https://psnprofiles.com/guide/15954-wukong-trophy-guide) | 3/10 | 4 | 59.75% | 6,432 |  | 0 | 6 |
+| [Creaks](https://psnprofiles.com/guide/10961-creaks-trophy-guide) | 3/10 | 5 | 60.00% | 20,791 |  | 0 | 14 |
+| [Aerial Knight's Never Yield](https://psnprofiles.com/guide/13835-aerial-knights-never-yield-trophy-guide) | 3/10 | 2 | 60.31% | 8,120 |  | 0 | 4 |
+| [The Coma: Recut](https://psnprofiles.com/guide/6928-the-coma-recut-trophy-guide) | 3/10 | 4 | 61.67% | 10,011 |  | 0 | 19 |
+| [Babylon's Fall](https://psnprofiles.com/guide/15909-babylons-fall-trophy-guide) | 3/10 | 35 | 62.18% | 8,964 |  | 0 | 4 |
+| [I Am The Hero](https://psnprofiles.com/guide/8046-i-am-the-hero-trophy-guide) | 3/10 | 2 | 62.60% | 28,428 |  | 0 | 24 |
+| [Light Fairytale: Episode 2](https://psnprofiles.com/guide/14500-light-fairytale-episode-2-trophy-guide) | 3/10 | 6 | 63.33% | 5,632 |  | 0 | 5 |
+| [Pachi Pachi: On a Roll](https://psnprofiles.com/guide/11937-pachi-pachi-on-a-roll-trophy-guide) | 3/10 | 3 | 63.97% | 9,854 |  | 0 | 3 |
+| [Final Fantasy IV](https://psnprofiles.com/guide/16580-final-fantasy-iv-trophy-guide) | 3/10 | 30 | 64.42% | 55,465 | 5/5 | 52 | 46 |
+| [Riverbond](https://psnprofiles.com/guide/14964-riverbond-trophy-guide) | 3/10 | 8 | 64.86% | 4,873 |  | 0 | 5 |
+| [Marfusha](https://psnprofiles.com/guide/16478-marfusha-trophy-guide) | 3/10 | 4 | 65.88% | 5,369 | 5/5 | 5 | 10 |
+| [Bloodbath](https://psnprofiles.com/guide/3189-bloodbath-trophy-guide) | 3/10 | 6 | 66.33% | 4,829 |  | 0 | 5 |
+| [Demetrios](https://psnprofiles.com/guide/6366-demetrios-trophy-guide) | 3/10 | 5 | 68.58% | 25,696 | 4/5 | 5 | 22 |
+| [Pumpkin Jack](https://psnprofiles.com/guide/13133-pumpkin-jack-trophy-guide) | 3/10 | 6 | 69.40% | 24,427 |  | 0 | 27 |
+| [Stretch](https://psnprofiles.com/guide/9367-stretch-trophy-guide) | 3/10 | 1 | 69.56% | 21,292 |  | 0 | 5 |
+| [Marvel's Spider-Man 2](https://psnprofiles.com/guide/17868-marvels-spider-man-2-trophy-guide) | 3/10 | 25 | 69.65% | 143,473 | 5/5 | 82 | 150 |
+| [Marvel's Spider-Man 2](https://psnprofiles.com/guide/17897-marvels-spider-man-2-trophy-guide) | 3/10 | 30 | 69.65% | 113,510 | 5/5 | 46 | 124 |
+| [Final Fantasy III](https://psnprofiles.com/guide/16578-final-fantasy-iii-trophy-guide) | 3/10 | 20 | 71.54% | 150,284 | 5/5 | 60 | 106 |
+| [Final Fantasy](https://psnprofiles.com/guide/16574-final-fantasy-trophy-guide) | 3/10 | 15 | 72.82% | 92,964 | 5/5 | 75 | 103 |
+| [Cat Quest](https://psnprofiles.com/guide/8490-cat-quest-trophy-guide) | 3/10 | 12 | 73.09% | 90,095 | 4/5 | 30 | 98 |
+| [JackQuest](https://psnprofiles.com/guide/8369-jackquest-trophy-guide) | 3/10 | 2 | 73.32% | 5,637 |  | 0 | 8 |
+| [Shadow of Loot Box](https://psnprofiles.com/guide/7975-shadow-of-loot-box-trophy-guide) | 3/10 | 2 | 74.66% | 24,896 |  | 0 | 8 |
+| [Energy Invasion](https://psnprofiles.com/guide/6922-energy-invasion-trophy-guide) | 3/10 | 3 | 76.61% | 22,432 | 4/5 | 9 | 22 |
+| [36 Fragments of Midnight](https://psnprofiles.com/guide/8040-36-fragments-of-midnight-trophy-guide) | 3/10 | 1 | 76.67% | 43,094 | 4/5 | 13 | 33 |
+| [Running on Magic](https://psnprofiles.com/guide/16412-running-on-magic-trophy-guide) | 3/10 | 2 | 77.78% | 1,535 |  | 0 | 1 |
+| [GhoulBoy](https://psnprofiles.com/guide/8532-ghoulboy-trophy-guide) | 3/10 | 3 | 78.84% | 14,035 |  | 0 | 10 |
+| [Reverie](https://psnprofiles.com/guide/7417-reverie-trophy-guide) | 3/10 | 5 | 79.12% | 25,380 |  | 0 | 37 |
+| [Tachyon Project](https://psnprofiles.com/guide/6494-tachyon-project-trophy-guide) | 3/10 | 5 | 79.82% | 9,699 |  | 0 | 10 |
+| [Black The Fall](https://psnprofiles.com/guide/6225-black-the-fall-trophy-guide) | 3/10 | 3 | 80.17% | 16,539 |  | 0 | 28 |
+| [Turnip Boy Commits Tax Evasion](https://psnprofiles.com/guide/16475-turnip-boy-commits-tax-evasion-trophy-guide) | 3/10 | 4 | 81.15% | 19,871 | 5/5 | 5 | 21 |
+| [Active Neurons 2](https://psnprofiles.com/guide/14969-active-neurons-2-trophy-guide) | 3/10 | 3 | 82.03% | 3,841 |  | 0 | 5 |
+| [Radio Squid](https://psnprofiles.com/guide/14230-radio-squid-trophy-guide) | 3/10 | 1 | 83.13% | 3,210 |  | 0 | 3 |
+| [Delta Squad](https://psnprofiles.com/guide/18328-delta-squad-trophy-guide) | 3/10 | 2 | 84.95% | 985 |  | 0 | 3 |
+| [Zero Strain](https://psnprofiles.com/guide/10662-zero-strain-trophy-guide) | 3/10 | 1 | 85.94% | 12,751 |  | 0 | 5 |
+| [The Pillar: Puzzle Escape](https://psnprofiles.com/guide/14254-the-pillar-puzzle-escape-trophy-guide) | 3/10 | 1 | 88.46% | 4,682 |  | 0 | 2 |
+| [Grizzland](https://psnprofiles.com/guide/9727-grizzland-trophy-guide) | 3/10 | 2 | 89.72% | 9,160 |  | 0 | 6 |
+| [Red Death](https://psnprofiles.com/guide/9875-red-death-trophy-guide) | 3/10 | 1 | 89.90% | 14,170 |  | 0 | 6 |
+| [Task Force Kampas](https://psnprofiles.com/guide/10109-task-force-kampas-trophy-guide) | 3/10 | 1 | 90.67% | 12,209 |  | 0 | 6 |
+| [Tetra's Escape](https://psnprofiles.com/guide/7681-tetras-escape-trophy-guide) | 3/10 | 1 | 91.61% | 34,976 |  | 0 | 17 |
+| [Active Neurons](https://psnprofiles.com/guide/11837-active-neurons-trophy-guide) | 3/10 | 2 | 95.05% | 11,830 |  | 0 | 2 |
+| [Null Drifter](https://psnprofiles.com/guide/9972-null-drifter-trophy-guide) | 3/10 | 1 | 95.70% | 11,040 |  | 0 | 7 |
+| [Infestor](https://psnprofiles.com/guide/12951-infestor-trophy-guide) | 3/10 | 1 | 95.85% | 4,779 |  | 0 | 1 |
+| [Octonaut](https://psnprofiles.com/guide/10409-octonaut-trophy-guide) | 3/10 | 1 | 95.88% | 5,197 |  | 0 | 4 |
+| [Many Faces](https://psnprofiles.com/guide/10265-many-faces-trophy-guide) | 3/10 | 1 | 96.40% | 8,051 |  | 0 | 3 |
+| [Blood & Truth](https://psnprofiles.com/guide/18921-blood-truth-trophy-expansion-03-dlc-trophy-guide) | 3/10 | 1 |  | 820 |  | 0 | 2 |
+| [BlazBlue: Chronophantasma](https://psnprofiles.com/guide/9842-blazblue-chronophantasma-%E8%BF%BD%E5%8A%A0%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%86%E3%83%AB%E3%83%9F-dlc-trophy-guide) | 3/10 | 1 |  | 1,533 |  | 0 | 3 |
+| [Whiteboyz Wit Attitude: The Pursuit of Money](https://psnprofiles.com/guide/10253-whiteboyz-wit-attitude-the-pursuit-of-money-trophy-guide) | 3/10 | 1 |  | 12,746 | 5/5 | 6 | 13 |
+| [Golf With Your Friends](https://psnprofiles.com/guide/15218-golf-with-your-friends-bouncy-castle-dlc-trophy-guide) | 3/10 | 1 |  | 6,805 |  | 0 | 4 |
+| [Riverbond](https://psnprofiles.com/guide/14965-riverbond-crystalwatch-dlc-trophy-guide) | 3/10 | 1 |  | 1,341 |  | 0 | 0 |
+| [Outer Wilds](https://psnprofiles.com/guide/13138-outer-wilds-echoes-of-the-eye-dlc-trophy-guide) | 3/10 | 1 |  | 15,692 |  | 0 | 6 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7425-payday-2-crimewave-edition-hardcore-henry-s-dlc-trophy-guide) | 3/10 | 1 |  | 3,384 |  | 0 | 3 |
+| [Shadow of the Tomb Raider](https://psnprofiles.com/guide/9603-shadow-of-the-tomb-raider-the-price-of-survival-dlc-trophy-guide) | 3/10 | 1 |  | 17,011 | 5/5 | 7 | 12 |
+| [Shadow of the Tomb Raider](https://psnprofiles.com/guide/9562-shadow-of-the-tomb-raider-the-nightmare-dlc-trophy-guide) | 3/10 | 1 |  | 18,942 | 5/5 | 6 | 13 |
+| [Human Fall Flat](https://psnprofiles.com/guide/9555-human-fall-flat-dark-dlc-trophy-guide) | 3/10 | 1 |  | 9,178 |  | 0 | 1 |
+| [Shadow of the Tomb Raider](https://psnprofiles.com/guide/9569-shadow-of-the-tomb-raider-the-pillar-dlc-trophy-guide) | 3/10 | 1 |  | 20,115 | 5/5 | 8 | 11 |
+| [L.A. Noire](https://psnprofiles.com/guide/7378-la-noire-nicholson-electroplating-dlc-trophy-guide) | 3/10 | 1 |  | 20,070 | 5/5 | 8 | 5 |
+| [Shadow of the Tomb Raider](https://psnprofiles.com/guide/9557-shadow-of-the-tomb-raider-the-forge-dlc-trophy-guide) | 3/10 | 1 |  | 29,370 | 5/5 | 11 | 10 |
+| [Escape Plan](https://psnprofiles.com/guide/2915-escape-plan-the-asylum-dlc-trophy-guide) | 3/10 | 1 |  | 3,563 |  | 0 | 7 |
+| [Shadow of the Tomb Raider](https://psnprofiles.com/guide/9665-shadow-of-the-tomb-raider-the-path-home-dlc-trophy-guide) | 3/10 | 1 |  | 21,190 | 5/5 | 10 | 13 |
+| [Darksiders III](https://psnprofiles.com/guide/8610-darksiders-iii-the-crucible-dlc-trophy-guide) | 3/10 | 1 |  | 22,259 | 5/5 | 9 | 15 |
+| [L.A. Noire](https://psnprofiles.com/guide/7379-la-noire-reefer-madness-dlc-trophy-guide) | 3/10 | 1 |  | 19,056 | 5/5 | 6 | 4 |
+| [Crash Bandicoot: Warped](https://psnprofiles.com/guide/7569-crash-bandicoot-warped-crash-bandicoot-future-tense-dlc-trophy-guide) | 3/10 | 1 |  | 65,616 | 5/5 | 14 | 26 |
+| [L.A. Noire](https://psnprofiles.com/guide/7376-la-noire-a-slip-of-the-tongue-dlc-trophy-guide) | 3/10 | 1 |  | 23,669 | 5/5 | 7 | 7 |
+| [L.A. Noire](https://psnprofiles.com/guide/7377-la-noire-the-naked-city-dlc-trophy-guide) | 3/10 | 1 |  | 22,237 | 4/5 | 7 | 7 |
+| [Deathloop](https://psnprofiles.com/guide/15246-deathloop-golden-loop-update-dlc-trophy-guide) | 3/10 | 1 |  | 20,363 | 5/5 | 12 | 13 |
+| [Shadow of the Tomb Raider](https://psnprofiles.com/guide/9633-shadow-of-the-tomb-raider-the-serpents-heart-dlc-trophy-guide) | 3/10 | 1 |  | 16,460 | 5/5 | 8 | 11 |
+| [Shadow of the Tomb Raider](https://psnprofiles.com/guide/9653-shadow-of-the-tomb-raider-the-grand-caiman-dlc-trophy-guide) | 3/10 | 1 |  | 17,232 | 5/5 | 7 | 13 |
+| [Tools Up!](https://psnprofiles.com/guide/19350-tools-up-episode-2-tunnel-vision-dlc-trophy-guide) | 3/10 | 2 |  | 352 |  | 0 | 0 |
+| [Homefront: The Revolution](https://psnprofiles.com/guide/5042-homefront-the-revolution-the-voice-of-freedom-dlc-trophy-guide) | 3/10 | 2 |  | 14,056 | 5/5 | 5 | 8 |
+| [Deus Ex: Mankind Divided](https://psnprofiles.com/guide/5834-deus-ex-mankind-divided-a-criminal-past-dlc-trophy-guide) | 3/10 | 2 |  | 26,646 | 4/5 | 14 | 19 |
+| [Plague Inc: Evolved](https://psnprofiles.com/guide/11281-plague-inc-evolved-fake-news-dlc-trophy-guide) | 3/10 | 2 |  | 8,728 | 4/5 | 7 | 4 |
+| [Tiny Tina's Wonderlands](https://psnprofiles.com/guide/14488-tiny-tinas-wonderlands-gluttons-gamble-dlc-trophy-guide) | 3/10 | 2 |  | 17,582 |  | 0 | 4 |
+| [Helldivers](https://psnprofiles.com/guide/3045-helldivers-masters-of-the-galaxy-dlc-trophy-guide) | 3/10 | 2 |  | 7,657 | 4/5 | 6 | 7 |
+| [Little Nightmares](https://psnprofiles.com/guide/9341-little-nightmares-the-hideaway-dlc-trophy-guide) | 3/10 | 2 |  | 45,841 | 5/5 | 12 | 11 |
+| [Superliminal](https://psnprofiles.com/guide/14971-superliminal-new-modes-added-dlc-trophy-guide) | 3/10 | 2 |  | 6,667 |  | 0 | 4 |
+| [Croc's World](https://psnprofiles.com/guide/11757-crocs-world-trophy-guide) | 3/10 | 2 |  | 3,518 |  | 0 | 1 |
+| [Laws of Machine](https://psnprofiles.com/guide/8380-laws-of-machine-trophy-guide) | 3/10 | 2 |  | 5,280 |  | 0 | 2 |
+| [The Four Kings Casino and Slots](https://psnprofiles.com/guide/14508-the-four-kings-casino-and-slots-king-pins-dlc-trophy-guide) | 3/10 | 2 |  | 2,231 |  | 0 | 1 |
+| [Magic: The Gathering - Duels of the Planeswalkers](https://psnprofiles.com/guide/12848-magic-the-gathering-duels-of-the-planeswalkers-expansion-one-dlc-trophy-guide) | 3/10 | 2 |  | 1,150 |  | 0 | 1 |
+| [Saints Row: The Third](https://psnprofiles.com/guide/6725-saints-row-the-third-genki-bowl-vii-dlc-trophy-guide) | 3/10 | 2 |  | 32,096 | 5/5 | 11 | 16 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/15277-assassins-creed-valhalla-tombs-of-the-fallen-buried-knowledge-dlc-trophy-guide) | 3/10 | 2 |  | 33,284 | 5/5 | 5 | 11 |
+| [DJMax Respect](https://psnprofiles.com/guide/12992-djmax-respect-estimate-dlc-trophy-guide) | 3/10 | 2 |  | 3,616 |  | 0 | 0 |
+| [Max Payne 3](https://psnprofiles.com/guide/12904-max-payne-3-painful-memories-dlc-trophy-guide) | 3/10 | 2 |  | 2,644 |  | 0 | 3 |
+| [No Man's Sky](https://psnprofiles.com/guide/5855-no-mans-sky-path-finder-update-dlc-trophy-guide) | 3/10 | 2 |  | 35,840 | 3/5 | 26 | 40 |
+| [Godfall](https://psnprofiles.com/guide/12795-godfall-fire-darkness-dlc-trophy-guide) | 3/10 | 2 |  | 10,704 |  | 0 | 5 |
+| [Marvel's Spider-Man Remastered](https://psnprofiles.com/guide/12284-marvels-spider-man-remastered-remastered-dlc-trophy-guide) | 3/10 | 2 |  | 54,709 | 5/5 | 11 | 40 |
+| [Alienation](https://psnprofiles.com/guide/4905-alienation-weekly-fashion-victims-dlc-trophy-guide) | 3/10 | 2 |  | 5,931 |  | 0 | 4 |
+| [Star Wars: The Force Unleashed II](https://psnprofiles.com/guide/5200-star-wars-the-force-unleashed-ii-the-battle-of-endor-dlc-trophy-guide) | 3/10 | 2 |  | 10,185 | 5/5 | 6 | 11 |
+| [Star Wars: The Force Unleashed](https://psnprofiles.com/guide/7939-star-wars-the-force-unleashed-apprentice-mission-dlc-trophy-guide) | 3/10 | 2 |  | 12,438 | 4/5 | 6 | 8 |
+| [The Bureau: XCOM Declassified](https://psnprofiles.com/guide/3697-the-bureau-xcom-declassified-hangar-6-rd-dlc-trophy-guide) | 3/10 | 2 |  | 4,556 |  | 0 | 7 |
+| [Minecraft](https://psnprofiles.com/guide/6133-minecraft-expansion-2-dlc-trophy-guide) | 3/10 | 2 |  | 36,089 | 5/5 | 13 | 18 |
+| [Assassin's Creed IV Black Flag](https://psnprofiles.com/guide/5734-assassins-creed-iv-black-flag-blackbeards-wrath-dlc-trophy-guide) | 3/10 | 2 |  | 46,523 | 5/5 | 18 | 22 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1873-dragon-age-origins-witch-hunt-dlc-trophy-guide) | 3/10 | 2 |  | 10,837 |  | 0 | 11 |
+| [Minecraft • Set 2](https://psnprofiles.com/guide/19766-minecraft-set-2-expansion-18-dlc-trophy-guide) | 3/10 | 2 |  | 1,210 | 5/5 | 6 | 2 |
+| [Moss](https://psnprofiles.com/guide/8807-moss-the-twilight-garden-dlc-trophy-guide) | 3/10 | 2 |  | 12,622 | 5/5 | 6 | 5 |
+| [Terraria](https://psnprofiles.com/guide/15325-terraria-labor-of-love-dlc-trophy-guide) | 3/10 | 2 |  | 6,801 | 4/5 | 6 | 5 |
+| [Magic: The Gathering - Duels of the Planeswalkers 2014](https://psnprofiles.com/guide/12853-magic-the-gathering-duels-of-the-planeswalkers-2014-expansion-1-dlc-trophy-guide) | 3/10 | 2 |  | 1,710 |  | 0 | 1 |
+| [Doom](https://psnprofiles.com/guide/5406-doom-arcade-mode-dlc-trophy-guide) | 3/10 | 2 |  | 35,182 | 5/5 | 8 | 24 |
+| [Croc's World 2](https://psnprofiles.com/guide/11790-crocs-world-2-trophy-guide) | 3/10 | 2 |  | 5,163 |  | 0 | 0 |
+| [JoJo's Bizarre Adventure: HD Version](https://psnprofiles.com/guide/17098-jojos-bizarre-adventure-hd-version-trophy-guide) | 3/10 | 2 |  | 3,051 |  | 0 | 2 |
+| [Minecraft](https://psnprofiles.com/guide/4342-minecraft-expansion-1-dlc-trophy-guide) | 3/10 | 2 |  | 35,010 | 5/5 | 10 | 15 |
+| [Rage 2](https://psnprofiles.com/guide/10548-rage-2-terrormania-dlc-trophy-guide) | 3/10 | 2 |  | 12,798 |  | 0 | 4 |
+| [Minecraft](https://psnprofiles.com/guide/6176-minecraft-expansion-3-dlc-trophy-guide) | 3/10 | 2 |  | 25,170 | 4/5 | 12 | 15 |
+| [Borderlands: The Pre-Sequel](https://psnprofiles.com/guide/4850-borderlands-the-pre-sequel-the-holodome-onslaught-dlc-trophy-guide) | 3/10 | 2 |  | 21,572 | 4/5 | 11 | 31 |
+| [Dreams](https://psnprofiles.com/guide/13363-dreams-ancient-dangers-dlc-trophy-guide) | 3/10 | 2 |  | 9,966 | 5/5 | 16 | 4 |
+| [Doom Eternal](https://psnprofiles.com/guide/15165-doom-eternal-horde-mode-dlc-trophy-guide) | 3/10 | 2 |  | 13,441 |  | 0 | 5 |
+| [Tiny Tina's Wonderlands](https://psnprofiles.com/guide/14294-tiny-tinas-wonderlands-coiled-captors-dlc-trophy-guide) | 3/10 | 2 |  | 21,425 |  | 0 | 5 |
+| [Plague Inc: Evolved](https://psnprofiles.com/guide/6300-plague-inc-evolved-shadow-plague-dlc-trophy-guide) | 3/10 | 2 |  | 12,390 | 5/5 | 7 | 12 |
+| [Horror Stories](https://psnprofiles.com/guide/14600-horror-stories-trophy-guide) | 3/10 | 2 |  | 8,557 |  | 0 | 4 |
+| [Homefront: The Revolution](https://psnprofiles.com/guide/5307-homefront-the-revolution-aftermath-dlc-trophy-guide) | 3/10 | 2 |  | 16,140 | 5/5 | 5 | 6 |
+| [Star Wars: The Force Unleashed](https://psnprofiles.com/guide/7940-star-wars-the-force-unleashed-tatooine-mission-dlc-trophy-guide) | 3/10 | 2 |  | 10,713 | 5/5 | 6 | 6 |
+| [Little Nightmares](https://psnprofiles.com/guide/9313-little-nightmares-the-depths-dlc-trophy-guide) | 3/10 | 2 |  | 50,689 | 5/5 | 13 | 8 |
+| [A Hat in Time](https://psnprofiles.com/guide/13157-a-hat-in-time-ahitnyakuzametro-dlc-trophy-guide) | 3/10 | 2 |  | 9,554 | 5/5 | 5 | 8 |
+| [DJMax Respect](https://psnprofiles.com/guide/8920-djmax-respect-deemo-dlc-trophy-guide) | 3/10 | 2 |  | 4,533 |  | 0 | 0 |
+| [Golden Axe](https://psnprofiles.com/guide/11879-golden-axe-trophy-guide) | 3/10 | 2 |  | 8,036 |  | 0 | 3 |
+| [Cluster Tumble](https://psnprofiles.com/guide/16770-cluster-tumble-trophy-guide) | 3/10 | 3 |  | 878 |  | 0 | 2 |
+| [Astro's Playroom](https://psnprofiles.com/guide/11466-astros-playroom-astros-playroom-add-on-dlc-trophy-guide) | 3/10 | 3 |  | 101,073 | 5/5 | 40 | 34 |
+| [NHL '94 Rewind](https://psnprofiles.com/guide/18693-nhl-94-rewind-trophy-guide) | 3/10 | 3 |  | 2,297 |  | 0 | 3 |
+| [nail'd](https://psnprofiles.com/guide/15492-naild-dlc-pack-1-dlc-trophy-guide) | 3/10 | 3 |  | 1,254 |  | 0 | 0 |
+| [Assassin's Creed Revelations](https://psnprofiles.com/guide/423-assassins-creed-revelations-the-lost-archive-dlc-trophy-guide) | 3/10 | 3 |  | 48,971 | 5/5 | 9 | 36 |
+| [Max Payne 3](https://psnprofiles.com/guide/636-max-payne-3-local-justice-dlc-trophy-guide) | 3/10 | 3 |  | 7,202 |  | 0 | 9 |
+| [Rocket League](https://psnprofiles.com/guide/3425-rocket-league-revenge-of-the-battle-cars-dlc-trophy-guide) | 3/10 | 3 |  | 25,794 | 5/5 | 16 | 26 |
+| [Assassin's Creed III](https://psnprofiles.com/guide/8305-assassins-creed-iii-the-tyranny-of-king-washington-episode-1-the-infamy-dlc-trophy-guide) | 3/10 | 3 |  | 30,952 | 5/5 | 6 | 11 |
+| [Assassin's Creed III](https://psnprofiles.com/guide/8423-assassins-creed-iii-the-tyranny-of-king-washington-episode-3-the-redemption-dlc-trophy-guide) | 3/10 | 3 |  | 28,558 | 5/5 | 8 | 8 |
+| [Battlefield 4](https://psnprofiles.com/guide/433-battlefield-4-naval-strike-dlc-trophy-guide) | 3/10 | 3 |  | 15,854 |  | 0 | 11 |
+| [Need for Speed: Shift 2 Unleashed](https://psnprofiles.com/guide/15824-need-for-speed-shift-2-unleashed-legends-dlc-trophy-guide) | 3/10 | 3 |  | 1,358 |  | 0 | 0 |
+| [Gravity Rush Remastered](https://psnprofiles.com/guide/18874-gravity-rush-remastered-spy-dlc-trophy-guide) | 3/10 | 3 |  | 1,319 |  | 0 | 1 |
+| [O! My Genesis VR](https://psnprofiles.com/guide/5530-o-my-genesis-vr-trophy-guide) | 3/10 | 3 |  | 5,701 |  | 0 | 4 |
+| [Alan Wake](https://psnprofiles.com/guide/13044-alan-wake-the-signal-dlc-trophy-guide) | 3/10 | 3 |  | 50,168 |  | 0 | 24 |
+| [eFootball 2024](https://psnprofiles.com/guide/15984-efootball-2024-trophy-guide) | 3/10 | 3 |  | 19,111 | 5/5 | 7 | 5 |
+| [Factotum 90](https://psnprofiles.com/guide/6471-factotum-90-trophy-guide) | 3/10 | 3 |  | 4,055 |  | 0 | 6 |
+| [Alan Wake](https://psnprofiles.com/guide/13045-alan-wake-the-writer-dlc-trophy-guide) | 3/10 | 3 |  | 43,387 |  | 0 | 24 |
+| [Marvel's Spider-Man](https://psnprofiles.com/guide/8505-marvels-spider-man-ctns-turf-wars-dlc-trophy-guide) | 3/10 | 3 |  | 69,515 | 5/5 | 27 | 41 |
+| [Whispering Willows](https://psnprofiles.com/guide/9130-whispering-willows-trophy-guide) | 3/10 | 3 |  | 18,719 | 5/5 | 12 | 10 |
+| [Castlevania: Lords of Shadow](https://psnprofiles.com/guide/595-castlevania-lords-of-shadow-reverie-dlc-trophy-guide) | 3/10 | 3 |  | 10,833 | 5/5 | 7 | 8 |
+| [Dead Island 2](https://psnprofiles.com/guide/19338-dead-island-2-sola-dlc-trophy-guide) | 3/10 | 3 |  | 4,422 |  | 0 | 4 |
+| [Type:Rider](https://psnprofiles.com/guide/8366-typerider-trophy-guide) | 3/10 | 3 |  | 14,119 | 5/5 | 8 | 15 |
+| [Kingdom Come: Deliverance](https://psnprofiles.com/guide/8283-kingdom-come-deliverance-the-amorous-adventures-of-bold-sir-hans-capon-dlc-trophy-guide) | 3/10 | 3 |  | 59,012 | 4/5 | 8 | 8 |
+| [Gravity Rush Remastered](https://psnprofiles.com/guide/18875-gravity-rush-remastered-special-forces-dlc-trophy-guide) | 3/10 | 3 |  | 1,118 |  | 0 | 0 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7776-payday-2-crimewave-edition-scarface-dlc-trophy-guide) | 3/10 | 3 |  | 6,251 |  | 0 | 4 |
+| [Senran Kagura Bon Appetit! (Hanzo x Crimson Squad)](https://psnprofiles.com/guide/5208-senran-kagura-bon-appetit-hanzo-x-crimson-squad-%E3%83%87%E3%82%AB%E7%9B%9B%E3%82%8A-%E9%96%83%E4%B9%B1%E3%82%AB%E3%82%B0%E3%83%A9%E6%9C%AC%E4%BD%93%E3%83%91%E3%83%83%E3%82%AF%EF%BD%81%E7%94%A8%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E8%BF%BD%E5%8A%A0%E3%82%BB%E3%83%83%E3%83%88-%E6%9C%88%E9%96%83%E8%9B%87%E5%A5%B3-dlc-trophy-guide) | 3/10 | 3 |  | 4,178 |  | 0 | 7 |
+| [Kingdom Come: Deliverance](https://psnprofiles.com/guide/9550-kingdom-come-deliverance-band-of-bastards-dlc-trophy-guide) | 3/10 | 3 |  | 28,399 | 5/5 | 5 | 6 |
+| [Dead Space 2](https://psnprofiles.com/guide/8263-dead-space-2-severed-dlc-trophy-guide) | 3/10 | 3 |  | 15,042 | 4/5 | 9 | 8 |
+| [Steep](https://psnprofiles.com/guide/13149-steep-winterfest-dlc-trophy-guide) | 3/10 | 3 |  | 4,423 |  | 0 | 3 |
+| [Gravity Rush Remastered](https://psnprofiles.com/guide/18873-gravity-rush-remastered-maid-dlc-trophy-guide) | 3/10 | 3 |  | 2,402 |  | 0 | 2 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/6984-payday-2-crimewave-edition-gage-chivalry-dlc-trophy-guide) | 3/10 | 3 |  | 4,594 |  | 0 | 5 |
+| [Fruit Ninja](https://psnprofiles.com/guide/9915-fruit-ninja-trophy-guide) | 3/10 | 3 |  | 9,115 | 5/5 | 8 | 4 |
+| [Plague Inc: Evolved](https://psnprofiles.com/guide/14044-plague-inc-evolved-plague-inc-the-cure-dlc-trophy-guide) | 3/10 | 3 |  | 5,693 | 5/5 | 5 | 0 |
+| [Just Cause 3](https://psnprofiles.com/guide/4080-just-cause-3-sky-fortress-dlc-trophy-guide) | 3/10 | 3 |  | 16,371 | 5/5 | 14 | 21 |
+| [Just Cause 3](https://psnprofiles.com/guide/9382-just-cause-3-mech-land-assault-dlc-trophy-guide) | 3/10 | 3 |  | 12,026 | 5/5 | 11 | 8 |
+| [Mass Effect 3](https://psnprofiles.com/guide/10326-mass-effect-3-omega-dlc-trophy-guide) | 3/10 | 3 |  | 7,570 |  | 0 | 2 |
+| [Metal Slug 3](https://psnprofiles.com/guide/2955-metal-slug-3-trophy-guide) | 3/10 | 3 |  | 29,415 | 5/5 | 14 | 28 |
+| [Darksiders III](https://psnprofiles.com/guide/8878-darksiders-iii-keepers-of-the-void-dlc-trophy-guide) | 3/10 | 3 |  | 18,756 | 5/5 | 7 | 12 |
+| [Super Death Game Show! VR](https://psnprofiles.com/guide/18068-super-death-game-show-vr-trophy-guide) | 3/10 | 3 |  | 1,417 |  | 0 | 2 |
+| [Just Cause 3](https://psnprofiles.com/guide/9533-just-cause-3-bavarium-sea-heist-dlc-trophy-guide) | 3/10 | 3 |  | 11,325 | 5/5 | 9 | 7 |
+| [Rise of the Tomb Raider](https://psnprofiles.com/guide/5279-rise-of-the-tomb-raider-croft-manor-dlc-trophy-guide) | 3/10 | 3 |  | 48,857 | 5/5 | 24 | 42 |
+| [Need for Speed: Shift 2 Unleashed](https://psnprofiles.com/guide/15825-need-for-speed-shift-2-unleashed-speedhunters-edition-dlc-trophy-guide) | 3/10 | 3 |  | 1,828 |  | 0 | 0 |
+| [Rabbids: Party of Legends](https://psnprofiles.com/guide/17254-rabbids-party-of-legends-trophy-guide) | 3/10 | 3 |  | 2,908 |  | 0 | 3 |
+| [Sonic The Hedgehog](https://psnprofiles.com/guide/349-sonic-the-hedgehog-trophy-guide) | 3/10 | 3 |  | 15,266 | 4/5 | 7 | 23 |
+| [Monopoly Deal](https://psnprofiles.com/guide/11026-monopoly-deal-trophy-guide) | 3/10 | 3 |  | 8,356 |  | 0 | 4 |
+| [Marvel's Spider-Man](https://psnprofiles.com/guide/8518-marvels-spider-man-ctns-silver-lining-dlc-trophy-guide) | 3/10 | 3 |  | 67,821 | 5/5 | 24 | 41 |
+| [Ultratron](https://psnprofiles.com/guide/6532-ultratron-trophy-guide) | 3/10 | 3 |  | 15,440 | 5/5 | 8 | 30 |
+| [Dogfight 1942](https://psnprofiles.com/guide/2154-dogfight-1942-sands-of-africa-dlc-trophy-guide) | 3/10 | 4 |  | 821 |  | 0 | 1 |
+| [Magic: The Gathering - Duels of the Planeswalkers 2012 ](https://psnprofiles.com/guide/12851-magic-the-gathering-duels-of-the-planeswalkers-2012-expansion-1-dlc-trophy-guide) | 3/10 | 4 |  | 888 |  | 0 | 1 |
+| [Don't Bite Me Bro!](https://psnprofiles.com/guide/7441-dont-bite-me-bro-trophy-guide) | 3/10 | 4 |  | 37,765 | 5/5 | 5 | 20 |
+| [The Surge](https://psnprofiles.com/guide/6776-the-surge-a-walk-in-the-park-dlc-trophy-guide) | 3/10 | 4 |  | 37,747 | 5/5 | 8 | 14 |
+| [Dead or Alive Xtreme 3: Fortune](https://psnprofiles.com/guide/14572-dead-or-alive-xtreme-3-fortune-leifang-character-license-dlc-trophy-guide) | 3/10 | 4 |  | 1,569 |  | 0 | 2 |
+| [Dragon Age: Inquisition](https://psnprofiles.com/guide/5535-dragon-age-inquisition-the-descent-dlc-trophy-guide) | 3/10 | 4 |  | 19,979 | 4/5 | 11 | 23 |
+| [The Last of Us](https://psnprofiles.com/guide/900-the-last-of-us-left-behind-dlc-trophy-guide) | 3/10 | 4 |  | 120,704 | 5/5 | 17 | 89 |
+| [BioShock Infinite](https://psnprofiles.com/guide/479-bioshock-infinite-burial-at-sea-episode-1-dlc-trophy-guide) | 3/10 | 4 |  | 32,764 | 5/5 | 14 | 24 |
+| [16-Bit Soccer](https://psnprofiles.com/guide/12822-16-bit-soccer-trophy-guide) | 3/10 | 4 |  | 4,258 |  | 0 | 0 |
+| [Borderlands 3](https://psnprofiles.com/guide/11157-borderlands-3-designers-cut-dlc-trophy-guide) | 3/10 | 4 |  | 37,115 | 4/5 | 14 | 16 |
+| [Ghost of Tsushima](https://psnprofiles.com/guide/12701-ghost-of-tsushima-iki-island-exploration-dlc-trophy-guide) | 3/10 | 4 |  | 112,432 | 4/5 | 22 | 31 |
+| [Overcooked 2](https://psnprofiles.com/guide/11359-overcooked-2-surf-n-turf-dlc-trophy-guide) | 3/10 | 4 |  | 12,080 | 5/5 | 7 | 6 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/8512-final-fantasy-xv-episode-ardyn-dlc-trophy-guide) | 3/10 | 4 |  | 64,155 | 5/5 | 11 | 30 |
+| [flOw](https://psnprofiles.com/guide/18566-flow-trophy-guide) | 3/10 | 4 |  | 3,259 |  | 0 | 10 |
+| [Need for Speed Payback](https://psnprofiles.com/guide/9052-need-for-speed-payback-speedcross-dlc-trophy-guide) | 3/10 | 4 |  | 22,142 | 5/5 | 10 | 14 |
+| [Shirone: The Dragon Girl](https://psnprofiles.com/guide/16669-shirone-the-dragon-girl-trophy-guide) | 3/10 | 4 |  | 2,202 |  | 0 | 2 |
+| [Borderlands 3](https://psnprofiles.com/guide/10818-borderlands-3-psycho-krieg-and-the-fantastic-fustercluck-dlc-trophy-guide) | 3/10 | 4 |  | 38,307 | 4/5 | 16 | 16 |
+| [Sniper Elite 4](https://psnprofiles.com/guide/12611-sniper-elite-4-deathstorm-3-dlc-trophy-guide) | 3/10 | 4 |  | 14,543 | 4/5 | 6 | 2 |
+| [LittleBigPlanet](https://psnprofiles.com/guide/7583-littlebigplanet-pirates-of-the-caribbean-level-kit-dlc-trophy-guide) | 3/10 | 4 |  | 7,017 | 4/5 | 5 | 4 |
+| [Hitman 2](https://psnprofiles.com/guide/10803-hitman-2-himmelstein-dlc-trophy-guide) | 3/10 | 4 |  | 19,523 | 4/5 | 6 | 6 |
+| [High on Life](https://psnprofiles.com/guide/17764-high-on-life-high-on-knife-dlc-trophy-guide) | 3/10 | 4 |  | 20,562 |  | 0 | 2 |
+| [Kung Fu Rabbit](https://psnprofiles.com/guide/3491-kung-fu-rabbit-trophy-guide) | 3/10 | 4 |  | 10,576 | 5/5 | 7 | 19 |
+| [Star Wars: The Force Unleashed](https://psnprofiles.com/guide/7941-star-wars-the-force-unleashed-hoth-mission-dlc-trophy-guide) | 3/10 | 4 |  | 10,500 | 5/5 | 5 | 7 |
+| [The First Tree](https://psnprofiles.com/guide/8082-the-first-tree-trophy-guide) | 3/10 | 4 |  | 20,564 | 5/5 | 6 | 10 |
+| [Minecraft • Set 2](https://psnprofiles.com/guide/14276-minecraft-set-2-expansion-15-dlc-trophy-guide) | 3/10 | 4 |  | 11,324 | 4/5 | 6 | 1 |
+| [Remnant: From the Ashes](https://psnprofiles.com/guide/13345-remnant-from-the-ashes-subject-2923-dlc-trophy-guide) | 3/10 | 4 |  | 20,245 | 3/5 | 7 | 9 |
+| [Hitman 2 • Additional Expansions](https://psnprofiles.com/guide/10604-hitman-2-additional-expansions-hitman-2-siberia-dlc-trophy-guide) | 3/10 | 4 |  | 13,881 | 3/5 | 5 | 7 |
+| [Bubsy: The Woolies Strike Back](https://psnprofiles.com/guide/17802-bubsy-the-woolies-strike-back-trophy-guide) | 3/10 | 4 |  | 4,048 |  | 0 | 4 |
+| [Loud on Planet X](https://psnprofiles.com/guide/4309-loud-on-planet-x-trophy-guide) | 3/10 | 4 |  | 1,517 |  | 0 | 6 |
+| [Sonic The Hedgehog](https://psnprofiles.com/guide/11978-sonic-the-hedgehog-trophy-guide) | 3/10 | 4 |  | 12,507 | 4/5 | 7 | 7 |
+| [Switch Galaxy Ultra](https://psnprofiles.com/guide/3768-switch-galaxy-ultra-charity-dlc-trophy-guide) | 3/10 | 4 |  | 2,748 |  | 0 | 4 |
+| [The Unfinished Swan](https://psnprofiles.com/guide/3834-the-unfinished-swan-trophy-guide) | 3/10 | 4 |  | 35,818 | 5/5 | 21 | 72 |
+| [Mafia III](https://psnprofiles.com/guide/6308-mafia-iii-stones-unturned-dlc-trophy-guide) | 3/10 | 4 |  | 31,988 | 5/5 | 17 | 20 |
+| [The Escapists](https://psnprofiles.com/guide/18499-the-escapists-santas-sweatshop-dlc-trophy-guide) | 3/10 | 4 |  | 1,229 |  | 0 | 3 |
+| [Tyr: Chains of Valhalla](https://psnprofiles.com/guide/8988-tyr-chains-of-valhalla-trophy-guide) | 3/10 | 4 |  | 2,626 |  | 0 | 4 |
+| [Dead or Alive Xtreme 3: Fortune](https://psnprofiles.com/guide/14571-dead-or-alive-xtreme-3-fortune-misaki-character-license-dlc-trophy-guide) | 3/10 | 4 |  | 1,610 |  | 0 | 2 |
+| [Little Nightmares](https://psnprofiles.com/guide/9366-little-nightmares-the-residence-dlc-trophy-guide) | 3/10 | 4 |  | 40,023 | 5/5 | 8 | 10 |
+| [Resident Evil 6](https://psnprofiles.com/guide/5126-resident-evil-6-onslaught-dlc-trophy-guide) | 3/10 | 5 |  | 26,846 | 4/5 | 10 | 18 |
+| [Marvel's Midnight Suns](https://psnprofiles.com/guide/16507-marvels-midnight-suns-the-hunger-dlc-trophy-guide) | 3/10 | 5 |  | 8,118 |  | 0 | 5 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/6996-payday-2-crimewave-edition-the-point-break-heist-dlc-trophy-guide) | 3/10 | 5 |  | 4,963 |  | 0 | 6 |
+| [Arkedo Series - 01 Jump!](https://psnprofiles.com/guide/27-arkedo-series-01-jump-trophy-guide) | 3/10 | 5 |  | 4,270 |  | 0 | 7 |
+| [Borderlands 3](https://psnprofiles.com/guide/11990-borderlands-3-directors-cut-dlc-trophy-guide) | 3/10 | 5 |  | 33,939 | 5/5 | 10 | 13 |
+| [Omega Strikers](https://psnprofiles.com/guide/16749-omega-strikers-trophy-guide) | 3/10 | 5 |  | 9,382 |  | 0 | 5 |
+| [Star Wars Battlefront](https://psnprofiles.com/guide/6629-star-wars-battlefront-bespin-dlc-trophy-guide) | 3/10 | 5 |  | 14,144 | 5/5 | 6 | 18 |
+| [Moving Out](https://psnprofiles.com/guide/19024-moving-out-movers-in-paradise-dlc-trophy-guide) | 3/10 | 5 |  | 1,898 |  | 0 | 2 |
+| [Dead Space Ignition](https://psnprofiles.com/guide/13721-dead-space-ignition-trophy-guide) | 3/10 | 5 |  | 9,927 | 5/5 | 5 | 3 |
+| [Rise of the Tomb Raider](https://psnprofiles.com/guide/5795-rise-of-the-tomb-raider-endurance-co-op-dlc-trophy-guide) | 3/10 | 5 |  | 50,250 | 5/5 | 20 | 36 |
+| [The King of Fighters 2000](https://psnprofiles.com/guide/10795-the-king-of-fighters-2000-trophy-guide) | 3/10 | 5 |  | 11,649 |  | 0 | 3 |
+| [Dead by Daylight](https://psnprofiles.com/guide/6765-dead-by-daylight-leatherface-dlc-trophy-guide) | 3/10 | 5 |  | 10,179 |  | 0 | 10 |
+| [Grid Legends](https://psnprofiles.com/guide/16801-grid-legends-enduring-spirit-dlc-trophy-guide) | 3/10 | 5 |  | 8,438 | 5/5 | 5 | 5 |
+| [King's Quest](https://psnprofiles.com/guide/3236-kings-quest-trophy-guide) | 3/10 | 5 |  | 30,894 | 4/5 | 16 | 38 |
+| [Grow Home](https://psnprofiles.com/guide/6395-grow-home-trophy-guide) | 3/10 | 5 |  | 24,263 | 5/5 | 10 | 40 |
+| [Battlefield 1](https://psnprofiles.com/guide/7434-battlefield-1-apocalypse-dlc-trophy-guide) | 3/10 | 5 |  | 37,854 | 4/5 | 8 | 17 |
+| [Hitman](https://psnprofiles.com/guide/4714-hitman-summer-bonus-episode-dlc-trophy-guide) | 3/10 | 5 |  | 19,148 | 5/5 | 11 | 14 |
+| [Castlevania: Lords of Shadow 2](https://psnprofiles.com/guide/7509-castlevania-lords-of-shadow-2-revelations-dlc-trophy-guide) | 3/10 | 5 |  | 10,619 |  | 0 | 4 |
+| [The Jackbox Party Pack 3](https://psnprofiles.com/guide/9618-the-jackbox-party-pack-3-trophy-guide) | 3/10 | 5 |  | 9,232 | 5/5 | 5 | 7 |
+| [Minecraft](https://psnprofiles.com/guide/8579-minecraft-expansion-9-dlc-trophy-guide) | 3/10 | 5 |  | 26,731 | 3/5 | 18 | 12 |
+| [The Spectrum Retreat](https://psnprofiles.com/guide/10928-the-spectrum-retreat-trophy-guide) | 3/10 | 5 |  | 10,701 |  | 0 | 4 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/12858-dead-by-daylight-additional-chapters-dead-by-daylight-hellraiser-chapter-dlc-trophy-guide) | 3/10 | 5 |  | 5,673 |  | 0 | 1 |
+| [LEGO Brawls](https://psnprofiles.com/guide/17287-lego-brawls-trophy-guide) | 3/10 | 5 |  | 6,595 |  | 0 | 4 |
+| [Just Dance](https://psnprofiles.com/guide/17053-just-dance-trophy-guide) | 3/10 | 5 |  | 6,180 | 5/5 | 6 | 3 |
+| [Nobody Saves the World](https://psnprofiles.com/guide/18537-nobody-saves-the-world-frozen-hearth-dlc-trophy-guide) | 3/10 | 5 |  | 4,985 | 5/5 | 6 | 7 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/11398-minecraft-dungeons-howling-peaks-dlc-trophy-guide) | 3/10 | 5 |  | 27,119 | 5/5 | 6 | 8 |
+| [Borderlands 2](https://psnprofiles.com/guide/8737-borderlands-2-commander-lilith-and-the-fight-for-sanctuary-dlc-trophy-guide) | 3/10 | 5 |  | 62,788 | 5/5 | 17 | 30 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1866-dragon-age-origins-awakening-dlc-trophy-guide) | 3/10 | 5 |  | 17,164 | 5/5 | 7 | 20 |
+| [Batman: Arkham VR](https://psnprofiles.com/guide/5242-batman-arkham-vr-trophy-guide) | 3/10 | 5 |  | 33,345 | 5/5 | 8 | 24 |
+| [Surviving Mars](https://psnprofiles.com/guide/13567-surviving-mars-green-planet-dlc-trophy-guide) | 3/10 | 5 |  | 3,007 |  | 0 | 4 |
+| [Marvel's Midnight Suns](https://psnprofiles.com/guide/16479-marvels-midnight-suns-marvels-midnight-suns-the-good-the-bad-and-the-undead-dlc-trophy-guide) | 3/10 | 5 |  | 11,322 |  | 0 | 5 |
+| [SEGA Rally Online Arcade](https://psnprofiles.com/guide/3015-sega-rally-online-arcade-trophy-guide) | 3/10 | 5 |  | 3,780 |  | 0 | 5 |
+| [Far Cry 5](https://psnprofiles.com/guide/7493-far-cry-5-hours-of-darkness-dlc-trophy-guide) | 3/10 | 5 |  | 41,882 | 5/5 | 14 | 30 |
+| [Monopoly Family Fun Pack](https://psnprofiles.com/guide/7644-monopoly-family-fun-pack-trophy-guide) | 3/10 | 5 |  | 17,092 | 4/5 | 5 | 7 |
+| [The Outer Worlds](https://psnprofiles.com/guide/12333-the-outer-worlds-murder-on-eridanos-dlc-trophy-guide) | 3/10 | 5 |  | 30,828 | 5/5 | 12 | 15 |
+| [Bard's Gold](https://psnprofiles.com/guide/4712-bards-gold-trophy-guide) | 3/10 | 5 |  | 15,577 | 4/5 | 5 | 12 |
+| [Mahjong](https://psnprofiles.com/guide/8904-mahjong-trophy-guide) | 3/10 | 5 |  | 12,211 | 4/5 | 8 | 6 |
+| [Naughty Bear](https://psnprofiles.com/guide/10427-naughty-bear-episode-9-the-treasure-of-bear-beard-dlc-trophy-guide) | 3/10 | 5 |  | 3,685 |  | 0 | 0 |
+| [Battlefield 1](https://psnprofiles.com/guide/7433-battlefield-1-turning-tides-dlc-trophy-guide) | 3/10 | 5 |  | 33,390 | 4/5 | 9 | 17 |
+| [ToeJam & Earl](https://psnprofiles.com/guide/1885-toejam-earl-trophy-guide) | 3/10 | 5 |  | 3,635 |  | 0 | 8 |
+| [Titan Quest](https://psnprofiles.com/guide/10455-titan-quest-atlantis-dlc-trophy-guide) | 3/10 | 5 |  | 9,144 |  | 0 | 1 |
+| [Viewfinder](https://psnprofiles.com/guide/17212-viewfinder-trophy-guide) | 3/10 | 5 |  | 20,442 | 5/5 | 5 | 24 |
+| [Sniper Elite 4](https://psnprofiles.com/guide/12370-sniper-elite-4-target-fuhrer-dlc-trophy-guide) | 3/10 | 5 |  | 20,513 | 5/5 | 6 | 4 |
+| [LittleBigPlanet 2](https://psnprofiles.com/guide/4703-littlebigplanet-2-cross-controller-dlc-trophy-guide) | 3/10 | 5 |  | 7,147 |  | 0 | 8 |
+| [Assassin's Creed Unity](https://psnprofiles.com/guide/2387-assassins-creed-unity-dead-kings-dlc-trophy-guide) | 3/10 | 5 |  | 50,662 | 5/5 | 25 | 61 |
+| [Far Cry 6](https://psnprofiles.com/guide/16007-far-cry-6-lost-between-worlds-dlc-trophy-guide) | 3/10 | 5 |  | 18,962 |  | 0 | 8 |
+| [Far Cry 6](https://psnprofiles.com/guide/13919-far-cry-6-pagan-control-dlc-trophy-guide) | 3/10 | 5 |  | 21,965 |  | 0 | 11 |
+| [Gravity Rush 2](https://psnprofiles.com/guide/5975-gravity-rush-2-another-story-the-ark-of-time-ravens-choice-dlc-trophy-guide) | 3/10 | 5 |  | 39,741 | 4/5 | 17 | 20 |
+| [Marvel's Midnight Suns](https://psnprofiles.com/guide/16484-marvels-midnight-suns-marvels-midnight-suns-redemption-dlc-trophy-guide) | 3/10 | 5 |  | 9,836 |  | 0 | 5 |
+| [The Long Dark](https://psnprofiles.com/guide/15355-the-long-dark-episode-4-fury-then-silence-dlc-trophy-guide) | 3/10 | 5 |  | 3,701 |  | 0 | 2 |
+| [BioShock Infinite](https://psnprofiles.com/guide/6888-bioshock-infinite-burial-at-sea-episode-1-dlc-trophy-guide) | 3/10 | 5 |  | 21,229 | 5/5 | 18 | 29 |
+| [Sonic The Hedgehog 4: Episode II](https://psnprofiles.com/guide/2592-sonic-the-hedgehog-4-episode-ii-trophy-guide) | 3/10 | 5 |  | 10,442 |  | 0 | 11 |
+| [Dead by Daylight](https://psnprofiles.com/guide/19050-dead-by-daylight-all-things-wicked-chapter-dlc-trophy-guide) | 3/10 | 5 |  | 1,586 |  | 0 | 2 |
+| [Wasteland 3](https://psnprofiles.com/guide/17326-wasteland-3-the-cult-of-the-holy-detonation-dlc-trophy-guide) | 3/10 | 5 |  | 2,438 |  | 0 | 1 |
+| [The Escapists 2](https://psnprofiles.com/guide/7334-the-escapists-2-wicked-ward-dlc-trophy-guide) | 3/10 | 5 |  | 13,389 |  | 0 | 8 |
+| [Just Cause 4](https://psnprofiles.com/guide/8976-just-cause-4-danger-rising-dlc-trophy-guide) | 3/10 | 5 |  | 25,745 | 5/5 | 11 | 9 |
+| [LittleBigPlanet 3](https://psnprofiles.com/guide/13921-littlebigplanet-3-the-journey-home-dlc-trophy-guide) | 3/10 | 5 |  | 8,674 | 4/5 | 8 | 5 |
+| [Final Fantasy XVI](https://psnprofiles.com/guide/18222-final-fantasy-xvi-echoes-of-the-fallen-dlc-trophy-guide) | 3/10 | 5 |  | 74,495 | 5/5 | 47 | 53 |
+| [Battlefield 3](https://psnprofiles.com/guide/7032-battlefield-3-end-game-dlc-trophy-guide) | 3/10 | 5 |  | 8,137 |  | 0 | 7 |
+| [Touhou Hyouibana: Antinomy of Common Flowers](https://psnprofiles.com/guide/12101-touhou-hyouibana-antinomy-of-common-flowers-trophy-guide) | 3/10 | 5 |  | 5,446 |  | 0 | 2 |
+| [Claws of Furry](https://psnprofiles.com/guide/7864-claws-of-furry-trophy-guide) | 3/10 | 5 |  | 2,788 |  | 0 | 0 |
+| [Maneater](https://psnprofiles.com/guide/15024-maneater-truth-quest-dlc-trophy-guide) | 3/10 | 5 |  | 23,501 | 5/5 | 11 | 18 |
+| [World of Tanks](https://psnprofiles.com/guide/8168-world-of-tanks-war-stories-dlc-trophy-guide) | 3/10 | 5 |  | 3,615 |  | 0 | 0 |
+| [Just Cause 4](https://psnprofiles.com/guide/8925-just-cause-4-dare-devils-of-destruction-dlc-trophy-guide) | 3/10 | 6 |  | 24,005 | 5/5 | 12 | 7 |
+| [Max Payne 3](https://psnprofiles.com/guide/886-max-payne-3-local-justice-dlc-trophy-guide) | 3/10 | 6 |  | 7,870 |  | 0 | 6 |
+| [The Simpsons Arcade Game](https://psnprofiles.com/guide/6461-the-simpsons-arcade-game-trophy-guide) | 3/10 | 6 |  | 10,241 |  | 0 | 13 |
+| [Call of Duty: Ghosts](https://psnprofiles.com/guide/10095-call-of-duty-ghosts-call-of-duty-ghosts-devastation-dlc-trophy-guide) | 3/10 | 6 |  | 15,954 |  | 0 | 6 |
+| [Jurassic World Evolution](https://psnprofiles.com/guide/12841-jurassic-world-evolution-return-to-jurassic-park-dlc-trophy-guide) | 3/10 | 6 |  | 9,984 | 5/5 | 8 | 6 |
+| [inFamous: Festival of Blood](https://psnprofiles.com/guide/2442-infamous-festival-of-blood-trophy-guide) | 3/10 | 6 |  | 41,771 | 5/5 | 22 | 59 |
+| [Hitman 2 • Additional Expansions](https://psnprofiles.com/guide/10605-hitman-2-additional-expansions-hitman-2-haven-island-dlc-trophy-guide) | 3/10 | 6 |  | 16,161 | 4/5 | 8 | 8 |
+| [Foamstars](https://psnprofiles.com/guide/19010-foamstars-heroes-of-bath-vegas-dlc-trophy-guide) | 3/10 | 6 |  | 2,131 |  | 0 | 3 |
+| [Hitman 2](https://psnprofiles.com/guide/10561-hitman-2-trophy-guide) | 3/10 | 6 |  | 101,943 | 5/5 | 13 | 65 |
+| [Outlast](https://psnprofiles.com/guide/889-outlast-whistleblower-dlc-trophy-guide) | 3/10 | 6 |  | 22,808 | 5/5 | 6 | 36 |
+| [Hitman 2](https://psnprofiles.com/guide/10807-hitman-2-hitman-legacy-bangkok-dlc-trophy-guide) | 3/10 | 6 |  | 7,601 | 4/5 | 6 | 6 |
+| [Far Cry 5](https://psnprofiles.com/guide/7601-far-cry-5-lost-on-mars-dlc-trophy-guide) | 3/10 | 6 |  | 39,199 | 5/5 | 23 | 34 |
+| [Hitman 2](https://psnprofiles.com/guide/10805-hitman-2-hitman-legacy-marrakesh-dlc-trophy-guide) | 3/10 | 6 |  | 7,599 | 3/5 | 5 | 6 |
+| [Marvel's Midnight Suns](https://psnprofiles.com/guide/16758-marvels-midnight-suns-marvels-midnight-suns-blood-storm-dlc-trophy-guide) | 3/10 | 6 |  | 10,026 |  | 0 | 4 |
+| [Hitman 2](https://psnprofiles.com/guide/10721-hitman-2-hitman-legacy-paris-dlc-trophy-guide) | 3/10 | 6 |  | 9,527 | 4/5 | 6 | 6 |
+| [Hitman 2](https://psnprofiles.com/guide/10565-hitman-2-miami-dlc-trophy-guide) | 3/10 | 6 |  | 21,448 | 5/5 | 9 | 11 |
+| [Hitman 2](https://psnprofiles.com/guide/10562-hitman-2-hawkes-bay-dlc-trophy-guide) | 3/10 | 6 |  | 26,189 | 5/5 | 11 | 15 |
+| [Hitman 2](https://psnprofiles.com/guide/10568-hitman-2-santa-fortuna-dlc-trophy-guide) | 3/10 | 6 |  | 15,186 | 4/5 | 6 | 9 |
+| [Guns, Gore & Cannoli](https://psnprofiles.com/guide/5110-guns-gore-cannoli-trophy-guide) | 3/10 | 6 |  | 17,867 | 5/5 | 7 | 19 |
+| [Hitman 2](https://psnprofiles.com/guide/10806-hitman-2-hitman-legacy-bonus-missions-dlc-trophy-guide) | 3/10 | 6 |  | 10,002 | 4/5 | 5 | 6 |
+| [Hitman 2](https://psnprofiles.com/guide/10800-hitman-2-mumbai-dlc-trophy-guide) | 3/10 | 6 |  | 13,689 | 5/5 | 6 | 8 |
+| [Minecraft](https://psnprofiles.com/guide/14897-minecraft-expansion-3-dlc-trophy-guide) | 3/10 | 6 |  | 8,731 | 5/5 | 5 | 5 |
+| [Battlefield 3](https://psnprofiles.com/guide/2838-battlefield-3-close-quarters-dlc-trophy-guide) | 3/10 | 6 |  | 10,081 | 5/5 | 6 | 11 |
+| [The Long Dark](https://psnprofiles.com/guide/15354-the-long-dark-episode-3-crossroads-elegy-dlc-trophy-guide) | 3/10 | 6 |  | 3,352 |  | 0 | 2 |
+| [Hitman 2](https://psnprofiles.com/guide/10808-hitman-2-hitman-legacy-colorado-dlc-trophy-guide) | 3/10 | 6 |  | 7,499 | 3/5 | 5 | 6 |
+| [Hitman 2](https://psnprofiles.com/guide/10804-hitman-2-hitman-legacy-sapienza-dlc-trophy-guide) | 3/10 | 6 |  | 8,352 | 4/5 | 6 | 7 |
+| [Stranger of Paradise: Final Fantasy Origin](https://psnprofiles.com/guide/14881-stranger-of-paradise-final-fantasy-origin-trials-of-the-dragon-king-dlc-trophy-guide) | 3/10 | 6 |  | 32,605 | 4/5 | 13 | 12 |
+| [Assassin's Creed Origins](https://psnprofiles.com/guide/6987-assassins-creed-origins-assassins-creed-origins-the-hidden-ones-dlc-trophy-guide) | 3/10 | 6 |  | 66,749 | 5/5 | 36 | 52 |
+| [Hitman 2](https://psnprofiles.com/guide/10802-hitman-2-isle-of-sg%C3%A0il-dlc-trophy-guide) | 3/10 | 6 |  | 13,942 | 4/5 | 5 | 6 |
+| [Wasteland 3](https://psnprofiles.com/guide/17325-wasteland-3-the-battle-of-steeltown-dlc-trophy-guide) | 3/10 | 6 |  | 2,127 |  | 0 | 1 |
+| [Hitman 2 • Additional Expansions](https://psnprofiles.com/guide/10603-hitman-2-additional-expansions-hitman-2-new-york-dlc-trophy-guide) | 3/10 | 6 |  | 14,290 | 4/5 | 5 | 7 |
+| [Hitman 2](https://psnprofiles.com/guide/10801-hitman-2-whittleton-creek-dlc-trophy-guide) | 3/10 | 6 |  | 12,002 | 4/5 | 8 | 6 |
+| [Hitman 2](https://psnprofiles.com/guide/10613-hitman-2-hitman-legacy-hokkaido-dlc-trophy-guide) | 3/10 | 6 |  | 7,949 |  | 0 | 6 |
+| [Fallout 3](https://psnprofiles.com/guide/1295-fallout-3-mothership-zeta-dlc-trophy-guide) | 3/10 | 7 |  | 13,152 | 5/5 | 12 | 21 |
+| [Resident Evil: Operation Raccoon City](https://psnprofiles.com/guide/7273-resident-evil-operation-raccoon-city-echo-six-expansion-1-dlc-trophy-guide) | 3/10 | 7 |  | 10,402 | 5/5 | 6 | 6 |
+| [Resident Evil: Operation Raccoon City](https://psnprofiles.com/guide/7274-resident-evil-operation-raccoon-city-echo-six-expansion-2-dlc-trophy-guide) | 3/10 | 7 |  | 10,196 |  | 0 | 4 |
+| [Dead by Daylight](https://psnprofiles.com/guide/7603-dead-by-daylight-curtain-call-chapter-dlc-trophy-guide) | 3/10 | 7 |  | 11,661 |  | 0 | 6 |
+| [Gang Beasts](https://psnprofiles.com/guide/9537-gang-beasts-trophy-guide) | 3/10 | 7 |  | 37,776 | 4/5 | 6 | 29 |
+| [WWE 2K Battlegrounds](https://psnprofiles.com/guide/11651-wwe-2k-battlegrounds-trophy-guide) | 3/10 | 7 |  | 65,526 | 4/5 | 22 | 36 |
+| [Borderlands 3](https://psnprofiles.com/guide/10436-borderlands-3-bounty-of-blood-dlc-trophy-guide) | 3/10 | 7 |  | 38,047 | 5/5 | 17 | 17 |
+| [Borderlands 3](https://psnprofiles.com/guide/9473-borderlands-3-moxxis-heist-of-the-handsome-jackpot-dlc-trophy-guide) | 3/10 | 7 |  | 47,407 | 5/5 | 24 | 26 |
+| [Daylight](https://psnprofiles.com/guide/935-daylight-trophy-guide) | 3/10 | 7 |  | 9,603 |  | 0 | 10 |
+| [Anodyne](https://psnprofiles.com/guide/10312-anodyne-trophy-guide) | 3/10 | 7 |  | 29,432 | 5/5 | 7 | 14 |
+| [Castle Invasion: Throne Out](https://psnprofiles.com/guide/6103-castle-invasion-throne-out-trophy-guide) | 3/10 | 7 |  | 6,693 | 4/5 | 7 | 2 |
+| [Rise of the Tomb Raider](https://psnprofiles.com/guide/5479-rise-of-the-tomb-raider-endurance-dlc-trophy-guide) | 3/10 | 7 |  | 58,373 | 4/5 | 26 | 39 |
+| [Who Wants To Be A Millionaire?](https://psnprofiles.com/guide/5060-who-wants-to-be-a-millionaire-trophy-guide) | 3/10 | 7 |  | 9,374 |  | 0 | 6 |
+| [Borderlands 2](https://psnprofiles.com/guide/13287-borderlands-2-tiny-tinas-assault-on-dragon-keep-dlc-trophy-guide) | 3/10 | 7 |  | 13,775 | 5/5 | 10 | 6 |
+| [Valiant Hearts: The Great War](https://psnprofiles.com/guide/2989-valiant-hearts-the-great-war-trophy-guide) | 3/10 | 8 |  | 57,579 | 4/5 | 26 | 112 |
+| [Assassin's Creed Odyssey](https://psnprofiles.com/guide/8956-assassins-creed-odyssey-the-fate-of-atlantis-episode-1-dlc-trophy-guide) | 3/10 | 8 |  | 77,777 | 5/5 | 19 | 25 |
+| [Assassin's Creed Odyssey](https://psnprofiles.com/guide/8964-assassins-creed-odyssey-the-fate-of-atlantis-episode-2-dlc-trophy-guide) | 3/10 | 8 |  | 60,434 | 5/5 | 13 | 23 |
+| [Fast Draw Showdown](https://psnprofiles.com/guide/9014-fast-draw-showdown-trophy-guide) | 3/10 | 8 |  | 2,005 |  | 0 | 1 |
+| [De-Exit: Eternal Matters](https://psnprofiles.com/guide/16812-de-exit-eternal-matters-trophy-guide) | 3/10 | 8 | Trophies Earned | 2,132 |  | 0 | 4 |
+| [Mafia III](https://psnprofiles.com/guide/6309-mafia-iii-sign-of-the-times-dlc-trophy-guide) | 3/10 | 8 |  | 36,487 | 5/5 | 19 | 18 |
+| [Assassin's Creed Odyssey](https://psnprofiles.com/guide/9971-assassins-creed-odyssey-additional-feats-dlc-trophy-guide) | 3/10 | 8 |  | 76,582 | 5/5 | 21 | 24 |
+| [Tower of Guns](https://psnprofiles.com/guide/2724-tower-of-guns-trophy-guide) | 3/10 | 8 |  | 15,073 | 5/5 | 5 | 47 |
+| [Cuboid](https://psnprofiles.com/guide/16022-cuboid-trophy-guide) | 3/10 | 8 |  | 1,504 |  | 0 | 1 |
+| [Devil May Cry 5](https://psnprofiles.com/guide/8954-devil-may-cry-5-bloody-palace-dlc-trophy-guide) | 3/10 | 8 |  | 20,059 | 2/5 | 11 | 4 |
+| [Battleborn](https://psnprofiles.com/guide/7640-battleborn-new-recruits-dlc-trophy-guide) | 3/10 | 8 |  | 3,536 | 5/5 | 5 | 3 |
+| [Minecraft](https://psnprofiles.com/guide/6864-minecraft-expansion-4-dlc-trophy-guide) | 3/10 | 8 |  | 28,711 | 4/5 | 12 | 9 |
+| [Plants vs. Zombies: Garden Warfare 2](https://psnprofiles.com/guide/8704-plants-vs-zombies-garden-warfare-2-trials-of-gnomus-dlc-trophy-guide) | 3/10 | 8 |  | 21,254 | 3/5 | 13 | 9 |
+| [Assassin's Creed Odyssey](https://psnprofiles.com/guide/8969-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-dlc-trophy-guide) | 3/10 | 8 |  | 65,858 | 5/5 | 15 | 24 |
+| [Honkai: Star Rail](https://psnprofiles.com/guide/18717-honkai-star-rail-star-rail-volume-three-dlc-trophy-guide) | 3/10 | 8 |  | 2,972 |  | 0 | 6 |
+| [Grand Theft Auto V](https://psnprofiles.com/guide/3345-grand-theft-auto-v-rockstar-editor-dlc-trophy-guide) | 3/10 | 8 |  | 92,672 | 5/5 | 29 | 87 |
+| [Shantae](https://psnprofiles.com/guide/16958-shantae-trophy-guide) | 3/10 | 8 |  | 7,275 |  | 0 | 12 |
+| [Lost Judgment](https://psnprofiles.com/guide/17807-lost-judgment-the-kaito-files-dlc-trophy-guide) | 3/10 | 8 |  | 3,927 |  | 0 | 3 |
+| [Marvel's Spider-Man](https://psnprofiles.com/guide/8411-marvels-spider-man-new-game-dlc-trophy-guide) | 3/10 | 8 |  | 100,366 | 4/5 | 39 | 60 |
+| [Papers, Please](https://psnprofiles.com/guide/6787-papers-please-trophy-guide) | 3/10 | 9 |  | 44,263 | 5/5 | 26 | 42 |
+| [Out of Space](https://psnprofiles.com/guide/19202-out-of-space-trophy-guide) | 3/10 | 10 |  | 523 |  | 0 | 2 |
+| [Railway Empire](https://psnprofiles.com/guide/18464-railway-empire-great-britain-and-ireland-dlc-trophy-guide) | 3/10 | 10 |  | 661 |  | 0 | 0 |
+| [Airship Q](https://psnprofiles.com/guide/16467-airship-q-trophy-guide) | 3/10 | 10 |  | 923 |  | 0 | 3 |
+| [Violett](https://psnprofiles.com/guide/16115-violett-trophy-guide) | 3/10 | 10 |  | 4,678 |  | 0 | 2 |
+| [Need for Speed: Hot Pursuit](https://psnprofiles.com/guide/3033-need-for-speed-hot-pursuit-porsche-vs-lamborghini-dlc-trophy-guide) | 3/10 | 10 |  | 12,698 | 4/5 | 7 | 12 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/16960-dead-by-daylight-additional-chapters-dead-by-daylight-end-transmission-chapter-dlc-trophy-guide) | 3/10 | 10 |  | 3,182 |  | 0 | 1 |
+| [Hitman](https://psnprofiles.com/guide/4502-hitman-sapienza-dlc-trophy-guide) | 3/10 | 10 |  | 26,647 | 4/5 | 21 | 22 |
+| [Borderlands](https://psnprofiles.com/guide/7312-borderlands-claptraps-new-robot-revolution-dlc-trophy-guide) | 3/10 | 10 |  | 44,950 | 5/5 | 9 | 22 |
+| [Stellaris](https://psnprofiles.com/guide/16946-stellaris-263-dlc-trophy-guide) | 3/10 | 10 |  | 1,125 |  | 0 | 0 |
+| [Horizon Zero Dawn](https://psnprofiles.com/guide/6671-horizon-zero-dawn-the-frozen-wilds-quests-dlc-trophy-guide) | 3/10 | 10 |  | 221,237 | 5/5 | 52 | 144 |
+| [Touch My Katamari](https://psnprofiles.com/guide/17482-touch-my-katamari-trophy-guide) | 3/10 | 10 |  | 3,452 |  | 0 | 8 |
+| [Ghost of Tsushima](https://psnprofiles.com/guide/11065-ghost-of-tsushima-new-game-dlc-trophy-guide) | 3/10 | 10 |  | 72,078 | 4/5 | 21 | 42 |
+| [Doom](https://psnprofiles.com/guide/15095-doom-expansion-3-dlc-trophy-guide) | 3/10 | 10 |  | 8,420 |  | 0 | 6 |
+| [Back 4 Blood](https://psnprofiles.com/guide/14470-back-4-blood-tunnels-of-terror-dlc-trophy-guide) | 3/10 | 10 |  | 12,134 | 4/5 | 8 | 3 |
+| [Cities: Skylines](https://psnprofiles.com/guide/11765-cities-skylines-industries-dlc-trophy-guide) | 3/10 | 10 |  | 11,258 | 5/5 | 6 | 6 |
+| [CounterSpy](https://psnprofiles.com/guide/6662-counterspy-trophy-guide) | 3/10 | 10 |  | 11,644 |  | 0 | 11 |
+| [Doom](https://psnprofiles.com/guide/15083-doom-expansion-1-dlc-trophy-guide) | 3/10 | 10 |  | 12,018 |  | 0 | 6 |
+| [Horizon Zero Dawn](https://psnprofiles.com/guide/6672-horizon-zero-dawn-the-frozen-wilds-feats-dlc-trophy-guide) | 3/10 | 10 |  | 95,699 | 5/5 | 52 | 85 |
+| [Battlefield: Bad Company 2](https://psnprofiles.com/guide/16625-battlefield-bad-company-2-specact-dlc-trophy-guide) | 3/10 | 10 |  | 3,718 |  | 0 | 2 |
+| [Star Wars Battlefront](https://psnprofiles.com/guide/4134-star-wars-battlefront-outer-rim-dlc-trophy-guide) | 3/10 | 10 |  | 15,428 | 4/5 | 11 | 21 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/10377-dead-by-daylight-additional-chapters-dead-by-daylight-silent-hill-chapter-dlc-trophy-guide) | 3/10 | 10 |  | 9,677 |  | 0 | 0 |
+| [Outer Wilds](https://psnprofiles.com/guide/13085-outer-wilds-echoes-of-the-eye-dlc-trophy-guide) | 3/10 | 10 |  | 33,588 |  | 0 | 8 |
+| [The Outer Worlds](https://psnprofiles.com/guide/13491-the-outer-worlds-peril-on-gorgon-dlc-trophy-guide) | 3/10 | 10 |  | 26,862 | 4/5 | 9 | 14 |
+| [I Am Alive](https://psnprofiles.com/guide/7058-i-am-alive-trophy-guide) | 3/10 | 10 |  | 11,853 |  | 0 | 18 |
+| [Watch Dogs](https://psnprofiles.com/guide/2102-watch-dogs-bad-blood-dlc-trophy-guide) | 3/10 | 10 |  | 43,076 | 5/5 | 17 | 35 |
+| [Hitman](https://psnprofiles.com/guide/4860-hitman-bangkok-dlc-trophy-guide) | 3/10 | 10 |  | 21,652 | 5/5 | 8 | 16 |
+| [Dead Rising 4](https://psnprofiles.com/guide/12448-dead-rising-4-capcom-heroes-dlc-trophy-guide) | 3/10 | 10 |  | 6,261 |  | 0 | 0 |
+| [Darksiders III](https://psnprofiles.com/guide/8609-darksiders-iii-new-game-plus-dlc-trophy-guide) | 3/10 | 10 |  | 30,026 | 5/5 | 10 | 11 |
+| [Call of Duty: Black Ops 4](https://psnprofiles.com/guide/13551-call-of-duty-black-ops-4-tag-der-toten-dlc-trophy-guide) | 3/10 | 10 |  | 11,186 |  | 0 | 4 |
+| [Call of Duty: Black Ops II](https://psnprofiles.com/guide/9890-call-of-duty-black-ops-ii-uprising-dlc-trophy-guide) | 3/10 | 10 |  | 9,758 |  | 0 | 4 |
+| [Assassin's Creed Revelations](https://psnprofiles.com/guide/13863-assassins-creed-revelations-multiplayer-character-dlc-trophy-guide) | 3/10 | 10 |  | 10,759 | 5/5 | 8 | 2 |
+| [Battlefield: Bad Company 2](https://psnprofiles.com/guide/15046-battlefield-bad-company-2-vietnam-dlc-trophy-guide) | 3/10 | 10 |  | 8,422 |  | 0 | 3 |
+| [Crysis 3](https://psnprofiles.com/guide/10207-crysis-3-lost-islands-dlc-trophy-guide) | 3/10 | 10 |  | 7,513 | 5/5 | 6 | 3 |
+| [Hitman](https://psnprofiles.com/guide/4743-hitman-paris-dlc-trophy-guide) | 3/10 | 10 |  | 34,521 | 5/5 | 18 | 25 |
+| [Minecraft](https://psnprofiles.com/guide/6198-minecraft-expansion-6-dlc-trophy-guide) | 3/10 | 10 |  | 29,733 | 4/5 | 13 | 17 |
+| [Hitman](https://psnprofiles.com/guide/4742-hitman-trophy-guide) | 3/10 | 10 |  | 52,617 | 5/5 | 21 | 99 |
+| [Z-Run](https://psnprofiles.com/guide/8486-z-run-trophy-guide) | 3/10 | 10 |  | 2,276 |  | 0 | 2 |
+| [Organ Trail Complete](https://psnprofiles.com/guide/3477-organ-trail-complete-trophy-guide) | 3/10 | 10 |  | 5,502 | 4/5 | 5 | 11 |
+| [Borderlands 3](https://psnprofiles.com/guide/9925-borderlands-3-guns-love-and-tentacles-dlc-trophy-guide) | 3/10 | 10 |  | 58,383 | 5/5 | 28 | 26 |
+| [Minecraft](https://psnprofiles.com/guide/8285-minecraft-expansion-8-dlc-trophy-guide) | 3/10 | 10 |  | 23,664 | 4/5 | 15 | 11 |
+| [Hitman](https://psnprofiles.com/guide/5672-hitman-colorado-dlc-trophy-guide) | 3/10 | 10 |  | 21,299 | 5/5 | 8 | 15 |
+| [Stellaris](https://psnprofiles.com/guide/16949-stellaris-distant-stars-dlc-trophy-guide) | 3/10 | 10 |  | 1,095 |  | 0 | 0 |
+| [Hitman](https://psnprofiles.com/guide/5673-hitman-hokkaid%C5%8D-dlc-trophy-guide) | 3/10 | 10 |  | 18,233 | 5/5 | 9 | 16 |
+| [Hitman](https://psnprofiles.com/guide/4501-hitman-marrakesh-dlc-trophy-guide) | 3/10 | 10 |  | 22,013 | 4/5 | 11 | 20 |
+| [Call of Duty: Black Ops II](https://psnprofiles.com/guide/9889-call-of-duty-black-ops-ii-revolution-dlc-trophy-guide) | 3/10 | 10 |  | 11,046 |  | 0 | 6 |
+| [Dead by Daylight](https://psnprofiles.com/guide/6661-dead-by-daylight-a-nightmare-on-elm-street-chapter-dlc-trophy-guide) | 3/10 | 10 |  | 11,315 |  | 0 | 7 |
+| [Fallout 76](https://psnprofiles.com/guide/12485-fallout-76-steel-reign-dlc-trophy-guide) | 3/10 | 10 |  | 26,908 | 4/5 | 7 | 5 |
+| [Kane & Lynch 2: Dog Days](https://psnprofiles.com/guide/8480-kane-lynch-2-dog-days-doggie-bag-dlc-trophy-guide) | 3/10 | 10 |  | 5,897 |  | 0 | 3 |
+| [The Elder Scrolls V: Skyrim](https://psnprofiles.com/guide/4744-the-elder-scrolls-v-skyrim-dragonborn-dlc-trophy-guide) | 3/10 | 10 |  | 90,026 | 5/5 | 13 | 48 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/12369-dead-by-daylight-additional-chapters-dead-by-daylight-resident-evil-chapter-dlc-trophy-guide) | 3/10 | 10 |  | 6,175 |  | 0 | 2 |
+| [Stellaris](https://psnprofiles.com/guide/16886-stellaris-overlord-dlc-trophy-guide) | 3/10 | 10 |  | 1,876 |  | 0 | 1 |
+| [Marvel's Spider-Man 2](https://psnprofiles.com/guide/19591-marvels-spider-man-2-new-game-dlc-trophy-guide) | 3/10 | 11 |  | 5,564 | 3/5 | 27 | 2 |
+| [Royal Defense](https://psnprofiles.com/guide/8742-royal-defense-trophy-guide) | 3/10 | 12 |  | 4,798 |  | 0 | 1 |
+| [Borderlands](https://psnprofiles.com/guide/7300-borderlands-mad-moxxis-underdome-riot-dlc-trophy-guide) | 3/10 | 12 |  | 36,859 | 5/5 | 8 | 18 |
+| [Resident Evil 6](https://psnprofiles.com/guide/5143-resident-evil-6-survivors-dlc-trophy-guide) | 3/10 | 12 |  | 26,701 | 4/5 | 8 | 13 |
+| [Battlefield 4](https://psnprofiles.com/guide/8009-battlefield-4-china-rising-dlc-trophy-guide) | 3/10 | 12 |  | 21,626 | 4/5 | 6 | 6 |
+| [Child of Light](https://psnprofiles.com/guide/786-child-of-light-trophy-guide) | 3/10 | 12 |  | 79,190 | 5/5 | 39 | 197 |
+| [Felix The Reaper](https://psnprofiles.com/guide/15982-felix-the-reaper-trophy-guide) | 3/10 | 12 |   WARNING:  | 4,595 |  | 0 | 3 |
+| [Age of Wonders 4](https://psnprofiles.com/guide/18892-age-of-wonders-4-dragon-dawn-dlc-trophy-guide) | 3/10 | 15 |  | 682 |  | 0 | 1 |
+| [Poker Night at the Inventory 2](https://psnprofiles.com/guide/227-poker-night-at-the-inventory-2-trophy-guide) | 3/10 | 15 |  | 7,166 | 4/5 | 6 | 15 |
+| [Stellaris](https://psnprofiles.com/guide/16827-stellaris-303-dlc-trophy-guide) | 3/10 | 15 |  | 1,629 |  | 0 | 2 |
+| [World of Tanks](https://psnprofiles.com/guide/8155-world-of-tanks-heavyweight-dlc-trophy-guide) | 3/10 | 15 |  | 2,369 |  | 0 | 1 |
+| [Killzone Shadow Fall Intercept](https://psnprofiles.com/guide/9651-killzone-shadow-fall-intercept-trophy-guide) | 3/10 | 15 |  | 11,838 |  | 0 | 6 |
+| [Ape Escape 2](https://psnprofiles.com/guide/4986-ape-escape-2-trophy-guide) | 3/10 | 15 |  | 39,575 | 5/5 | 8 | 38 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/14039-dead-by-daylight-additional-chapters-dead-by-daylight-sadako-rising-chapter-dlc-trophy-guide) | 3/10 | 15 |  | 8,092 |  | 0 | 1 |
+| [Tron RUN/r](https://psnprofiles.com/guide/16380-tron-runr-trophy-guide) | 3/10 | 15 |  | 6,551 |  | 0 | 3 |
+| [Hitman 3](https://psnprofiles.com/guide/11555-hitman-3-hitman-dlc-trophy-guide) | 3/10 | 15 |  | 11,400 |  | 0 | 7 |
+| [Twisted Metal: Black](https://psnprofiles.com/guide/5362-twisted-metal-black-trophy-guide) | 3/10 | 15 |  | 34,693 | 4/5 | 7 | 22 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/16853-dead-by-daylight-additional-chapters-dead-by-daylight-tools-of-torment-chapter-dlc-trophy-guide) | 3/10 | 15 |  | 3,364 |  | 0 | 3 |
+| [Pac-Man 256](https://psnprofiles.com/guide/16234-pac-man-256-trophy-guide) | 3/10 | 15 |  | 4,930 |  | 0 | 5 |
+| [Anna: Extended Edition](https://psnprofiles.com/guide/5739-anna-extended-edition-trophy-guide) | 3/10 | 15 |  | 15,270 |  | 0 | 23 |
+| [Trove](https://psnprofiles.com/guide/17310-trove-adventures-dlc-trophy-guide) | 3/10 | 15 |  | 1,143 |  | 0 | 0 |
+| [ねぷねぷ☆コネクト カオスチャンプル](https://psnprofiles.com/guide/7532-%E3%81%AD%E3%81%B7%E3%81%AD%E3%81%B7%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-%E3%82%AB%E3%82%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%97%E3%83%AB-trophy-guide) | 3/10 | 15 |  | 3,072 |  | 0 | 2 |
+| [Helldivers](https://psnprofiles.com/guide/3043-helldivers-turning-up-the-heat-dlc-trophy-guide) | 3/10 | 15 |  | 10,926 | 4/5 | 7 | 6 |
+| [Moving Out 2](https://psnprofiles.com/guide/17939-moving-out-2-trophy-guide) | 3/10 | 15 | completely solo | 34,838 | 5/5 | 11 | 35 |
+| [Beyond Good & Evil HD](https://psnprofiles.com/guide/3526-beyond-good-evil-hd-trophy-guide) | 3/10 | 15 |  | 17,279 | 5/5 | 12 | 65 |
+| [Plants vs. Zombies](https://psnprofiles.com/guide/6077-plants-vs-zombies-trophy-guide) | 3/10 | 15 |  | 26,995 | 4/5 | 8 | 23 |
+| [Rocket League](https://psnprofiles.com/guide/4576-rocket-league-neo-tokyo-dlc-trophy-guide) | 3/10 | 15 |  | 48,256 | 4/5 | 20 | 35 |
+| [Red Dead Redemption](https://psnprofiles.com/guide/265-red-dead-redemption-undead-nightmare-dlc-trophy-guide) | 3/10 | 15 |  | 70,221 | 4/5 | 21 | 73 |
+| [Shadow Blade: Reload](https://psnprofiles.com/guide/8124-shadow-blade-reload-trophy-guide) | 3/10 | 15 |  | 3,280 |  | 0 | 1 |
+| [Duke Nukem 3D: Megaton Edition](https://psnprofiles.com/guide/2233-duke-nukem-3d-megaton-edition-trophy-guide) | 3/10 | 15 |  | 17,417 | 5/5 | 6 | 36 |
+| [Dead by Daylight](https://psnprofiles.com/guide/6859-dead-by-daylight-winter-solstice-dlc-trophy-guide) | 3/10 | 15 |  | 8,326 | 4/5 | 5 | 7 |
+| [Guns Up!](https://psnprofiles.com/guide/3744-guns-up-trophy-guide) | 3/10 | 15 |  | 22,491 | 5/5 | 9 | 29 |
+| [Sonic Adventure](https://psnprofiles.com/guide/6786-sonic-adventure-dx-dlc-trophy-guide) | 3/10 | 15 |  | 7,101 | 5/5 | 6 | 10 |
+| [Godfall](https://psnprofiles.com/guide/13005-godfall-lightbringer-dlc-trophy-guide) | 3/10 | 15 |  | 10,262 |  | 0 | 3 |
+| [Killzone Shadow Fall](https://psnprofiles.com/guide/9592-killzone-shadow-fall-intercept-expansion-dlc-trophy-guide) | 3/10 | 15 |  | 15,077 | 5/5 | 7 | 3 |
+| [Chronus Arc](https://psnprofiles.com/guide/8585-chronus-arc-trophy-guide) | 3/10 | 15 |  | 5,944 |  | 0 | 3 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/13967-assassins-creed-valhalla-dawn-of-ragnar%C3%B6k-dlc-trophy-guide) | 3/10 | 15 |  | 55,732 | 5/5 | 9 | 20 |
+| [Neon Chrome](https://psnprofiles.com/guide/6322-neon-chrome-trophy-guide) | 3/10 | 15 |  | 26,569 | 5/5 | 6 | 34 |
+| [Warframe](https://psnprofiles.com/guide/17548-warframe-update-32-dlc-trophy-guide) | 3/10 | 15 |  | 2,856 |  | 0 | 1 |
+| [Warhammer 40,000: Inquisitor - Martyr](https://psnprofiles.com/guide/14580-warhammer-40000-inquisitor-martyr-expansion-prophecy-dlc-trophy-guide) | 3/10 | 15 |  | 5,544 |  | 0 | 2 |
+| [Dying Light](https://psnprofiles.com/guide/5231-dying-light-the-following-dlc-trophy-guide) | 3/10 | 15 |  | 43,512 | 5/5 | 16 | 33 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/12226-assassins-creed-valhalla-wrath-of-the-druids-dlc-trophy-guide) | 3/10 | 15 |  | 69,088 | 5/5 | 13 | 24 |
+| [Genshin Impact](https://psnprofiles.com/guide/12103-genshin-impact-trophy-series-ii-dlc-trophy-guide) | 3/10 | 15 |  | 12,191 |  | 0 | 5 |
+| [Hell Let Loose](https://psnprofiles.com/guide/19053-hell-let-loose-british-forces-dlc-trophy-guide) | 3/10 | 16 |  | 850 |  | 0 | 1 |
+| [Hell Let Loose](https://psnprofiles.com/guide/19052-hell-let-loose-the-eastern-front-dlc-trophy-guide) | 3/10 | 16 |  | 947 |  | 0 | 1 |
+| [Age of Wonders: Planetfall](https://psnprofiles.com/guide/16728-age-of-wonders-planetfall-revelations-dlc-trophy-guide) | 3/10 | 16 |  | 1,593 |  | 0 | 1 |
+| [Tiny Troopers: Joint Ops](https://psnprofiles.com/guide/2359-tiny-troopers-joint-ops-trophy-guide) | 3/10 | 18 |  | 16,732 | 4/5 | 6 | 30 |
+| [theHunter: Call of the Wild](https://psnprofiles.com/guide/19319-thehunter-call-of-the-wild-yukon-valley-nature-reserve-dlc-trophy-guide) | 3/10 | 20 |  | 580 |  | 0 | 0 |
+| [Stellaris • Additional Expansions](https://psnprofiles.com/guide/18246-stellaris-additional-expansions-toxoids-dlc-trophy-guide) | 3/10 | 20 |  | 956 |  | 0 | 1 |
+| [Battlefield 1943](https://psnprofiles.com/guide/6722-battlefield-1943-trophy-guide) | 3/10 | 20 |  | 17,148 | 4/5 | 9 | 9 |
+| [Gems of War](https://psnprofiles.com/guide/4771-gems-of-war-crafting-update-dlc-trophy-guide) | 3/10 | 20 |  | 6,264 |  | 0 | 3 |
+| [In Space We Brawl](https://psnprofiles.com/guide/8029-in-space-we-brawl-trophy-guide) | 3/10 | 20 |  | 21,173 |  | 0 | 20 |
+| [Miraculous: Rise of the Sphinx](https://psnprofiles.com/guide/17504-miraculous-rise-of-the-sphinx-trophy-guide) | 3/10 | 20 |  | 7,709 |  | 0 | 3 |
+| [Magic: The Gathering - Duels of the Planeswalkers 2013](https://psnprofiles.com/guide/1891-magic-the-gathering-duels-of-the-planeswalkers-2013-trophy-guide) | 3/10 | 20 |  | 2,790 |  | 0 | 1 |
+| [Stellaris](https://psnprofiles.com/guide/16905-stellaris-federations-dlc-trophy-guide) | 3/10 | 20 |  | 1,780 |  | 0 | 0 |
+| [Cult of the Lamb](https://psnprofiles.com/guide/18647-cult-of-the-lamb-relics-of-the-old-faith-dlc-trophy-guide) | 3/10 | 20 |  | 4,812 |  | 0 | 4 |
+| [Pacific Rim](https://psnprofiles.com/guide/19166-pacific-rim-trophy-guide) | 3/10 | 20 |  | 1,584 |  | 0 | 0 |
+| [Surge Deluxe](https://psnprofiles.com/guide/326-surge-deluxe-trophy-guide) | 3/10 | 20 |  | 6,715 | 5/5 | 7 | 27 |
+| [Dungeons & Dragons: Chronicles of Mystara](https://psnprofiles.com/guide/14939-dungeons-dragons-chronicles-of-mystara-trophy-guide) | 3/10 | 20 |  | 5,121 |  | 0 | 7 |
+| [Kingdoms of Amalur: Re-Reckoning](https://psnprofiles.com/guide/13433-kingdoms-of-amalur-re-reckoning-fatesworn-dlc-trophy-guide) | 3/10 | 20 |  | 47,482 | 4/5 | 5 | 13 |
+| [Stellaris](https://psnprofiles.com/guide/16997-stellaris-megacorp-dlc-trophy-guide) | 3/10 | 20 |  | 1,463 |  | 0 | 0 |
+| [Stellaris](https://psnprofiles.com/guide/16945-stellaris-227-dlc-trophy-guide) | 3/10 | 20 |  | 1,567 |  | 0 | 0 |
+| [Cyberpunk 2077](https://psnprofiles.com/guide/17748-cyberpunk-2077-phantom-liberty-dlc-trophy-guide) | 3/10 | 20 |  | 81,746 | 5/5 | 19 | 62 |
+| [Fallout 4](https://psnprofiles.com/guide/4917-fallout-4-nuka-world-dlc-trophy-guide) | 3/10 | 20 |  | 119,093 | 4/5 | 40 | 68 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/9893-dead-by-daylight-additional-chapters-dead-by-daylight-chains-of-hate-chapter-dlc-trophy-guide) | 3/10 | 20 |  | 7,259 |  | 0 | 2 |
+| [Get Off My Lawn](https://psnprofiles.com/guide/2664-get-off-my-lawn-trophy-guide) | 3/10 | 20 |  | 11,934 | 4/5 | 9 | 13 |
+| [Eternal Ring](https://psnprofiles.com/guide/6178-eternal-ring-trophy-guide) | 3/10 | 20 |  | 7,594 |  | 0 | 7 |
+| [DC Universe Online](https://psnprofiles.com/guide/1025-dc-universe-online-dcuo-episode-fight-for-the-light-dlc-trophy-guide) | 3/10 | 20 |  | 7,886 |  | 0 | 4 |
+| [Super Animal Royale](https://psnprofiles.com/guide/12764-super-animal-royale-trophy-guide) | 3/10 | 20 |  | 18,709 | 5/5 | 9 | 6 |
+| [Warframe](https://psnprofiles.com/guide/8117-warframe-update-26-dlc-trophy-guide) | 3/10 | 20 |  | 9,608 | 4/5 | 9 | 5 |
+| [Battlefield 4](https://psnprofiles.com/guide/10025-battlefield-4-final-stand-dlc-trophy-guide) | 3/10 | 20 |  | 16,646 | 4/5 | 6 | 3 |
+| [Grand Theft Auto V](https://psnprofiles.com/guide/2615-grand-theft-auto-v-grand-theft-auto-online-heists-dlc-trophy-guide) | 3/10 | 20 |  | 76,177 | 5/5 | 20 | 90 |
+| [Stellaris](https://psnprofiles.com/guide/16998-stellaris-345-dlc-trophy-guide) | 3/10 | 20 |  | 1,466 |  | 0 | 1 |
+| [Magic: The Gathering - Duels of the Planeswalkers 2014](https://psnprofiles.com/guide/1993-magic-the-gathering-duels-of-the-planeswalkers-2014-trophy-guide) | 3/10 | 20 |  | 2,920 |  | 0 | 2 |
+| [Romance of the Three Kingdoms XIII](https://psnprofiles.com/guide/15857-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-dlc-trophy-guide) | 3/10 | 25 |  | 2,025 |  | 0 | 2 |
+| [Dead by Daylight](https://psnprofiles.com/guide/7875-dead-by-daylight-shattered-bloodlines-chapter-dlc-trophy-guide) | 3/10 | 25 |  | 9,631 |  | 0 | 7 |
+| [Mafia II](https://psnprofiles.com/guide/14446-mafia-ii-jimmys-vendetta-dlc-trophy-guide) | 3/10 | 25 |  | 28,731 | 5/5 | 6 | 17 |
+| [Risk of Rain](https://psnprofiles.com/guide/7282-risk-of-rain-trophy-guide) | 3/10 | 25 |  | 23,069 | 5/5 | 6 | 19 |
+| [Fat Princess: Piece of Cake](https://psnprofiles.com/guide/3479-fat-princess-piece-of-cake-trophy-guide) | 3/10 | 25 |  | 10,891 |  | 0 | 19 |
+| [Stellaris](https://psnprofiles.com/guide/18186-stellaris-lithoids-dlc-trophy-guide) | 3/10 | 30 |  | 903 |  | 0 | 1 |
+| [Stellaris](https://psnprofiles.com/guide/18185-stellaris-humanoids-dlc-trophy-guide) | 3/10 | 30 |  | 1,029 |  | 0 | 2 |
+| [Days Gone](https://psnprofiles.com/guide/9724-days-gone-new-game-dlc-trophy-guide) | 3/10 | 30 |  | 79,291 | 4/5 | 14 | 24 |
+| [Tom Clancy's The Division](https://psnprofiles.com/guide/7573-tom-clancys-the-division-expansion-i-underground-dlc-trophy-guide) | 3/10 | 30 |  | 17,140 |  | 0 | 11 |
+| [Vitamin Z](https://psnprofiles.com/guide/16480-vitamin-z-trophy-guide) | 3/10 | 30 |  | 1,332 |  | 0 | 2 |
+| [Stellaris](https://psnprofiles.com/guide/16931-stellaris-ancient-relics-dlc-trophy-guide) | 3/10 | 30 |  | 1,653 |  | 0 | 0 |
+| [Tom Clancy's The Division](https://psnprofiles.com/guide/6005-tom-clancys-the-division-expansion-iii-last-stand-dlc-trophy-guide) | 3/10 | 30 |  | 18,524 | 3/5 | 13 | 18 |
+| [Stellaris](https://psnprofiles.com/guide/18187-stellaris-necroids-dlc-trophy-guide) | 3/10 | 30 |  | 1,360 |  | 0 | 2 |
+| [Siralim 2](https://psnprofiles.com/guide/7618-siralim-2-trophy-guide) | 3/10 | 30 |  | 4,621 |  | 0 | 3 |
+| [Warhammer 40,000: Inquisitor - Martyr](https://psnprofiles.com/guide/14576-warhammer-40000-inquisitor-martyr-story-campaign-dlc-trophy-guide) | 3/10 | 30 |  | 4,981 |  | 0 | 2 |
+| [Street Fighter 6](https://psnprofiles.com/guide/16906-street-fighter-6-world-tour-dlc-trophy-guide) | 3/10 | 35 |  | 6,839 |  | 0 | 6 |
+| [Jetpack Joyride](https://psnprofiles.com/guide/3149-jetpack-joyride-trophy-guide) | 3/10 | 40 |  | 7,858 |  | 0 | 5 |
+| [Stellaris](https://psnprofiles.com/guide/18188-stellaris-aquatics-dlc-trophy-guide) | 3/10 | 40 |  | 1,026 |  | 0 | 1 |
+| [Stellaris](https://psnprofiles.com/guide/16796-stellaris-synthetic-dawn-dlc-trophy-guide) | 3/10 | 40 |  | 2,164 |  | 0 | 1 |
+| [Stellaris](https://psnprofiles.com/guide/16835-stellaris-leviathan-dlc-trophy-guide) | 3/10 | 40 |  | 2,131 |  | 0 | 1 |
+| [MLB The Show 20](https://psnprofiles.com/guide/9957-mlb-the-show-20-trophy-guide) | 3/10 | 40 | UNATTAINABLE NOTICE: | 34,098 | 4/5 | 10 | 14 |
+| [Stellaris](https://psnprofiles.com/guide/16834-stellaris-nemesis-dlc-trophy-guide) | 3/10 | 40 |  | 1,910 |  | 0 | 0 |
+| [Fallout 76](https://psnprofiles.com/guide/10057-fallout-76-wastelanders-dlc-trophy-guide) | 3/10 | 40 |  | 44,911 | 5/5 | 9 | 11 |
+| [Stellaris](https://psnprofiles.com/guide/18184-stellaris-353-dlc-trophy-guide) | 3/10 | 40 |  | 1,149 |  | 0 | 2 |
+| [Stellaris](https://psnprofiles.com/guide/16879-stellaris-utopia-dlc-trophy-guide) | 3/10 | 40 |  | 1,943 |  | 0 | 1 |
+| [Final Fantasy Crystal Chronicles](https://psnprofiles.com/guide/12472-final-fantasy-crystal-chronicles-trophy-guide) | 3/10 | 48 |  | 21,642 | 3/5 | 9 | 17 |
+| [My Universe: Pet Clinic Cats & Dogs](https://psnprofiles.com/guide/16235-my-universe-pet-clinic-cats-dogs-trophy-guide) | 3/10 | 50 |  | 1,794 |  | 0 | 2 |
+| [魔法少女大戦 ZANBATSU](https://psnprofiles.com/guide/18486-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%A4%A7%E6%88%A6-zanbatsu-trophy-guide) | 3/10 | 50 |  | 1,055 |  | 0 | 1 |
+| [DC Universe Online](https://psnprofiles.com/guide/5952-dc-universe-online-dcuo-episode-sons-of-trigon-dlc-trophy-guide) | 3/10 | 50 |  | 5,623 |  | 0 | 3 |
+| [Blacklight: Retribution](https://psnprofiles.com/guide/1147-blacklight-retribution-trophy-guide) | 3/10 | 60 |  | 28,516 | 4/5 | 16 | 50 |
+| [Apex Legends](https://psnprofiles.com/guide/8407-apex-legends-trophy-guide) | 3/10 | 75 |  | 66,821 | 4/5 | 28 | 48 |
+| [Divekick](https://psnprofiles.com/guide/8383-divekick-trophy-guide) | 3/10 | 75 |  | 11,525 |  | 0 | 12 |
+| [Dauntless](https://psnprofiles.com/guide/11255-dauntless-trophy-guide) | 3/10 | 80 |  | 37,690 | 4/5 | 5 | 20 |
+| [Fallout 76](https://psnprofiles.com/guide/15391-fallout-76-the-pitt-dlc-trophy-guide) | 3/10 | 100 |  | 17,533 | 4/5 | 12 | 9 |
+| [Battlefield Hardline](https://psnprofiles.com/guide/8214-battlefield-hardline-robbery-dlc-trophy-guide) | 3/10 | 100 |  | 8,184 |  | 0 | 5 |
+| [My Singing Monsters](https://psnprofiles.com/guide/2771-my-singing-monsters-trophy-guide) | 3/10 | 100 |  | 8,729 | 5/5 | 6 | 7 |
+| [Battlefield Hardline](https://psnprofiles.com/guide/6252-battlefield-hardline-criminal-activity-dlc-trophy-guide) | 3/10 | 500 |  | 12,665 | 4/5 | 5 | 8 |
+| [Orcs Must Die! Unchained](https://psnprofiles.com/guide/7094-orcs-must-die-unchained-trophy-guide) | 4/10 | 400 | 0.11% | 20,118 | 4/5 | 10 | 7 |
+| [Trove](https://psnprofiles.com/guide/16588-trove-trophy-guide) | 4/10 | 500 | 0.25% | 11,681 | 5/5 | 8 | 12 |
+| [Guns of Icarus Alliance](https://psnprofiles.com/guide/8299-guns-of-icarus-alliance-trophy-guide) | 4/10 | 150 | 0.35% | 5,301 |  | 0 | 7 |
+| [Firewall: Zero Hour](https://psnprofiles.com/guide/8003-firewall-zero-hour-trophy-guide) | 4/10 | 150 | 0.41% | 32,758 |  | 0 | 20 |
+| [Neverwinter](https://psnprofiles.com/guide/14398-neverwinter-trophy-guide) | 4/10 | 120 | 0.58% | 15,931 | 5/5 | 13 | 16 |
+| [Reus](https://psnprofiles.com/guide/6861-reus-trophy-guide) | 4/10 | 50 | 0.61% | 32,447 |  | 0 | 21 |
+| [Verdun](https://psnprofiles.com/guide/12221-verdun-trophy-guide) | 4/10 | 100 | 0.66% | 15,759 |  | 0 | 7 |
+| [Friday the 13th](https://psnprofiles.com/guide/6318-friday-the-13th-trophy-guide) | 4/10 | 200 | 0.66% | 97,598 | 4/5 | 21 | 76 |
+| [Fantasy Strike](https://psnprofiles.com/guide/14169-fantasy-strike-trophy-guide) | 4/10 | 10 | 0.73% | 10,908 | 5/5 | 6 | 13 |
+| [Red Faction: Guerrilla](https://psnprofiles.com/guide/14401-red-faction-guerrilla-trophy-guide) | 4/10 | 80 | 0.75% | 20,082 | 5/5 | 6 | 16 |
+| [Kung Fu Panda: Showdown of Legendary Legends](https://psnprofiles.com/guide/6180-kung-fu-panda-showdown-of-legendary-legends-trophy-guide) | 4/10 | 35 | 0.78% | 71,004 | 5/5 | 12 | 61 |
+| [Not For Broadcast](https://psnprofiles.com/guide/18808-not-for-broadcast-trophy-guide) | 4/10 | 35 | 0.83% | 2,831 |  | 0 | 6 |
+| [WWE 2K19](https://psnprofiles.com/guide/8200-wwe-2k19-trophy-guide) | 4/10 | 30 | 0.87% | 66,209 | 4/5 | 10 | 14 |
+| [Evolve](https://psnprofiles.com/guide/9503-evolve-trophy-guide) | 4/10 | 70 | 0.93% | 12,259 | 5/5 | 5 | 8 |
+| [Worms Battlegrounds](https://psnprofiles.com/guide/6940-worms-battlegrounds-trophy-guide) | 4/10 | 25 | 1.00% | 47,381 | 4/5 | 18 | 54 |
+| [PUBG: Battlegrounds](https://psnprofiles.com/guide/11897-pubg-battlegrounds-trophy-guide) | 4/10 | 80 | 1.13% | 21,633 | 5/5 | 10 | 22 |
+| [Brawlout](https://psnprofiles.com/guide/12125-brawlout-trophy-guide) | 4/10 | 25 | 1.17% | 19,309 | 5/5 | 7 | 11 |
+| [WWE 2K16](https://psnprofiles.com/guide/11669-wwe-2k16-trophy-guide) | 4/10 | 20 | 1.25% | 13,268 |  | 0 | 3 |
+| [Naruto to Boruto: Shinobi Striker](https://psnprofiles.com/guide/7859-naruto-to-boruto-shinobi-striker-trophy-guide) | 4/10 | 200 | 1.27% | 76,261 | 4/5 | 6 | 42 |
+| [プロ野球スピリッツ2015](https://psnprofiles.com/guide/6443-%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%842015-trophy-guide) | 4/10 | 130 | 1.28% | 2,367 |  | 0 | 2 |
+| [EA Sports FC 24](https://psnprofiles.com/guide/17925-ea-sports-fc-24-trophy-guide) | 4/10 | 80 | 1.30% | 41,286 | 5/5 | 8 | 32 |
+| [Worms Rumble](https://psnprofiles.com/guide/11744-worms-rumble-trophy-guide) | 4/10 | 100 | 1.34% | 33,757 | 5/5 | 10 | 16 |
+| [NHL 24](https://psnprofiles.com/guide/18714-nhl-24-trophy-guide) | 4/10 | 100 | 1.39% | 6,241 |  | 0 | 4 |
+| [Predator: Hunting Grounds](https://psnprofiles.com/guide/10070-predator-hunting-grounds-trophy-guide) | 4/10 | 150 | 1.39% | 105,980 | 4/5 | 22 | 45 |
+| [Mortal Kombat X](https://psnprofiles.com/guide/2732-mortal-kombat-x-trophy-guide) | 4/10 | 50 | 1.40% | 253,080 | 4/5 | 92 | 266 |
+| [Hell Let Loose](https://psnprofiles.com/guide/13674-hell-let-loose-trophy-guide) | 4/10 | 95 | 1.46% | 37,578 | 5/5 | 8 | 17 |
+| [NCAA Football 13](https://psnprofiles.com/guide/8515-ncaa-football-13-trophy-guide) | 4/10 | 34 | 1.53% | 5,988 |  | 0 | 0 |
+| [LEGO Worlds](https://psnprofiles.com/guide/7157-lego-worlds-trophy-guide) | 4/10 | 30 | 1.62% | 80,861 | 4/5 | 19 | 97 |
+| [Tokyo Ghoul:re Call to Exist](https://psnprofiles.com/guide/12214-tokyo-ghoulre-call-to-exist-trophy-guide) | 4/10 | 120 | 1.63% | 24,486 | 5/5 | 5 | 23 |
+| [Resistance 2](https://psnprofiles.com/guide/6012-resistance-2-trophy-guide) | 4/10 | 100 | 1.81% | 36,185 | 4/5 | 11 | 26 |
+| [Transformers: Revenge of The Fallen](https://psnprofiles.com/guide/6685-transformers-revenge-of-the-fallen-trophy-guide) | 4/10 | 25 | 1.82% | 13,377 |  | 0 | 9 |
+| [Star Wars Battlefront](https://psnprofiles.com/guide/3619-star-wars-battlefront-trophy-guide) | 4/10 | 50 | 1.84% | 108,029 | 4/5 | 55 | 252 |
+| [Arcadegeddon](https://psnprofiles.com/guide/15363-arcadegeddon-trophy-guide) | 4/10 | 60 | 1.86% | 20,675 | 3/5 | 5 | 12 |
+| [Injustice 2](https://psnprofiles.com/guide/6072-injustice-2-trophy-guide) | 4/10 | 40 | 1.90% | 160,175 | 4/5 | 51 | 208 |
+| [Bulletstorm: Full Clip Edition](https://psnprofiles.com/guide/13235-bulletstorm-full-clip-edition-trophy-guide) | 4/10 | 35 | 1.91% | 44,333 | 4/5 | 10 | 41 |
+| [FIFA 13](https://psnprofiles.com/guide/24-fifa-13-trophy-guide) | 4/10 | 45 | 1.97% | 15,772 |  | 0 | 9 |
 | [Grand Theft Auto V](https://psnprofiles.com/guide/1981-grand-theft-auto-v-trophy-guide) | 4/10 | 200 | 1.98% | 766,626 | 5/5 | 160 | 1,048 |
+| [Homefront: The Revolution](https://psnprofiles.com/guide/4427-homefront-the-revolution-trophy-guide) | 4/10 | 35 | 1.99% | 80,198 | 5/5 | 10 | 62 |
+| [Killing Floor: Incursion](https://psnprofiles.com/guide/8928-killing-floor-incursion-trophy-guide) | 4/10 | 8 | 2.11% | 13,600 |  | 0 | 13 |
+| [FIFA 14](https://psnprofiles.com/guide/338-fifa-14-trophy-guide) | 4/10 | 45 | 2.15% | 12,543 |  | 0 | 12 |
+| [Call of Duty: Ghosts](https://psnprofiles.com/guide/622-call-of-duty-ghosts-trophy-guide) | 4/10 | 30 | 2.19% | 120,172 | 4/5 | 31 | 186 |
+| [Frozen Synapse Prime](https://psnprofiles.com/guide/2022-frozen-synapse-prime-trophy-guide) | 4/10 | 35 | 2.25% | 12,487 | 5/5 | 5 | 21 |
+| [Deus Ex: Mankind Divided](https://psnprofiles.com/guide/7036-deus-ex-mankind-divided-trophy-guide) | 4/10 | 45 | 2.26% | 164,941 | 4/5 | 31 | 186 |
+| [The Sims 3: Pets](https://psnprofiles.com/guide/5981-the-sims-3-pets-trophy-guide) | 4/10 | 60 | 2.31% | 20,508 | 5/5 | 6 | 18 |
+| [Surviving Mars](https://psnprofiles.com/guide/11766-surviving-mars-trophy-guide) | 4/10 | 60 | 2.31% | 30,575 | 4/5 | 6 | 26 |
+| [Hood: Outlaws and Legends](https://psnprofiles.com/guide/14415-hood-outlaws-and-legends-trophy-guide) | 4/10 | 110 | 2.32% | 19,039 |  | 0 | 16 |
+| [Super Time Force Ultra](https://psnprofiles.com/guide/6421-super-time-force-ultra-trophy-guide) | 4/10 | 25 | 2.33% | 26,793 | 5/5 | 9 | 43 |
+| [Fairytale Fights](https://psnprofiles.com/guide/1206-fairytale-fights-trophy-guide) | 4/10 | 30 | 2.34% | 8,898 |  | 0 | 16 |
+| [Crysis 3](https://psnprofiles.com/guide/5850-crysis-3-trophy-guide) | 4/10 | 40 | 2.38% | 50,480 | 4/5 | 10 | 43 |
+| [Car Mechanic Simulator](https://psnprofiles.com/guide/12336-car-mechanic-simulator-trophy-guide) | 4/10 | 55 | 2.41% | 66,394 | 5/5 | 12 | 66 |
+| [Terraria](https://psnprofiles.com/guide/2976-terraria-trophy-guide) | 4/10 | 50 | 2.45% | 236,388 | 5/5 | 49 | 207 |
+| [Team Sonic Racing](https://psnprofiles.com/guide/8676-team-sonic-racing-trophy-guide) | 4/10 | 20 | 2.49% | 146,901 | 3/5 | 79 | 104 |
+| [Omega Quintet](https://psnprofiles.com/guide/3106-omega-quintet-trophy-guide) | 4/10 | 100 | 2.58% | 51,717 | 5/5 | 12 | 75 |
+| [BlazBlue: Continuum Shift Extend](https://psnprofiles.com/guide/10361-blazblue-continuum-shift-extend-trophy-guide) | 4/10 | 70 | 2.60% | 13,898 |  | 0 | 7 |
+| [For Honor](https://psnprofiles.com/guide/5770-for-honor-trophy-guide) | 4/10 | 55 | 2.61% | 122,483 | 4/5 | 24 | 146 |
+| [Postal 4: No Regerts](https://psnprofiles.com/guide/17991-postal-4-no-regerts-trophy-guide) | 4/10 | 30 | 2.67% | 7,887 |  | 0 | 9 |
+| [Band Hero](https://psnprofiles.com/guide/8949-band-hero-trophy-guide) | 4/10 | 15 | 2.69% | 7,442 |  | 0 | 10 |
+| [How to Survive 2](https://psnprofiles.com/guide/17269-how-to-survive-2-trophy-guide) | 4/10 | 80 | 2.69% | 10,870 | 5/5 | 10 | 11 |
+| [Star Ocean: Integrity and Faithlessness](https://psnprofiles.com/guide/4645-star-ocean-integrity-and-faithlessness-trophy-guide) | 4/10 | 100 | 2.70% | 43,273 | 5/5 | 11 | 76 |
+| [Brütal Legend](https://psnprofiles.com/guide/11774-br%C3%BCtal-legend-trophy-guide) | 4/10 | 30 | 2.71% | 28,881 | 5/5 | 12 | 34 |
+| [Fuser](https://psnprofiles.com/guide/13718-fuser-trophy-guide) | 4/10 | 20 | 2.80% | 5,675 |  | 0 | 6 |
+| [Tera](https://psnprofiles.com/guide/8933-tera-trophy-guide) | 4/10 | 50 | 2.84% | 45,567 | 4/5 | 12 | 34 |
+| [Dragon Ball Z: Battle of Z](https://psnprofiles.com/guide/537-dragon-ball-z-battle-of-z-trophy-guide) | 4/10 | 60 | 2.90% | 35,933 | 5/5 | 6 | 30 |
+| [Lawn Mowing Simulator](https://psnprofiles.com/guide/14456-lawn-mowing-simulator-trophy-guide) | 4/10 | 70 | 2.90% | 41,045 | 5/5 | 11 | 44 |
+| [Rollercoaster Dreams](https://psnprofiles.com/guide/15364-rollercoaster-dreams-trophy-guide) | 4/10 | 15 | 2.95% | 2,286 |  | 0 | 6 |
+| [Carmageddon: Max Damage](https://psnprofiles.com/guide/14777-carmageddon-max-damage-trophy-guide) | 4/10 | 40 | 3.16% | 17,643 | 5/5 | 6 | 17 |
+| [The Lord of the Rings: Conquest](https://psnprofiles.com/guide/271-the-lord-of-the-rings-conquest-trophy-guide) | 4/10 | 25 | 3.31% | 15,833 |  | 0 | 11 |
+| [Battlefield 4](https://psnprofiles.com/guide/1462-battlefield-4-trophy-guide) | 4/10 | 40 | 3.51% | 104,583 | 4/5 | 18 | 160 |
+| [LEGO 2K Drive](https://psnprofiles.com/guide/16920-lego-2k-drive-trophy-guide) | 4/10 | 60 | 3.52% | 110,105 | 4/5 | 23 | 69 |
+| [Lovers in a Dangerous Spacetime](https://psnprofiles.com/guide/6123-lovers-in-a-dangerous-spacetime-trophy-guide) | 4/10 | 10 | 3.56% | 37,196 | 5/5 | 16 | 68 |
+| [Madden NFL 21](https://psnprofiles.com/guide/11442-madden-nfl-21-trophy-guide) | 4/10 | 15 | 3.56% | 29,086 |  | 0 | 20 |
+| [Extinction](https://psnprofiles.com/guide/10330-extinction-trophy-guide) | 4/10 | 15 | 3.74% | 26,842 |  | 0 | 21 |
+| [The Walking Dead: Saints & Sinners](https://psnprofiles.com/guide/10851-the-walking-dead-saints-sinners-trophy-guide) | 4/10 | 15 | 3.75% | 60,412 | 5/5 | 11 | 35 |
+| [Shadow Warrior 2](https://psnprofiles.com/guide/9095-shadow-warrior-2-trophy-guide) | 4/10 | 50 | 3.83% | 67,955 | 4/5 | 10 | 29 |
+| [Innocence Island](https://psnprofiles.com/guide/18249-innocence-island-trophy-guide) | 4/10 | 20 | 3.85% | 2,469 |  | 0 | 3 |
+| [Call of Duty: Advanced Warfare](https://psnprofiles.com/guide/1857-call-of-duty-advanced-warfare-trophy-guide) | 4/10 | 20 | 3.85% | 121,638 | 5/5 | 41 | 218 |
+| [F1 2015](https://psnprofiles.com/guide/3889-f1-2015-trophy-guide) | 4/10 | 30 | 4.01% | 19,228 | 5/5 | 7 | 17 |
+| [Screencheat](https://psnprofiles.com/guide/10495-screencheat-trophy-guide) | 4/10 | 7 | 4.03% | 8,933 |  | 0 | 8 |
+| [Sea of Thieves](https://psnprofiles.com/guide/19431-sea-of-thieves-trophy-guide) | 4/10 | 80 | 4.04% | 20,454 | 4/5 | 8 | 30 |
+| [Final Fantasy XIV: A Realm Reborn](https://psnprofiles.com/guide/12584-final-fantasy-xiv-a-realm-reborn-trophy-guide) | 4/10 | 500 | 4.05% | 41,913 | 4/5 | 13 | 23 |
+| [Spacebase Startopia](https://psnprofiles.com/guide/15651-spacebase-startopia-trophy-guide) | 4/10 | 30 | 4.11% | 3,628 |  | 0 | 2 |
+| [Generation Zero](https://psnprofiles.com/guide/10609-generation-zero-trophy-guide) | 4/10 | 35 | 4.17% | 69,553 | 4/5 | 18 | 43 |
+| [Townsmen: A Kingdom Rebuilt](https://psnprofiles.com/guide/16206-townsmen-a-kingdom-rebuilt-trophy-guide) | 4/10 | 60 | 4.19% | 12,618 |  | 0 | 3 |
+| [60 Seconds! Reatomized](https://psnprofiles.com/guide/15352-60-seconds-reatomized-trophy-guide) | 4/10 | 25 | 4.28% | 26,054 |  | 0 | 16 |
+| [Riders Republic](https://psnprofiles.com/guide/15856-riders-republic-trophy-guide) | 4/10 | 50 | 4.29% | 54,692 | 5/5 | 11 | 65 |
+| [Immortal Redneck](https://psnprofiles.com/guide/9362-immortal-redneck-trophy-guide) | 4/10 | 50 | 4.30% | 7,114 |  | 0 | 5 |
+| [Port Royale 4](https://psnprofiles.com/guide/10969-port-royale-4-trophy-guide) | 4/10 | 60 | 4.30% | 22,442 |  | 0 | 4 |
+| [Harvest Moon: Save the Homeland](https://psnprofiles.com/guide/6406-harvest-moon-save-the-homeland-trophy-guide) | 4/10 | 60 | 4.42% | 39,126 | 5/5 | 6 | 32 |
+| [Foul Play](https://psnprofiles.com/guide/6902-foul-play-trophy-guide) | 4/10 | 30 | 4.46% | 37,923 | 4/5 | 12 | 60 |
+| [Brink](https://psnprofiles.com/guide/175-brink-trophy-guide) | 4/10 | 15 | 4.48% | 29,296 | 3/5 | 14 | 44 |
+| [Watch Dogs](https://psnprofiles.com/guide/4200-watch-dogs-trophy-guide) | 4/10 | 40 | 4.53% | 41,510 | 5/5 | 10 | 49 |
+| [Operation7 Showdown](https://psnprofiles.com/guide/12389-operation7-showdown-trophy-guide) | 4/10 | 30 | 4.57% | 3,042 |  | 0 | 3 |
+| [Trinity Universe](https://psnprofiles.com/guide/1578-trinity-universe-trophy-guide) | 4/10 | 110 | 4.59% | 8,387 | 5/5 | 5 | 20 |
+| [Katamari Forever](https://psnprofiles.com/guide/11794-katamari-forever-trophy-guide) | 4/10 | 25 | 4.61% | 18,637 | 5/5 | 8 | 31 |
+| [Rune Factory 4 Special](https://psnprofiles.com/guide/13672-rune-factory-4-special-trophy-guide) | 4/10 | 125 | 4.62% | 41,789 | 5/5 | 8 | 26 |
+| [We Happy Few](https://psnprofiles.com/guide/11709-we-happy-few-trophy-guide) | 4/10 | 30 | 4.64% | 60,512 | 4/5 | 9 | 39 |
+| [Monster Hunter World](https://psnprofiles.com/guide/7009-monster-hunter-world-trophy-guide) | 4/10 | 300 | 4.64% | 273,884 | 5/5 | 70 | 358 |
+| [Battlefield Hardline](https://psnprofiles.com/guide/2680-battlefield-hardline-trophy-guide) | 4/10 | 36 | 4.66% | 63,956 | 5/5 | 18 | 95 |
+| [Battlefield Hardline](https://psnprofiles.com/guide/2679-battlefield-hardline-trophy-guide) | 4/10 | 50 | 4.66% | 26,677 | 5/5 | 7 | 37 |
+| [Skylanders Trap Team](https://psnprofiles.com/guide/14286-skylanders-trap-team-trophy-guide) | 4/10 | 25 | 4.72% | 3,765 |  | 0 | 12 |
+| [Conception II: Children of the Seven Stars](https://psnprofiles.com/guide/718-conception-ii-children-of-the-seven-stars-trophy-guide) | 4/10 | 35 | 4.76% | 31,492 | 5/5 | 14 | 70 |
+| [Hundred Days](https://psnprofiles.com/guide/17300-hundred-days-trophy-guide) | 4/10 | 25 | 4.79% | 13,612 |  | 0 | 20 |
+| [Bendy and the Ink Machine](https://psnprofiles.com/guide/9617-bendy-and-the-ink-machine-trophy-guide) | 4/10 | 20 | 4.81% | 53,678 | 4/5 | 8 | 41 |
+| [MIND≒0](https://psnprofiles.com/guide/2037-mind0-trophy-guide) | 4/10 | 70 | 4.85% | 16,556 | 5/5 | 12 | 44 |
+| [Budget Cuts](https://psnprofiles.com/guide/11103-budget-cuts-trophy-guide) | 4/10 | 10 | 4.87% | 7,521 |  | 0 | 7 |
+| [Battlefield V](https://psnprofiles.com/guide/9824-battlefield-v-trophy-guide) | 4/10 | 35 | 4.93% | 44,392 | 4/5 | 26 | 54 |
 | [The Last of Us Remastered](https://psnprofiles.com/guide/6004-the-last-of-us-remastered-trophy-guide) | 4/10 | 40 | 4.94% | 710,339 | 5/5 | 133 | 787 |
+| [Enemy Front](https://psnprofiles.com/guide/5174-enemy-front-trophy-guide) | 4/10 | 30 | 4.96% | 20,518 | 4/5 | 5 | 11 |
+| [Kingdom: Two Crowns](https://psnprofiles.com/guide/8388-kingdom-two-crowns-trophy-guide) | 4/10 | 20 | 5.01% | 45,854 | 3/5 | 8 | 29 |
+| [Need for Speed: Shift](https://psnprofiles.com/guide/1308-need-for-speed-shift-trophy-guide) | 4/10 | 35 | 5.01% | 25,501 | 4/5 | 12 | 30 |
+| [Mindjack](https://psnprofiles.com/guide/12950-mindjack-trophy-guide) | 4/10 | 20 | 5.11% | 5,926 |  | 0 | 7 |
+| [DmC Devil May Cry](https://psnprofiles.com/guide/9531-dmc-devil-may-cry-trophy-guide) | 4/10 | 30 | 5.13% | 63,273 | 5/5 | 9 | 60 |
+| [Prey](https://psnprofiles.com/guide/6061-prey-trophy-guide) | 4/10 | 45 | 5.16% | 153,888 | 5/5 | 49 | 239 |
+| [Axiom Verge](https://psnprofiles.com/guide/5358-axiom-verge-trophy-guide) | 4/10 | 18 | 5.19% | 21,324 | 5/5 | 7 | 40 |
+| [Grand Theft Auto V](https://psnprofiles.com/guide/14061-grand-theft-auto-v-trophy-guide) | 4/10 | 150 | 5.20% | 169,117 | 5/5 | 34 | 230 |
+| [Skylanders Giants](https://psnprofiles.com/guide/202-skylanders-giants-trophy-guide) | 4/10 | 15 | 5.30% | 16,377 | 5/5 | 7 | 18 |
+| [Rory McIlroy PGA Tour](https://psnprofiles.com/guide/3979-rory-mcilroy-pga-tour-trophy-guide) | 4/10 | 15 | 5.32% | 13,892 | 5/5 | 5 | 16 |
+| [Tron: Evolution](https://psnprofiles.com/guide/16261-tron-evolution-trophy-guide) | 4/10 | 20 | 5.32% | 5,421 |  | 0 | 11 |
+| [The Walking Dead: Saints & Sinners Chapter 2: Retribution](https://psnprofiles.com/guide/17037-the-walking-dead-saints-sinners-chapter-2-retribution-trophy-guide) | 4/10 | 25 | 5.38% | 15,693 | 5/5 | 5 | 5 |
+| [Agarest: Generation of War 2](https://psnprofiles.com/guide/1553-agarest-generation-of-war-2-trophy-guide) | 4/10 | 50 | 5.38% | 9,908 |  | 0 | 20 |
+| [Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary](https://psnprofiles.com/guide/6766-fortune-street-dragon-quest-final-fantasy-30th-anniversary-trophy-guide) | 4/10 | 80 | 5.39% | 19,514 |  | 0 | 12 |
+| [Sword Art Online: Fatal Bullet](https://psnprofiles.com/guide/7198-sword-art-online-fatal-bullet-trophy-guide) | 4/10 | 50 | 5.44% | 77,017 | 4/5 | 17 | 54 |
+| [WWE 2K22](https://psnprofiles.com/guide/14142-wwe-2k22-trophy-guide) | 4/10 | 120 | 5.46% | 88,537 | 5/5 | 11 | 30 |
+| [Tom Clancy's Splinter Cell Blacklist](https://psnprofiles.com/guide/3129-tom-clancys-splinter-cell-blacklist-trophy-guide) | 4/10 | 50 | 5.49% | 55,665 | 4/5 | 20 | 66 |
+| [Fallout 76](https://psnprofiles.com/guide/8652-fallout-76-trophy-guide) | 4/10 | 100 | 5.49% | 211,198 | 5/5 | 27 | 152 |
+| [Transformers: Rise of the Dark Spark](https://psnprofiles.com/guide/6644-transformers-rise-of-the-dark-spark-trophy-guide) | 4/10 | 30 | 5.50% | 17,784 |  | 0 | 17 |
+| [Tales of Xillia 2](https://psnprofiles.com/guide/1789-tales-of-xillia-2-trophy-guide) | 4/10 | 90 | 5.53% | 37,815 | 5/5 | 10 | 97 |
+| [Freedom Wars](https://psnprofiles.com/guide/1860-freedom-wars-trophy-guide) | 4/10 | 50 | 5.55% | 53,330 | 4/5 | 32 | 143 |
+| [Rocket Arena](https://psnprofiles.com/guide/18358-rocket-arena-trophy-guide) | 4/10 | 25 | 5.56% | 6,449 | 5/5 | 9 | 3 |
+| [SnowRunner](https://psnprofiles.com/guide/10093-snowrunner-trophy-guide) | 4/10 | 100 | 5.66% | 116,359 | 5/5 | 15 | 68 |
+| [First Class Trouble](https://psnprofiles.com/guide/13216-first-class-trouble-trophy-guide) | 4/10 | 15 | 5.72% | 35,736 | 4/5 | 11 | 23 |
+| [Dead Space Extraction](https://psnprofiles.com/guide/13823-dead-space-extraction-trophy-guide) | 4/10 | 30 | 5.72% | 15,390 | 5/5 | 5 | 17 |
+| [Borderlands: The Pre-Sequel](https://psnprofiles.com/guide/2588-borderlands-the-pre-sequel-trophy-guide) | 4/10 | 50 | 5.75% | 208,873 | 5/5 | 20 | 292 |
+| [Valkyrie Drive: Bhikkhuni](https://psnprofiles.com/guide/5132-valkyrie-drive-bhikkhuni-trophy-guide) | 4/10 | 60 | 5.79% | 43,014 | 5/5 | 10 | 45 |
+| [Legend of Kay Anniversary](https://psnprofiles.com/guide/11929-legend-of-kay-anniversary-trophy-guide) | 4/10 | 20 | 5.85% | 15,537 |  | 0 | 21 |
 | [Borderlands 2](https://psnprofiles.com/guide/59-borderlands-2-trophy-guide) | 4/10 | 60 | 5.86% | 350,100 | 5/5 | 50 | 534 |
+| [Tearaway Unfolded](https://psnprofiles.com/guide/7059-tearaway-unfolded-trophy-guide) | 4/10 | 30 | 5.91% | 72,769 | 5/5 | 19 | 143 |
+| [Puyo Puyo Tetris](https://psnprofiles.com/guide/5995-puyo-puyo-tetris-trophy-guide) | 4/10 | 30 | 5.93% | 40,082 | 5/5 | 9 | 31 |
 | [Rise of the Tomb Raider](https://psnprofiles.com/guide/5399-rise-of-the-tomb-raider-trophy-guide) | 4/10 | 40 | 5.99% | 375,737 | 5/5 | 116 | 568 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1858-dragon-age-origins-trophy-guide) | 4/10 | 80 | 5.99% | 75,165 | 4/5 | 33 | 137 |
+| [Project Nimbus: Code Mirai](https://psnprofiles.com/guide/7337-project-nimbus-code-mirai-trophy-guide) | 4/10 | 10 | 6.02% | 9,150 |  | 0 | 9 |
+| [Dragon Ball Xenoverse 2](https://psnprofiles.com/guide/7879-dragon-ball-xenoverse-2-trophy-guide) | 4/10 | 60 | 6.02% | 139,646 | 4/5 | 21 | 81 |
+| [Battlefield 4](https://psnprofiles.com/guide/12735-battlefield-4-trophy-guide) | 4/10 | 40 | 6.03% | 25,503 | 4/5 | 10 | 33 |
+| [Alienation](https://psnprofiles.com/guide/4685-alienation-trophy-guide) | 4/10 | 50 | 6.06% | 64,454 | 5/5 | 19 | 84 |
+| [Alien: Isolation](https://psnprofiles.com/guide/2570-alien-isolation-trophy-guide) | 4/10 | 25 | 6.11% | 156,073 | 5/5 | 44 | 246 |
+| [Blacksad: Under the Skin](https://psnprofiles.com/guide/11439-blacksad-under-the-skin-trophy-guide) | 4/10 | 20 | 6.13% | 24,086 | 4/5 | 5 | 19 |
+| [Seum](https://psnprofiles.com/guide/7533-seum-trophy-guide) | 4/10 | 66 | 6.18% | 11,195 |  | 0 | 9 |
+| [Star Wars: The Force Unleashed II](https://psnprofiles.com/guide/2640-star-wars-the-force-unleashed-ii-trophy-guide) | 4/10 | 25 | 6.21% | 59,669 | 4/5 | 22 | 94 |
+| [De Blob](https://psnprofiles.com/guide/6778-de-blob-trophy-guide) | 4/10 | 50 | 6.21% | 33,210 | 3/5 | 6 | 18 |
+| [Battlefield: Bad Company 2](https://psnprofiles.com/guide/4890-battlefield-bad-company-2-trophy-guide) | 4/10 | 40 | 6.28% | 42,540 | 4/5 | 17 | 31 |
+| [Tom Clancy's The Division 2](https://psnprofiles.com/guide/8605-tom-clancys-the-division-2-trophy-guide) | 4/10 | 50 | 6.29% | 164,935 | 5/5 | 44 | 163 |
+| [Persona 4 Golden](https://psnprofiles.com/guide/31-persona-4-golden-trophy-guide) | 4/10 | 125 | 6.43% | 258,411 | 4/5 | 57 | 417 |
+| [The Walking Dead: Survival Instinct](https://psnprofiles.com/guide/7343-the-walking-dead-survival-instinct-trophy-guide) | 4/10 | 20 | 6.45% | 23,952 | 5/5 | 21 | 30 |
+| [Kowloon High-School Chronicle](https://psnprofiles.com/guide/14299-kowloon-high-school-chronicle-trophy-guide) | 4/10 | 70 | 6.45% | 12,241 |  | 0 | 5 |
+| [Darkwood](https://psnprofiles.com/guide/16894-darkwood-trophy-guide) | 4/10 | 15 | 6.46% | 7,685 |  | 0 | 13 |
+| [Dragon's Crown](https://psnprofiles.com/guide/1710-dragons-crown-trophy-guide) | 4/10 | 90 | 6.47% | 96,492 | 4/5 | 27 | 188 |
+| [Tales of Hearts R](https://psnprofiles.com/guide/3463-tales-of-hearts-r-trophy-guide) | 4/10 | 75 | 6.49% | 58,052 | 5/5 | 17 | 89 |
 | [Batman: Arkham Knight](https://psnprofiles.com/guide/3023-batman-arkham-knight-trophy-guide) | 4/10 | 40 | 6.50% | 475,978 | 5/5 | 113 | 891 |
+| [Battlefield 1](https://psnprofiles.com/guide/5182-battlefield-1-trophy-guide) | 4/10 | 30 | 6.53% | 176,056 | 5/5 | 73 | 279 |
+| [Age of Wonders 4](https://psnprofiles.com/guide/16720-age-of-wonders-4-trophy-guide) | 4/10 | 70 | 6.54% | 7,904 |  | 0 | 7 |
+| [Tales of Berseria](https://psnprofiles.com/guide/5701-tales-of-berseria-trophy-guide) | 4/10 | 110 | 6.54% | 208,512 | 5/5 | 39 | 203 |
+| [Sonic Generations](https://psnprofiles.com/guide/4871-sonic-generations-trophy-guide) | 4/10 | 25 | 6.64% | 53,956 | 4/5 | 19 | 55 |
+| [The Banner Saga 2](https://psnprofiles.com/guide/17720-the-banner-saga-2-trophy-guide) | 4/10 | 12 | 6.78% | 2,056 |  | 0 | 8 |
+| [The Banner Saga 2](https://psnprofiles.com/guide/4673-the-banner-saga-2-trophy-guide) | 4/10 | 30 | 6.78% | 24,717 | 4/5 | 9 | 24 |
+| [Tropico 6](https://psnprofiles.com/guide/9204-tropico-6-trophy-guide) | 4/10 | 30 | 6.82% | 39,194 | 4/5 | 5 | 14 |
+| [Bloons TD 5](https://psnprofiles.com/guide/6386-bloons-td-5-trophy-guide) | 4/10 | 115 | 6.86% | 40,657 | 4/5 | 15 | 33 |
+| [Asura's Wrath](https://psnprofiles.com/guide/706-asuras-wrath-trophy-guide) | 4/10 | 25 | 6.91% | 53,079 | 4/5 | 22 | 96 |
+| [Need for Speed: Hot Pursuit](https://psnprofiles.com/guide/2339-need-for-speed-hot-pursuit-trophy-guide) | 4/10 | 30 | 7.01% | 35,387 | 5/5 | 17 | 49 |
+| [Agents of Mayhem](https://psnprofiles.com/guide/8511-agents-of-mayhem-trophy-guide) | 4/10 | 60 | 7.03% | 57,375 | 4/5 | 13 | 41 |
+| [Slime Rancher](https://psnprofiles.com/guide/7761-slime-rancher-trophy-guide) | 4/10 | 25 | 7.04% | 149,864 | 5/5 | 23 | 147 |
+| [Monster Jam: Steel Titans 2](https://psnprofiles.com/guide/14817-monster-jam-steel-titans-2-trophy-guide) | 4/10 | 25 | 7.05% | 22,218 | 5/5 | 6 | 18 |
+| [Beach Buggy Racing](https://psnprofiles.com/guide/9964-beach-buggy-racing-trophy-guide) | 4/10 | 20 | 7.10% | 15,981 | 5/5 | 5 | 13 |
+| [Anno 1800](https://psnprofiles.com/guide/16398-anno-1800-trophy-guide) | 4/10 | 40 | 7.11% | 6,996 | 5/5 | 7 | 12 |
+| [Anno 1800](https://psnprofiles.com/guide/16395-anno-1800-trophy-guide) | 4/10 | 40 | 7.11% | 18,804 | 3/5 | 6 | 14 |
+| [Killer Is Dead](https://psnprofiles.com/guide/2397-killer-is-dead-trophy-guide) | 4/10 | 40 | 7.17% | 25,791 | 4/5 | 11 | 53 |
+| [Dragon Age II](https://psnprofiles.com/guide/462-dragon-age-ii-trophy-guide) | 4/10 | 60 | 7.18% | 42,591 | 4/5 | 23 | 82 |
+| [Rogue Company](https://psnprofiles.com/guide/10980-rogue-company-trophy-guide) | 4/10 | 45 | 7.20% | 61,388 | 4/5 | 17 | 33 |
+| [King's Bounty II](https://psnprofiles.com/guide/18084-kings-bounty-ii-trophy-guide) | 4/10 | 55 | 7.22% | 5,971 |  | 0 | 5 |
+| [Balan Wonderworld](https://psnprofiles.com/guide/12631-balan-wonderworld-trophy-guide) | 4/10 | 40 | 7.23% | 34,622 |  | 0 | 15 |
+| [Of Orcs And Men](https://psnprofiles.com/guide/3917-of-orcs-and-men-trophy-guide) | 4/10 | 15 | 7.24% | 12,092 | 5/5 | 13 | 17 |
+| [Tom Clancy's Rainbow Six Extraction](https://psnprofiles.com/guide/17981-tom-clancys-rainbow-six-extraction-trophy-guide) | 4/10 | 50 | 7.27% | 16,789 | 5/5 | 5 | 19 |
+| [Need for Speed: Rivals](https://psnprofiles.com/guide/159-need-for-speed-rivals-trophy-guide) | 4/10 | 25 | 7.30% | 107,815 | 5/5 | 45 | 190 |
+| [Plague Inc: Evolved](https://psnprofiles.com/guide/6265-plague-inc-evolved-trophy-guide) | 4/10 | 20 | 7.34% | 69,569 | 3/5 | 44 | 62 |
+| [Dengeki Bunko: Fighting Climax](https://psnprofiles.com/guide/3415-dengeki-bunko-fighting-climax-trophy-guide) | 4/10 | 20 | 7.46% | 21,804 | 5/5 | 11 | 47 |
+| [Cook, Serve, Delicious! 3?!](https://psnprofiles.com/guide/13355-cook-serve-delicious-3-trophy-guide) | 4/10 | 60 | 7.46% | 8,449 |  | 0 | 8 |
+| [No More Heroes: Heroes' Paradise](https://psnprofiles.com/guide/2398-no-more-heroes-heroes-paradise-trophy-guide) | 4/10 | 30 | 7.53% | 23,074 | 4/5 | 7 | 36 |
+| [Arcania](https://psnprofiles.com/guide/2889-arcania-trophy-guide) | 4/10 | 40 | 7.53% | 32,963 | 5/5 | 9 | 33 |
+| [Spider-Man: Edge of Time](https://psnprofiles.com/guide/4289-spider-man-edge-of-time-trophy-guide) | 4/10 | 20 | 7.56% | 30,304 | 4/5 | 8 | 51 |
+| [Skylanders Spyro's Adventure](https://psnprofiles.com/guide/6273-skylanders-spyros-adventure-trophy-guide) | 4/10 | 12 | 7.61% | 23,829 | 5/5 | 6 | 18 |
+| [Hidden Agenda](https://psnprofiles.com/guide/7191-hidden-agenda-trophy-guide) | 4/10 | 10 | 7.64% | 50,919 | 2/5 | 18 | 39 |
+| [The Swords Of Ditto](https://psnprofiles.com/guide/7357-the-swords-of-ditto-trophy-guide) | 4/10 | 35 | 7.64% | 46,702 | 5/5 | 5 | 32 |
 | [Mortal Kombat 11](https://psnprofiles.com/guide/8604-mortal-kombat-11-trophy-guide) | 4/10 | 60 | 7.70% | 295,940 | 4/5 | 62 | 217 |
+| [Demon's Tilt](https://psnprofiles.com/guide/11445-demons-tilt-trophy-guide) | 4/10 | 15 | 7.71% | 7,570 |  | 0 | 7 |
+| [Rhapsody: Marl Kingdom Chronicles](https://psnprofiles.com/guide/18155-rhapsody-marl-kingdom-chronicles-trophy-guide) | 4/10 | 30 | 7.73% | 4,587 |  | 0 | 10 |
+| [Heavenly Bodies](https://psnprofiles.com/guide/15512-heavenly-bodies-trophy-guide) | 4/10 | 8 | 7.74% | 63,143 | 5/5 | 9 | 73 |
+| [Skylight Freerange](https://psnprofiles.com/guide/7104-skylight-freerange-trophy-guide) | 4/10 | 25 | 7.77% | 5,823 |  | 0 | 6 |
+| [The Outer Worlds](https://psnprofiles.com/guide/9428-the-outer-worlds-trophy-guide) | 4/10 | 45 | 7.78% | 218,444 | 4/5 | 47 | 195 |
+| [Assassin's Creed Revelations](https://psnprofiles.com/guide/1480-assassins-creed-revelations-trophy-guide) | 4/10 | 50 | 7.80% | 82,868 | 5/5 | 25 | 162 |
+| [Dragon's Dogma: Dark Arisen](https://psnprofiles.com/guide/591-dragons-dogma-dark-arisen-trophy-guide) | 4/10 | 50 | 7.97% | 68,554 | 5/5 | 22 | 119 |
+| [Combate Monero](https://psnprofiles.com/guide/18745-combate-monero-trophy-guide) | 4/10 | 15 | 8.00% | 780 |  | 0 | 1 |
+| [BioShock](https://psnprofiles.com/guide/69-bioshock-trophy-guide) | 4/10 | 15 | 8.02% | 189,223 | 5/5 | 25 | 234 |
+| [Battle Princess of Arcadias](https://psnprofiles.com/guide/2036-battle-princess-of-arcadias-trophy-guide) | 4/10 | 40 | 8.06% | 9,334 |  | 0 | 26 |
+| [Tales of Xillia](https://psnprofiles.com/guide/2302-tales-of-xillia-trophy-guide) | 4/10 | 80 | 8.08% | 43,757 | 5/5 | 14 | 102 |
+| [Vampyr](https://psnprofiles.com/guide/7602-vampyr-trophy-guide) | 4/10 | 35 | 8.09% | 203,039 | 5/5 | 58 | 266 |
+| [Tokyo Xanadu](https://psnprofiles.com/guide/8425-tokyo-xanadu-trophy-guide) | 4/10 | 60 | 8.14% | 19,557 | 5/5 | 6 | 22 |
+| [Hitman: Absolution](https://psnprofiles.com/guide/3977-hitman-absolution-trophy-guide) | 4/10 | 30 | 8.27% | 69,546 | 4/5 | 24 | 77 |
+| [F1 22](https://psnprofiles.com/guide/15644-f1-22-trophy-guide) | 4/10 | 40 | 8.30% | 31,134 | 4/5 | 9 | 19 |
+| [Ni no Kuni: Wrath of the White Witch](https://psnprofiles.com/guide/1099-ni-no-kuni-wrath-of-the-white-witch-trophy-guide) | 4/10 | 80 | 8.37% | 210,752 | 4/5 | 33 | 254 |
+| [Sword and Fairy 6](https://psnprofiles.com/guide/8521-sword-and-fairy-6-trophy-guide) | 4/10 | 50 | 8.39% | 20,096 | 5/5 | 5 | 13 |
+| [Patapon](https://psnprofiles.com/guide/6905-patapon-trophy-guide) | 4/10 | 20 | 8.41% | 56,345 | 4/5 | 11 | 52 |
+| [Epic Chef](https://psnprofiles.com/guide/14292-epic-chef-trophy-guide) | 4/10 | 50 | 8.41% | 11,186 |  | 0 | 5 |
+| [Rollerdrome](https://psnprofiles.com/guide/15495-rollerdrome-trophy-guide) | 4/10 | 10 | 8.42% | 54,024 | 4/5 | 14 | 71 |
+| [Fate/Extella: The Umbral Star](https://psnprofiles.com/guide/5620-fateextella-the-umbral-star-trophy-guide) | 4/10 | 80 | 8.55% | 44,995 | 5/5 | 11 | 54 |
+| [Digimon Story Cyber Sleuth: Hacker's Memory](https://psnprofiles.com/guide/7499-digimon-story-cyber-sleuth-hackers-memory-trophy-guide) | 4/10 | 70 | 8.59% | 125,688 | 5/5 | 13 | 72 |
+| [Okage: Shadow King](https://psnprofiles.com/guide/4360-okage-shadow-king-trophy-guide) | 4/10 | 30 | 8.63% | 26,643 | 5/5 | 9 | 43 |
+| [Human Fall Flat](https://psnprofiles.com/guide/9536-human-fall-flat-trophy-guide) | 4/10 | 10 | 8.71% | 121,511 | 4/5 | 23 | 90 |
+| [Kingdom Hearts Dream Drop Distance](https://psnprofiles.com/guide/5675-kingdom-hearts-dream-drop-distance-trophy-guide) | 4/10 | 50 | 8.72% | 202,868 | 4/5 | 34 | 189 |
+| [Dust: An Elysian Tail](https://psnprofiles.com/guide/1719-dust-an-elysian-tail-trophy-guide) | 4/10 | 20 | 8.83% | 43,551 | 5/5 | 49 | 198 |
+| [Dead or Alive 5: Last Round](https://psnprofiles.com/guide/11940-dead-or-alive-5-last-round-trophy-guide) | 4/10 | 15 | 8.88% | 34,199 | 3/5 | 16 | 24 |
+| [Dead To Rights: Retribution](https://psnprofiles.com/guide/17430-dead-to-rights-retribution-trophy-guide) | 4/10 | 20 | 8.89% | 3,843 |  | 0 | 6 |
+| [Ghost of a Tale](https://psnprofiles.com/guide/13622-ghost-of-a-tale-trophy-guide) | 4/10 | 25 | 8.91% | 32,236 | 5/5 | 5 | 21 |
+| [Fat Princess Adventures](https://psnprofiles.com/guide/4870-fat-princess-adventures-trophy-guide) | 4/10 | 25 | 9.02% | 24,890 | 4/5 | 5 | 23 |
+| [Horizon Call of the Mountain](https://psnprofiles.com/guide/19388-horizon-call-of-the-mountain-trophy-guide) | 4/10 | 12 | 9.09% | 2,976 | 5/5 | 5 | 4 |
+| [WWE 2K24](https://psnprofiles.com/guide/18992-wwe-2k24-trophy-guide) | 4/10 | 50 | 9.10% | 8,705 | 4/5 | 6 | 8 |
+| [Mighty Switch Force! Collection](https://psnprofiles.com/guide/12253-mighty-switch-force-collection-trophy-guide) | 4/10 | 15 | 9.14% | 5,927 | 4/5 | 5 | 3 |
+| [Children of Zodiarcs](https://psnprofiles.com/guide/6754-children-of-zodiarcs-trophy-guide) | 4/10 | 32 | 9.17% | 20,573 |  | 0 | 15 |
+| [The Amazing Spider-Man 2](https://psnprofiles.com/guide/5329-the-amazing-spider-man-2-trophy-guide) | 4/10 | 25 | 9.19% | 49,258 | 4/5 | 7 | 49 |
+| [The Incredible Adventures of Van Helsing](https://psnprofiles.com/guide/5820-the-incredible-adventures-of-van-helsing-trophy-guide) | 4/10 | 25 | 9.27% | 61,003 | 4/5 | 9 | 29 |
 | [Uncharted 4: A Thief's End](https://psnprofiles.com/guide/4401-uncharted-4-a-thiefs-end-trophy-guide) | 4/10 | 30 | 9.28% | 636,228 | 5/5 | 246 | 1,004 |
+| [SEGA Mega Drive & Genesis Classics](https://psnprofiles.com/guide/7472-sega-mega-drive-genesis-classics-trophy-guide) | 4/10 | 10 | 9.37% | 80,823 | 4/5 | 7 | 39 |
+| [Totally Reliable Delivery Service](https://psnprofiles.com/guide/9995-totally-reliable-delivery-service-trophy-guide) | 4/10 | 10 | 9.39% | 44,980 | 5/5 | 6 | 31 |
+| [Valkyria Revolution](https://psnprofiles.com/guide/6299-valkyria-revolution-trophy-guide) | 4/10 | 50 | 9.44% | 55,990 | 4/5 | 9 | 37 |
+| [Crash Bandicoot: Warped](https://psnprofiles.com/guide/6247-crash-bandicoot-warped-trophy-guide) | 4/10 | 15 | 9.45% | 125,162 | 5/5 | 38 | 212 |
+| [Ziggurat 2](https://psnprofiles.com/guide/13855-ziggurat-2-trophy-guide) | 4/10 | 45 | 9.45% | 6,909 |  | 0 | 3 |
+| [One Piece: Unlimited World Red](https://psnprofiles.com/guide/11642-one-piece-unlimited-world-red-trophy-guide) | 4/10 | 70 | 9.51% | 33,055 | 4/5 | 5 | 18 |
+| [Doom Eternal](https://psnprofiles.com/guide/9912-doom-eternal-trophy-guide) | 4/10 | 30 | 9.64% | 261,392 | 5/5 | 40 | 253 |
+| [Akiba's Beat](https://psnprofiles.com/guide/6510-akibas-beat-trophy-guide) | 4/10 | 75 | 9.64% | 43,113 | 5/5 | 5 | 51 |
+| [Bakugan Battle Brawlers](https://psnprofiles.com/guide/18994-bakugan-battle-brawlers-trophy-guide) | 4/10 | 25 | 9.71% | 2,428 |  | 0 | 6 |
+| [The Amazing Spider-Man](https://psnprofiles.com/guide/17305-the-amazing-spider-man-trophy-guide) | 4/10 | 25 | 9.73% | 16,101 | 4/5 | 8 | 28 |
+| [Silent Hill Downpour](https://psnprofiles.com/guide/17150-silent-hill-downpour-trophy-guide) | 4/10 | 20 | 9.83% | 9,717 | 5/5 | 8 | 21 |
+| [Damnation](https://psnprofiles.com/guide/11554-damnation-trophy-guide) | 4/10 | 22 | 9.89% | 6,821 |  | 0 | 6 |
+| [Transistor](https://psnprofiles.com/guide/944-transistor-trophy-guide) | 4/10 | 15 | 9.91% | 74,975 | 5/5 | 56 | 289 |
+| [Danganronpa 1・2 Reload](https://psnprofiles.com/guide/10101-danganronpa-12-reload-trophy-guide) | 4/10 | 80 | 9.98% | 75,718 | 5/5 | 17 | 78 |
+| [Eternity: The Last Unicorn](https://psnprofiles.com/guide/16113-eternity-the-last-unicorn-trophy-guide) | 4/10 | 20 | 10.00% | 4,387 |  | 0 | 2 |
+| [Resident Evil 6](https://psnprofiles.com/guide/44-resident-evil-6-trophy-guide) | 4/10 | 60 | 10.07% | 207,162 | 4/5 | 31 | 220 |
+| [Tom Clancy's Ghost Recon Wildlands](https://psnprofiles.com/guide/5860-tom-clancys-ghost-recon-wildlands-trophy-guide) | 4/10 | 55 | 10.09% | 160,324 | 4/5 | 54 | 226 |
+| [L.A. Noire](https://psnprofiles.com/guide/1279-la-noire-trophy-guide) | 4/10 | 35 | 10.13% | 207,156 | 5/5 | 41 | 356 |
+| [Arc the Lad: Twilight of the Spirits](https://psnprofiles.com/guide/4338-arc-the-lad-twilight-of-the-spirits-trophy-guide) | 4/10 | 75 | 10.15% | 34,767 | 5/5 | 6 | 28 |
+| [EA Sports UFC 5](https://psnprofiles.com/guide/18339-ea-sports-ufc-5-trophy-guide) | 4/10 | 20 | 10.17% | 3,225 |  | 0 | 4 |
 | [Assassin's Creed Unity](https://psnprofiles.com/guide/3324-assassins-creed-unity-trophy-guide) | 4/10 | 50 | 10.26% | 297,267 | 5/5 | 79 | 429 |
+| [One Piece: Pirate Warriors 3](https://psnprofiles.com/guide/8861-one-piece-pirate-warriors-3-trophy-guide) | 4/10 | 65 | 10.29% | 72,718 | 4/5 | 17 | 61 |
+| [Samurai Jack: Battle Through Time](https://psnprofiles.com/guide/10728-samurai-jack-battle-through-time-trophy-guide) | 4/10 | 18 | 10.31% | 33,828 | 5/5 | 6 | 30 |
+| [Mortal Kombat 1](https://psnprofiles.com/guide/17713-mortal-kombat-1-trophy-guide) | 4/10 | 50 | 10.48% | 81,174 | 4/5 | 21 | 70 |
+| [Deadpool](https://psnprofiles.com/guide/17668-deadpool-trophy-guide) | 4/10 | 30 | 10.55% | 22,387 | 5/5 | 6 | 46 |
+| [Dragon Quest Heroes: The World Tree's Woe and the Blight Below](https://psnprofiles.com/guide/3438-dragon-quest-heroes-the-world-trees-woe-and-the-blight-below-trophy-guide) | 4/10 | 60 | 10.57% | 118,282 | 5/5 | 47 | 152 |
+| [Dragon Marked For Death](https://psnprofiles.com/guide/12454-dragon-marked-for-death-trophy-guide) | 4/10 | 40 | 10.69% | 10,512 |  | 0 | 7 |
+| [Naruto Shippuden: Ultimate Ninja Storm 4](https://psnprofiles.com/guide/4096-naruto-shippuden-ultimate-ninja-storm-4-trophy-guide) | 4/10 | 30 | 10.78% | 147,885 | 4/5 | 44 | 160 |
+| [The Crew 2](https://psnprofiles.com/guide/8598-the-crew-2-trophy-guide) | 4/10 | 30 | 10.81% | 132,327 | 5/5 | 36 | 116 |
+| [NEO: The World Ends with You](https://psnprofiles.com/guide/12847-neo-the-world-ends-with-you-trophy-guide) | 4/10 | 80 | 10.81% | 85,436 | 4/5 | 14 | 59 |
+| [Grand Theft Auto: Vice City](https://psnprofiles.com/guide/6306-grand-theft-auto-vice-city-trophy-guide) | 4/10 | 40 | 10.84% | 154,774 | 5/5 | 31 | 190 |
+| [Enslaved: Odyssey to the West](https://psnprofiles.com/guide/13223-enslaved-odyssey-to-the-west-trophy-guide) | 4/10 | 30 | 10.86% | 19,781 | 5/5 | 8 | 28 |
+| [Hitman: Contracts](https://psnprofiles.com/guide/2628-hitman-contracts-trophy-guide) | 4/10 | 10 | 10.93% | 23,495 | 4/5 | 19 | 57 |
+| [Outer Wilds](https://psnprofiles.com/guide/9231-outer-wilds-trophy-guide) | 4/10 | 20 | 10.96% | 256,322 | 4/5 | 12 | 163 |
+| [Under Night In-Birth Exe:Late[st]](https://psnprofiles.com/guide/9134-under-night-in-birth-exelatest-trophy-guide) | 4/10 | 10 | 11.05% | 20,144 | 5/5 | 9 | 18 |
+| [Sniper Ghost Warrior Contracts 2](https://psnprofiles.com/guide/17688-sniper-ghost-warrior-contracts-2-trophy-guide) | 4/10 | 20 | 11.09% | 24,693 | 4/5 | 5 | 29 |
+| [Kill la Kill: IF](https://psnprofiles.com/guide/9924-kill-la-kill-if-trophy-guide) | 4/10 | 15 | 11.10% | 41,385 | 5/5 | 16 | 37 |
+| [スーパーヒーロージェネレーション](https://psnprofiles.com/guide/12245-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-trophy-guide) | 4/10 | 100 | 11.14% | 4,043 |  | 0 | 3 |
+| [Tales of Innocence R](https://psnprofiles.com/guide/6119-tales-of-innocence-r-trophy-guide) | 4/10 | 100 | 11.14% | 13,809 | 5/5 | 5 | 18 |
+| [Demon Gaze Global Edition](https://psnprofiles.com/guide/2041-demon-gaze-global-edition-trophy-guide) | 4/10 | 55 | 11.18% | 28,624 | 5/5 | 11 | 58 |
+| [Tekken 6](https://psnprofiles.com/guide/6841-tekken-6-trophy-guide) | 4/10 | 20 | 11.19% | 22,246 | 5/5 | 11 | 32 |
+| [Tekken 6](https://psnprofiles.com/guide/6055-tekken-6-trophy-guide) | 4/10 | 25 | 11.19% | 38,422 | 4/5 | 12 | 29 |
+| [Mafia II](https://psnprofiles.com/guide/1225-mafia-ii-trophy-guide) | 4/10 | 25 | 11.19% | 240,880 | 5/5 | 36 | 194 |
+| [Need for Speed Heat](https://psnprofiles.com/guide/10277-need-for-speed-heat-trophy-guide) | 4/10 | 50 | 11.24% | 272,845 | 4/5 | 63 | 236 |
+| [Grid Legends](https://psnprofiles.com/guide/16799-grid-legends-trophy-guide) | 4/10 | 50 | 11.26% | 68,819 | 5/5 | 14 | 68 |
+| [Indigo Prophecy](https://psnprofiles.com/guide/9900-indigo-prophecy-trophy-guide) | 4/10 | 40 | 11.28% | 32,916 | 4/5 | 12 | 31 |
+| [Dangerous Driving](https://psnprofiles.com/guide/8794-dangerous-driving-trophy-guide) | 4/10 | 25 | 11.34% | 11,483 | 5/5 | 5 | 13 |
+| [Onechanbara Z2: Chaos](https://psnprofiles.com/guide/3821-onechanbara-z2-chaos-trophy-guide) | 4/10 | 30 | 11.36% | 39,264 | 5/5 | 6 | 43 |
+| [Dragon Quest Builders](https://psnprofiles.com/guide/5589-dragon-quest-builders-trophy-guide) | 4/10 | 30 | 11.42% | 76,990 | 4/5 | 21 | 114 |
+| [Minecraft](https://psnprofiles.com/guide/633-minecraft-trophy-guide) | 4/10 | 7 | 11.52% | 75,628 | 4/5 | 44 | 178 |
+| [Geometric Sniper Z](https://psnprofiles.com/guide/19167-geometric-sniper-z-trophy-guide) | 4/10 | 13 | 11.56% | 1,629 |  | 0 | 4 |
+| [Stray Souls](https://psnprofiles.com/guide/18346-stray-souls-trophy-guide) | 4/10 | 7 | 11.64% | 3,186 |  | 0 | 4 |
+| [Hitman 3](https://psnprofiles.com/guide/11558-hitman-3-trophy-guide) | 4/10 | 48 | 11.79% | 99,959 | 5/5 | 19 | 93 |
+| [Phantasy Star Nova](https://psnprofiles.com/guide/9202-phantasy-star-nova-trophy-guide) | 4/10 | 75 | 11.80% | 6,388 | 4/5 | 5 | 12 |
+| [Darksiders](https://psnprofiles.com/guide/4733-darksiders-trophy-guide) | 4/10 | 30 | 11.87% | 145,328 | 5/5 | 15 | 184 |
+| [PowerWash Simulator](https://psnprofiles.com/guide/16057-powerwash-simulator-trophy-guide) | 4/10 | 50 | 12.06% | 89,964 | 4/5 | 11 | 74 |
+| [Splatterhouse](https://psnprofiles.com/guide/14940-splatterhouse-trophy-guide) | 4/10 | 20 | 12.09% | 9,851 | 5/5 | 6 | 23 |
+| [Rise of the Kasai](https://psnprofiles.com/guide/4073-rise-of-the-kasai-trophy-guide) | 4/10 | 15 | 12.10% | 11,979 |  | 0 | 17 |
+| [Just Shapes & Beats](https://psnprofiles.com/guide/12441-just-shapes-beats-trophy-guide) | 4/10 | 20 | 12.14% | 10,642 |  | 0 | 10 |
+| [MUSYNC](https://psnprofiles.com/guide/7646-musync-trophy-guide) | 4/10 | 20 | 12.30% | 12,866 |  | 0 | 7 |
+| [Prince of Persia: The Two Thrones](https://psnprofiles.com/guide/894-prince-of-persia-the-two-thrones-trophy-guide) | 4/10 | 22 | 12.32% | 29,428 | 4/5 | 15 | 64 |
+| [Sniper Ghost Warrior Contracts](https://psnprofiles.com/guide/18319-sniper-ghost-warrior-contracts-trophy-guide) | 4/10 | 17 | 12.36% | 4,871 | 5/5 | 5 | 12 |
+| [Prince of Persia: Warrior Within](https://psnprofiles.com/guide/549-prince-of-persia-warrior-within-trophy-guide) | 4/10 | 25 | 12.58% | 36,958 | 4/5 | 23 | 78 |
+| [American Ninja Warrior Challenge](https://psnprofiles.com/guide/8497-american-ninja-warrior-challenge-trophy-guide) | 4/10 | 4 | 12.76% | 8,553 | 4/5 | 5 | 10 |
+| [Fighting EX Layer](https://psnprofiles.com/guide/11151-fighting-ex-layer-trophy-guide) | 4/10 | 15 | 12.77% | 26,518 | 3/5 | 8 | 14 |
+| [Hatsune Miku: Project DIVA F 2nd](https://psnprofiles.com/guide/2702-hatsune-miku-project-diva-f-2nd-trophy-guide) | 4/10 | 60 | 12.85% | 44,042 | 5/5 | 30 | 80 |
+| [Overcooked 2](https://psnprofiles.com/guide/8205-overcooked-2-trophy-guide) | 4/10 | 12 | 12.91% | 115,967 | 4/5 | 38 | 88 |
+| [EA Sports PGA Tour](https://psnprofiles.com/guide/16462-ea-sports-pga-tour-trophy-guide) | 4/10 | 20 | 12.93% | 19,186 | 5/5 | 5 | 14 |
+| [Astro Bot Rescue Mission](https://psnprofiles.com/guide/11499-astro-bot-rescue-mission-trophy-guide) | 4/10 | 15 | 12.98% | 46,775 | 5/5 | 13 | 60 |
+| [Persona 5 Strikers](https://psnprofiles.com/guide/11754-persona-5-strikers-trophy-guide) | 4/10 | 50 | 12.98% | 263,617 | 5/5 | 54 | 238 |
+| [Maid of Sker](https://psnprofiles.com/guide/11770-maid-of-sker-trophy-guide) | 4/10 | 20 | 13.11% | 21,650 |  | 0 | 13 |
+| [Nights of Azure](https://psnprofiles.com/guide/4442-nights-of-azure-trophy-guide) | 4/10 | 30 | 13.14% | 70,321 | 4/5 | 35 | 115 |
+| [Groundhog Day: Like Father Like Son](https://psnprofiles.com/guide/11006-groundhog-day-like-father-like-son-trophy-guide) | 4/10 | 10 | 13.20% | 7,669 |  | 0 | 5 |
+| [God of War: Ascension](https://psnprofiles.com/guide/1575-god-of-war-ascension-trophy-guide) | 4/10 | 10 | 13.25% | 154,681 | 5/5 | 57 | 203 |
+| [God of War: Ascension](https://psnprofiles.com/guide/2017-god-of-war-ascension-trophy-guide) | 4/10 | 10 | 13.25% | 44,524 | 5/5 | 25 | 75 |
+| [Pancake House VR](https://psnprofiles.com/guide/15912-pancake-house-vr-trophy-guide) | 4/10 | 10 | 13.33% | 965 |  | 0 | 1 |
+| [Lollipop Chainsaw](https://psnprofiles.com/guide/12965-lollipop-chainsaw-trophy-guide) | 4/10 | 30 | 13.37% | 40,576 | 5/5 | 17 | 46 |
+| [Xenon Racer](https://psnprofiles.com/guide/15552-xenon-racer-trophy-guide) | 4/10 | 10 | 13.66% | 6,191 |  | 0 | 4 |
+| [Knack 2](https://psnprofiles.com/guide/10114-knack-2-trophy-guide) | 4/10 | 18 | 13.66% | 51,291 | 4/5 | 18 | 63 |
 | [South Park: The Stick of Truth](https://psnprofiles.com/guide/86-south-park-the-stick-of-truth-trophy-guide) | 4/10 | 20 | 13.66% | 415,054 | 4/5 | 54 | 462 |
+| [Marvel's Midnight Suns](https://psnprofiles.com/guide/16379-marvels-midnight-suns-trophy-guide) | 4/10 | 50 | 13.73% | 142,402 | 5/5 | 16 | 94 |
+| [Resident Evil 5](https://psnprofiles.com/guide/832-resident-evil-5-trophy-guide) | 4/10 | 30 | 13.77% | 218,592 | 5/5 | 28 | 199 |
+| [Wild Hearts](https://psnprofiles.com/guide/19241-wild-hearts-trophy-guide) | 4/10 | 60 | 13.87% | 5,745 |  | 0 | 12 |
+| [Bendy and the Dark Revival](https://psnprofiles.com/guide/17747-bendy-and-the-dark-revival-trophy-guide) | 4/10 | 10 | 13.96% | 10,261 |  | 0 | 8 |
+| [Deathloop](https://psnprofiles.com/guide/13184-deathloop-trophy-guide) | 4/10 | 20 | 13.97% | 242,065 | 4/5 | 85 | 221 |
+| [LEGO Star Wars: The Skywalker Saga](https://psnprofiles.com/guide/14158-lego-star-wars-the-skywalker-saga-trophy-guide) | 4/10 | 100 | 14.02% | 176,541 | 4/5 | 34 | 247 |
+| [Disgaea 7: Vows of the Virtueless](https://psnprofiles.com/guide/17828-disgaea-7-vows-of-the-virtueless-trophy-guide) | 4/10 | 75 | 14.06% | 10,165 |  | 0 | 10 |
+| [LEGO Marvel Super Heroes 2](https://psnprofiles.com/guide/12547-lego-marvel-super-heroes-2-trophy-guide) | 4/10 | 50 | 14.11% | 80,564 | 5/5 | 18 | 106 |
+| [Neptunia ReVerse](https://psnprofiles.com/guide/14197-neptunia-reverse-trophy-guide) | 4/10 | 50 | 14.12% | 17,427 | 4/5 | 5 | 15 |
+| [Evil West](https://psnprofiles.com/guide/18440-evil-west-trophy-guide) | 4/10 | 25 | 14.32% | 13,193 | 4/5 | 7 | 19 |
 | [Borderlands 3](https://psnprofiles.com/guide/9096-borderlands-3-trophy-guide) | 4/10 | 45 | 14.44% | 295,014 | 5/5 | 53 | 335 |
+| [Spiritfarer](https://psnprofiles.com/guide/10838-spiritfarer-trophy-guide) | 4/10 | 35 | 14.60% | 115,285 | 4/5 | 15 | 80 |
+| [Sébastien Loeb Rally EVO](https://psnprofiles.com/guide/8361-s%C3%A9bastien-loeb-rally-evo-trophy-guide) | 4/10 | 35 | 14.68% | 22,963 | 5/5 | 7 | 12 |
 | [God of War III Remastered](https://psnprofiles.com/guide/4759-god-of-war-iii-remastered-trophy-guide) | 4/10 | 12 | 14.72% | 431,084 | 5/5 | 98 | 533 |
 | [Call of Duty: Modern Warfare 2 Campaign Remastered](https://psnprofiles.com/guide/9960-call-of-duty-modern-warfare-2-campaign-remastered-trophy-guide) | 4/10 | 25 | 14.74% | 368,073 | 4/5 | 127 | 323 |
+| [Moonscars](https://psnprofiles.com/guide/18758-moonscars-trophy-guide) | 4/10 | 15 | 14.75% | 9,324 |  | 0 | 21 |
+| [Ferrari The Race Experience](https://psnprofiles.com/guide/8041-ferrari-the-race-experience-trophy-guide) | 4/10 | 30 | 14.91% | 7,573 |  | 0 | 7 |
+| [Shing](https://psnprofiles.com/guide/17786-shing-trophy-guide) | 4/10 | 6 | 15.04% | 4,660 |  | 0 | 9 |
+| [Phar Lap: Horse Racing Challenge](https://psnprofiles.com/guide/12004-phar-lap-horse-racing-challenge-trophy-guide) | 4/10 | 35 | 15.09% | 3,133 |  | 0 | 3 |
+| [Tiny Tina's Wonderlands](https://psnprofiles.com/guide/14174-tiny-tinas-wonderlands-trophy-guide) | 4/10 | 65 | 15.17% | 32,063 | 5/5 | 10 | 35 |
+| [Metro: Last Light Redux](https://psnprofiles.com/guide/6181-metro-last-light-redux-trophy-guide) | 4/10 | 28 | 15.20% | 128,549 | 5/5 | 37 | 166 |
+| [Arcade Game Series: Galaga](https://psnprofiles.com/guide/4820-arcade-game-series-galaga-trophy-guide) | 4/10 | 4 | 15.22% | 33,662 | 5/5 | 14 | 43 |
+| [NieR Replicant ver.1.22474487139...](https://psnprofiles.com/guide/12184-nier-replicant-ver122474487139-trophy-guide) | 4/10 | 50 | 15.43% | 55,169 | 5/5 | 27 | 83 |
+| [Othercide](https://psnprofiles.com/guide/12705-othercide-trophy-guide) | 4/10 | 25 | 15.44% | 18,087 | 4/5 | 5 | 13 |
+| [アイドルマスター マストソングス 赤盤/青盤](https://psnprofiles.com/guide/12997-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%9E%E3%82%B9%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%E3%82%B9-%E8%B5%A4%E7%9B%A4%E9%9D%92%E7%9B%A4-trophy-guide) | 4/10 | 25 | 15.56% | 2,820 |  | 0 | 5 |
+| [Soul Hackers 2](https://psnprofiles.com/guide/15073-soul-hackers-2-trophy-guide) | 4/10 | 70 | 15.73% | 95,924 | 5/5 | 15 | 61 |
+| [Sonic Colors: Ultimate](https://psnprofiles.com/guide/13311-sonic-colors-ultimate-trophy-guide) | 4/10 | 25 | 15.76% | 39,663 | 5/5 | 7 | 32 |
+| [Sundered](https://psnprofiles.com/guide/7988-sundered-trophy-guide) | 4/10 | 20 | 15.82% | 48,993 | 3/5 | 9 | 28 |
+| [Lost Epic](https://psnprofiles.com/guide/14961-lost-epic-trophy-guide) | 4/10 | 40 | 15.84% | 19,392 |  | 0 | 10 |
+| [Borderlands](https://psnprofiles.com/guide/4598-borderlands-trophy-guide) | 4/10 | 50 | 15.87% | 177,995 | 5/5 | 26 | 189 |
+| [Shadows of the Damned](https://psnprofiles.com/guide/1525-shadows-of-the-damned-trophy-guide) | 4/10 | 20 | 15.94% | 26,351 | 5/5 | 6 | 41 |
+| [Greak: Memories of Azur](https://psnprofiles.com/guide/13022-greak-memories-of-azur-trophy-guide) | 4/10 | 10 | 15.95% | 25,704 |  | 0 | 13 |
+| [Grand Theft Auto III](https://psnprofiles.com/guide/5666-grand-theft-auto-iii-trophy-guide) | 4/10 | 20 | 15.99% | 166,939 | 4/5 | 45 | 167 |
+| [Far Cry 3](https://psnprofiles.com/guide/9-far-cry-3-trophy-guide) | 4/10 | 25 | 16.07% | 88,919 | 4/5 | 56 | 237 |
+| [No Thing](https://psnprofiles.com/guide/11369-no-thing-trophy-guide) | 4/10 | 10 | 16.10% | 24,982 | 4/5 | 5 | 13 |
+| [Dead or Alive 6](https://psnprofiles.com/guide/9546-dead-or-alive-6-trophy-guide) | 4/10 | 15 | 16.13% | 21,315 | 4/5 | 5 | 21 |
+| [Chorus](https://psnprofiles.com/guide/18744-chorus-trophy-guide) | 4/10 | 20 | 16.35% | 6,417 | 5/5 | 5 | 15 |
 | [Alan Wake](https://psnprofiles.com/guide/13042-alan-wake-trophy-guide) | 4/10 | 25 | 16.43% | 379,336 | 5/5 | 8 | 277 |
+| [inFamous 2](https://psnprofiles.com/guide/1534-infamous-2-trophy-guide) | 4/10 | 35 | 16.45% | 111,532 | 4/5 | 38 | 243 |
+| [Fate/Samurai Remnant](https://psnprofiles.com/guide/17783-fatesamurai-remnant-trophy-guide) | 4/10 | 70 | 16.67% | 26,129 |  | 0 | 27 |
+| [Fobia: St. Dinfna Hotel](https://psnprofiles.com/guide/14756-fobia-st-dinfna-hotel-trophy-guide) | 4/10 | 15 | 16.79% | 20,744 | 5/5 | 6 | 10 |
+| [Kingdom Hearts III](https://psnprofiles.com/guide/8342-kingdom-hearts-iii-trophy-guide) | 4/10 | 60 | 16.85% | 245,443 | 5/5 | 53 | 321 |
+| [Trinity Trigger](https://psnprofiles.com/guide/18540-trinity-trigger-trophy-guide) | 4/10 | 30 | 16.87% | 4,531 |  | 0 | 9 |
+| [Assassin's Creed Syndicate](https://psnprofiles.com/guide/3478-assassins-creed-syndicate-trophy-guide) | 4/10 | 35 | 16.95% | 284,706 | 5/5 | 90 | 559 |
+| [SaGa Frontier Remastered](https://psnprofiles.com/guide/12257-saga-frontier-remastered-trophy-guide) | 4/10 | 50 | 17.09% | 24,708 | 3/5 | 7 | 19 |
+| [Girls und Panzer: Dream Tank Match](https://psnprofiles.com/guide/7155-girls-und-panzer-dream-tank-match-trophy-guide) | 4/10 | 35 | 17.15% | 27,681 | 5/5 | 9 | 31 |
+| [Suicide Squad: Kill the Justice League](https://psnprofiles.com/guide/18674-suicide-squad-kill-the-justice-league-trophy-guide) | 4/10 | 60 | 17.15% | 34,707 | 5/5 | 7 | 30 |
+| [Guilt Battle Arena](https://psnprofiles.com/guide/8838-guilt-battle-arena-trophy-guide) | 4/10 | 7 | 17.18% | 1,780 |  | 0 | 5 |
+| [Penny's Big Breakaway](https://psnprofiles.com/guide/19198-pennys-big-breakaway-trophy-guide) | 4/10 | 20 | 17.29% | 3,620 |  | 0 | 8 |
+| [Moss: Book II](https://psnprofiles.com/guide/17320-moss-book-ii-trophy-guide) | 4/10 | 12 | 17.33% | 7,567 |  | 0 | 7 |
+| [Desert Child](https://psnprofiles.com/guide/11059-desert-child-trophy-guide) | 4/10 | 8 | 17.42% | 12,304 |  | 0 | 7 |
+| [Watch Dogs 2](https://psnprofiles.com/guide/5322-watch-dogs-2-trophy-guide) | 4/10 | 30 | 17.49% | 224,045 | 5/5 | 76 | 368 |
+| [Hubris](https://psnprofiles.com/guide/17223-hubris-trophy-guide) | 4/10 | 6 | 17.58% | 5,356 | 5/5 | 6 | 4 |
+| [Hatsune Miku: Project DIVA F](https://psnprofiles.com/guide/808-hatsune-miku-project-diva-f-trophy-guide) | 4/10 | 40 | 17.63% | 41,048 | 5/5 | 8 | 79 |
+| [Steven Universe: Save the Light](https://psnprofiles.com/guide/6774-steven-universe-save-the-light-trophy-guide) | 4/10 | 21 | 17.81% | 22,655 |  | 0 | 23 |
+| [Danganronpa 2: Goodbye Despair](https://psnprofiles.com/guide/2268-danganronpa-2-goodbye-despair-trophy-guide) | 4/10 | 55 | 17.81% | 60,897 | 5/5 | 23 | 94 |
+| [LEGO Harry Potter: Years 1-4](https://psnprofiles.com/guide/1359-lego-harry-potter-years-1-4-trophy-guide) | 4/10 | 25 | 18.08% | 64,126 | 4/5 | 18 | 122 |
+| [Absolute Drift](https://psnprofiles.com/guide/6301-absolute-drift-trophy-guide) | 4/10 | 10 | 18.13% | 17,676 | 4/5 | 7 | 34 |
+| [Fear Effect Sedna](https://psnprofiles.com/guide/8799-fear-effect-sedna-trophy-guide) | 4/10 | 8 | 18.15% | 17,460 | 4/5 | 5 | 20 |
+| [Nexomon: Extinction](https://psnprofiles.com/guide/10776-nexomon-extinction-trophy-guide) | 4/10 | 60 | 18.16% | 77,660 | 4/5 | 10 | 41 |
+| [Avatar: Frontiers of Pandora](https://psnprofiles.com/guide/18227-avatar-frontiers-of-pandora-trophy-guide) | 4/10 | 50 | 18.40% | 37,429 | 4/5 | 10 | 53 |
+| [Tormented Souls](https://psnprofiles.com/guide/12829-tormented-souls-trophy-guide) | 4/10 | 10 | 18.49% | 38,961 | 5/5 | 12 | 36 |
+| [Tiny Tina's Wonderlands](https://psnprofiles.com/guide/14109-tiny-tinas-wonderlands-trophy-guide) | 4/10 | 50 | 18.54% | 108,294 | 4/5 | 18 | 74 |
+| [Art of Rally](https://psnprofiles.com/guide/13506-art-of-rally-trophy-guide) | 4/10 | 20 | 18.64% | 18,339 |  | 0 | 11 |
+| [Saint Seiya: Sanctuary Battle](https://psnprofiles.com/guide/1763-saint-seiya-sanctuary-battle-trophy-guide) | 4/10 | 30 | 18.65% | 12,281 | 5/5 | 5 | 9 |
+| [Darksiders Genesis](https://psnprofiles.com/guide/9715-darksiders-genesis-trophy-guide) | 4/10 | 35 | 18.70% | 116,937 | 5/5 | 22 | 93 |
+| [Creed: Rise to Glory](https://psnprofiles.com/guide/19536-creed-rise-to-glory-trophy-guide) | 4/10 | 4 | 18.92% | 2,102 |  | 0 | 5 |
+| [Saw II: Flesh & Blood](https://psnprofiles.com/guide/15548-saw-ii-flesh-blood-trophy-guide) | 4/10 | 12 | 19.00% | 8,482 |  | 0 | 9 |
+| [Hyperdimension Neptunia mk2](https://psnprofiles.com/guide/2860-hyperdimension-neptunia-mk2-trophy-guide) | 4/10 | 30 | 19.01% | 15,000 | 4/5 | 10 | 39 |
+| [Dead Space](https://psnprofiles.com/guide/16087-dead-space-trophy-guide) | 4/10 | 40 | 19.10% | 128,606 | 5/5 | 25 | 115 |
+| [Grand Theft Auto III](https://psnprofiles.com/guide/13228-grand-theft-auto-iii-trophy-guide) | 4/10 | 30 | 19.17% | 33,467 | 5/5 | 10 | 72 |
+| [Tomb Raider: Legend](https://psnprofiles.com/guide/1317-tomb-raider-legend-trophy-guide) | 4/10 | 15 | 19.80% | 38,701 | 5/5 | 18 | 66 |
+| [Hyperdimension Neptunia Re;Birth2](https://psnprofiles.com/guide/2427-hyperdimension-neptunia-rebirth2-trophy-guide) | 4/10 | 60 | 19.83% | 39,812 | 4/5 | 17 | 73 |
+| [Synapse](https://psnprofiles.com/guide/19579-synapse-trophy-guide) | 4/10 | 6 | 19.85% | 1,370 |  | 0 | 6 |
+| [Little Noah: Scion of Paradise](https://psnprofiles.com/guide/14835-little-noah-scion-of-paradise-trophy-guide) | 4/10 | 100 | 19.85% | 6,002 |  | 0 | 6 |
+| [The Legend of Korra](https://psnprofiles.com/guide/1824-the-legend-of-korra-trophy-guide) | 4/10 | 15 | 19.86% | 21,360 | 5/5 | 6 | 48 |
+| [Kingdom Hearts Melody of Memory](https://psnprofiles.com/guide/11192-kingdom-hearts-melody-of-memory-trophy-guide) | 4/10 | 50 | 19.99% | 125,213 | 5/5 | 16 | 71 |
+| [Jak X: Combat Racing](https://psnprofiles.com/guide/7549-jak-x-combat-racing-trophy-guide) | 4/10 | 15 | 20.04% | 71,775 | 4/5 | 16 | 79 |
+| [Red Dead Redemption](https://psnprofiles.com/guide/17491-red-dead-redemption-trophy-guide) | 4/10 | 40 | 20.14% | 154,823 | 5/5 | 17 | 174 |
+| [Zombie Driver: Immortal Edition](https://psnprofiles.com/guide/17850-zombie-driver-immortal-edition-trophy-guide) | 4/10 | 15 | 20.32% | 3,459 |  | 0 | 9 |
+| [Children of Morta](https://psnprofiles.com/guide/11206-children-of-morta-trophy-guide) | 4/10 | 20 | 20.44% | 61,949 | 5/5 | 14 | 37 |
+| [Color Guardians](https://psnprofiles.com/guide/5478-color-guardians-trophy-guide) | 4/10 | 5 | 20.48% | 36,456 | 4/5 | 22 | 83 |
+| [Cartoon Network Punch Time Explosion XL](https://psnprofiles.com/guide/14773-cartoon-network-punch-time-explosion-xl-trophy-guide) | 4/10 | 15 | 20.53% | 5,804 |  | 0 | 7 |
+| [Bomb Rush Cyberfunk](https://psnprofiles.com/guide/18979-bomb-rush-cyberfunk-trophy-guide) | 4/10 | 25 | 20.69% | 4,046 |  | 0 | 12 |
+| [Jak 3](https://psnprofiles.com/guide/4514-jak-3-trophy-guide) | 4/10 | 20 | 20.92% | 80,081 | 5/5 | 13 | 124 |
+| [Angry Video Game Nerd I & II Deluxe](https://psnprofiles.com/guide/12010-angry-video-game-nerd-i-ii-deluxe-trophy-guide) | 4/10 | 10 | 21.06% | 17,147 |  | 0 | 20 |
+| [A Fisherman's Tale](https://psnprofiles.com/guide/19654-a-fishermans-tale-trophy-guide) | 4/10 | 6 | 21.11% | 1,371 |  | 0 | 3 |
+| [void tRrLM();++ // Void Terrarium++](https://psnprofiles.com/guide/13658-void-trrlm-void-terrarium-trophy-guide) | 4/10 | 30 | 21.13% | 9,873 |  | 0 | 7 |
+| [Arcade Game Series: Dig Dug](https://psnprofiles.com/guide/4754-arcade-game-series-dig-dug-trophy-guide) | 4/10 | 5 | 21.17% | 31,519 | 5/5 | 13 | 43 |
+| [Five Nights at Freddy's: Help Wanted 2](https://psnprofiles.com/guide/18352-five-nights-at-freddys-help-wanted-2-trophy-guide) | 4/10 | 15 | 21.21% | 4,732 |  | 0 | 4 |
+| [The Legend of Heroes: Trails from Zero](https://psnprofiles.com/guide/15300-the-legend-of-heroes-trails-from-zero-trophy-guide) | 4/10 | 100 | 21.22% | 42,081 | 4/5 | 16 | 26 |
+| [Tools Up!](https://psnprofiles.com/guide/19122-tools-up-trophy-guide) | 4/10 | 10 | 21.29% | 1,408 |  | 0 | 3 |
+| [Grand Theft Auto: San Andreas](https://psnprofiles.com/guide/3669-grand-theft-auto-san-andreas-trophy-guide) | 4/10 | 20 | 21.44% | 82,557 | 4/5 | 25 | 176 |
+| [Untitled Goose Game](https://psnprofiles.com/guide/9467-untitled-goose-game-trophy-guide) | 4/10 | 6 | 21.93% | 159,842 | 5/5 | 42 | 224 |
+| [void* tRrLM2(); // Void Terrarium 2](https://psnprofiles.com/guide/16275-void-trrlm2-void-terrarium-2-trophy-guide) | 4/10 | 60 | 22.02% | 3,205 |  | 0 | 1 |
+| [Prince of Persia: The Forgotten Sands](https://psnprofiles.com/guide/165-prince-of-persia-the-forgotten-sands-trophy-guide) | 4/10 | 10 | 22.29% | 43,371 | 5/5 | 29 | 102 |
+| [inFamous: First Light](https://psnprofiles.com/guide/1522-infamous-first-light-trophy-guide) | 4/10 | 10 | 22.59% | 80,251 | 5/5 | 82 | 428 |
+| [inFamous: First Light](https://psnprofiles.com/guide/5743-infamous-first-light-trophy-guide) | 4/10 | 20 | 22.59% | 129,276 | 5/5 | 40 | 154 |
+| [Bully](https://psnprofiles.com/guide/4167-bully-trophy-guide) | 4/10 | 20 | 22.87% | 206,270 | 4/5 | 86 | 307 |
+| [Forspoken](https://psnprofiles.com/guide/16249-forspoken-trophy-guide) | 4/10 | 50 | 22.90% | 40,381 | 4/5 | 10 | 55 |
+| [Dynasty Warriors 9 Empires](https://psnprofiles.com/guide/16444-dynasty-warriors-9-empires-trophy-guide) | 4/10 | 50 | 23.00% | 8,682 |  | 0 | 7 |
+| [Neodori Forever](https://psnprofiles.com/guide/16937-neodori-forever-trophy-guide) | 4/10 | 12 | 23.08% | 3,953 |  | 0 | 2 |
+| [Mega Man X Legacy Collection](https://psnprofiles.com/guide/7659-mega-man-x-legacy-collection-trophy-guide) | 4/10 | 20 | 23.17% | 80,945 | 3/5 | 48 | 48 |
+| [Two Point Campus](https://psnprofiles.com/guide/15147-two-point-campus-trophy-guide) | 4/10 | 30 | 23.18% | 24,980 |  | 0 | 20 |
+| [Destroy All Humans! Remake](https://psnprofiles.com/guide/10674-destroy-all-humans-remake-trophy-guide) | 4/10 | 15 | 23.33% | 80,001 | 4/5 | 29 | 81 |
+| [Hell Pie](https://psnprofiles.com/guide/15397-hell-pie-trophy-guide) | 4/10 | 20 | 23.43% | 9,770 |  | 0 | 7 |
+| [Gal Guardians: Demon Purge](https://psnprofiles.com/guide/18226-gal-guardians-demon-purge-trophy-guide) | 4/10 | 15 | 23.53% | 5,317 |  | 0 | 7 |
+| [Samurai Shodown: NeoGeo Collection](https://psnprofiles.com/guide/16499-samurai-shodown-neogeo-collection-trophy-guide) | 4/10 | 8 | 23.69% | 5,113 | 5/5 | 5 | 3 |
+| [Thymesia](https://psnprofiles.com/guide/15018-thymesia-trophy-guide) | 4/10 | 15 | 23.70% | 102,493 | 4/5 | 18 | 54 |
+| [Superhot: Mind Control Delete](https://psnprofiles.com/guide/12652-superhot-mind-control-delete-trophy-guide) | 4/10 | 9 | 23.85% | 21,445 | 5/5 | 5 | 23 |
+| [Dragon Ball Z Budokai HD Collection](https://psnprofiles.com/guide/15098-dragon-ball-z-budokai-hd-collection-trophy-guide) | 4/10 | 10 | 23.96% | 17,777 | 4/5 | 12 | 23 |
+| [Death's Door](https://psnprofiles.com/guide/13879-deaths-door-trophy-guide) | 4/10 | 15 | 23.98% | 203,056 | 4/5 | 36 | 162 |
+| [Gravity Rush Remastered](https://psnprofiles.com/guide/6233-gravity-rush-remastered-trophy-guide) | 4/10 | 18 | 24.02% | 137,577 | 5/5 | 32 | 234 |
+| [Spidersaurs](https://psnprofiles.com/guide/15580-spidersaurs-trophy-guide) | 4/10 | 5 | 24.68% | 3,805 |  | 0 | 2 |
 | [Control](https://psnprofiles.com/guide/9040-control-trophy-guide) | 4/10 | 20 | 24.98% | 418,723 | 5/5 | 115 | 671 |
+| [The Legend of Heroes: Trails into Reverie](https://psnprofiles.com/guide/17107-the-legend-of-heroes-trails-into-reverie-trophy-guide) | 4/10 | 100 | 25.01% | 23,948 | 5/5 | 9 | 24 |
+| [Narcos: Rise of the Cartels](https://psnprofiles.com/guide/9358-narcos-rise-of-the-cartels-trophy-guide) | 4/10 | 15 | 25.08% | 22,778 | 5/5 | 6 | 8 |
 | [Days Gone](https://psnprofiles.com/guide/8664-days-gone-trophy-guide) | 4/10 | 60 | 25.45% | 434,160 | 5/5 | 114 | 709 |
+| [Grandia](https://psnprofiles.com/guide/19142-grandia-trophy-guide) | 4/10 | 50 | 25.49% | 6,542 |  | 0 | 20 |
+| [Super Daryl Deluxe](https://psnprofiles.com/guide/15536-super-daryl-deluxe-trophy-guide) | 4/10 | 35 | 25.61% | 3,389 |  | 0 | 4 |
+| [Neptunia x Senran Kagura: Ninja Wars](https://psnprofiles.com/guide/13443-neptunia-x-senran-kagura-ninja-wars-trophy-guide) | 4/10 | 15 | 25.74% | 13,312 |  | 0 | 14 |
+| [The Messenger](https://psnprofiles.com/guide/11324-the-messenger-trophy-guide) | 4/10 | 15 | 25.93% | 33,101 | 5/5 | 11 | 36 |
+| [The Messenger](https://psnprofiles.com/guide/8912-the-messenger-trophy-guide) | 4/10 | 18 | 25.93% | 118,096 | 3/5 | 23 | 46 |
+| [Metal Gear & Metal Gear 2: Solid Snake](https://psnprofiles.com/guide/18689-metal-gear-metal-gear-2-solid-snake-trophy-guide) | 4/10 | 12 | 26.34% | 8,377 |  | 0 | 21 |
+| [9 Monkeys of Shaolin](https://psnprofiles.com/guide/15368-9-monkeys-of-shaolin-trophy-guide) | 4/10 | 6 | 26.56% | 25,645 | 4/5 | 12 | 21 |
+| [Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings](https://psnprofiles.com/guide/7465-atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings-trophy-guide) | 4/10 | 50 | 26.69% | 49,812 | 5/5 | 10 | 32 |
+| [Ratchet & Clank](https://psnprofiles.com/guide/236-ratchet-clank-trophy-guide) | 4/10 | 25 | 26.75% | 141,356 | 4/5 | 54 | 239 |
+| [Alone In The Dark: Inferno](https://psnprofiles.com/guide/6378-alone-in-the-dark-inferno-trophy-guide) | 4/10 | 20 | 26.96% | 23,374 | 4/5 | 7 | 20 |
+| [Bug Fables](https://psnprofiles.com/guide/10314-bug-fables-trophy-guide) | 4/10 | 35 | 26.96% | 45,184 | 4/5 | 13 | 20 |
 | [God of War](https://psnprofiles.com/guide/7347-god-of-war-trophy-guide) | 4/10 | 40 | 27.19% | 846,243 | 5/5 | 299 | 1,468 |
+| [Fuga: Melodies of Steel](https://psnprofiles.com/guide/15754-fuga-melodies-of-steel-trophy-guide) | 4/10 | 35 | 27.66% | 16,891 |  | 0 | 17 |
+| [A Space for the Unbound](https://psnprofiles.com/guide/16527-a-space-for-the-unbound-trophy-guide) | 4/10 | 10 | 28.01% | 12,313 |  | 0 | 14 |
+| [The Knight Witch](https://psnprofiles.com/guide/15710-the-knight-witch-trophy-guide) | 4/10 | 12 | 28.06% | 14,661 | 4/5 | 5 | 9 |
+| [Peaky Blinders: Mastermind](https://psnprofiles.com/guide/12105-peaky-blinders-mastermind-trophy-guide) | 4/10 | 15 | 28.19% | 14,202 |  | 0 | 14 |
+| [Dave the Diver](https://psnprofiles.com/guide/19310-dave-the-diver-trophy-guide) | 4/10 | 40 | 28.45% | 12,385 |  | 0 | 19 |
+| [Assassin's Creed Revelations](https://psnprofiles.com/guide/5356-assassins-creed-revelations-trophy-guide) | 4/10 | 35 | 28.80% | 244,201 | 5/5 | 49 | 283 |
+| [Crymachina](https://psnprofiles.com/guide/18087-crymachina-trophy-guide) | 4/10 | 30 | 29.47% | 7,864 | 5/5 | 5 | 9 |
+| [Double Dragon Gaiden: Rise of the Dragons](https://psnprofiles.com/guide/18413-double-dragon-gaiden-rise-of-the-dragons-trophy-guide) | 4/10 | 10 | 29.56% | 4,038 |  | 0 | 7 |
+| [Atelier Marie Remake: The Alchemist of Salburg](https://psnprofiles.com/guide/17169-atelier-marie-remake-the-alchemist-of-salburg-trophy-guide) | 4/10 | 35 | 29.73% | 9,252 |  | 0 | 19 |
+| [Stranger of Paradise: Final Fantasy Origin](https://psnprofiles.com/guide/14060-stranger-of-paradise-final-fantasy-origin-trophy-guide) | 4/10 | 40 | 29.91% | 210,539 | 4/5 | 49 | 121 |
+| [Bloodstained: Ritual of the Night](https://psnprofiles.com/guide/8805-bloodstained-ritual-of-the-night-trophy-guide) | 4/10 | 30 | 30.00% | 238,147 | 5/5 | 27 | 131 |
+| [Planet of Lana](https://psnprofiles.com/guide/19362-planet-of-lana-trophy-guide) | 4/10 | 5 | 30.20% | 3,757 |  | 0 | 12 |
+| [Far Cry Classic](https://psnprofiles.com/guide/7724-far-cry-classic-trophy-guide) | 4/10 | 20 | 30.33% | 40,306 | 5/5 | 25 | 44 |
+| [Miss Kobayashi's Dragon Maid: Burst Forth!! Choro-gon☆Breath](https://psnprofiles.com/guide/15101-miss-kobayashis-dragon-maid-burst-forth-choro-gonbreath-trophy-guide) | 4/10 | 15 | 30.59% | 7,175 |  | 0 | 8 |
+| [Arise](https://psnprofiles.com/guide/11377-arise-trophy-guide) | 4/10 | 10 | 30.96% | 21,994 | 5/5 | 9 | 25 |
+| [The Casebook of Arkady Smith](https://psnprofiles.com/guide/9959-the-casebook-of-arkady-smith-trophy-guide) | 4/10 | 5 | 31.34% | 12,123 |  | 0 | 9 |
+| [Cannibal Cuisine](https://psnprofiles.com/guide/17898-cannibal-cuisine-trophy-guide) | 4/10 | 5 | 31.82% | 2,682 |  | 0 | 3 |
+| [Poison Control](https://psnprofiles.com/guide/14903-poison-control-trophy-guide) | 4/10 | 20 | 32.03% | 11,680 |  | 0 | 16 |
+| [Resident Evil 3](https://psnprofiles.com/guide/9962-resident-evil-3-trophy-guide) | 4/10 | 20 | 32.05% | 182,145 | 4/5 | 42 | 89 |
+| [Utawarerumono: ZAN](https://psnprofiles.com/guide/9175-utawarerumono-zan-trophy-guide) | 4/10 | 20 | 32.25% | 12,928 |  | 0 | 13 |
+| [Hot Wheels Unleashed 2: Turbocharged](https://psnprofiles.com/guide/17866-hot-wheels-unleashed-2-turbocharged-trophy-guide) | 4/10 | 20 | 32.80% | 21,541 | 5/5 | 5 | 8 |
+| [Rise of the Ronin](https://psnprofiles.com/guide/19147-rise-of-the-ronin-trophy-guide) | 4/10 | 55 | 33.01% | 128,073 | 5/5 | 18 | 56 |
+| [Persona 5 Tactica](https://psnprofiles.com/guide/18106-persona-5-tactica-trophy-guide) | 4/10 | 30 | 33.05% | 33,542 | 5/5 | 11 | 48 |
+| [英雄伝説 閃の軌跡III](https://psnprofiles.com/guide/6565-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E9%96%83%E3%81%AE%E8%BB%8C%E8%B7%A1iii-trophy-guide) | 4/10 | 120 | 33.20% | 78,591 | 5/5 | 8 | 23 |
+| [Severed](https://psnprofiles.com/guide/4355-severed-trophy-guide) | 4/10 | 10 | 33.48% | 60,168 | 5/5 | 36 | 105 |
+| [A Plague Tale: Requiem](https://psnprofiles.com/guide/15459-a-plague-tale-requiem-trophy-guide) | 4/10 | 25 | 33.48% | 188,024 | 5/5 | 53 | 180 |
+| [Twisted Metal](https://psnprofiles.com/guide/17448-twisted-metal-trophy-guide) | 4/10 | 4 | 34.30% | 21,119 | 4/5 | 7 | 26 |
+| [Kaze and the Wild Masks](https://psnprofiles.com/guide/12120-kaze-and-the-wild-masks-trophy-guide) | 4/10 | 12 | 34.71% | 22,391 | 5/5 | 7 | 9 |
+| [Thimbleweed Park](https://psnprofiles.com/guide/6392-thimbleweed-park-trophy-guide) | 4/10 | 10 | 35.56% | 26,058 |  | 0 | 32 |
+| [Atelier Lulua: The Scion of Arland](https://psnprofiles.com/guide/11878-atelier-lulua-the-scion-of-arland-trophy-guide) | 4/10 | 40 | 35.62% | 9,609 |  | 0 | 14 |
+| [Riptide GP2](https://psnprofiles.com/guide/6125-riptide-gp2-trophy-guide) | 4/10 | 10 | 36.59% | 13,153 | 5/5 | 6 | 18 |
+| [Sly 3: Honor Among Thieves](https://psnprofiles.com/guide/6356-sly-3-honor-among-thieves-trophy-guide) | 4/10 | 20 | 36.61% | 55,666 | 5/5 | 16 | 64 |
+| [The Sealed Ampoule](https://psnprofiles.com/guide/18773-the-sealed-ampoule-trophy-guide) | 4/10 | 80 | 36.84% | 1,152 |  | 0 | 4 |
+| [LA Cops](https://psnprofiles.com/guide/2727-la-cops-trophy-guide) | 4/10 | 5 | 37.11% | 15,875 |  | 0 | 32 |
+| [Jak and Daxter: The Precursor Legacy](https://psnprofiles.com/guide/1265-jak-and-daxter-the-precursor-legacy-trophy-guide) | 4/10 | 10 | 37.43% | 140,329 | 5/5 | 28 | 225 |
+| [Dead or School](https://psnprofiles.com/guide/9136-dead-or-school-trophy-guide) | 4/10 | 40 | 37.74% | 22,090 | 5/5 | 7 | 21 |
+| [Sly 3: Honor Among Thieves](https://psnprofiles.com/guide/6365-sly-3-honor-among-thieves-trophy-guide) | 4/10 | 20 | 37.76% | 23,525 | 5/5 | 7 | 31 |
 | [Horizon Forbidden West](https://psnprofiles.com/guide/13933-horizon-forbidden-west-trophy-guide) | 4/10 | 40 | 38.30% | 461,671 | 5/5 | 58 | 522 |
+| [Dragon Audit](https://psnprofiles.com/guide/14137-dragon-audit-trophy-guide) | 4/10 | 3 | 38.74% | 3,846 |  | 0 | 1 |
+| [Super Skull Smash Go! 2 Turbo](https://psnprofiles.com/guide/8279-super-skull-smash-go-2-turbo-trophy-guide) | 4/10 | 4 | 39.32% | 5,311 |  | 0 | 4 |
+| [Shenmue II](https://psnprofiles.com/guide/7765-shenmue-ii-trophy-guide) | 4/10 | 12 | 39.37% | 102,546 | 5/5 | 18 | 86 |
 | [Crisis Core: Final Fantasy VII - Reunion](https://psnprofiles.com/guide/15695-crisis-core-final-fantasy-vii-reunion-trophy-guide) | 4/10 | 40 | 39.48% | 351,772 | 4/5 | 40 | 138 |
+| [Like a Dragon: Infinite Wealth](https://psnprofiles.com/guide/18634-like-a-dragon-infinite-wealth-trophy-guide) | 4/10 | 90 | 39.50% | 14,452 | 5/5 | 6 | 31 |
+| [Little Witch Nobeta](https://psnprofiles.com/guide/15707-little-witch-nobeta-trophy-guide) | 4/10 | 20 | 39.59% | 7,678 |  | 0 | 19 |
+| [Atelier Sophie 2: The Alchemist of the Mysterious Dream](https://psnprofiles.com/guide/14003-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-trophy-guide) | 4/10 | 60 | 40.76% | 23,011 | 5/5 | 9 | 22 |
+| [Geometric Sniper: Blood in Paris](https://psnprofiles.com/guide/16161-geometric-sniper-blood-in-paris-trophy-guide) | 4/10 | 5 | 41.49% | 5,879 |  | 0 | 4 |
+| [Brain Beats](https://psnprofiles.com/guide/12716-brain-beats-trophy-guide) | 4/10 | 3 | 44.16% | 3,407 |  | 0 | 1 |
+| [Riddled Corpses EX](https://psnprofiles.com/guide/7990-riddled-corpses-ex-trophy-guide) | 4/10 | 10 | 44.87% | 27,819 | 5/5 | 6 | 18 |
+| [Prince of Persia: The Lost Crown](https://psnprofiles.com/guide/18528-prince-of-persia-the-lost-crown-trophy-guide) | 4/10 | 25 | 45.07% | 38,958 |  | 0 | 58 |
 | [God of War Ragnarök](https://psnprofiles.com/guide/15509-god-of-war-ragnar%C3%B6k-trophy-guide) | 4/10 | 45 | 45.50% | 448,860 | 5/5 | 122 | 541 |
+| [Kao the Kangaroo](https://psnprofiles.com/guide/17221-kao-the-kangaroo-trophy-guide) | 4/10 | 9 | 46.57% | 10,573 |  | 0 | 12 |
+| [Record of Lodoss War: Deedlit in Wonder Labyrinth](https://psnprofiles.com/guide/13475-record-of-lodoss-war-deedlit-in-wonder-labyrinth-trophy-guide) | 4/10 | 10 | 46.65% | 31,403 |  | 0 | 18 |
+| [Crow Country](https://psnprofiles.com/guide/19667-crow-country-trophy-guide) | 4/10 | 5 | 47.07% | 274 |  | 0 | 0 |
+| [RWBY: Arrowfell](https://psnprofiles.com/guide/15761-rwby-arrowfell-trophy-guide) | 4/10 | 6 | 48.10% | 6,459 |  | 0 | 8 |
+| [TY the Tasmanian Tiger](https://psnprofiles.com/guide/16874-ty-the-tasmanian-tiger-trophy-guide) | 4/10 | 10 | 48.79% | 6,066 |  | 0 | 10 |
+| [Steam Tactics](https://psnprofiles.com/guide/11233-steam-tactics-trophy-guide) | 4/10 | 8 | 50.34% | 10,332 |  | 0 | 4 |
+| [Save the Ninja Clan](https://psnprofiles.com/guide/7494-save-the-ninja-clan-trophy-guide) | 4/10 | 5 | 50.88% | 15,840 |  | 0 | 17 |
+| [Like a Dragon Gaiden: The Man Who Erased His Name](https://psnprofiles.com/guide/18403-like-a-dragon-gaiden-the-man-who-erased-his-name-trophy-guide) | 4/10 | 25 | 58.11% | 7,334 | 5/5 | 6 | 18 |
+| [Rainbows, Toilets & Unicorns](https://psnprofiles.com/guide/10245-rainbows-toilets-unicorns-trophy-guide) | 4/10 | 2 | 58.32% | 6,911 |  | 0 | 5 |
+| [Metagal](https://psnprofiles.com/guide/9874-metagal-trophy-guide) | 4/10 | 4 | 65.09% | 14,945 |  | 0 | 4 |
+| [Furwind](https://psnprofiles.com/guide/8814-furwind-trophy-guide) | 4/10 | 4 | 66.41% | 14,458 |  | 0 | 6 |
+| [Briks: Head to Head](https://psnprofiles.com/guide/17349-briks-head-to-head-trophy-guide) | 4/10 | 3 | 72.06% | 1,235 |  | 0 | 0 |
+| [Cthulhu Saves Christmas](https://psnprofiles.com/guide/12567-cthulhu-saves-christmas-trophy-guide) | 4/10 | 5 | 72.18% | 9,353 |  | 0 | 6 |
+| [Tom Clancy's The Division 2](https://psnprofiles.com/guide/17394-tom-clancys-the-division-2-tom-clancys-the-division2-operation-dark-hours-dlc-trophy-guide) | 4/10 | 1 |  | 3,662 | 5/5 | 5 | 4 |
+| [Zombie Army 4: Dead War](https://psnprofiles.com/guide/12933-zombie-army-4-dead-war-blood-count-dlc-trophy-guide) | 4/10 | 1 |  | 5,066 |  | 0 | 1 |
+| [West of Dead](https://psnprofiles.com/guide/14226-west-of-dead-the-crow-dlc-trophy-guide) | 4/10 | 1 |  | 2,806 |  | 0 | 4 |
+| [Mass Effect 3](https://psnprofiles.com/guide/4550-mass-effect-3-from-ashes-dlc-trophy-guide) | 4/10 | 1 |  | 7,134 | 5/5 | 6 | 8 |
+| [DreamWorks Voltron VR Chronicles](https://psnprofiles.com/guide/14769-dreamworks-voltron-vr-chronicles-trophy-guide) | 4/10 | 1 |  | 1,311 |  | 0 | 1 |
+| [Zombie Army 4: Dead War](https://psnprofiles.com/guide/12934-zombie-army-4-dead-war-deeper-than-hell-dlc-trophy-guide) | 4/10 | 1 |  | 4,479 |  | 0 | 1 |
+| [Zombie Army 4: Dead War](https://psnprofiles.com/guide/12932-zombie-army-4-dead-war-terror-lab-dlc-trophy-guide) | 4/10 | 1 |  | 6,857 |  | 0 | 2 |
+| [BlazBlue: Chronophantasma](https://psnprofiles.com/guide/9838-blazblue-chronophantasma-%E8%BF%BD%E5%8A%A0%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B3%E3%82%B3%E3%83%8E%E3%82%A8-dlc-trophy-guide) | 4/10 | 1 |  | 2,150 |  | 0 | 3 |
+| [Tools Up!](https://psnprofiles.com/guide/19368-tools-up-episode-3-home-sweet-home-dlc-trophy-guide) | 4/10 | 2 |  | 465 |  | 0 | 0 |
+| [Cuboid](https://psnprofiles.com/guide/16024-cuboid-booster-dlc-trophy-guide) | 4/10 | 2 |  | 606 |  | 0 | 0 |
+| [Waddle Home](https://psnprofiles.com/guide/15942-waddle-home-trophy-guide) | 4/10 | 2 |  | 1,215 |  | 0 | 1 |
+| [Super Stardust Delta](https://psnprofiles.com/guide/528-super-stardust-delta-advanced-star-fighter-dlc-trophy-guide) | 4/10 | 2 |  | 2,323 |  | 0 | 4 |
+| [Call of Duty: Modern Warfare 3](https://psnprofiles.com/guide/15287-call-of-duty-modern-warfare-3-modern-warfare-3-vertigo-dlc-trophy-guide) | 4/10 | 2 |  | 5,193 | 5/5 | 5 | 2 |
+| [Dragon Age: Origins](https://psnprofiles.com/guide/1872-dragon-age-origins-the-golems-of-amgarrak-dlc-trophy-guide) | 4/10 | 2 |  | 13,412 |  | 0 | 11 |
+| [The Surge 2](https://psnprofiles.com/guide/10513-the-surge-2-the-kraken-expansion-dlc-trophy-guide) | 4/10 | 2 |  | 18,442 | 4/5 | 7 | 7 |
+| [Magic: The Gathering - Duels of the Planeswalkers](https://psnprofiles.com/guide/12850-magic-the-gathering-duels-of-the-planeswalkers-expansion-three-dlc-trophy-guide) | 4/10 | 3 |  | 907 |  | 0 | 1 |
+| [Pixel Hunter](https://psnprofiles.com/guide/8833-pixel-hunter-trophy-guide) | 4/10 | 3 |  | 1,778 |  | 0 | 2 |
+| [Assassin's Creed III](https://psnprofiles.com/guide/8395-assassins-creed-iii-the-tyranny-of-king-washington-episode-2-the-betrayal-dlc-trophy-guide) | 4/10 | 3 |  | 32,214 | 5/5 | 8 | 11 |
+| [Mass Effect 3](https://psnprofiles.com/guide/4611-mass-effect-3-leviathan-dlc-trophy-guide) | 4/10 | 3 |  | 7,678 |  | 0 | 8 |
+| [Escape Dead Island](https://psnprofiles.com/guide/7570-escape-dead-island-underwater-labs-dlc-trophy-guide) | 4/10 | 3 |  | 7,297 |  | 0 | 3 |
+| [Alienation](https://psnprofiles.com/guide/4697-alienation-masters-of-co-op-dlc-trophy-guide) | 4/10 | 3 |  | 10,888 |  | 0 | 6 |
+| [Wolfenstein II: The New Colossus](https://psnprofiles.com/guide/12791-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death-dlc-trophy-guide) | 4/10 | 3 |  | 9,824 | 5/5 | 10 | 4 |
+| [Super Street Fighter IV](https://psnprofiles.com/guide/6757-super-street-fighter-iv-ultra-street-fighter-%E2%85%A3-dlc-trophy-guide) | 4/10 | 3 |  | 11,950 |  | 0 | 9 |
+| [DJMax Respect](https://psnprofiles.com/guide/8456-djmax-respect-technika-3-dlc-trophy-guide) | 4/10 | 3 |  | 4,708 |  | 0 | 1 |
+| [Wonder Boy in Monster World](https://psnprofiles.com/guide/7972-wonder-boy-in-monster-world-trophy-guide) | 4/10 | 3 |  | 5,955 |  | 0 | 5 |
+| [Journey to the Savage Planet](https://psnprofiles.com/guide/14397-journey-to-the-savage-planet-hot-garbage-dlc-trophy-guide) | 4/10 | 3 |  | 5,759 |  | 0 | 2 |
+| [Magic: The Gathering - Duels of the Planeswalkers](https://psnprofiles.com/guide/12849-magic-the-gathering-duels-of-the-planeswalkers-expansion-two-dlc-trophy-guide) | 4/10 | 3 |  | 1,151 |  | 0 | 0 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7028-payday-2-crimewave-edition-the-butchers-western-dlc-trophy-guide) | 4/10 | 3 |  | 4,413 |  | 0 | 5 |
+| [Need for Speed](https://psnprofiles.com/guide/3608-need-for-speed-living-game-dlc-trophy-guide) | 4/10 | 3 |  | 34,872 | 5/5 | 13 | 25 |
+| [Magic: The Gathering - Duels of the Planeswalkers 2013](https://psnprofiles.com/guide/12852-magic-the-gathering-duels-of-the-planeswalkers-2013-expansion-1-dlc-trophy-guide) | 4/10 | 3 |  | 1,278 |  | 0 | 1 |
+| [Far Cry 6](https://psnprofiles.com/guide/13180-far-cry-6-party-crasher-dlc-trophy-guide) | 4/10 | 3 |  | 20,496 | 5/5 | 5 | 9 |
+| [Outriders](https://psnprofiles.com/guide/14665-outriders-new-horizon-dlc-trophy-guide) | 4/10 | 3 |  | 11,843 |  | 0 | 4 |
+| [Asura's Wrath](https://psnprofiles.com/guide/12646-asuras-wrath-dlc-pack-1-dlc-trophy-guide) | 4/10 | 4 |  | 6,282 |  | 0 | 10 |
+| [Shütshimi](https://psnprofiles.com/guide/4585-sh%C3%BCtshimi-trophy-guide) | 4/10 | 4 |  | 10,751 | 4/5 | 6 | 23 |
+| [Prince of Persia](https://psnprofiles.com/guide/10982-prince-of-persia-epilogue-dlc-trophy-guide) | 4/10 | 4 |  | 11,904 | 5/5 | 8 | 5 |
+| [Slender: The Arrival](https://psnprofiles.com/guide/1673-slender-the-arrival-trophy-guide) | 4/10 | 4 |  | 34,055 | 5/5 | 7 | 44 |
+| [Dead Space 3](https://psnprofiles.com/guide/8227-dead-space-3-awakened-dlc-trophy-guide) | 4/10 | 4 |  | 13,613 | 5/5 | 6 | 8 |
+| [CastleStorm](https://psnprofiles.com/guide/3518-castlestorm-from-outcast-to-savior-dlc-trophy-guide) | 4/10 | 4 |  | 3,162 |  | 0 | 7 |
+| [Dragon Age II](https://psnprofiles.com/guide/9709-dragon-age-ii-mark-of-the-assassin-dlc-trophy-guide) | 4/10 | 4 |  | 6,346 |  | 0 | 3 |
+| [Super Stardust Delta](https://psnprofiles.com/guide/535-super-stardust-delta-trophy-guide) | 4/10 | 4 |  | 7,632 | 5/5 | 5 | 15 |
+| [Mortal Kombat X](https://psnprofiles.com/guide/4011-mortal-kombat-x-l-dlc-trophy-guide) | 4/10 | 4 |  | 42,375 | 4/5 | 21 | 38 |
+| [Tails of Iron](https://psnprofiles.com/guide/18961-tails-of-iron-bright-fir-forest-dlc-trophy-guide) | 4/10 | 4 |  | 3,741 |  | 0 | 3 |
+| [Just Cause 4](https://psnprofiles.com/guide/8934-just-cause-4-los-demonios-dlc-trophy-guide) | 4/10 | 4 |  | 20,081 | 5/5 | 9 | 6 |
+| [Call of Duty: Modern Warfare](https://psnprofiles.com/guide/9849-call-of-duty-modern-warfare-call-of-duty-modern-warfare-special-operations-dlc-trophy-guide) | 4/10 | 4 |  | 45,477 | 5/5 | 18 | 20 |
+| [Assassin's Creed Brotherhood](https://psnprofiles.com/guide/4000-assassins-creed-brotherhood-da-vinci-disappearance-dlc-trophy-guide) | 4/10 | 4 |  | 61,915 | 5/5 | 16 | 34 |
+| [The Messenger](https://psnprofiles.com/guide/8937-the-messenger-picnic-panic-dlc-trophy-guide) | 4/10 | 4 |  | 16,112 | 2/5 | 12 | 3 |
+| [Xeodrifter](https://psnprofiles.com/guide/3417-xeodrifter-trophy-guide) | 4/10 | 4 |  | 19,541 |  | 0 | 39 |
+| [Overcooked 2](https://psnprofiles.com/guide/11362-overcooked-2-carnival-of-chaos-dlc-trophy-guide) | 4/10 | 4 |  | 11,157 | 5/5 | 5 | 2 |
+| [Deer Simulator](https://psnprofiles.com/guide/6349-deer-simulator-trophy-guide) | 4/10 | 4 |  | 9,599 |  | 0 | 4 |
+| [This War of Mine: Final Cut](https://psnprofiles.com/guide/14386-this-war-of-mine-final-cut-fathers-promise-dlc-trophy-guide) | 4/10 | 4 |  | 8,123 |  | 0 | 4 |
+| [Resident Evil 7: Biohazard](https://psnprofiles.com/guide/7002-resident-evil-7-biohazard-not-a-hero-dlc-trophy-guide) | 4/10 | 5 |  | 68,083 | 5/5 | 17 | 32 |
+| [Away: Journey to the Unexpected](https://psnprofiles.com/guide/13144-away-journey-to-the-unexpected-trophy-guide) | 4/10 | 5 |  | 4,398 |  | 0 | 4 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/6187-final-fantasy-xv-episode-prompto-dlc-trophy-guide) | 4/10 | 5 |  | 76,154 | 5/5 | 7 | 48 |
+| [Metal Gear Rising: Revengeance](https://psnprofiles.com/guide/637-metal-gear-rising-revengeance-wolfs-side-story-dlc-trophy-guide) | 4/10 | 5 |  | 10,515 | 4/5 | 9 | 15 |
+| [Deus Ex: Mankind Divided](https://psnprofiles.com/guide/14974-deus-ex-mankind-divided-breach-tier-4-dlc-trophy-guide) | 4/10 | 5 |  | 5,914 | 4/5 | 5 | 3 |
+| [Battlefield: Bad Company 2](https://psnprofiles.com/guide/16651-battlefield-bad-company-2-onslaught-dlc-trophy-guide) | 4/10 | 5 |  | 3,405 | 5/5 | 5 | 2 |
+| [Resident Evil Village](https://psnprofiles.com/guide/15384-resident-evil-village-winters-expansion-dlc-trophy-guide) | 4/10 | 5 |  | 34,434 | 5/5 | 13 | 19 |
+| [Ni no Kuni II: Revenant Kingdom](https://psnprofiles.com/guide/8872-ni-no-kuni-ii-revenant-kingdom-lair-of-the-lost-lord-dlc-trophy-guide) | 4/10 | 5 |  | 71,735 | 4/5 | 9 | 13 |
+| [Aliens: Colonial Marines](https://psnprofiles.com/guide/13384-aliens-colonial-marines-stasis-interrupted-dlc-trophy-guide) | 4/10 | 5 |  | 4,722 |  | 0 | 3 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7017-payday-2-crimewave-edition-the-alesso-heist-dlc-trophy-guide) | 4/10 | 5 |  | 5,503 |  | 0 | 6 |
+| [Skullgirls Encore](https://psnprofiles.com/guide/899-skullgirls-encore-trophy-guide) | 4/10 | 5 |  | 25,107 | 4/5 | 14 | 31 |
+| [Call of Duty: Advanced Warfare](https://psnprofiles.com/guide/6458-call-of-duty-advanced-warfare-ascendance-dlc-trophy-guide) | 4/10 | 5 |  | 16,436 | 5/5 | 6 | 8 |
+| [Grid Legends](https://psnprofiles.com/guide/16800-grid-legends-classic-car-nage-dlc-trophy-guide) | 4/10 | 5 |  | 8,576 |  | 0 | 4 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7608-payday-2-crimewave-edition-seasonal-dlc-trophy-guide) | 4/10 | 5 |  | 7,093 |  | 0 | 4 |
+| [Grid Legends](https://psnprofiles.com/guide/16803-grid-legends-winter-bash-dlc-trophy-guide) | 4/10 | 5 |  | 7,035 | 4/5 | 5 | 4 |
+| [Deus Ex: Mankind Divided](https://psnprofiles.com/guide/14975-deus-ex-mankind-divided-breach-picus-dlc-trophy-guide) | 4/10 | 5 |  | 5,005 | 4/5 | 5 | 3 |
+| [Control](https://psnprofiles.com/guide/9966-control-the-foundation-dlc-trophy-guide) | 4/10 | 5 |  | 145,519 | 5/5 | 38 | 56 |
+| [Overcooked](https://psnprofiles.com/guide/10700-overcooked-trophy-guide) | 4/10 | 5 |  | 47,037 | 4/5 | 11 | 32 |
+| [Warframe](https://psnprofiles.com/guide/16155-warframe-update-27-dlc-trophy-guide) | 4/10 | 5 |  | 1,995 |  | 0 | 0 |
+| [Road 96: Mile 0](https://psnprofiles.com/guide/16464-road-96-mile-0-trophy-guide) | 4/10 | 5 |  | 12,138 |  | 0 | 6 |
+| [Brütal Legend](https://psnprofiles.com/guide/12687-br%C3%BCtal-legend-hammer-of-infinite-fate-dlc-trophy-guide) | 4/10 | 5 |  | 5,630 |  | 0 | 1 |
+| [Overcooked 2](https://psnprofiles.com/guide/11360-overcooked-2-campfire-cook-off-dlc-trophy-guide) | 4/10 | 5 |  | 13,647 | 5/5 | 8 | 3 |
+| [Escape Plan](https://psnprofiles.com/guide/2913-escape-plan-trophy-guide) | 4/10 | 5 |  | 20,617 |  | 0 | 43 |
+| [Watch Dogs 2](https://psnprofiles.com/guide/9965-watch-dogs-2-human-conditions-dlc-trophy-guide) | 4/10 | 5 |  | 22,619 | 3/5 | 11 | 10 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7799-payday-2-crimewave-edition-john-wick-heists-dlc-trophy-guide) | 4/10 | 5 |  | 6,577 |  | 0 | 6 |
+| [Control](https://psnprofiles.com/guide/11541-control-altered-world-events-dlc-trophy-guide) | 4/10 | 5 |  | 75,692 | 5/5 | 20 | 39 |
+| [Assassin's Creed IV Black Flag](https://psnprofiles.com/guide/7521-assassins-creed-iv-black-flag-freedom-cry-dlc-trophy-guide) | 4/10 | 5 |  | 33,207 | 5/5 | 11 | 29 |
+| [theHunter: Call of the Wild](https://psnprofiles.com/guide/19354-thehunter-call-of-the-wild-silver-ridge-peaks-dlc-trophy-guide) | 4/10 | 6 |  | 646 |  | 0 | 1 |
+| [Returnal](https://psnprofiles.com/guide/14626-returnal-ascension-dlc-trophy-guide) | 4/10 | 6 |  | 55,530 | 5/5 | 30 | 20 |
+| [Metro Exodus](https://psnprofiles.com/guide/9819-metro-exodus-the-two-colonels-dlc-trophy-guide) | 4/10 | 6 |  | 34,224 | 5/5 | 8 | 15 |
+| [Assassin's Creed Syndicate](https://psnprofiles.com/guide/3707-assassins-creed-syndicate-jack-the-ripper-dlc-trophy-guide) | 4/10 | 6 |  | 43,440 | 5/5 | 14 | 45 |
+| [Blood & Truth](https://psnprofiles.com/guide/18924-blood-truth-trophy-expansion-01-dlc-trophy-guide) | 4/10 | 6 |  | 1,137 |  | 0 | 4 |
+| [Guilty Gear](https://psnprofiles.com/guide/9131-guilty-gear-trophy-guide) | 4/10 | 6 |  | 16,535 |  | 0 | 10 |
+| [Guacamelee!](https://psnprofiles.com/guide/247-guacamelee-level-dlc-trophy-guide) | 4/10 | 6 |  | 6,197 |  | 0 | 11 |
+| [Tembo the Badass Elephant](https://psnprofiles.com/guide/3135-tembo-the-badass-elephant-trophy-guide) | 4/10 | 6 |  | 7,280 |  | 0 | 8 |
+| [Fallout 76](https://psnprofiles.com/guide/18224-fallout-76-atlantic-city-dlc-trophy-guide) | 4/10 | 6 |  | 10,857 | 5/5 | 8 | 3 |
+| [Saints Row](https://psnprofiles.com/guide/17127-saints-row-doc-ketchums-murder-circus-dlc-trophy-guide) | 4/10 | 6 |  | 14,614 | 4/5 | 5 | 4 |
+| [Call of Duty: Black Ops](https://psnprofiles.com/guide/8767-call-of-duty-black-ops-escalation-dlc-trophy-guide) | 4/10 | 6 |  | 17,492 |  | 0 | 7 |
+| [Worms Battlegrounds](https://psnprofiles.com/guide/19334-worms-battlegrounds-alien-invasion-dlc-trophy-guide) | 4/10 | 7 |  | 826 |  | 0 | 0 |
+| [Fallout: New Vegas](https://psnprofiles.com/guide/5452-fallout-new-vegas-nvdlc05-dlc-trophy-guide) | 4/10 | 7 |  | 19,571 | 5/5 | 9 | 15 |
+| [BioShock Infinite](https://psnprofiles.com/guide/480-bioshock-infinite-burial-at-sea-episode-2-dlc-trophy-guide) | 4/10 | 7 |  | 35,380 | 5/5 | 11 | 26 |
+| [BioShock Infinite](https://psnprofiles.com/guide/6889-bioshock-infinite-burial-at-sea-episode-2-dlc-trophy-guide) | 4/10 | 7 |  | 21,380 | 5/5 | 14 | 30 |
+| [The Wizards](https://psnprofiles.com/guide/16658-the-wizards-trophy-guide) | 4/10 | 7 |  | 1,832 |  | 0 | 2 |
+| [Assassin's Creed Freedom Cry](https://psnprofiles.com/guide/6314-assassins-creed-freedom-cry-trophy-guide) | 4/10 | 8 |  | 63,040 | 5/5 | 31 | 109 |
+| [Dragons: Dawn of New Riders](https://psnprofiles.com/guide/18172-dragons-dawn-of-new-riders-trophy-guide) | 4/10 | 8 |  | 2,018 |  | 0 | 2 |
+| [Far Cry 6](https://psnprofiles.com/guide/13181-far-cry-6-vaas-insanity-dlc-trophy-guide) | 4/10 | 8 |  | 32,037 | 4/5 | 6 | 13 |
+| [FAR: Lone Sails](https://psnprofiles.com/guide/15895-far-lone-sails-trophy-guide) | 4/10 | 8 |  | 5,062 |  | 0 | 13 |
+| [Retsnom](https://psnprofiles.com/guide/4494-retsnom-trophy-guide) | 4/10 | 8 |  | 4,504 |  | 0 | 5 |
+| [Kholat](https://psnprofiles.com/guide/11914-kholat-trophy-guide) | 4/10 | 8 |  | 10,855 |  | 0 | 5 |
+| [Jurassic World Evolution](https://psnprofiles.com/guide/12683-jurassic-world-evolution-secrets-of-dr-wu-dlc-trophy-guide) | 4/10 | 8 |  | 7,645 | 5/5 | 5 | 2 |
+| [Wolfenstein 3D](https://psnprofiles.com/guide/3859-wolfenstein-3d-trophy-guide) | 4/10 | 8 |  | 10,596 | 4/5 | 6 | 15 |
+| [Call of Duty: Black Ops III](https://psnprofiles.com/guide/4721-call-of-duty-black-ops-iii-descent-dlc-trophy-guide) | 4/10 | 8 |  | 23,267 | 4/5 | 9 | 24 |
+| [Mafia II](https://psnprofiles.com/guide/14921-mafia-ii-joes-adventures-dlc-trophy-guide) | 4/10 | 8 |  | 24,665 |  | 0 | 17 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/11758-minecraft-dungeons-flames-of-the-nether-dlc-trophy-guide) | 4/10 | 8 |  | 24,840 | 5/5 | 7 | 7 |
+| [Red Dead Redemption](https://psnprofiles.com/guide/5179-red-dead-redemption-legends-and-killers-dlc-trophy-guide) | 4/10 | 8 |  | 33,556 | 5/5 | 11 | 23 |
+| [Star Wars: Bounty Hunter](https://psnprofiles.com/guide/4156-star-wars-bounty-hunter-trophy-guide) | 4/10 | 8 |  | 42,404 | 4/5 | 8 | 53 |
+| [Far Cry 5](https://psnprofiles.com/guide/7704-far-cry-5-dead-living-zombies-dlc-trophy-guide) | 4/10 | 8 |  | 52,563 | 5/5 | 16 | 36 |
+| [Call of Duty: Advanced Warfare](https://psnprofiles.com/guide/2482-call-of-duty-advanced-warfare-havoc-dlc-trophy-guide) | 4/10 | 8 |  | 20,784 | 5/5 | 9 | 11 |
+| [Horizon Zero Dawn](https://psnprofiles.com/guide/6195-horizon-zero-dawn-new-game-dlc-trophy-guide) | 4/10 | 8 |  | 111,616 | 5/5 | 49 | 128 |
+| [Devil May Cry 5](https://psnprofiles.com/guide/18527-devil-may-cry-5-vergil-dlc-trophy-guide) | 4/10 | 8 |  | 3,377 |  | 0 | 3 |
+| [Let Them Come](https://psnprofiles.com/guide/17246-let-them-come-trophy-guide) | 4/10 | 8 |  | 2,228 |  | 0 | 1 |
+| [Ironcast](https://psnprofiles.com/guide/17248-ironcast-trophy-guide) | 4/10 | 8 |  | 1,468 |  | 0 | 1 |
+| [Kinetica](https://psnprofiles.com/guide/4981-kinetica-trophy-guide) | 4/10 | 9 |  | 13,685 |  | 0 | 6 |
+| [Star Wars Battlefront](https://psnprofiles.com/guide/5633-star-wars-battlefront-rogue-one-scarif-dlc-trophy-guide) | 4/10 | 10 |  | 14,972 | 4/5 | 7 | 16 |
+| [Hunter's Trophy 2: America](https://psnprofiles.com/guide/586-hunters-trophy-2-america-trophy-guide) | 4/10 | 10 |  | 3,781 |  | 0 | 3 |
+| [Ice Cream Surfer](https://psnprofiles.com/guide/8073-ice-cream-surfer-trophy-guide) | 4/10 | 10 |  | 7,606 |  | 0 | 3 |
+| [Fell Seal: Arbiter's Mark](https://psnprofiles.com/guide/10430-fell-seal-arbiters-mark-dlc-maps-monsters-dlc-trophy-guide) | 4/10 | 10 |  | 10,970 | 5/5 | 5 | 3 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/14271-assassins-creed-valhalla-mastery-challenge-the-reckoning-part-2-dlc-trophy-guide) | 4/10 | 10 |  | 56,918 | 5/5 | 8 | 13 |
+| [The Witcher 3: Wild Hunt](https://psnprofiles.com/guide/3447-the-witcher-3-wild-hunt-hearts-of-stone-dlc-trophy-guide) | 4/10 | 10 |  | 265,773 | 5/5 | 34 | 173 |
+| [Battlefield Hardline](https://psnprofiles.com/guide/8213-battlefield-hardline-getaway-dlc-trophy-guide) | 4/10 | 10 |  | 8,852 |  | 0 | 5 |
+| [Call of Duty: Black Ops Cold War](https://psnprofiles.com/guide/11286-call-of-duty-black-ops-cold-war-onslaught-dlc-trophy-guide) | 4/10 | 10 |  | 58,046 | 5/5 | 8 | 20 |
+| [Mahjong Carnival](https://psnprofiles.com/guide/8860-mahjong-carnival-trophy-guide) | 4/10 | 10 |  | 2,926 |  | 0 | 3 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/14937-assassins-creed-valhalla-the-forgotten-saga-dlc-trophy-guide) | 4/10 | 10 |  | 60,412 | 4/5 | 13 | 26 |
+| [Worms](https://psnprofiles.com/guide/272-worms-trophy-guide) | 4/10 | 10 |  | 7,830 |  | 0 | 4 |
+| [OlliOlli World](https://psnprofiles.com/guide/16160-olliolli-world-finding-the-flowzone-dlc-trophy-guide) | 4/10 | 10 |  | 4,351 |  | 0 | 4 |
+| [Assassin's Creed Revelations](https://psnprofiles.com/guide/13927-assassins-creed-revelations-multiplayer-map-dlc-trophy-guide) | 4/10 | 10 |  | 11,252 | 5/5 | 9 | 3 |
+| [Rage](https://psnprofiles.com/guide/12854-rage-the-scorchers-dlc-trophy-guide) | 4/10 | 10 |  | 6,457 |  | 0 | 4 |
+| [Metro Exodus](https://psnprofiles.com/guide/9721-metro-exodus-sams-story-dlc-trophy-guide) | 4/10 | 10 |  | 49,259 | 5/5 | 8 | 20 |
+| [Outland](https://psnprofiles.com/guide/6276-outland-trophy-guide) | 4/10 | 10 |  | 7,204 |  | 0 | 10 |
+| [Tom Clancy's Ghost Recon Wildlands](https://psnprofiles.com/guide/8848-tom-clancys-ghost-recon-wildlands-ghost-recon-wildlands-fallen-ghosts-dlc-trophy-guide) | 4/10 | 10 |  | 20,807 | 5/5 | 7 | 13 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/6449-final-fantasy-xv-july-2017-update-dlc-trophy-guide) | 4/10 | 10 |  | 49,899 | 5/5 | 10 | 21 |
+| [Wonder Boy: The Dragon's Trap](https://psnprofiles.com/guide/10106-wonder-boy-the-dragons-trap-trophy-guide) | 4/10 | 10 |  | 13,461 | 4/5 | 5 | 9 |
+| [AMY](https://psnprofiles.com/guide/1689-amy-trophy-guide) | 4/10 | 10 |  | 6,266 | 4/5 | 5 | 12 |
+| [Assassin's Creed Origins](https://psnprofiles.com/guide/7473-assassins-creed-origins-the-curse-of-the-pharaohs-dlc-trophy-guide) | 4/10 | 10 |  | 70,964 | 5/5 | 24 | 48 |
+| [Exile's End](https://psnprofiles.com/guide/7086-exiles-end-trophy-guide) | 4/10 | 10 |  | 11,768 |  | 0 | 10 |
+| [God of War Ragnarök](https://psnprofiles.com/guide/18245-god-of-war-ragnar%C3%B6k-valhalla-dlc-trophy-guide) | 4/10 | 10 |  | 80,066 | 5/5 | 33 | 70 |
+| [Ni no Kuni II: Revenant Kingdom](https://psnprofiles.com/guide/7749-ni-no-kuni-ii-revenant-kingdom-adventure-dlc-trophy-guide) | 4/10 | 10 |  | 61,475 | 5/5 | 9 | 15 |
+| [Mass Effect 3](https://psnprofiles.com/guide/6504-mass-effect-3-citadel-dlc-trophy-guide) | 4/10 | 10 |  | 13,481 |  | 0 | 8 |
+| [Midnight Club: Los Angeles](https://psnprofiles.com/guide/7369-midnight-club-los-angeles-south-central-premium-upgrade-dlc-trophy-guide) | 4/10 | 10 |  | 4,140 |  | 0 | 6 |
+| [Final Fantasy XVI](https://psnprofiles.com/guide/19324-final-fantasy-xvi-the-rising-tide-dlc-trophy-guide) | 4/10 | 10 |  | 117,293 | 5/5 | 37 | 42 |
+| [Portal Knights](https://psnprofiles.com/guide/13208-portal-knights-elves-rogues-and-rifts-dlc-trophy-guide) | 4/10 | 10 |  | 9,687 | 5/5 | 5 | 3 |
+| [Fruit Ninja VR](https://psnprofiles.com/guide/14000-fruit-ninja-vr-trophy-guide) | 4/10 | 10 |  | 5,041 |  | 0 | 5 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7147-payday-2-crimewave-edition-the-golden-grin-casino-heist-dlc-trophy-guide) | 4/10 | 10 |  | 5,700 |  | 0 | 4 |
+| [DC Universe Online](https://psnprofiles.com/guide/1026-dc-universe-online-dcuo-episode-lightning-strikes-dlc-trophy-guide) | 4/10 | 10 |  | 5,456 |  | 0 | 4 |
+| [Marvel vs. Capcom: Origins](https://psnprofiles.com/guide/7642-marvel-vs-capcom-origins-trophy-guide) | 4/10 | 10 |  | 8,346 |  | 0 | 5 |
+| [Middle-earth: Shadow of War](https://psnprofiles.com/guide/15996-middle-earth-shadow-of-war-the-desolation-of-mordor-story-expansion-dlc-trophy-guide) | 4/10 | 10 |  | 13,109 | 4/5 | 9 | 6 |
+| [Vessel](https://psnprofiles.com/guide/1392-vessel-trophy-guide) | 4/10 | 10 |  | 11,238 |  | 0 | 36 |
+| [Alice: Madness Returns](https://psnprofiles.com/guide/12840-alice-madness-returns-american-mcgees-alice-dlc-trophy-guide) | 4/10 | 10 |  | 11,004 | 5/5 | 7 | 7 |
+| [The Last of Us Part II](https://psnprofiles.com/guide/10722-the-last-of-us-part-ii-grounded-mode-dlc-trophy-guide) | 4/10 | 10 |  | 107,085 | 4/5 | 36 | 50 |
+| [Hatsune Miku: Project DIVA Future Tone](https://psnprofiles.com/guide/13778-hatsune-miku-project-diva-future-tone-future-sound-dlc-trophy-guide) | 4/10 | 10 |  | 4,111 |  | 0 | 6 |
+| [Journey to the Savage Planet](https://psnprofiles.com/guide/14396-journey-to-the-savage-planet-old-game-minus-dlc-trophy-guide) | 4/10 | 10 |  | 6,750 |  | 0 | 3 |
+| [Jetpack Joyride](https://psnprofiles.com/guide/967-jetpack-joyride-trophy-guide) | 4/10 | 10 |  | 9,189 | 4/5 | 15 | 23 |
+| [Battlefield 4](https://psnprofiles.com/guide/2131-battlefield-4-dragons-teeth-dlc-trophy-guide) | 4/10 | 10 |  | 18,563 |  | 0 | 6 |
+| [CounterSpy](https://psnprofiles.com/guide/5314-counterspy-trophy-guide) | 4/10 | 12 |  | 17,581 |  | 0 | 29 |
+| [Alien Rage](https://psnprofiles.com/guide/8344-alien-rage-trophy-guide) | 4/10 | 12 |  | 9,434 |  | 0 | 8 |
+| [Demon Lord: Reincarnation](https://psnprofiles.com/guide/18353-demon-lord-reincarnation-trophy-guide) | 4/10 | 12 |  | 1,683 |  | 0 | 1 |
+| [Momonga Pinball Adventures](https://psnprofiles.com/guide/13899-momonga-pinball-adventures-trophy-guide) | 4/10 | 12 |  | 3,760 |  | 0 | 5 |
+| [Resident Evil 7: Biohazard](https://psnprofiles.com/guide/6781-resident-evil-7-biohazard-end-of-zoe-dlc-trophy-guide) | 4/10 | 15 |  | 68,023 | 3/5 | 38 | 38 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/9108-dead-by-daylight-additional-chapters-dead-by-daylight-chapter-xiii-dlc-trophy-guide) | 4/10 | 15 |  | 16,432 |  | 0 | 4 |
+| [東方深秘録 ～ Urban Legend in Limbo](https://psnprofiles.com/guide/15945-%E6%9D%B1%E6%96%B9%E6%B7%B1%E7%A7%98%E9%8C%B2-urban-legend-in-limbo-trophy-guide) | 4/10 | 15 |  | 1,584 |  | 0 | 1 |
+| [Dragon Age: Inquisition](https://psnprofiles.com/guide/5851-dragon-age-inquisition-trespasser-dlc-trophy-guide) | 4/10 | 15 |  | 58,340 | 4/5 | 18 | 32 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/10790-dead-by-daylight-additional-chapters-dead-by-daylight-descend-beyond-chapter-dlc-trophy-guide) | 4/10 | 15 |  | 8,296 |  | 0 | 0 |
+| [Battlefield 1](https://psnprofiles.com/guide/6418-battlefield-1-in-the-name-of-the-tsar-dlc-trophy-guide) | 4/10 | 15 |  | 56,091 | 5/5 | 14 | 20 |
+| [Alisa](https://psnprofiles.com/guide/18722-alisa-trophy-guide) | 4/10 | 15 |  | 6,146 |  | 0 | 8 |
+| [Dead by Daylight](https://psnprofiles.com/guide/6846-dead-by-daylight-the-halloween-chapter-dlc-trophy-guide) | 4/10 | 15 |  | 20,532 | 5/5 | 6 | 9 |
+| [Days Of Thunder NASCAR](https://psnprofiles.com/guide/6953-days-of-thunder-nascar-trophy-guide) | 4/10 | 15 |  | 2,361 |  | 0 | 1 |
+| [Hyper Scape](https://psnprofiles.com/guide/11708-hyper-scape-trophy-guide) | 4/10 | 15 |  | 10,805 | 5/5 | 9 | 5 |
+| [Foamstars](https://psnprofiles.com/guide/18805-foamstars-trophy-guide) | 4/10 | 15 |  | 8,981 | 3/5 | 8 | 6 |
+| [Bentley's Hackpack](https://psnprofiles.com/guide/16331-bentleys-hackpack-trophy-guide) | 4/10 | 15 |  | 4,561 |  | 0 | 3 |
+| [Chronicles of Teddy: Harmony of Exidus](https://psnprofiles.com/guide/6246-chronicles-of-teddy-harmony-of-exidus-trophy-guide) | 4/10 | 15 |  | 17,817 |  | 0 | 8 |
+| [Sonic Mania](https://psnprofiles.com/guide/6352-sonic-mania-trophy-guide) | 4/10 | 15 |  | 125,024 | 4/5 | 36 | 109 |
+| [Dead by Daylight](https://psnprofiles.com/guide/6990-dead-by-daylight-the-saw-chapter-dlc-trophy-guide) | 4/10 | 15 |  | 10,115 |  | 0 | 9 |
+| [Castlevania: Lords of Shadow - Mirror of Fate HD](https://psnprofiles.com/guide/1960-castlevania-lords-of-shadow-mirror-of-fate-hd-trophy-guide) | 4/10 | 15 |  | 19,152 | 5/5 | 6 | 22 |
+| [Uncharted: Legacy of Thieves Collection](https://psnprofiles.com/guide/15664-uncharted-legacy-of-thieves-collection-uncharted-the-lost-legacy-dlc-trophy-guide) | 4/10 | 15 |  | 27,176 | 5/5 | 12 | 50 |
+| [Assassin's Creed Chronicles: India](https://psnprofiles.com/guide/3911-assassins-creed-chronicles-india-trophy-guide) | 4/10 | 15 |  | 41,559 | 5/5 | 5 | 57 |
+| [Hell Let Loose](https://psnprofiles.com/guide/15654-hell-let-loose-burning-snow-dlc-trophy-guide) | 4/10 | 18 |  | 5,717 |  | 0 | 3 |
+| [Metro Exodus](https://psnprofiles.com/guide/9823-metro-exodus-new-game-dlc-trophy-guide) | 4/10 | 18 |  | 31,319 | 4/5 | 6 | 10 |
+| [SoulCalibur: Lost Swords](https://psnprofiles.com/guide/1517-soulcalibur-lost-swords-trophy-guide) | 4/10 | 20 |  | 8,696 | 4/5 | 10 | 10 |
+| [Damascus Gear: Operation Tokyo HD Edition](https://psnprofiles.com/guide/17307-damascus-gear-operation-tokyo-hd-edition-trophy-guide) | 4/10 | 20 |  | 3,605 |  | 0 | 7 |
+| [Prey](https://psnprofiles.com/guide/8064-prey-mooncrash-dlc-trophy-guide) | 4/10 | 20 |  | 34,914 | 5/5 | 15 | 27 |
+| [Magic: The Gathering - Duels of the Planeswalkers 2012 ](https://psnprofiles.com/guide/1686-magic-the-gathering-duels-of-the-planeswalkers-2012-trophy-guide) | 4/10 | 20 |  | 2,827 |  | 0 | 0 |
+| [Doom](https://psnprofiles.com/guide/15094-doom-expansion-2-dlc-trophy-guide) | 4/10 | 20 |  | 9,910 |  | 0 | 6 |
+| [Hot Shots Tennis](https://psnprofiles.com/guide/6143-hot-shots-tennis-trophy-guide) | 4/10 | 20 |  | 24,721 | 4/5 | 7 | 16 |
+| [Shoot Many Robots](https://psnprofiles.com/guide/10500-shoot-many-robots-trophy-guide) | 4/10 | 20 |  | 2,568 |  | 0 | 1 |
+| [Bionic Commando Rearmed 2](https://psnprofiles.com/guide/4595-bionic-commando-rearmed-2-trophy-guide) | 4/10 | 20 |  | 8,139 |  | 0 | 5 |
+| [Tom Clancy's Ghost Recon Wildlands](https://psnprofiles.com/guide/8404-tom-clancys-ghost-recon-wildlands-ghost-recon-wildlands-narco-road-dlc-trophy-guide) | 4/10 | 20 |  | 25,444 | 4/5 | 9 | 22 |
+| [Call of Duty: Black Ops III](https://psnprofiles.com/guide/6093-call-of-duty-black-ops-iii-awakening-dlc-trophy-guide) | 4/10 | 20 |  | 30,254 | 5/5 | 8 | 23 |
+| [Touhou: Scarlet Curiosity](https://psnprofiles.com/guide/7831-touhou-scarlet-curiosity-trophy-guide) | 4/10 | 24 |  | 12,990 |  | 0 | 8 |
+| [Surviving Mars](https://psnprofiles.com/guide/18904-surviving-mars-below-and-beyond-dlc-trophy-guide) | 4/10 | 25 |  | 970 |  | 0 | 1 |
+| [Honkai: Star Rail](https://psnprofiles.com/guide/17818-honkai-star-rail-star-rail-volume-two-dlc-trophy-guide) | 4/10 | 25 |  | 9,638 | 4/5 | 7 | 10 |
+| [Naruto Shippuden: Ultimate Ninja Storm 4](https://psnprofiles.com/guide/6837-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-dlc-trophy-guide) | 4/10 | 25 |  | 27,073 | 3/5 | 20 | 16 |
+| [Resident Evil 4](https://psnprofiles.com/guide/4962-resident-evil-4-trophy-guide) | 4/10 | 25 |  | 146,267 | 5/5 | 20 | 125 |
+| [The Witcher 3: Wild Hunt](https://psnprofiles.com/guide/6581-the-witcher-3-wild-hunt-blood-and-wine-dlc-trophy-guide) | 4/10 | 25 |  | 292,115 | 4/5 | 32 | 121 |
+| [Lara Croft and the Guardian of Light](https://psnprofiles.com/guide/13588-lara-croft-and-the-guardian-of-light-trophy-guide) | 4/10 | 25 |  | 8,709 | 5/5 | 6 | 10 |
+| [Resident Evil 4](https://psnprofiles.com/guide/534-resident-evil-4-trophy-guide) | 4/10 | 25 |  | 38,333 | 5/5 | 9 | 69 |
+| [Meet Your Maker](https://psnprofiles.com/guide/16536-meet-your-maker-trophy-guide) | 4/10 | 25 |  | 19,741 | 5/5 | 7 | 15 |
+| [Tokyo Jungle](https://psnprofiles.com/guide/1395-tokyo-jungle-trophy-guide) | 4/10 | 25 |  | 27,825 | 4/5 | 19 | 48 |
+| [Age of Wonders 4](https://psnprofiles.com/guide/18845-age-of-wonders-4-empires-and-ashes-dlc-trophy-guide) | 4/10 | 25 |  | 1,134 |  | 0 | 1 |
+| [Days Of Thunder NASCAR](https://psnprofiles.com/guide/2265-days-of-thunder-nascar-trophy-guide) | 4/10 | 25 |  | 1,987 |  | 0 | 3 |
+| [The Elder Scrolls Online](https://psnprofiles.com/guide/5404-the-elder-scrolls-online-dark-brotherhood-dlc-trophy-guide) | 4/10 | 25 |  | 6,744 |  | 0 | 2 |
+| [Red Dead Revolver](https://psnprofiles.com/guide/8898-red-dead-revolver-trophy-guide) | 4/10 | 25 |  | 47,637 | 5/5 | 11 | 27 |
+| [Hitman 3](https://psnprofiles.com/guide/14511-hitman-3-hitman-2-dlc-trophy-guide) | 4/10 | 25 |  | 6,475 |  | 0 | 7 |
+| [Streets of Rage 4](https://psnprofiles.com/guide/15846-streets-of-rage-4-mr-x-nightmare-dlc-trophy-guide) | 4/10 | 30 |  | 7,197 |  | 0 | 5 |
+| [Battlefield Hardline](https://psnprofiles.com/guide/8212-battlefield-hardline-betrayal-dlc-trophy-guide) | 4/10 | 30 |  | 9,505 |  | 0 | 6 |
+| [Sparkle 2](https://psnprofiles.com/guide/1760-sparkle-2-trophy-guide) | 4/10 | 30 |  | 22,015 | 5/5 | 7 | 21 |
+| [Tokyo Jungle](https://psnprofiles.com/guide/19071-tokyo-jungle-trophy-guide) | 4/10 | 30 |  | 2,952 | 3/5 | 5 | 10 |
+| [Resident Evil 5](https://psnprofiles.com/guide/835-resident-evil-5-versus-dlc-trophy-guide) | 4/10 | 35 |  | 41,075 | 5/5 | 6 | 19 |
+| [DayZ](https://psnprofiles.com/guide/14027-dayz-trophy-guide) | 4/10 | 35 |  | 18,031 |  | 0 | 6 |
+| [Stellaris](https://psnprofiles.com/guide/16864-stellaris-apocalypse-dlc-trophy-guide) | 4/10 | 40 |  | 1,496 |  | 0 | 0 |
+| [Lethal League Blaze](https://psnprofiles.com/guide/13274-lethal-league-blaze-trophy-guide) | 4/10 | 40 |  | 4,307 |  | 0 | 4 |
+| [Tom Clancy's The Division](https://psnprofiles.com/guide/6424-tom-clancys-the-division-expansion-ii-survival-dlc-trophy-guide) | 4/10 | 40 |  | 18,397 |  | 0 | 16 |
+| [Century: Age of Ashes](https://psnprofiles.com/guide/16374-century-age-of-ashes-trophy-guide) | 4/10 | 50 |  | 5,896 |  | 0 | 7 |
+| [For Honor](https://psnprofiles.com/guide/8901-for-honor-marching-fire-dlc-trophy-guide) | 4/10 | 50 |  | 11,477 |  | 0 | 4 |
+| [Wasteland 2](https://psnprofiles.com/guide/3944-wasteland-2-trophy-guide) | 4/10 | 50 |  | 52,515 | 4/5 | 11 | 49 |
+| [Disney Speedstorm](https://psnprofiles.com/guide/18212-disney-speedstorm-trophy-guide) | 4/10 | 70 |  | 11,566 |  | 0 | 10 |
+| [Surviving the Aftermath](https://psnprofiles.com/guide/15979-surviving-the-aftermath-dlc-pack-1-dlc-trophy-guide) | 4/10 | 80 |  | 3,110 |  | 0 | 0 |
+| [Yu-Gi-Oh! 5D's Decade Duels Plus](https://psnprofiles.com/guide/5086-yu-gi-oh-5ds-decade-duels-plus-trophy-guide) | 4/10 | 85 |  | 7,907 |  | 0 | 3 |
+| [Brawlhalla](https://psnprofiles.com/guide/15892-brawlhalla-expansion-set-2-dlc-trophy-guide) | 4/10 | 90 |  | 4,841 | 5/5 | 6 | 3 |
+| [Treasures of Montezuma Blitz](https://psnprofiles.com/guide/1476-treasures-of-montezuma-blitz-trophy-guide) | 4/10 | 100 |  | 5,640 |  | 0 | 8 |
+| [Star Trek Online](https://psnprofiles.com/guide/9865-star-trek-online-agents-of-yesterday-dlc-trophy-guide) | 4/10 | 250 |  | 4,026 |  | 0 | 3 |
+| [Ace Combat Infinity](https://psnprofiles.com/guide/1671-ace-combat-infinity-trophy-guide) | 4/10 | 250 |  | 10,739 | 4/5 | 11 | 22 |
+| [Destiny of Spirits](https://psnprofiles.com/guide/1268-destiny-of-spirits-trophy-guide) | 4/10 | 350 |  | 3,808 |  | 0 | 8 |
+| [PlanetSide 2](https://psnprofiles.com/guide/6623-planetside-2-trophy-guide) | 4/10 | 500 |  | 18,102 |  | 0 | 13 |
+| [Siralim 3](https://psnprofiles.com/guide/14775-siralim-3-trophy-guide) | 4/10 | 600 |  | 2,513 |  | 0 | 3 |
+| [NBA 2K15](https://psnprofiles.com/guide/2150-nba-2k15-trophy-guide) | 5/10 | 70 | 0.09% | 9,419 | 5/5 | 6 | 8 |
+| [NBA 2K16](https://psnprofiles.com/guide/4500-nba-2k16-trophy-guide) | 5/10 | 120 | 0.11% | 8,785 |  | 0 | 7 |
+| [EA Sports Active 2](https://psnprofiles.com/guide/1002-ea-sports-active-2-trophy-guide) | 5/10 | 150 | 0.26% | 5,454 |  | 0 | 6 |
+| [NBA Live 18](https://psnprofiles.com/guide/7016-nba-live-18-trophy-guide) | 5/10 | 65 | 0.43% | 18,422 | 5/5 | 10 | 11 |
+| [Mortal Kombat](https://psnprofiles.com/guide/7363-mortal-kombat-trophy-guide) | 5/10 | 430 | 0.52% | 69,634 | 5/5 | 15 | 38 |
+| [Duck Game](https://psnprofiles.com/guide/13979-duck-game-trophy-guide) | 5/10 | 30 | 0.56% | 9,555 | 4/5 | 5 | 7 |
+| [Power Gig: Rise of the SixString](https://psnprofiles.com/guide/2611-power-gig-rise-of-the-sixstring-trophy-guide) | 5/10 | 20 | 0.58% | 3,423 |  | 0 | 2 |
+| [WWE 2K15](https://psnprofiles.com/guide/3483-wwe-2k15-trophy-guide) | 5/10 | 50 | 0.65% | 7,169 |  | 0 | 11 |
+| [James Bond 007: Blood Stone](https://psnprofiles.com/guide/7768-james-bond-007-blood-stone-trophy-guide) | 5/10 | 110 | 0.72% | 16,229 | 5/5 | 5 | 10 |
+| [Summon Night 6: Lost Borders](https://psnprofiles.com/guide/8993-summon-night-6-lost-borders-trophy-guide) | 5/10 | 200 | 0.74% | 8,086 |  | 0 | 13 |
+| [Tony Hawk: Ride](https://psnprofiles.com/guide/4689-tony-hawk-ride-trophy-guide) | 5/10 | 10 | 0.75% | 6,825 |  | 0 | 7 |
+| [NHL 20](https://psnprofiles.com/guide/9461-nhl-20-trophy-guide) | 5/10 | 100 | 0.75% | 28,476 | 4/5 | 8 | 14 |
+| [Sword Coast Legends](https://psnprofiles.com/guide/7605-sword-coast-legends-trophy-guide) | 5/10 | 130 | 0.81% | 6,854 |  | 0 | 3 |
+| [ModNation Racers: Road Trip](https://psnprofiles.com/guide/5364-modnation-racers-road-trip-trophy-guide) | 5/10 | 30 | 0.82% | 13,817 |  | 0 | 20 |
+| [Star Ocean: The Last Hope International](https://psnprofiles.com/guide/2593-star-ocean-the-last-hope-international-trophy-guide) | 5/10 | 500 | 0.87% | 71,093 | 4/5 | 11 | 84 |
+| [Guitar Hero 5](https://psnprofiles.com/guide/8571-guitar-hero-5-trophy-guide) | 5/10 | 20 | 0.88% | 12,293 |  | 0 | 10 |
+| [Orgarhythm](https://psnprofiles.com/guide/15438-orgarhythm-trophy-guide) | 5/10 | 20 | 0.89% | 2,354 |  | 0 | 6 |
+| [Rocksmith 2014](https://psnprofiles.com/guide/3452-rocksmith-2014-trophy-guide) | 5/10 | 50 | 0.91% | 29,391 | 5/5 | 7 | 27 |
+| [7 Days to Die](https://psnprofiles.com/guide/13442-7-days-to-die-trophy-guide) | 5/10 | 50 | 0.93% | 34,095 | 5/5 | 7 | 14 |
+| [Rad](https://psnprofiles.com/guide/9616-rad-trophy-guide) | 5/10 | 100 | 0.94% | 25,116 | 5/5 | 6 | 17 |
+| [Descenders](https://psnprofiles.com/guide/11527-descenders-trophy-guide) | 5/10 | 30 | 1.16% | 71,088 | 5/5 | 10 | 40 |
+| [Marvel vs. Capcom: Infinite](https://psnprofiles.com/guide/8115-marvel-vs-capcom-infinite-trophy-guide) | 5/10 | 50 | 1.16% | 42,173 | 4/5 | 6 | 29 |
+| [FIFA 17](https://psnprofiles.com/guide/5088-fifa-17-trophy-guide) | 5/10 | 30 | 1.18% | 49,936 | 4/5 | 20 | 49 |
+| [Dangerous Golf](https://psnprofiles.com/guide/4959-dangerous-golf-trophy-guide) | 5/10 | 45 | 1.18% | 11,708 |  | 0 | 9 |
+| [WWE 2K15](https://psnprofiles.com/guide/1963-wwe-2k15-trophy-guide) | 5/10 | 40 | 1.20% | 17,462 | 5/5 | 10 | 19 |
+| [Katana Kami: A Way of the Samurai Story](https://psnprofiles.com/guide/18518-katana-kami-a-way-of-the-samurai-story-trophy-guide) | 5/10 | 120 | 1.20% | 1,958 |  | 0 | 5 |
+| [Street Fighter X Tekken](https://psnprofiles.com/guide/15333-street-fighter-x-tekken-trophy-guide) | 5/10 | 30 | 1.23% | 18,495 | 4/5 | 7 | 15 |
+| [EA Sports UFC 2](https://psnprofiles.com/guide/4131-ea-sports-ufc-2-trophy-guide) | 5/10 | 50 | 1.24% | 32,134 | 4/5 | 7 | 24 |
+| [Warhammer 40,000: Space Marine](https://psnprofiles.com/guide/9041-warhammer-40000-space-marine-trophy-guide) | 5/10 | 70 | 1.25% | 28,150 | 5/5 | 5 | 18 |
+| [theHunter: Call of the Wild](https://psnprofiles.com/guide/7586-thehunter-call-of-the-wild-trophy-guide) | 5/10 | 120 | 1.30% | 106,125 | 5/5 | 9 | 35 |
+| [MX vs ATV All Out](https://psnprofiles.com/guide/7443-mx-vs-atv-all-out-trophy-guide) | 5/10 | 15 | 1.31% | 30,217 | 4/5 | 10 | 9 |
+| [Mercenary Kings](https://psnprofiles.com/guide/1514-mercenary-kings-trophy-guide) | 5/10 | 50 | 1.39% | 27,804 | 4/5 | 10 | 55 |
+| [Skate 3](https://psnprofiles.com/guide/2294-skate-3-trophy-guide) | 5/10 | 25 | 1.43% | 40,853 | 5/5 | 8 | 48 |
+| [Epic Mickey 2: The Power of Two](https://psnprofiles.com/guide/11127-epic-mickey-2-the-power-of-two-trophy-guide) | 5/10 | 30 | 1.45% | 32,288 | 5/5 | 9 | 41 |
+| [A Gummy's Life](https://psnprofiles.com/guide/13473-a-gummys-life-trophy-guide) | 5/10 | 35 | 1.46% | 5,705 |  | 0 | 3 |
+| [Crysis 2](https://psnprofiles.com/guide/7721-crysis-2-trophy-guide) | 5/10 | 75 | 1.48% | 41,039 | 4/5 | 7 | 23 |
+| [FIFA 18](https://psnprofiles.com/guide/8829-fifa-18-trophy-guide) | 5/10 | 40 | 1.54% | 36,033 | 4/5 | 10 | 22 |
+| [Pixel Heroes](https://psnprofiles.com/guide/7738-pixel-heroes-trophy-guide) | 5/10 | 50 | 1.54% | 12,272 |  | 0 | 2 |
+| [FIFA 16](https://psnprofiles.com/guide/3356-fifa-16-trophy-guide) | 5/10 | 25 | 1.55% | 43,965 | 4/5 | 21 | 62 |
+| [LittleBigPlanet 3](https://psnprofiles.com/guide/3576-littlebigplanet-3-trophy-guide) | 5/10 | 25 | 1.61% | 171,901 | 5/5 | 27 | 231 |
+| [Fury Unleashed](https://psnprofiles.com/guide/18553-fury-unleashed-trophy-guide) | 5/10 | 35 | 1.66% | 4,086 |  | 0 | 5 |
+| [Dirt Rally 2.0](https://psnprofiles.com/guide/8908-dirt-rally-20-trophy-guide) | 5/10 | 40 | 1.70% | 97,874 | 5/5 | 31 | 91 |
+| [Mighty No. 9](https://psnprofiles.com/guide/4593-mighty-no-9-trophy-guide) | 5/10 | 20 | 1.75% | 53,540 |  | 0 | 60 |
+| [Trine 2: Complete Story](https://psnprofiles.com/guide/12615-trine-2-complete-story-trophy-guide) | 5/10 | 25 | 1.85% | 24,642 | 4/5 | 6 | 27 |
+| [Shiness The Lightning Kingdom](https://psnprofiles.com/guide/12915-shiness-the-lightning-kingdom-trophy-guide) | 5/10 | 70 | 1.87% | 17,301 |  | 0 | 10 |
+| [Driveclub VR](https://psnprofiles.com/guide/6622-driveclub-vr-trophy-guide) | 5/10 | 40 | 2.13% | 13,114 |  | 0 | 13 |
+| [Kingdom Come: Deliverance](https://psnprofiles.com/guide/7811-kingdom-come-deliverance-trophy-guide) | 5/10 | 100 | 2.15% | 160,185 | 4/5 | 39 | 127 |
+| [OhShape](https://psnprofiles.com/guide/14553-ohshape-trophy-guide) | 5/10 | 96 | 2.17% | 2,452 |  | 0 | 4 |
+| [Warhammer Age of Sigmar: Storm Ground](https://psnprofiles.com/guide/13859-warhammer-age-of-sigmar-storm-ground-trophy-guide) | 5/10 | 60 | 2.20% | 7,656 |  | 0 | 4 |
+| [SSX](https://psnprofiles.com/guide/17422-ssx-trophy-guide) | 5/10 | 35 | 2.28% | 5,940 | 5/5 | 5 | 13 |
+| [Session: Skate Sim](https://psnprofiles.com/guide/15497-session-skate-sim-trophy-guide) | 5/10 | 40 | 2.40% | 40,803 | 5/5 | 7 | 21 |
+| [Rack N Ruin](https://psnprofiles.com/guide/3924-rack-n-ruin-trophy-guide) | 5/10 | 18 | 2.45% | 5,403 |  | 0 | 13 |
+| [SteamWorld Heist](https://psnprofiles.com/guide/6515-steamworld-heist-trophy-guide) | 5/10 | 25 | 2.45% | 53,586 | 5/5 | 5 | 42 |
 | [Red Dead Redemption 2](https://psnprofiles.com/guide/7962-red-dead-redemption-2-trophy-guide) | 5/10 | 200 | 2.48% | 1,168,084 | 5/5 | 230 | 1,486 |
+| [Jump Force](https://psnprofiles.com/guide/10037-jump-force-trophy-guide) | 5/10 | 70 | 2.58% | 120,865 | 4/5 | 26 | 64 |
+| [The Golf Club 2019](https://psnprofiles.com/guide/8403-the-golf-club-2019-trophy-guide) | 5/10 | 30 | 2.59% | 25,914 |  | 0 | 8 |
+| [FlatOut 4](https://psnprofiles.com/guide/5927-flatout-4-trophy-guide) | 5/10 | 40 | 2.60% | 27,104 | 4/5 | 5 | 14 |
+| [Warriors All-Stars](https://psnprofiles.com/guide/16703-warriors-all-stars-trophy-guide) | 5/10 | 85 | 2.65% | 8,976 |  | 0 | 14 |
+| [Chroma Squad](https://psnprofiles.com/guide/7528-chroma-squad-trophy-guide) | 5/10 | 40 | 2.67% | 15,202 |  | 0 | 13 |
+| [Driver: San Francisco](https://psnprofiles.com/guide/10236-driver-san-francisco-trophy-guide) | 5/10 | 20 | 2.76% | 38,442 | 4/5 | 30 | 32 |
+| [The Lost Child](https://psnprofiles.com/guide/10956-the-lost-child-trophy-guide) | 5/10 | 150 | 2.76% | 6,719 |  | 0 | 7 |
+| [LittleBigPlanet](https://psnprofiles.com/guide/6011-littlebigplanet-trophy-guide) | 5/10 | 30 | 2.80% | 56,267 | 4/5 | 27 | 62 |
+| [Dragon Ball FighterZ](https://psnprofiles.com/guide/11913-dragon-ball-fighterz-trophy-guide) | 5/10 | 70 | 2.91% | 22,125 | 4/5 | 13 | 33 |
+| [Vampire: The Masquerade - Bloodhunt](https://psnprofiles.com/guide/14374-vampire-the-masquerade-bloodhunt-trophy-guide) | 5/10 | 100 | 2.91% | 25,538 | 4/5 | 6 | 16 |
+| [Phantom Doctrine](https://psnprofiles.com/guide/13555-phantom-doctrine-trophy-guide) | 5/10 | 50 | 2.92% | 8,483 |  | 0 | 10 |
+| [Just Cause 3](https://psnprofiles.com/guide/15613-just-cause-3-trophy-guide) | 5/10 | 100 | 2.99% | 17,554 | 5/5 | 13 | 32 |
+| [Thief](https://psnprofiles.com/guide/300-thief-trophy-guide) | 5/10 | 40 | 3.03% | 112,697 | 5/5 | 17 | 206 |
+| [Handball 16](https://psnprofiles.com/guide/6683-handball-16-trophy-guide) | 5/10 | 20 | 3.05% | 5,804 |  | 0 | 10 |
+| [Oddworld: Soulstorm](https://psnprofiles.com/guide/12182-oddworld-soulstorm-trophy-guide) | 5/10 | 50 | 3.07% | 60,643 |  | 0 | 58 |
+| [Sniper Elite 4](https://psnprofiles.com/guide/9110-sniper-elite-4-trophy-guide) | 5/10 | 50 | 3.08% | 131,336 | 4/5 | 27 | 94 |
+| [Rive](https://psnprofiles.com/guide/6047-rive-trophy-guide) | 5/10 | 20 | 3.09% | 22,898 | 4/5 | 5 | 13 |
+| [The Sims 3](https://psnprofiles.com/guide/38-the-sims-3-trophy-guide) | 5/10 | 30 | 3.11% | 30,270 | 5/5 | 10 | 55 |
+| [The Hungry Horde](https://psnprofiles.com/guide/1920-the-hungry-horde-trophy-guide) | 5/10 | 35 | 3.15% | 10,166 | 5/5 | 12 | 30 |
+| [BlazBlue: Centralfiction](https://psnprofiles.com/guide/6137-blazblue-centralfiction-trophy-guide) | 5/10 | 20 | 3.16% | 29,212 | 4/5 | 10 | 21 |
+| [Attack on Titan](https://psnprofiles.com/guide/5628-attack-on-titan-trophy-guide) | 5/10 | 70 | 3.17% | 23,986 | 5/5 | 7 | 39 |
+| [Battlefield 2042](https://psnprofiles.com/guide/13312-battlefield-2042-trophy-guide) | 5/10 | 120 | 3.17% | 128,916 | 4/5 | 18 | 63 |
+| [Dragon Ball Xenoverse](https://psnprofiles.com/guide/5040-dragon-ball-xenoverse-trophy-guide) | 5/10 | 100 | 3.19% | 83,939 | 5/5 | 18 | 97 |
+| [Lonely Mountains: Downhill](https://psnprofiles.com/guide/17178-lonely-mountains-downhill-trophy-guide) | 5/10 | 20 | 3.26% | 14,329 | 5/5 | 5 | 20 |
+| [Mercenaries 2: World in Flames](https://psnprofiles.com/guide/725-mercenaries-2-world-in-flames-trophy-guide) | 5/10 | 30 | 3.28% | 25,166 | 4/5 | 11 | 22 |
+| [Medal of Honor](https://psnprofiles.com/guide/15681-medal-of-honor-trophy-guide) | 5/10 | 28 | 3.30% | 9,961 | 4/5 | 11 | 3 |
+| [Medal of Honor](https://psnprofiles.com/guide/15756-medal-of-honor-trophy-guide) | 5/10 | 30 | 3.30% | 5,577 | 4/5 | 7 | 6 |
+| [Dungeon Siege III](https://psnprofiles.com/guide/4464-dungeon-siege-iii-trophy-guide) | 5/10 | 20 | 3.31% | 14,313 | 5/5 | 6 | 15 |
+| [Bleach: Soul Resurreccion](https://psnprofiles.com/guide/13984-bleach-soul-resurreccion-trophy-guide) | 5/10 | 135 | 3.31% | 14,998 | 5/5 | 10 | 33 |
+| [Sonic Forces](https://psnprofiles.com/guide/6698-sonic-forces-trophy-guide) | 5/10 | 15 | 3.44% | 143,578 | 5/5 | 34 | 124 |
+| [My Friend Pedro](https://psnprofiles.com/guide/9986-my-friend-pedro-trophy-guide) | 5/10 | 20 | 3.44% | 82,093 | 4/5 | 10 | 68 |
+| [Gun Club VR](https://psnprofiles.com/guide/9911-gun-club-vr-trophy-guide) | 5/10 | 15 | 3.46% | 14,711 |  | 0 | 14 |
+| [Realms of Arkania: Blade of Destiny](https://psnprofiles.com/guide/17405-realms-of-arkania-blade-of-destiny-trophy-guide) | 5/10 | 40 | 3.57% | 1,289 |  | 0 | 2 |
+| [Green Hell](https://psnprofiles.com/guide/12686-green-hell-trophy-guide) | 5/10 | 30 | 3.64% | 48,149 | 5/5 | 5 | 21 |
+| [Dead Rising 2: Off the Record](https://psnprofiles.com/guide/10031-dead-rising-2-off-the-record-trophy-guide) | 5/10 | 40 | 3.66% | 42,688 | 5/5 | 7 | 32 |
+| [Sniper Elite 3](https://psnprofiles.com/guide/3042-sniper-elite-3-trophy-guide) | 5/10 | 40 | 3.66% | 74,226 | 4/5 | 9 | 74 |
+| [Dark Cloud 2](https://psnprofiles.com/guide/3861-dark-cloud-2-trophy-guide) | 5/10 | 100 | 3.71% | 77,420 | 5/5 | 9 | 86 |
+| [Resident Evil: Operation Raccoon City](https://psnprofiles.com/guide/7272-resident-evil-operation-raccoon-city-trophy-guide) | 5/10 | 35 | 3.73% | 49,026 | 4/5 | 11 | 36 |
+| [Warhammer 40,000: Space Wolf](https://psnprofiles.com/guide/17428-warhammer-40000-space-wolf-trophy-guide) | 5/10 | 100 | 3.74% | 2,269 |  | 0 | 2 |
+| [Rage](https://psnprofiles.com/guide/12828-rage-trophy-guide) | 5/10 | 25 | 3.75% | 28,996 |  | 0 | 17 |
+| [Marvel Ultimate Alliance](https://psnprofiles.com/guide/4735-marvel-ultimate-alliance-trophy-guide) | 5/10 | 40 | 3.75% | 65,239 | 5/5 | 13 | 73 |
+| [Planet Coaster](https://psnprofiles.com/guide/13887-planet-coaster-trophy-guide) | 5/10 | 40 | 3.81% | 57,373 | 5/5 | 13 | 58 |
+| [Runner](https://psnprofiles.com/guide/17445-runner-trophy-guide) | 5/10 | 7 | 3.86% | 2,467 |  | 0 | 3 |
+| [Rayman Legends](https://psnprofiles.com/guide/1416-rayman-legends-trophy-guide) | 5/10 | 80 | 3.93% | 193,456 | 4/5 | 48 | 234 |
+| [Handball 16](https://psnprofiles.com/guide/6686-handball-16-trophy-guide) | 5/10 | 20 | 3.96% | 4,680 |  | 0 | 3 |
+| [Killzone: Mercenary](https://psnprofiles.com/guide/5871-killzone-mercenary-trophy-guide) | 5/10 | 40 | 3.96% | 73,829 | 5/5 | 22 | 57 |
+| [Star Wars Battlefront II](https://psnprofiles.com/guide/6721-star-wars-battlefront-ii-trophy-guide) | 5/10 | 60 | 3.97% | 226,962 | 5/5 | 64 | 232 |
+| [Blood & Truth](https://psnprofiles.com/guide/8754-blood-truth-trophy-guide) | 5/10 | 20 | 3.98% | 49,320 | 4/5 | 13 | 34 |
+| [Slain: Back From Hell](https://psnprofiles.com/guide/5917-slain-back-from-hell-trophy-guide) | 5/10 | 12 | 4.07% | 37,645 | 4/5 | 11 | 31 |
+| [Fist of the North Star: Lost Paradise](https://psnprofiles.com/guide/7882-fist-of-the-north-star-lost-paradise-trophy-guide) | 5/10 | 90 | 4.08% | 149,715 | 5/5 | 16 | 75 |
+| [Fist of the North Star: Lost Paradise](https://psnprofiles.com/guide/7928-fist-of-the-north-star-lost-paradise-trophy-guide) | 5/10 | 100 | 4.08% | 43,732 | 5/5 | 16 | 19 |
+| [Dead Space 3](https://psnprofiles.com/guide/8226-dead-space-3-trophy-guide) | 5/10 | 40 | 4.10% | 67,413 | 5/5 | 18 | 46 |
+| [Lords of the Fallen](https://psnprofiles.com/guide/8292-lords-of-the-fallen-trophy-guide) | 5/10 | 40 | 4.14% | 110,907 | 5/5 | 36 | 108 |
+| [The Banner Saga](https://psnprofiles.com/guide/17566-the-banner-saga-trophy-guide) | 5/10 | 15 | 4.17% | 4,359 |  | 0 | 11 |
+| [Insurgency: Sandstorm](https://psnprofiles.com/guide/14090-insurgency-sandstorm-trophy-guide) | 5/10 | 25 | 4.19% | 25,365 | 5/5 | 6 | 13 |
+| [Puppeteer](https://psnprofiles.com/guide/990-puppeteer-trophy-guide) | 5/10 | 35 | 4.24% | 38,781 | 5/5 | 20 | 122 |
+| [Chivalry 2](https://psnprofiles.com/guide/15647-chivalry-2-trophy-guide) | 5/10 | 40 | 4.25% | 62,396 | 5/5 | 6 | 39 |
+| [Driveclub](https://psnprofiles.com/guide/1813-driveclub-trophy-guide) | 5/10 | 40 | 4.29% | 86,763 | 5/5 | 52 | 214 |
+| [Aliens: Colonial Marines](https://psnprofiles.com/guide/13242-aliens-colonial-marines-trophy-guide) | 5/10 | 40 | 4.31% | 16,594 |  | 0 | 13 |
+| [MudRunner](https://psnprofiles.com/guide/8543-mudrunner-trophy-guide) | 5/10 | 50 | 4.33% | 69,316 | 5/5 | 14 | 30 |
+| [Tales of Symphonia: Dawn of the New World](https://psnprofiles.com/guide/1141-tales-of-symphonia-dawn-of-the-new-world-trophy-guide) | 5/10 | 120 | 4.33% | 28,312 | 5/5 | 11 | 88 |
+| [Singularity](https://psnprofiles.com/guide/13163-singularity-trophy-guide) | 5/10 | 60 | 4.34% | 15,726 | 5/5 | 5 | 14 |
+| [Bound by Flame](https://psnprofiles.com/guide/10383-bound-by-flame-trophy-guide) | 5/10 | 25 | 4.42% | 39,543 | 5/5 | 9 | 32 |
+| [Dead Rising](https://psnprofiles.com/guide/5099-dead-rising-trophy-guide) | 5/10 | 35 | 4.50% | 103,696 | 4/5 | 19 | 74 |
+| [Circus Electrique](https://psnprofiles.com/guide/15191-circus-electrique-trophy-guide) | 5/10 | 50 | 4.50% | 15,655 |  | 0 | 10 |
+| [Sid Meier's Civilization VI](https://psnprofiles.com/guide/14339-sid-meiers-civilization-vi-trophy-guide) | 5/10 | 50 | 4.55% | 75,500 | 5/5 | 16 | 47 |
+| [SteamWorld Dig 2](https://psnprofiles.com/guide/7011-steamworld-dig-2-trophy-guide) | 5/10 | 20 | 4.59% | 54,817 | 4/5 | 7 | 32 |
+| [Quake](https://psnprofiles.com/guide/18849-quake-trophy-guide) | 5/10 | 35 | 4.65% | 6,628 | 5/5 | 5 | 11 |
+| [Ziggurat](https://psnprofiles.com/guide/13408-ziggurat-trophy-guide) | 5/10 | 35 | 4.66% | 8,436 |  | 0 | 8 |
+| [RWBY: Grimm Eclipse](https://psnprofiles.com/guide/5631-rwby-grimm-eclipse-trophy-guide) | 5/10 | 40 | 4.68% | 18,757 | 4/5 | 7 | 25 |
+| [Two Point Hospital](https://psnprofiles.com/guide/10146-two-point-hospital-trophy-guide) | 5/10 | 80 | 4.69% | 82,568 | 5/5 | 11 | 54 |
+| [Dragon Ball: The Breakers](https://psnprofiles.com/guide/15428-dragon-ball-the-breakers-trophy-guide) | 5/10 | 60 | 4.70% | 13,086 |  | 0 | 12 |
+| [Dragon Ball: The Breakers](https://psnprofiles.com/guide/15432-dragon-ball-the-breakers-trophy-guide) | 5/10 | 70 | 4.70% | 35,738 | 4/5 | 6 | 11 |
+| [Nobunaga's Ambition: Taishi](https://psnprofiles.com/guide/8624-nobunagas-ambition-taishi-trophy-guide) | 5/10 | 80 | 4.70% | 13,001 |  | 0 | 14 |
+| [Zanki Zero: Last Beginning](https://psnprofiles.com/guide/9806-zanki-zero-last-beginning-trophy-guide) | 5/10 | 60 | 4.75% | 35,500 |  | 0 | 32 |
+| [Attack on Titan](https://psnprofiles.com/guide/4950-attack-on-titan-trophy-guide) | 5/10 | 60 | 4.81% | 70,554 | 5/5 | 9 | 66 |
+| [Assassin's Creed IV Black Flag](https://psnprofiles.com/guide/1585-assassins-creed-iv-black-flag-trophy-guide) | 5/10 | 50 | 4.82% | 93,475 | 5/5 | 24 | 202 |
 | [Metal Gear Solid V: The Phantom Pain](https://psnprofiles.com/guide/3358-metal-gear-solid-v-the-phantom-pain-trophy-guide) | 5/10 | 130 | 4.86% | 328,530 | 5/5 | 91 | 605 |
+| [Digimon World: Next Order](https://psnprofiles.com/guide/12807-digimon-world-next-order-trophy-guide) | 5/10 | 100 | 4.87% | 43,135 | 4/5 | 9 | 38 |
+| [Hidden Dragon Legend: Shadow Trace](https://psnprofiles.com/guide/7754-hidden-dragon-legend-shadow-trace-trophy-guide) | 5/10 | 20 | 4.91% | 11,074 |  | 0 | 12 |
+| [SnowRunner](https://psnprofiles.com/guide/18977-snowrunner-trophy-guide) | 5/10 | 180 | 4.96% | 3,222 |  | 0 | 6 |
+| [Dirt 4](https://psnprofiles.com/guide/6142-dirt-4-trophy-guide) | 5/10 | 70 | 5.11% | 57,117 | 5/5 | 27 | 38 |
+| [Call of Duty: Vanguard](https://psnprofiles.com/guide/13194-call-of-duty-vanguard-trophy-guide) | 5/10 | 50 | 5.25% | 126,861 | 4/5 | 20 | 53 |
+| [Dirt Showdown](https://psnprofiles.com/guide/1281-dirt-showdown-trophy-guide) | 5/10 | 25 | 5.31% | 12,207 | 4/5 | 10 | 18 |
+| [Mass Effect: Andromeda](https://psnprofiles.com/guide/5896-mass-effect-andromeda-trophy-guide) | 5/10 | 60 | 5.31% | 132,568 | 4/5 | 40 | 219 |
+| [Danganronpa V3: Killing Harmony](https://psnprofiles.com/guide/6514-danganronpa-v3-killing-harmony-trophy-guide) | 5/10 | 95 | 5.33% | 143,709 | 5/5 | 20 | 130 |
 | [Assassin's Creed IV Black Flag](https://psnprofiles.com/guide/6231-assassins-creed-iv-black-flag-trophy-guide) | 5/10 | 50 | 5.37% | 309,835 | 5/5 | 58 | 352 |
+| [This War of Mine: The Little Ones](https://psnprofiles.com/guide/5542-this-war-of-mine-the-little-ones-trophy-guide) | 5/10 | 15 | 5.38% | 100,900 | 5/5 | 35 | 168 |
+| [Sniper Elite V2](https://psnprofiles.com/guide/4636-sniper-elite-v2-trophy-guide) | 5/10 | 15 | 5.48% | 67,562 | 5/5 | 10 | 43 |
+| [Elex](https://psnprofiles.com/guide/7937-elex-trophy-guide) | 5/10 | 80 | 5.50% | 75,649 | 4/5 | 9 | 36 |
+| [Rogue Galaxy](https://psnprofiles.com/guide/3663-rogue-galaxy-trophy-guide) | 5/10 | 80 | 5.52% | 64,826 | 5/5 | 14 | 101 |
+| [Resonance of Fate](https://psnprofiles.com/guide/9062-resonance-of-fate-trophy-guide) | 5/10 | 75 | 5.55% | 36,927 | 5/5 | 5 | 43 |
+| [All-Star Fruit Racing](https://psnprofiles.com/guide/7639-all-star-fruit-racing-trophy-guide) | 5/10 | 30 | 5.57% | 21,420 |  | 0 | 9 |
+| [Dead Island](https://psnprofiles.com/guide/9854-dead-island-trophy-guide) | 5/10 | 40 | 5.62% | 145,183 | 4/5 | 13 | 75 |
+| [Kingdom: New Lands](https://psnprofiles.com/guide/6971-kingdom-new-lands-trophy-guide) | 5/10 | 20 | 5.63% | 45,666 | 4/5 | 11 | 26 |
+| [Hot Wheels Unleashed](https://psnprofiles.com/guide/13016-hot-wheels-unleashed-trophy-guide) | 5/10 | 30 | 5.67% | 184,417 | 4/5 | 9 | 107 |
+| [Call of Duty: Modern Warfare II](https://psnprofiles.com/guide/15414-call-of-duty-modern-warfare-ii-trophy-guide) | 5/10 | 15 | 5.70% | 200,854 | 5/5 | 40 | 148 |
+| [Railway Empire](https://psnprofiles.com/guide/11719-railway-empire-trophy-guide) | 5/10 | 40 | 5.73% | 15,213 | 5/5 | 5 | 9 |
+| [Spider-Man: Shattered Dimensions](https://psnprofiles.com/guide/844-spider-man-shattered-dimensions-trophy-guide) | 5/10 | 30 | 5.75% | 50,442 | 5/5 | 11 | 81 |
+| [Star Wars Jedi Knight: Jedi Academy](https://psnprofiles.com/guide/9927-star-wars-jedi-knight-jedi-academy-trophy-guide) | 5/10 | 15 | 5.78% | 47,843 | 5/5 | 10 | 37 |
+| [Judgment](https://psnprofiles.com/guide/13909-judgment-trophy-guide) | 5/10 | 80 | 5.83% | 156,202 | 5/5 | 17 | 107 |
+| [Bullet Girls Phantasia](https://psnprofiles.com/guide/7723-bullet-girls-phantasia-trophy-guide) | 5/10 | 100 | 5.88% | 45,627 | 5/5 | 5 | 15 |
+| [My Hero One's Justice 2](https://psnprofiles.com/guide/13794-my-hero-ones-justice-2-trophy-guide) | 5/10 | 50 | 5.90% | 25,649 | 4/5 | 8 | 20 |
+| [Dishonored](https://psnprofiles.com/guide/4467-dishonored-trophy-guide) | 5/10 | 25 | 5.97% | 53,750 | 5/5 | 24 | 118 |
+| [Tales of Graces f](https://psnprofiles.com/guide/9812-tales-of-graces-f-trophy-guide) | 5/10 | 120 | 6.01% | 32,932 | 5/5 | 7 | 37 |
+| [Dungeon Hunter: Alliance](https://psnprofiles.com/guide/12092-dungeon-hunter-alliance-trophy-guide) | 5/10 | 30 | 6.03% | 8,897 |  | 0 | 5 |
+| [Darksiders II](https://psnprofiles.com/guide/8682-darksiders-ii-trophy-guide) | 5/10 | 45 | 6.04% | 109,363 | 5/5 | 26 | 148 |
+| [TopSpin 2K25](https://psnprofiles.com/guide/19446-topspin-2k25-trophy-guide) | 5/10 | 45 | 6.05% | 6,617 |  | 0 | 10 |
+| [Mad Max](https://psnprofiles.com/guide/3276-mad-max-trophy-guide) | 5/10 | 85 | 6.05% | 196,673 | 4/5 | 61 | 286 |
+| [Gran Turismo 6](https://psnprofiles.com/guide/261-gran-turismo-6-trophy-guide) | 5/10 | 45 | 6.06% | 55,556 | 4/5 | 25 | 87 |
+| [Shadow Tactics](https://psnprofiles.com/guide/6516-shadow-tactics-trophy-guide) | 5/10 | 50 | 6.08% | 52,440 | 4/5 | 14 | 37 |
+| [Eliosi's Hunt](https://psnprofiles.com/guide/8270-eliosis-hunt-trophy-guide) | 5/10 | 12 | 6.10% | 3,900 |  | 0 | 7 |
+| [Resident Evil](https://psnprofiles.com/guide/2309-resident-evil-trophy-guide) | 5/10 | 30 | 6.15% | 283,075 | 5/5 | 75 | 372 |
+| [Fuse](https://psnprofiles.com/guide/3152-fuse-trophy-guide) | 5/10 | 35 | 6.21% | 14,283 |  | 0 | 11 |
+| [Metal Max Xeno Reborn](https://psnprofiles.com/guide/18664-metal-max-xeno-reborn-trophy-guide) | 5/10 | 50 | 6.28% | 1,214 |  | 0 | 3 |
+| [Deep Sky Derelicts](https://psnprofiles.com/guide/13347-deep-sky-derelicts-trophy-guide) | 5/10 | 30 | 6.29% | 9,427 |  | 0 | 3 |
+| [Dying Light](https://psnprofiles.com/guide/2573-dying-light-trophy-guide) | 5/10 | 50 | 6.30% | 240,486 | 5/5 | 65 | 332 |
+| [Need for Speed Payback](https://psnprofiles.com/guide/10386-need-for-speed-payback-trophy-guide) | 5/10 | 50 | 6.36% | 203,359 | 5/5 | 57 | 200 |
+| [Monster Hunter World: Iceborne](https://psnprofiles.com/guide/14043-monster-hunter-world-iceborne-trophy-guide) | 5/10 | 300 | 6.36% | 52,498 | 3/5 | 13 | 46 |
+| [MLB The Show 18](https://psnprofiles.com/guide/7791-mlb-the-show-18-trophy-guide) | 5/10 | 35 | 6.39% | 18,009 | 3/5 | 10 | 10 |
+| [Croixleur Sigma](https://psnprofiles.com/guide/14479-croixleur-sigma-trophy-guide) | 5/10 | 20 | 6.43% | 10,721 |  | 0 | 8 |
+| [Battle Princess Madelyn](https://psnprofiles.com/guide/9404-battle-princess-madelyn-trophy-guide) | 5/10 | 25 | 6.44% | 8,777 |  | 0 | 11 |
+| [Manhunt](https://psnprofiles.com/guide/5911-manhunt-trophy-guide) | 5/10 | 25 | 6.55% | 50,081 | 4/5 | 23 | 53 |
+| [Godfall](https://psnprofiles.com/guide/12516-godfall-trophy-guide) | 5/10 | 40 | 6.63% | 72,858 | 5/5 | 12 | 64 |
+| [God Eater 2: Rage Burst](https://psnprofiles.com/guide/7210-god-eater-2-rage-burst-trophy-guide) | 5/10 | 90 | 6.72% | 51,374 | 4/5 | 7 | 49 |
+| [Fallout: New Vegas](https://psnprofiles.com/guide/2784-fallout-new-vegas-trophy-guide) | 5/10 | 80 | 6.73% | 159,080 | 5/5 | 31 | 176 |
+| [Horizon Chase Turbo](https://psnprofiles.com/guide/8513-horizon-chase-turbo-trophy-guide) | 5/10 | 35 | 6.79% | 138,540 | 5/5 | 32 | 106 |
+| [Aliens: Dark Descent](https://psnprofiles.com/guide/19174-aliens-dark-descent-trophy-guide) | 5/10 | 60 | 6.82% | 5,415 |  | 0 | 11 |
+| [Wild Arms 3](https://psnprofiles.com/guide/9741-wild-arms-3-trophy-guide) | 5/10 | 70 | 6.85% | 32,976 | 4/5 | 7 | 46 |
+| [Desperados III](https://psnprofiles.com/guide/13629-desperados-iii-trophy-guide) | 5/10 | 45 | 7.00% | 41,873 | 5/5 | 8 | 30 |
+| [The Bureau: XCOM Declassified](https://psnprofiles.com/guide/3696-the-bureau-xcom-declassified-trophy-guide) | 5/10 | 15 | 7.09% | 18,411 | 4/5 | 9 | 34 |
+| [The King of Fighters Collection: The Orochi Saga](https://psnprofiles.com/guide/11488-the-king-of-fighters-collection-the-orochi-saga-trophy-guide) | 5/10 | 30 | 7.14% | 18,649 | 5/5 | 5 | 12 |
+| [Lost Eidolons](https://psnprofiles.com/guide/17832-lost-eidolons-trophy-guide) | 5/10 | 70 | 7.14% | 7,887 |  | 0 | 7 |
+| [Diablo III](https://psnprofiles.com/guide/431-diablo-iii-trophy-guide) | 5/10 | 70 | 7.22% | 35,062 | 5/5 | 8 | 84 |
+| [Star Ocean: First Departure R](https://psnprofiles.com/guide/9722-star-ocean-first-departure-r-trophy-guide) | 5/10 | 50 | 7.36% | 99,024 | 4/5 | 10 | 59 |
+| [龍が如く 維新!](https://psnprofiles.com/guide/6489-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F-%E7%B6%AD%E6%96%B0-trophy-guide) | 5/10 | 140 | 7.45% | 49,739 | 5/5 | 10 | 32 |
+| [Adventure Academia: The Fractured Continent](https://psnprofiles.com/guide/16781-adventure-academia-the-fractured-continent-trophy-guide) | 5/10 | 35 | 7.46% | 2,946 |  | 0 | 3 |
+| [Barbaria](https://psnprofiles.com/guide/18417-barbaria-trophy-guide) | 5/10 | 45 | 7.55% | 1,903 |  | 0 | 1 |
+| [Final Fantasy XIII](https://psnprofiles.com/guide/138-final-fantasy-xiii-trophy-guide) | 5/10 | 90 | 7.63% | 116,053 | 5/5 | 53 | 268 |
+| [Killing Floor 2](https://psnprofiles.com/guide/5370-killing-floor-2-trophy-guide) | 5/10 | 20 | 7.71% | 133,138 | 4/5 | 42 | 141 |
+| [Stranded Deep](https://psnprofiles.com/guide/11551-stranded-deep-trophy-guide) | 5/10 | 30 | 7.79% | 158,948 | 5/5 | 9 | 104 |
+| [Payday 3](https://psnprofiles.com/guide/18967-payday-3-trophy-guide) | 5/10 | 45 | 7.79% | 5,088 |  | 0 | 7 |
+| [Under Night In-Birth Exe:Late](https://psnprofiles.com/guide/3827-under-night-in-birth-exelate-trophy-guide) | 5/10 | 25 | 7.80% | 17,484 | 4/5 | 11 | 25 |
+| [West of Dead](https://psnprofiles.com/guide/14207-west-of-dead-trophy-guide) | 5/10 | 25 | 7.81% | 24,751 |  | 0 | 23 |
+| [Castle Crashers](https://psnprofiles.com/guide/9510-castle-crashers-trophy-guide) | 5/10 | 20 | 7.87% | 57,353 | 3/5 | 20 | 30 |
+| [Atelier Ayesha Plus: The Alchemist of Dusk](https://psnprofiles.com/guide/4659-atelier-ayesha-plus-the-alchemist-of-dusk-trophy-guide) | 5/10 | 70 | 8.02% | 40,933 | 5/5 | 5 | 37 |
+| [Tokyo Xanadu eX+](https://psnprofiles.com/guide/7474-tokyo-xanadu-ex-trophy-guide) | 5/10 | 70 | 8.20% | 81,061 | 5/5 | 13 | 66 |
+| [Granblue Fantasy Versus](https://psnprofiles.com/guide/9910-granblue-fantasy-versus-trophy-guide) | 5/10 | 25 | 8.26% | 82,389 | 4/5 | 17 | 36 |
+| [Watch Dogs](https://psnprofiles.com/guide/966-watch-dogs-trophy-guide) | 5/10 | 50 | 8.28% | 174,753 | 4/5 | 69 | 301 |
+| [Mirror's Edge Catalyst](https://psnprofiles.com/guide/4489-mirrors-edge-catalyst-trophy-guide) | 5/10 | 30 | 8.36% | 165,548 | 5/5 | 64 | 191 |
+| [Resistance 3](https://psnprofiles.com/guide/18017-resistance-3-trophy-guide) | 5/10 | 30 | 8.46% | 11,416 | 5/5 | 5 | 20 |
+| [Rocketbirds: Hardboiled Chicken](https://psnprofiles.com/guide/3649-rocketbirds-hardboiled-chicken-trophy-guide) | 5/10 | 15 | 8.50% | 17,455 | 5/5 | 8 | 39 |
+| [Rune Factory Oceans](https://psnprofiles.com/guide/4630-rune-factory-oceans-trophy-guide) | 5/10 | 100 | 8.66% | 7,036 |  | 0 | 9 |
+| [Kingdom Hearts Re:Chain of Memories](https://psnprofiles.com/guide/6572-kingdom-hearts-rechain-of-memories-trophy-guide) | 5/10 | 70 | 8.68% | 275,185 | 5/5 | 31 | 191 |
 | [Final Fantasy X HD](https://psnprofiles.com/guide/358-final-fantasy-x-hd-trophy-guide) | 5/10 | 110 | 8.69% | 335,711 | 5/5 | 102 | 695 |
+| [Metro Exodus](https://psnprofiles.com/guide/8381-metro-exodus-trophy-guide) | 5/10 | 45 | 8.78% | 246,702 | 4/5 | 39 | 215 |
+| [Stikbold!](https://psnprofiles.com/guide/8128-stikbold-trophy-guide) | 5/10 | 9 | 8.79% | 17,490 | 5/5 | 8 | 17 |
+| [仮面ライダー　サモンライド！](https://psnprofiles.com/guide/13241-%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC-%E3%82%B5%E3%83%A2%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%89-trophy-guide) | 5/10 | 40 | 8.84% | 2,743 |  | 0 | 3 |
+| [Call of Duty: Modern Warfare Remastered](https://psnprofiles.com/guide/5154-call-of-duty-modern-warfare-remastered-trophy-guide) | 5/10 | 30 | 8.87% | 249,768 | 5/5 | 99 | 352 |
+| [Dishonored 2](https://psnprofiles.com/guide/5345-dishonored-2-trophy-guide) | 5/10 | 35 | 8.93% | 213,956 | 5/5 | 60 | 261 |
+| [Inscryption](https://psnprofiles.com/guide/17026-inscryption-trophy-guide) | 5/10 | 50 | 9.18% | 85,438 | 4/5 | 11 | 69 |
+| [Uncharted 3: Drake's Deception](https://psnprofiles.com/guide/55-uncharted-3-drakes-deception-trophy-guide) | 5/10 | 25 | 9.33% | 85,025 | 5/5 | 45 | 238 |
+| [Kingdom Eighties](https://psnprofiles.com/guide/19629-kingdom-eighties-trophy-guide) | 5/10 | 20 | 9.39% | 723 |  | 0 | 1 |
+| [Battle Chasers: Nightwar](https://psnprofiles.com/guide/10331-battle-chasers-nightwar-trophy-guide) | 5/10 | 70 | 9.41% | 49,375 | 5/5 | 8 | 37 |
+| [The Witch and the Hundred Knight](https://psnprofiles.com/guide/513-the-witch-and-the-hundred-knight-trophy-guide) | 5/10 | 60 | 9.55% | 26,730 | 5/5 | 18 | 65 |
+| [Caveman Warriors](https://psnprofiles.com/guide/6703-caveman-warriors-trophy-guide) | 5/10 | 8 | 9.66% | 7,642 |  | 0 | 5 |
+| [Tom Clancy's The Division](https://psnprofiles.com/guide/4100-tom-clancys-the-division-trophy-guide) | 5/10 | 60 | 9.77% | 120,991 | 4/5 | 50 | 197 |
+| [Guacamelee! Super Turbo Championship Edition](https://psnprofiles.com/guide/2006-guacamelee-super-turbo-championship-edition-trophy-guide) | 5/10 | 15 | 9.84% | 69,724 | 4/5 | 26 | 158 |
+| [Supercar Challenge](https://psnprofiles.com/guide/10431-supercar-challenge-trophy-guide) | 5/10 | 20 | 9.86% | 4,350 |  | 0 | 3 |
+| [Amnesia: Rebirth](https://psnprofiles.com/guide/11055-amnesia-rebirth-trophy-guide) | 5/10 | 20 | 9.90% | 39,547 | 4/5 | 7 | 16 |
+| [Handball 16](https://psnprofiles.com/guide/5930-handball-16-trophy-guide) | 5/10 | 20 | 9.92% | 7,961 |  | 0 | 11 |
+| [Hotline Miami](https://psnprofiles.com/guide/1387-hotline-miami-trophy-guide) | 5/10 | 10 | 9.93% | 136,460 | 4/5 | 60 | 250 |
+| [Styx: Shards of Darkness](https://psnprofiles.com/guide/18166-styx-shards-of-darkness-trophy-guide) | 5/10 | 15 | 9.93% | 3,793 |  | 0 | 10 |
+| [Resogun](https://psnprofiles.com/guide/67-resogun-trophy-guide) | 5/10 | 10 | 9.95% | 62,691 | 5/5 | 32 | 167 |
+| [Resogun](https://psnprofiles.com/guide/2177-resogun-trophy-guide) | 5/10 | 10 | 9.99% | 25,365 | 5/5 | 7 | 62 |
+| [The Elder Scrolls V: Skyrim](https://psnprofiles.com/guide/1277-the-elder-scrolls-v-skyrim-trophy-guide) | 5/10 | 125 | 9.99% | 203,690 | 5/5 | 53 | 344 |
+| [Castlevania: Lords of Shadow](https://psnprofiles.com/guide/15204-castlevania-lords-of-shadow-trophy-guide) | 5/10 | 30 | 10.03% | 21,903 | 5/5 | 6 | 35 |
+| [KeyWe](https://psnprofiles.com/guide/13043-keywe-trophy-guide) | 5/10 | 15 | 10.07% | 37,735 | 5/5 | 5 | 21 |
+| [Code Vein](https://psnprofiles.com/guide/9171-code-vein-trophy-guide) | 5/10 | 75 | 10.13% | 246,437 | 4/5 | 38 | 169 |
+| [Spooky Chase](https://psnprofiles.com/guide/15463-spooky-chase-trophy-guide) | 5/10 | 8 | 10.20% | 2,653 |  | 0 | 2 |
+| [Skylight Freerange 2: Gachduine](https://psnprofiles.com/guide/7187-skylight-freerange-2-gachduine-trophy-guide) | 5/10 | 22 | 10.24% | 2,768 |  | 0 | 2 |
+| [Turok 2: Seeds of Evil](https://psnprofiles.com/guide/12924-turok-2-seeds-of-evil-trophy-guide) | 5/10 | 30 | 10.30% | 19,746 | 4/5 | 5 | 9 |
+| [inFamous](https://psnprofiles.com/guide/215-infamous-trophy-guide) | 5/10 | 35 | 10.33% | 112,401 | 5/5 | 62 | 277 |
+| [inFamous](https://psnprofiles.com/guide/681-infamous-trophy-guide) | 5/10 | 50 | 10.33% | 47,041 | 4/5 | 27 | 124 |
+| [Trek to Yomi](https://psnprofiles.com/guide/14383-trek-to-yomi-trophy-guide) | 5/10 | 12 | 10.38% | 152,715 | 5/5 | 5 | 101 |
+| [Rebel Galaxy Outlaw](https://psnprofiles.com/guide/10932-rebel-galaxy-outlaw-trophy-guide) | 5/10 | 35 | 10.38% | 12,985 |  | 0 | 6 |
+| [Guilty Gear: Strive](https://psnprofiles.com/guide/12602-guilty-gear-strive-trophy-guide) | 5/10 | 10 | 10.39% | 13,864 | 4/5 | 8 | 17 |
+| [WRC 10](https://psnprofiles.com/guide/15244-wrc-10-trophy-guide) | 5/10 | 30 | 10.46% | 14,386 | 5/5 | 6 | 16 |
+| [Spy Chameleon](https://psnprofiles.com/guide/6628-spy-chameleon-trophy-guide) | 5/10 | 10 | 10.49% | 25,119 | 5/5 | 8 | 42 |
+| [Giraffe and Annika](https://psnprofiles.com/guide/15248-giraffe-and-annika-trophy-guide) | 5/10 | 10 | 10.59% | 3,546 |  | 0 | 5 |
+| [Resident Evil 0](https://psnprofiles.com/guide/3836-resident-evil-0-trophy-guide) | 5/10 | 25 | 10.61% | 165,577 | 4/5 | 46 | 188 |
 | [Shadow of the Tomb Raider](https://psnprofiles.com/guide/7838-shadow-of-the-tomb-raider-trophy-guide) | 5/10 | 30 | 10.71% | 343,539 | 5/5 | 87 | 446 |
+| [Sackboy: A Big Adventure](https://psnprofiles.com/guide/11657-sackboy-a-big-adventure-trophy-guide) | 5/10 | 30 | 10.77% | 290,558 | 4/5 | 59 | 234 |
+| [Gundam Breaker 3](https://psnprofiles.com/guide/4586-gundam-breaker-3-trophy-guide) | 5/10 | 50 | 10.77% | 18,508 |  | 0 | 16 |
+| [Zone of the Enders HD Edition](https://psnprofiles.com/guide/671-zone-of-the-enders-hd-edition-trophy-guide) | 5/10 | 8 | 10.79% | 29,479 | 4/5 | 17 | 64 |
+| [Darksiders III](https://psnprofiles.com/guide/8611-darksiders-iii-trophy-guide) | 5/10 | 40 | 10.79% | 119,211 | 5/5 | 31 | 171 |
+| [Burnout Paradise](https://psnprofiles.com/guide/147-burnout-paradise-trophy-guide) | 5/10 | 18 | 10.82% | 50,841 | 5/5 | 20 | 81 |
 | [Resident Evil 7: Biohazard](https://psnprofiles.com/guide/5653-resident-evil-7-biohazard-trophy-guide) | 5/10 | 25 | 10.84% | 381,872 | 5/5 | 76 | 437 |
+| [Driveclub Bikes](https://psnprofiles.com/guide/5908-driveclub-bikes-trophy-guide) | 5/10 | 30 | 11.10% | 21,481 | 5/5 | 7 | 31 |
+| [Hyperdimension Neptunia](https://psnprofiles.com/guide/3112-hyperdimension-neptunia-trophy-guide) | 5/10 | 65 | 11.13% | 20,187 | 4/5 | 10 | 47 |
+| [Dokuro](https://psnprofiles.com/guide/2931-dokuro-trophy-guide) | 5/10 | 20 | 11.25% | 11,357 | 5/5 | 9 | 32 |
+| [Ys VIII: Lacrimosa of DANA](https://psnprofiles.com/guide/6487-ys-viii-lacrimosa-of-dana-trophy-guide) | 5/10 | 75 | 11.28% | 81,481 | 5/5 | 9 | 48 |
+| [Dishonored](https://psnprofiles.com/guide/3268-dishonored-trophy-guide) | 5/10 | 25 | 11.37% | 205,782 | 4/5 | 47 | 260 |
+| [Yakuza: Like A Dragon](https://psnprofiles.com/guide/13364-yakuza-like-a-dragon-trophy-guide) | 5/10 | 80 | 11.50% | 223,152 | 5/5 | 19 | 205 |
+| [Final Fantasy XII: The Zodiac Age](https://psnprofiles.com/guide/6250-final-fantasy-xii-the-zodiac-age-trophy-guide) | 5/10 | 80 | 11.51% | 287,456 | 5/5 | 71 | 344 |
+| [Saint Seiya: Soldiers' Soul](https://psnprofiles.com/guide/5206-saint-seiya-soldiers-soul-trophy-guide) | 5/10 | 40 | 11.57% | 30,559 | 5/5 | 6 | 25 |
+| [Hitman: Blood Money](https://psnprofiles.com/guide/314-hitman-blood-money-trophy-guide) | 5/10 | 20 | 11.68% | 60,923 | 4/5 | 16 | 84 |
+| [Rogue Legacy 2](https://psnprofiles.com/guide/17028-rogue-legacy-2-trophy-guide) | 5/10 | 40 | 11.71% | 54,549 | 5/5 | 5 | 28 |
+| [Gunlord X](https://psnprofiles.com/guide/9429-gunlord-x-trophy-guide) | 5/10 | 5 | 11.76% | 12,369 |  | 0 | 8 |
+| [Naruto Shippuden: Ultimate Ninja Storm 2](https://psnprofiles.com/guide/8276-naruto-shippuden-ultimate-ninja-storm-2-trophy-guide) | 5/10 | 40 | 11.91% | 124,998 | 5/5 | 22 | 82 |
+| [Jak II](https://psnprofiles.com/guide/5574-jak-ii-trophy-guide) | 5/10 | 18 | 11.93% | 108,878 | 5/5 | 6 | 126 |
+| [Unepic](https://psnprofiles.com/guide/7095-unepic-trophy-guide) | 5/10 | 35 | 11.93% | 12,366 |  | 0 | 8 |
+| [Steelrising](https://psnprofiles.com/guide/15332-steelrising-trophy-guide) | 5/10 | 25 | 11.97% | 81,615 | 3/5 | 18 | 36 |
+| [Steelrising](https://psnprofiles.com/guide/15888-steelrising-trophy-guide) | 5/10 | 25 | 11.97% | 22,453 | 5/5 | 13 | 48 |
+| [Fallout 3](https://psnprofiles.com/guide/207-fallout-3-trophy-guide) | 5/10 | 40 | 11.98% | 138,800 | 4/5 | 61 | 198 |
+| [DragonFangZ](https://psnprofiles.com/guide/14730-dragonfangz-trophy-guide) | 5/10 | 100 | 12.02% | 3,077 |  | 0 | 3 |
+| [Evil West](https://psnprofiles.com/guide/18430-evil-west-trophy-guide) | 5/10 | 25 | 12.07% | 27,654 | 5/5 | 7 | 34 |
+| [LEGO Star Wars III: The Clone Wars](https://psnprofiles.com/guide/5501-lego-star-wars-iii-the-clone-wars-trophy-guide) | 5/10 | 30 | 12.32% | 59,923 | 4/5 | 33 | 78 |
+| [Sniper Elite 5](https://psnprofiles.com/guide/15598-sniper-elite-5-trophy-guide) | 5/10 | 35 | 12.35% | 74,456 | 4/5 | 8 | 43 |
+| [Tom Clancy's Splinter Cell Pandora Tomorrow](https://psnprofiles.com/guide/3339-tom-clancys-splinter-cell-pandora-tomorrow-trophy-guide) | 5/10 | 20 | 12.36% | 21,140 | 5/5 | 9 | 29 |
+| [Uncharted: Golden Abyss](https://psnprofiles.com/guide/860-uncharted-golden-abyss-trophy-guide) | 5/10 | 35 | 12.58% | 90,963 | 5/5 | 47 | 213 |
+| [龍が如く](https://psnprofiles.com/guide/5095-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F-trophy-guide) | 5/10 | 40 | 12.58% | 24,691 | 5/5 | 8 | 25 |
+| [Heaven's Vault](https://psnprofiles.com/guide/8645-heavens-vault-trophy-guide) | 5/10 | 30 | 12.66% | 37,861 |  | 0 | 10 |
+| [Nioh](https://psnprofiles.com/guide/5830-nioh-trophy-guide) | 5/10 | 80 | 12.75% | 219,712 | 5/5 | 48 | 377 |
+| [Gungrave G.O.R.E.](https://psnprofiles.com/guide/17217-gungrave-gore-trophy-guide) | 5/10 | 20 | 12.98% | 33,368 |  | 0 | 25 |
+| [Knights of Pen and Paper +1](https://psnprofiles.com/guide/7489-knights-of-pen-and-paper-1-trophy-guide) | 5/10 | 30 | 13.05% | 21,688 |  | 0 | 11 |
+| [Daymare 1998](https://psnprofiles.com/guide/12482-daymare-1998-trophy-guide) | 5/10 | 15 | 13.08% | 29,081 |  | 0 | 11 |
+| [Persona 3 Portable](https://psnprofiles.com/guide/15973-persona-3-portable-trophy-guide) | 5/10 | 80 | 13.14% | 69,680 | 5/5 | 12 | 80 |
 | [Final Fantasy VII Remake](https://psnprofiles.com/guide/9997-final-fantasy-vii-remake-trophy-guide) | 5/10 | 60 | 13.19% | 1,150,577 | 5/5 | 214 | 1,063 |
+| [Lisa: The Painful](https://psnprofiles.com/guide/17554-lisa-the-painful-trophy-guide) | 5/10 | 20 | 13.20% | 8,522 |  | 0 | 10 |
+| [Metal Gear Solid](https://psnprofiles.com/guide/17963-metal-gear-solid-trophy-guide) | 5/10 | 25 | 13.21% | 52,581 | 4/5 | 13 | 48 |
+| [Escape Dead Island](https://psnprofiles.com/guide/7503-escape-dead-island-trophy-guide) | 5/10 | 15 | 13.30% | 20,348 |  | 0 | 15 |
+| [Melty Blood: Type Lumina](https://psnprofiles.com/guide/14107-melty-blood-type-lumina-trophy-guide) | 5/10 | 10 | 13.38% | 37,104 | 4/5 | 9 | 17 |
+| [Lost Judgment](https://psnprofiles.com/guide/17772-lost-judgment-trophy-guide) | 5/10 | 80 | 13.53% | 25,716 | 5/5 | 11 | 38 |
+| [Army of Two: The Devil's Cartel](https://psnprofiles.com/guide/12929-army-of-two-the-devils-cartel-trophy-guide) | 5/10 | 30 | 13.60% | 14,401 | 5/5 | 7 | 11 |
+| [Dragon Quest XI S: Echoes of an Elusive Age](https://psnprofiles.com/guide/13545-dragon-quest-xi-s-echoes-of-an-elusive-age-trophy-guide) | 5/10 | 120 | 13.71% | 89,826 | 4/5 | 14 | 88 |
+| [Nitroplus Blasterz: Heroine's Infinite Duel](https://psnprofiles.com/guide/11911-nitroplus-blasterz-heroines-infinite-duel-trophy-guide) | 5/10 | 6 | 13.73% | 12,127 | 5/5 | 5 | 7 |
+| [White Album －綴られる冬の想い出－](https://psnprofiles.com/guide/7150-white-album-%E7%B6%B4%E3%82%89%E3%82%8C%E3%82%8B%E5%86%AC%E3%81%AE%E6%83%B3%E3%81%84%E5%87%BA-trophy-guide) | 5/10 | 40 | 13.82% | 5,970 |  | 0 | 9 |
+| [Exit the Gungeon](https://psnprofiles.com/guide/11497-exit-the-gungeon-trophy-guide) | 5/10 | 30 | 13.84% | 25,639 | 5/5 | 6 | 17 |
 | [The Elder Scrolls V: Skyrim](https://psnprofiles.com/guide/5439-the-elder-scrolls-v-skyrim-trophy-guide) | 5/10 | 125 | 14.08% | 472,484 | 5/5 | 65 | 460 |
 | [Uncharted: Drake's Fortune Remastered](https://psnprofiles.com/guide/3418-uncharted-drakes-fortune-remastered-trophy-guide) | 5/10 | 15 | 14.37% | 367,052 | 5/5 | 130 | 639 |
+| [Like a Dragon: Ishin!](https://psnprofiles.com/guide/16230-like-a-dragon-ishin-trophy-guide) | 5/10 | 120 | 14.45% | 72,644 | 5/5 | 8 | 65 |
+| [Disgaea 1 Complete](https://psnprofiles.com/guide/12014-disgaea-1-complete-trophy-guide) | 5/10 | 80 | 14.60% | 29,526 | 5/5 | 6 | 23 |
+| [Uncharted 2: Among Thieves](https://psnprofiles.com/guide/20-uncharted-2-among-thieves-trophy-guide) | 5/10 | 25 | 14.62% | 68,064 | 5/5 | 35 | 171 |
+| [Golf Club: Nostalgia](https://psnprofiles.com/guide/12864-golf-club-nostalgia-trophy-guide) | 5/10 | 6 | 14.69% | 18,010 | 5/5 | 5 | 20 |
+| [Batman: Arkham Asylum](https://psnprofiles.com/guide/18847-batman-arkham-asylum-trophy-guide) | 5/10 | 20 | 14.94% | 10,415 | 5/5 | 8 | 43 |
+| [Tomb Raider: Anniversary](https://psnprofiles.com/guide/8122-tomb-raider-anniversary-trophy-guide) | 5/10 | 25 | 15.17% | 33,722 | 5/5 | 11 | 36 |
+| [Mobile Suit Gundam: Extreme VS Force](https://psnprofiles.com/guide/4631-mobile-suit-gundam-extreme-vs-force-trophy-guide) | 5/10 | 35 | 15.24% | 15,932 |  | 0 | 11 |
+| [Dead Space](https://psnprofiles.com/guide/726-dead-space-trophy-guide) | 5/10 | 25 | 15.28% | 102,195 | 5/5 | 50 | 161 |
+| [Dusk Diver](https://psnprofiles.com/guide/14236-dusk-diver-trophy-guide) | 5/10 | 25 | 15.38% | 12,899 |  | 0 | 24 |
+| [Resident Evil Village](https://psnprofiles.com/guide/12237-resident-evil-village-trophy-guide) | 5/10 | 30 | 15.49% | 61,751 | 5/5 | 20 | 94 |
+| [Sniper Elite V2](https://psnprofiles.com/guide/15484-sniper-elite-v2-trophy-guide) | 5/10 | 15 | 15.67% | 19,096 | 5/5 | 8 | 17 |
+| [Ys VIII: Lacrimosa of DANA](https://psnprofiles.com/guide/6533-ys-viii-lacrimosa-of-dana-trophy-guide) | 5/10 | 80 | 16.17% | 281,565 | 5/5 | 14 | 134 |
+| [Assassin's Creed III](https://psnprofiles.com/guide/8539-assassins-creed-iii-trophy-guide) | 5/10 | 50 | 16.20% | 282,674 | 5/5 | 63 | 349 |
+| [Wolfenstein: The Old Blood](https://psnprofiles.com/guide/2971-wolfenstein-the-old-blood-trophy-guide) | 5/10 | 12 | 16.31% | 123,330 | 5/5 | 41 | 216 |
+| [MotoGP 20](https://psnprofiles.com/guide/10534-motogp-20-trophy-guide) | 5/10 | 35 | 16.38% | 20,947 | 5/5 | 7 | 7 |
+| [Ruined King: A League of Legends Story](https://psnprofiles.com/guide/13390-ruined-king-a-league-of-legends-story-trophy-guide) | 5/10 | 30 | 16.78% | 39,327 | 3/5 | 8 | 27 |
+| [Castlevania Requiem: Symphony of the Night & Rondo of Blood](https://psnprofiles.com/guide/7982-castlevania-requiem-symphony-of-the-night-rondo-of-blood-trophy-guide) | 5/10 | 15 | 16.85% | 180,929 | 5/5 | 39 | 123 |
+| [Bud Spencer & Terence Hill: Slaps And Beans](https://psnprofiles.com/guide/11260-bud-spencer-terence-hill-slaps-and-beans-trophy-guide) | 5/10 | 15 | 16.87% | 18,013 |  | 0 | 11 |
+| [龍が如く2](https://psnprofiles.com/guide/5127-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F2-trophy-guide) | 5/10 | 65 | 16.97% | 20,839 | 4/5 | 6 | 25 |
+| [Valkyrie Profile: Lenneth](https://psnprofiles.com/guide/15830-valkyrie-profile-lenneth-trophy-guide) | 5/10 | 30 | 17.06% | 22,652 | 5/5 | 5 | 31 |
+| [Uncharted 3: Drake's Deception Remastered](https://psnprofiles.com/guide/3433-uncharted-3-drakes-deception-remastered-trophy-guide) | 5/10 | 15 | 17.46% | 197,140 | 5/5 | 91 | 453 |
+| [Watch Dogs 2](https://psnprofiles.com/guide/16947-watch-dogs-2-trophy-guide) | 5/10 | 30 | 17.49% | 12,173 | 5/5 | 14 | 19 |
+| [IA/VT Colorful](https://psnprofiles.com/guide/3255-iavt-colorful-trophy-guide) | 5/10 | 25 | 17.67% | 11,269 | 5/5 | 15 | 40 |
+| [Uncharted 2: Among Thieves Remastered](https://psnprofiles.com/guide/3423-uncharted-2-among-thieves-remastered-trophy-guide) | 5/10 | 15 | 17.86% | 204,352 | 5/5 | 83 | 477 |
+| [Uncharted: Legacy of Thieves Collection](https://psnprofiles.com/guide/15663-uncharted-legacy-of-thieves-collection-trophy-guide) | 5/10 | 35 | 17.89% | 88,845 | 5/5 | 17 | 112 |
+| [Earth Defense Force 4.1: Wing Diver The Shooter](https://psnprofiles.com/guide/15690-earth-defense-force-41-wing-diver-the-shooter-trophy-guide) | 5/10 | 25 | 17.90% | 3,550 |  | 0 | 3 |
+| [Orangeblood](https://psnprofiles.com/guide/12058-orangeblood-trophy-guide) | 5/10 | 15 | 18.05% | 4,870 | 5/5 | 5 | 7 |
+| [Kena: Bridge of Spirits](https://psnprofiles.com/guide/12982-kena-bridge-of-spirits-trophy-guide) | 5/10 | 25 | 18.25% | 280,296 | 5/5 | 57 | 261 |
+| [PaRappa the Rapper](https://psnprofiles.com/guide/10061-parappa-the-rapper-trophy-guide) | 5/10 | 8 | 18.27% | 28,959 | 3/5 | 16 | 28 |
+| [The Legend of Heroes: Trails of Cold Steel II](https://psnprofiles.com/guide/4971-the-legend-of-heroes-trails-of-cold-steel-ii-trophy-guide) | 5/10 | 100 | 18.34% | 221,389 | 5/5 | 28 | 116 |
+| [真・女神転生 III NOCTURNE HD REMASTER](https://psnprofiles.com/guide/11104-%E7%9C%9F%E5%A5%B3%E7%A5%9E%E8%BB%A2%E7%94%9F-iii-nocturne-hd-remaster-trophy-guide) | 5/10 | 100 | 18.41% | 112,635 | 5/5 | 5 | 57 |
 | [Resident Evil 2](https://psnprofiles.com/guide/8293-resident-evil-2-trophy-guide) | 5/10 | 30 | 18.45% | 415,562 | 5/5 | 70 | 377 |
+| [The Surge 2](https://psnprofiles.com/guide/10484-the-surge-2-trophy-guide) | 5/10 | 35 | 18.47% | 115,492 | 5/5 | 19 | 52 |
+| [BioShock 2](https://psnprofiles.com/guide/4999-bioshock-2-trophy-guide) | 5/10 | 22 | 18.48% | 193,321 | 5/5 | 46 | 283 |
+| [God of War](https://psnprofiles.com/guide/925-god-of-war-trophy-guide) | 5/10 | 15 | 18.55% | 92,545 | 5/5 | 21 | 145 |
+| [Salt and Sanctuary](https://psnprofiles.com/guide/4104-salt-and-sanctuary-trophy-guide) | 5/10 | 15 | 18.57% | 127,322 | 5/5 | 19 | 147 |
+| [God of War](https://psnprofiles.com/guide/1415-god-of-war-trophy-guide) | 5/10 | 15 | 18.68% | 223,570 | 5/5 | 61 | 303 |
+| [S.T.A.L.K.E.R.: Shadow of Chornobyl](https://psnprofiles.com/guide/19017-stalker-shadow-of-chornobyl-trophy-guide) | 5/10 | 20 | 18.76% | 10,240 | 5/5 | 7 | 19 |
+| [ロウきゅーぶ！　ないしょのシャッターチャンス](https://psnprofiles.com/guide/3698-%E3%83%AD%E3%82%A6%E3%81%8D%E3%82%85%E3%83%BC%E3%81%B6-%E3%81%AA%E3%81%84%E3%81%97%E3%82%87%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9-trophy-guide) | 5/10 | 50 | 18.95% | 3,047 |  | 0 | 8 |
+| [Tactics Ogre: Reborn](https://psnprofiles.com/guide/16427-tactics-ogre-reborn-trophy-guide) | 5/10 | 120 | 18.95% | 35,127 |  | 0 | 49 |
+| [Mary Skelter Finale](https://psnprofiles.com/guide/13183-mary-skelter-finale-trophy-guide) | 5/10 | 60 | 19.25% | 13,389 |  | 0 | 8 |
+| [Frogun](https://psnprofiles.com/guide/15802-frogun-trophy-guide) | 5/10 | 16 | 19.75% | 3,917 |  | 0 | 7 |
+| [Onimusha: Warlords](https://psnprofiles.com/guide/8163-onimusha-warlords-trophy-guide) | 5/10 | 15 | 20.41% | 57,232 | 4/5 | 13 | 53 |
+| [Dicey Dungeons](https://psnprofiles.com/guide/18278-dicey-dungeons-trophy-guide) | 5/10 | 35 | 20.63% | 3,731 |  | 0 | 5 |
+| [Fell Seal: Arbiter's Mark](https://psnprofiles.com/guide/10075-fell-seal-arbiters-mark-trophy-guide) | 5/10 | 60 | 20.67% | 29,987 | 5/5 | 9 | 15 |
+| [Breakers Collection](https://psnprofiles.com/guide/17572-breakers-collection-trophy-guide) | 5/10 | 8 | 21.35% | 2,897 |  | 0 | 3 |
+| [Kizuna AI: Touch the Beat!](https://psnprofiles.com/guide/16324-kizuna-ai-touch-the-beat-trophy-guide) | 5/10 | 12 | 21.52% | 5,592 |  | 0 | 7 |
+| [Goat Simulator](https://psnprofiles.com/guide/3235-goat-simulator-trophy-guide) | 5/10 | 2 | 21.65% | 217,665 | 5/5 | 73 | 229 |
+| [Sayonara Wild Hearts](https://psnprofiles.com/guide/10226-sayonara-wild-hearts-trophy-guide) | 5/10 | 8 | 21.83% | 48,716 | 5/5 | 9 | 35 |
+| [God Eater 3](https://psnprofiles.com/guide/8478-god-eater-3-trophy-guide) | 5/10 | 50 | 21.85% | 42,987 | 5/5 | 8 | 30 |
+| [英雄伝説 閃の軌跡Ⅱ](https://psnprofiles.com/guide/3583-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E9%96%83%E3%81%AE%E8%BB%8C%E8%B7%A1%E2%85%A1-trophy-guide) | 5/10 | 100 | 22.20% | 11,857 |  | 0 | 6 |
+| [Harry Potter and the Half-Blood Prince](https://psnprofiles.com/guide/13764-harry-potter-and-the-half-blood-prince-trophy-guide) | 5/10 | 20 | 22.97% | 16,083 | 5/5 | 11 | 17 |
+| [101 Ways To Die](https://psnprofiles.com/guide/4254-101-ways-to-die-trophy-guide) | 5/10 | 8 | 23.04% | 14,976 | 5/5 | 7 | 24 |
+| [Nioh 2](https://psnprofiles.com/guide/10138-nioh-2-trophy-guide) | 5/10 | 70 | 23.15% | 208,632 | 5/5 | 24 | 165 |
+| [The Legend of Heroes: Trails of Cold Steel IV](https://psnprofiles.com/guide/11275-the-legend-of-heroes-trails-of-cold-steel-iv-trophy-guide) | 5/10 | 150 | 23.52% | 64,861 | 5/5 | 8 | 40 |
+| [The Callisto Protocol](https://psnprofiles.com/guide/15868-the-callisto-protocol-trophy-guide) | 5/10 | 10 | 23.57% | 185,874 | 5/5 | 29 | 159 |
+| [SoulCalibur II HD Online](https://psnprofiles.com/guide/5323-soulcalibur-ii-hd-online-trophy-guide) | 5/10 | 15 | 24.14% | 17,125 | 4/5 | 6 | 20 |
+| [Banner of the Maid](https://psnprofiles.com/guide/15096-banner-of-the-maid-trophy-guide) | 5/10 | 35 | 24.69% | 13,389 |  | 0 | 6 |
+| [Criminal Girls: Invite Only](https://psnprofiles.com/guide/2399-criminal-girls-invite-only-trophy-guide) | 5/10 | 55 | 25.95% | 18,440 | 5/5 | 19 | 44 |
+| [英雄伝説 空の軌跡 SC Evolution](https://psnprofiles.com/guide/4658-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E7%A9%BA%E3%81%AE%E8%BB%8C%E8%B7%A1-sc-evolution-trophy-guide) | 5/10 | 150 | 26.04% | 18,157 | 5/5 | 8 | 20 |
+| [Teslagrad](https://psnprofiles.com/guide/2540-teslagrad-trophy-guide) | 5/10 | 4 | 26.96% | 45,625 | 5/5 | 55 | 117 |
+| [The Legend of Heroes: Trails to Azure](https://psnprofiles.com/guide/16355-the-legend-of-heroes-trails-to-azure-trophy-guide) | 5/10 | 100 | 28.55% | 23,648 | 5/5 | 10 | 27 |
+| [Mail Mole](https://psnprofiles.com/guide/12760-mail-mole-trophy-guide) | 5/10 | 11 | 30.00% | 4,347 |  | 0 | 2 |
+| [英雄伝説 空の軌跡 the 3rd Evolution](https://psnprofiles.com/guide/7264-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E7%A9%BA%E3%81%AE%E8%BB%8C%E8%B7%A1-the-3rd-evolution-trophy-guide) | 5/10 | 100 | 31.44% | 15,453 | 5/5 | 9 | 18 |
+| [Guacamelee! 2](https://psnprofiles.com/guide/18622-guacamelee-2-trophy-guide) | 5/10 | 25 | 31.50% | 3,000 |  | 0 | 15 |
+| [Ducati - 90th Anniversary](https://psnprofiles.com/guide/10600-ducati-90th-anniversary-trophy-guide) | 5/10 | 20 | 35.20% | 15,788 | 5/5 | 6 | 12 |
+| [Little Witch Nobeta](https://psnprofiles.com/guide/15680-little-witch-nobeta-trophy-guide) | 5/10 | 25 | 39.59% | 9,755 |  | 0 | 8 |
+| [Fuga: Melodies of Steel 2](https://psnprofiles.com/guide/16952-fuga-melodies-of-steel-2-trophy-guide) | 5/10 | 35 | 40.71% | 7,966 |  | 0 | 8 |
+| [この素晴らしい世界に祝福を！～希望の迷宮と集いし冒険者たち～Plus](https://psnprofiles.com/guide/15931-%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92%E5%B8%8C%E6%9C%9B%E3%81%AE%E8%BF%B7%E5%AE%AE%E3%81%A8%E9%9B%86%E3%81%84%E3%81%97%E5%86%92%E9%99%BA%E8%80%85%E3%81%9F%E3%81%A1plus-trophy-guide) | 5/10 | 40 | 42.39% | 3,038 |  | 0 | 2 |
+| [Sound Shapes](https://psnprofiles.com/guide/268-sound-shapes-trophy-guide) | 5/10 | 6 | 45.74% | 61,355 | 5/5 | 16 | 122 |
+| [Teslagrad 2](https://psnprofiles.com/guide/16598-teslagrad-2-final-challenge-dlc-trophy-guide) | 5/10 | 1 |  | 2,546 |  | 0 | 2 |
+| [DJMax Respect](https://psnprofiles.com/guide/10896-djmax-respect-cytus-dlc-trophy-guide) | 5/10 | 1 |  | 5,089 |  | 0 | 1 |
+| [Tools Up!](https://psnprofiles.com/guide/19123-tools-up-time-attack-dlc-trophy-guide) | 5/10 | 2 |  | 467 |  | 0 | 0 |
+| [Blood & Truth](https://psnprofiles.com/guide/18911-blood-truth-trophy-expansion-02-dlc-trophy-guide) | 5/10 | 2 |  | 901 |  | 0 | 1 |
+| [Kao the Kangaroo](https://psnprofiles.com/guide/17336-kao-the-kangaroo-bend-the-rooles-dlc-trophy-guide) | 5/10 | 2 |  | 3,842 |  | 0 | 3 |
+| [Tiny Tina's Wonderlands](https://psnprofiles.com/guide/18487-tiny-tinas-wonderlands-molten-mirrors-dlc-trophy-guide) | 5/10 | 2 |  | 2,929 |  | 0 | 0 |
+| [Escape Plan](https://psnprofiles.com/guide/2919-escape-plan-directors-cut-dlc-trophy-guide) | 5/10 | 2 |  | 5,400 |  | 0 | 7 |
+| [Arizona Sunshine](https://psnprofiles.com/guide/7830-arizona-sunshine-deadman-dlc-trophy-guide) | 5/10 | 2 |  | 6,995 |  | 0 | 4 |
+| [Tiny Tina's Wonderlands](https://psnprofiles.com/guide/18488-tiny-tinas-wonderlands-shattering-spectreglass-dlc-trophy-guide) | 5/10 | 2 |  | 3,160 |  | 0 | 0 |
+| [Lords of the Fallen](https://psnprofiles.com/guide/8322-lords-of-the-fallen-ancient-labyrinth-dlc-trophy-guide) | 5/10 | 2 |  | 29,429 | 3/5 | 17 | 21 |
+| [DJMax Respect](https://psnprofiles.com/guide/7591-djmax-respect-trilogy-dlc-trophy-guide) | 5/10 | 3 |  | 5,069 | 5/5 | 5 | 4 |
+| [Far Cry 6](https://psnprofiles.com/guide/13179-far-cry-6-salt-of-the-earth-dlc-trophy-guide) | 5/10 | 3 |  | 28,989 |  | 0 | 11 |
+| [Trials Fusion](https://psnprofiles.com/guide/13620-trials-fusion-riders-of-the-rustlands-dlc-trophy-guide) | 5/10 | 3 |  | 3,219 |  | 0 | 1 |
+| [PieceFall](https://psnprofiles.com/guide/7854-piecefall-trophy-guide) | 5/10 | 3 |  | 7,068 |  | 0 | 4 |
+| [Them Bombs](https://psnprofiles.com/guide/14546-them-bombs-trophy-guide) | 5/10 | 3 |  | 6,330 |  | 0 | 1 |
+| [Dead Rising 4](https://psnprofiles.com/guide/12447-dead-rising-4-frank-rising-dlc-trophy-guide) | 5/10 | 3 |  | 6,226 |  | 0 | 0 |
+| [Resogun](https://psnprofiles.com/guide/1134-resogun-heroes-dlc-trophy-guide) | 5/10 | 3 |  | 11,661 | 5/5 | 7 | 20 |
+| [LittleBigPlanet 2](https://psnprofiles.com/guide/6804-littlebigplanet-2-the-muppets-dlc-trophy-guide) | 5/10 | 4 |  | 5,143 |  | 0 | 7 |
+| [Trials Fusion](https://psnprofiles.com/guide/13673-trials-fusion-empire-of-the-sky-dlc-trophy-guide) | 5/10 | 4 |  | 2,910 |  | 0 | 2 |
+| [Dragon Age II](https://psnprofiles.com/guide/1344-dragon-age-ii-legacy-dlc-trophy-guide) | 5/10 | 4 |  | 7,174 | 5/5 | 5 | 8 |
+| [Kingdom: Two Crowns](https://psnprofiles.com/guide/15638-kingdom-two-crowns-challenge-island-update-dlc-trophy-guide) | 5/10 | 4 |  | 2,524 |  | 0 | 3 |
+| [Metro: Last Light](https://psnprofiles.com/guide/15701-metro-last-light-the-tower-dlc-trophy-guide) | 5/10 | 4 |  | 2,629 |  | 0 | 1 |
+| [Wolfenstein II: The New Colossus](https://psnprofiles.com/guide/12792-wolfenstein-ii-the-new-colossus-the-deeds-of-captain-wilkins-dlc-trophy-guide) | 5/10 | 4 |  | 10,701 | 4/5 | 11 | 5 |
+| [Metro: Last Light](https://psnprofiles.com/guide/15703-metro-last-light-the-developer-dlc-trophy-guide) | 5/10 | 4 |  | 2,220 |  | 0 | 1 |
+| [Spelunker HD](https://psnprofiles.com/guide/2169-spelunker-hd-championship-mode-area-8-dlc-trophy-guide) | 5/10 | 5 |  | 715 |  | 0 | 1 |
+| [Spelunker HD](https://psnprofiles.com/guide/2165-spelunker-hd-championship-mode-area-4-dlc-trophy-guide) | 5/10 | 5 |  | 728 |  | 0 | 2 |
+| [Spelunker HD](https://psnprofiles.com/guide/2166-spelunker-hd-championship-mode-area-5-dlc-trophy-guide) | 5/10 | 5 |  | 730 |  | 0 | 2 |
+| [Spelunker HD](https://psnprofiles.com/guide/2162-spelunker-hd-championship-mode-area-3-dlc-trophy-guide) | 5/10 | 5 |  | 783 |  | 0 | 2 |
+| [Deep Rock Galactic](https://psnprofiles.com/guide/13623-deep-rock-galactic-abyss-bar-dlc-trophy-guide) | 5/10 | 5 |  | 12,254 |  | 0 | 5 |
+| [Persona 4: Arena Ultimax](https://psnprofiles.com/guide/10717-persona-4-arena-ultimax-additional-trophy-group-margaret-dlc-trophy-guide) | 5/10 | 5 |  | 7,189 | 5/5 | 5 | 6 |
+| [Spelunker HD](https://psnprofiles.com/guide/2170-spelunker-hd-championship-mode-area-9-dlc-trophy-guide) | 5/10 | 5 |  | 1,059 |  | 0 | 1 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/6003-final-fantasy-xv-episode-gladiolus-dlc-trophy-guide) | 5/10 | 5 |  | 89,715 | 5/5 | 9 | 55 |
+| [Dark Awake: The King Has No Name](https://psnprofiles.com/guide/12160-dark-awake-the-king-has-no-name-trophy-guide) | 5/10 | 5 |  | 2,364 |  | 0 | 5 |
+| [Kingdom Come: Deliverance](https://psnprofiles.com/guide/7759-kingdom-come-deliverance-from-the-ashes-dlc-trophy-guide) | 5/10 | 5 |  | 34,762 | 5/5 | 5 | 9 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/7231-payday-2-crimewave-edition-the-goat-simulator-heist-dlc-trophy-guide) | 5/10 | 5 |  | 6,872 |  | 0 | 4 |
+| [Borderlands 2](https://psnprofiles.com/guide/17280-borderlands-2-mr-torgues-campaign-of-carnage-dlc-trophy-guide) | 5/10 | 5 |  | 4,162 |  | 0 | 2 |
+| [Dead Island](https://psnprofiles.com/guide/9855-dead-island-bloodbath-arena-dlc-trophy-guide) | 5/10 | 5 |  | 17,284 |  | 0 | 6 |
+| [Steelrising](https://psnprofiles.com/guide/15581-steelrising-cagliostros-secrets-dlc-trophy-guide) | 5/10 | 5 |  | 10,607 |  | 0 | 8 |
+| [Spelunker HD](https://psnprofiles.com/guide/2157-spelunker-hd-championship-mode-area-2-dlc-trophy-guide) | 5/10 | 5 |  | 2,239 |  | 0 | 3 |
+| [Marsupilami: Hoobadventure](https://psnprofiles.com/guide/15565-marsupilami-hoobadventure-the-hidden-world-dlc-trophy-guide) | 5/10 | 5 |  | 4,190 |  | 0 | 5 |
+| [Dragon Age: Inquisition](https://psnprofiles.com/guide/3131-dragon-age-inquisition-jaws-of-hakkon-dlc-trophy-guide) | 5/10 | 5 |  | 33,257 | 4/5 | 13 | 28 |
+| [Terraria](https://psnprofiles.com/guide/14537-terraria-dont-starve-together-dlc-trophy-guide) | 5/10 | 5 |  | 12,233 | 5/5 | 5 | 5 |
+| [Grid Legends](https://psnprofiles.com/guide/16802-grid-legends-rise-of-ravenwest-dlc-trophy-guide) | 5/10 | 6 |  | 6,822 |  | 0 | 4 |
+| [Enslaved: Odyssey to the West](https://psnprofiles.com/guide/13224-enslaved-odyssey-to-the-west-pigsys-perfect-10-dlc-trophy-guide) | 5/10 | 6 |  | 5,131 | 5/5 | 5 | 6 |
+| [Overcooked 2](https://psnprofiles.com/guide/11361-overcooked-2-night-of-the-hangry-horde-dlc-trophy-guide) | 5/10 | 6 |  | 15,316 | 5/5 | 5 | 4 |
+| [Lisa: The Joyful](https://psnprofiles.com/guide/17586-lisa-the-joyful-trophy-guide) | 5/10 | 6 |  | 4,094 |  | 0 | 6 |
+| [A Virus Named TOM](https://psnprofiles.com/guide/7743-a-virus-named-tom-trophy-guide) | 5/10 | 6 |  | 5,170 |  | 0 | 8 |
+| [Post Void](https://psnprofiles.com/guide/17521-post-void-trophy-guide) | 5/10 | 6 |  | 1,572 |  | 0 | 5 |
+| [Borderlands 2](https://psnprofiles.com/guide/17202-borderlands-2-sir-hammerlocks-big-game-hunt-dlc-trophy-guide) | 5/10 | 6 |  | 4,208 | 5/5 | 7 | 2 |
+| [Aaru's Awakening](https://psnprofiles.com/guide/2695-aarus-awakening-trophy-guide) | 5/10 | 6 |  | 14,007 |  | 0 | 46 |
+| [Borderlands 2](https://psnprofiles.com/guide/16498-borderlands-2-captain-scarlett-and-her-pirates-booty-dlc-trophy-guide) | 5/10 | 6 |  | 6,377 | 4/5 | 9 | 6 |
+| [Doom Eternal](https://psnprofiles.com/guide/12025-doom-eternal-the-ancient-gods-2-dlc-trophy-guide) | 5/10 | 7 |  | 24,370 | 4/5 | 10 | 16 |
+| [Valkyrie Elysium](https://psnprofiles.com/guide/16131-valkyrie-elysium-free-expansion-dlc-trophy-guide) | 5/10 | 7 |  | 9,310 |  | 0 | 7 |
+| [The House of the Dead 3](https://psnprofiles.com/guide/18022-the-house-of-the-dead-3-trophy-guide) | 5/10 | 7 |  | 2,788 |  | 0 | 4 |
+| [Red Dead Redemption](https://psnprofiles.com/guide/5180-red-dead-redemption-outlaws-to-the-end-co-op-dlc-trophy-guide) | 5/10 | 8 |  | 30,894 | 5/5 | 12 | 21 |
+| [Fallout 3](https://psnprofiles.com/guide/1289-fallout-3-the-pitt-dlc-trophy-guide) | 5/10 | 8 |  | 13,696 | 5/5 | 11 | 22 |
+| [Amnesia Collection](https://psnprofiles.com/guide/14171-amnesia-collection-hardmode-dlc-trophy-guide) | 5/10 | 8 |  | 7,927 | 5/5 | 8 | 11 |
+| [Little Nightmares](https://psnprofiles.com/guide/9273-little-nightmares-trophy-guide) | 5/10 | 8 |  | 286,702 | 4/5 | 22 | 171 |
+| [Middle-earth: Shadow of Mordor - Game of the Year Edition](https://psnprofiles.com/guide/7876-middle-earth-shadow-of-mordor-game-of-the-year-edition-the-bright-lord-dlc-trophy-guide) | 5/10 | 8 |  | 62,127 | 5/5 | 11 | 48 |
+| [Call of Duty: World at War](https://psnprofiles.com/guide/1830-call-of-duty-world-at-war-map-3-dlc-trophy-guide) | 5/10 | 8 |  | 15,857 | 5/5 | 8 | 9 |
+| [AIPD](https://psnprofiles.com/guide/16662-aipd-trophy-guide) | 5/10 | 10 |  | 711 |  | 0 | 1 |
+| [Godfall](https://psnprofiles.com/guide/13392-godfall-challenger-dlc-trophy-guide) | 5/10 | 10 |  | 7,359 |  | 0 | 3 |
+| [Kingdom Hearts 0.2 Birth by Sleep: A Fragmentary Passage](https://psnprofiles.com/guide/5667-kingdom-hearts-02-birth-by-sleep-a-fragmentary-passage-trophy-guide) | 5/10 | 10 |  | 93,356 | 5/5 | 23 | 141 |
+| [Red Dead Redemption](https://psnprofiles.com/guide/75-red-dead-redemption-liars-and-cheats-dlc-trophy-guide) | 5/10 | 10 |  | 36,031 | 5/5 | 15 | 39 |
+| [Call of Duty: Advanced Warfare](https://psnprofiles.com/guide/11030-call-of-duty-advanced-warfare-supremacy-dlc-trophy-guide) | 5/10 | 10 |  | 13,411 | 5/5 | 5 | 3 |
+| [The Fancy Pants Adventures](https://psnprofiles.com/guide/13236-the-fancy-pants-adventures-trophy-guide) | 5/10 | 10 |  | 2,793 |  | 0 | 2 |
+| [Mutant Mudds Deluxe](https://psnprofiles.com/guide/7431-mutant-mudds-deluxe-trophy-guide) | 5/10 | 10 |  | 4,565 |  | 0 | 4 |
+| [Metro: Last Light](https://psnprofiles.com/guide/15699-metro-last-light-the-faction-dlc-trophy-guide) | 5/10 | 10 |  | 2,863 |  | 0 | 1 |
+| [The Last of Us Part II Remastered](https://psnprofiles.com/guide/18648-the-last-of-us-part-ii-remastered-no-return-dlc-trophy-guide) | 5/10 | 10 |  | 15,122 | 5/5 | 8 | 18 |
+| [Call of Duty: Black Ops](https://psnprofiles.com/guide/8768-call-of-duty-black-ops-annihilation-dlc-trophy-guide) | 5/10 | 10 |  | 15,944 | 5/5 | 7 | 11 |
+| [Danger Zone](https://psnprofiles.com/guide/6096-danger-zone-trophy-guide) | 5/10 | 10 |  | 16,657 | 5/5 | 6 | 8 |
+| [Trials Fusion](https://psnprofiles.com/guide/13710-trials-fusion-welcome-to-the-abyss-dlc-trophy-guide) | 5/10 | 10 |  | 2,821 |  | 0 | 0 |
+| [The Keeper of 4 Elements](https://psnprofiles.com/guide/8643-the-keeper-of-4-elements-trophy-guide) | 5/10 | 10 |  | 2,707 |  | 0 | 4 |
+| [Call of Duty: Black Ops 4](https://psnprofiles.com/guide/14565-call-of-duty-black-ops-4-dead-of-the-night-dlc-trophy-guide) | 5/10 | 10 |  | 8,938 | 5/5 | 5 | 8 |
+| [Battlefield 3](https://psnprofiles.com/guide/7042-battlefield-3-back-to-karkand-dlc-trophy-guide) | 5/10 | 10 |  | 11,860 | 5/5 | 6 | 6 |
+| [Resident Evil Re:Verse](https://psnprofiles.com/guide/15847-resident-evil-reverse-trophy-guide) | 5/10 | 10 |  | 15,429 |  | 0 | 13 |
+| [Resident Evil 6](https://psnprofiles.com/guide/5144-resident-evil-6-siege-dlc-trophy-guide) | 5/10 | 10 |  | 27,548 | 4/5 | 11 | 14 |
+| [Immortals Fenyx Rising](https://psnprofiles.com/guide/11585-immortals-fenyx-rising-a-new-god-dlc-trophy-guide) | 5/10 | 10 |  | 49,641 | 5/5 | 11 | 14 |
+| [Beat Hazard Ultra](https://psnprofiles.com/guide/1208-beat-hazard-ultra-trophy-guide) | 5/10 | 10 |  | 3,925 |  | 0 | 6 |
+| [Uncharted: Drake's Fortune Remastered](https://psnprofiles.com/guide/3419-uncharted-drakes-fortune-remastered-extended-collection-dlc-trophy-guide) | 5/10 | 10 |  | 103,593 | 5/5 | 38 | 136 |
+| [Crazy Taxi](https://psnprofiles.com/guide/5096-crazy-taxi-trophy-guide) | 5/10 | 10 |  | 13,644 | 5/5 | 7 | 10 |
+| [Hatsune Miku: Project DIVA Future Tone](https://psnprofiles.com/guide/13779-hatsune-miku-project-diva-future-tone-colorful-tone-dlc-trophy-guide) | 5/10 | 10 |  | 2,776 |  | 0 | 6 |
+| [Aliens: Fireteam Elite](https://psnprofiles.com/guide/18510-aliens-fireteam-elite-fireteam-elite-pathogen-dlc-trophy-guide) | 5/10 | 10 |  | 2,848 |  | 0 | 5 |
+| [Deadliest Warrior: Legends](https://psnprofiles.com/guide/10621-deadliest-warrior-legends-trophy-guide) | 5/10 | 10 |  | 5,863 |  | 0 | 4 |
+| [Call of Duty: WWII](https://psnprofiles.com/guide/11629-call-of-duty-wwii-war-machine-dlc-trophy-guide) | 5/10 | 10 |  | 15,306 | 5/5 | 6 | 9 |
+| [Resident Evil 5](https://psnprofiles.com/guide/834-resident-evil-5-desperate-escape-dlc-trophy-guide) | 5/10 | 10 |  | 37,791 | 4/5 | 11 | 27 |
+| [Street Fighter 30th Anniversary Collection](https://psnprofiles.com/guide/7960-street-fighter-30th-anniversary-collection-trophy-guide) | 5/10 | 10 |  | 33,076 | 5/5 | 6 | 9 |
+| [Street Fighter III 3rd Strike: Fight for the Future](https://psnprofiles.com/guide/15538-street-fighter-iii-3rd-strike-fight-for-the-future-trophy-guide) | 5/10 | 10 |  | 6,134 | 5/5 | 8 | 6 |
+| [Limbo](https://psnprofiles.com/guide/2426-limbo-trophy-guide) | 5/10 | 10 |  | 97,915 | 5/5 | 8 | 135 |
+| [DmC Devil May Cry](https://psnprofiles.com/guide/9545-dmc-devil-may-cry-vergils-downfall-dlc-trophy-guide) | 5/10 | 10 |  | 12,006 | 5/5 | 7 | 10 |
+| [Hi-Fi Rush](https://psnprofiles.com/guide/19585-hi-fi-rush-arcade-challenge-update-dlc-trophy-guide) | 5/10 | 10 |  | 2,425 |  | 0 | 4 |
+| [BioShock Infinite](https://psnprofiles.com/guide/6887-bioshock-infinite-clash-in-the-clouds-dlc-trophy-guide) | 5/10 | 10 |  | 35,070 | 5/5 | 15 | 28 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/15582-dead-by-daylight-additional-chapters-dead-by-daylight-forged-in-fog-chapter-dlc-trophy-guide) | 5/10 | 10 |  | 3,322 |  | 0 | 1 |
+| [Dishonored](https://psnprofiles.com/guide/5369-dishonored-the-knife-of-dunwall-dlc-trophy-guide) | 5/10 | 12 |  | 35,765 | 5/5 | 11 | 38 |
+| [BloodRayne 2: ReVamped](https://psnprofiles.com/guide/14163-bloodrayne-2-revamped-trophy-guide) | 5/10 | 12 |  | 4,411 |  | 0 | 8 |
+| [Dishonored](https://psnprofiles.com/guide/5381-dishonored-the-brigmore-witches-dlc-trophy-guide) | 5/10 | 12 |  | 33,247 | 5/5 | 11 | 39 |
+| [BioShock Infinite](https://psnprofiles.com/guide/481-bioshock-infinite-clash-in-the-clouds-dlc-trophy-guide) | 5/10 | 12 |  | 23,317 | 4/5 | 12 | 24 |
+| [Call of Duty: Black Ops 4](https://psnprofiles.com/guide/14610-call-of-duty-black-ops-4-alpha-omega-dlc-trophy-guide) | 5/10 | 12 |  | 8,766 |  | 0 | 8 |
+| [10 Second Ninja X](https://psnprofiles.com/guide/13369-10-second-ninja-x-trophy-guide) | 5/10 | 12 |  | 12,706 | 5/5 | 8 | 8 |
+| [The Callisto Protocol](https://psnprofiles.com/guide/17838-the-callisto-protocol-hardcore-mode-dlc-trophy-guide) | 5/10 | 12 |  | 11,110 |  | 0 | 7 |
+| [Jet Car Stunts](https://psnprofiles.com/guide/2346-jet-car-stunts-trophy-guide) | 5/10 | 12 |  | 3,487 |  | 0 | 4 |
+| [TorqueL](https://psnprofiles.com/guide/3507-torquel-trophy-guide) | 5/10 | 14 |  | 22,481 | 5/5 | 7 | 26 |
+| [Fantasy General II](https://psnprofiles.com/guide/18837-fantasy-general-ii-onslaught-dlc-trophy-guide) | 5/10 | 15 |  | 446 |  | 0 | 1 |
+| [Call of Duty: WWII](https://psnprofiles.com/guide/11630-call-of-duty-wwii-united-front-dlc-trophy-guide) | 5/10 | 15 |  | 16,829 | 5/5 | 6 | 9 |
+| [Mad Riders](https://psnprofiles.com/guide/8984-mad-riders-trophy-guide) | 5/10 | 15 |  | 3,934 |  | 0 | 5 |
+| [Metal Gear Solid V: Ground Zeroes](https://psnprofiles.com/guide/851-metal-gear-solid-v-ground-zeroes-trophy-guide) | 5/10 | 15 |  | 114,925 | 4/5 | 54 | 239 |
+| [Assassin's Creed Chronicles: Russia](https://psnprofiles.com/guide/3925-assassins-creed-chronicles-russia-trophy-guide) | 5/10 | 15 |  | 37,187 | 4/5 | 6 | 56 |
+| [Garfield Kart: Furious Racing](https://psnprofiles.com/guide/17612-garfield-kart-furious-racing-trophy-guide) | 5/10 | 15 |  | 3,575 |  | 0 | 4 |
+| [Foamstars](https://psnprofiles.com/guide/18738-foamstars-trophy-guide) | 5/10 | 15 |  | 14,604 | 5/5 | 11 | 20 |
+| [Resident Evil Code: Veronica X](https://psnprofiles.com/guide/16990-resident-evil-code-veronica-x-trophy-guide) | 5/10 | 15 |  | 6,478 |  | 0 | 9 |
+| [Horizon Forbidden West](https://psnprofiles.com/guide/14625-horizon-forbidden-west-new-game-dlc-trophy-guide) | 5/10 | 15 |  | 84,273 | 5/5 | 26 | 33 |
+| [Runner2: Future Legend of Rhythm Alien](https://psnprofiles.com/guide/11134-runner2-future-legend-of-rhythm-alien-trophy-guide) | 5/10 | 15 |  | 7,238 |  | 0 | 3 |
+| [Call of Duty: Black Ops](https://psnprofiles.com/guide/8769-call-of-duty-black-ops-rezurrection-dlc-trophy-guide) | 5/10 | 15 |  | 21,810 | 5/5 | 5 | 11 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/12365-assassins-creed-valhalla-mastery-challenge-part-1-dlc-trophy-guide) | 5/10 | 15 |  | 114,060 | 5/5 | 12 | 27 |
+| [Final Fantasy VII Remake](https://psnprofiles.com/guide/12403-final-fantasy-vii-remake-intermission-dlc-trophy-guide) | 5/10 | 15 |  | 172,998 | 4/5 | 25 | 97 |
+| [Remnant: From the Ashes](https://psnprofiles.com/guide/17737-remnant-from-the-ashes-swamps-of-corsus-dlc-trophy-guide) | 5/10 | 15 |  | 5,794 | 5/5 | 6 | 8 |
+| [Call of Duty: Black Ops III](https://psnprofiles.com/guide/14400-call-of-duty-black-ops-iii-eclipse-dlc-trophy-guide) | 5/10 | 15 |  | 13,408 | 5/5 | 8 | 14 |
+| [Sifu](https://psnprofiles.com/guide/18489-sifu-arenas-1-dlc-trophy-guide) | 5/10 | 15 |  | 13,807 |  | 0 | 6 |
+| [Fallout 3](https://psnprofiles.com/guide/1293-fallout-3-broken-steel-dlc-trophy-guide) | 5/10 | 15 |  | 12,074 | 5/5 | 9 | 19 |
+| [Resident Evil 7: Biohazard](https://psnprofiles.com/guide/6459-resident-evil-7-biohazard-banned-footage-vol-2-dlc-trophy-guide) | 5/10 | 15 |  | 67,595 | 3/5 | 26 | 41 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/7845-final-fantasy-xv-multiplayer-expansion-comrades-march-2018-update-dlc-trophy-guide) | 5/10 | 15 |  | 38,987 | 5/5 | 7 | 17 |
+| [BloodRayne: ReVamped](https://psnprofiles.com/guide/14166-bloodrayne-revamped-trophy-guide) | 5/10 | 17 |  | 4,503 |  | 0 | 5 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/14597-dead-by-daylight-additional-chapters-dead-by-daylight-roots-of-dread-chapter-dlc-trophy-guide) | 5/10 | 20 |  | 5,654 |  | 0 | 2 |
+| [Grand Theft Auto IV](https://psnprofiles.com/guide/7666-grand-theft-auto-iv-tbogt-dlc-trophy-guide) | 5/10 | 20 |  | 36,552 | 4/5 | 13 | 40 |
+| [Uncharted 3: Drake's Deception Remastered](https://psnprofiles.com/guide/3434-uncharted-3-drakes-deception-remastered-extended-collection-dlc-trophy-guide) | 5/10 | 20 |  | 52,289 | 5/5 | 21 | 83 |
+| [Dead by Daylight](https://psnprofiles.com/guide/7006-dead-by-daylight-the-lullaby-for-the-dark-chapter-dlc-trophy-guide) | 5/10 | 20 |  | 14,743 |  | 0 | 10 |
+| [Victor Vran](https://psnprofiles.com/guide/12963-victor-vran-fractured-worlds-dlc-trophy-guide) | 5/10 | 20 |  | 4,400 |  | 0 | 1 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/13365-dead-by-daylight-additional-chapters-dead-by-daylight-portrait-of-a-murder-chapter-dlc-trophy-guide) | 5/10 | 20 |  | 6,798 |  | 0 | 0 |
+| [The Elder Scrolls V: Skyrim](https://psnprofiles.com/guide/1452-the-elder-scrolls-v-skyrim-dawnguard-dlc-trophy-guide) | 5/10 | 20 |  | 105,246 | 5/5 | 8 | 58 |
+| [XCOM: Enemy Unknown](https://psnprofiles.com/guide/10352-xcom-enemy-unknown-slingshot-dlc-trophy-guide) | 5/10 | 20 |  | 3,842 |  | 0 | 5 |
+| [King Oddball](https://psnprofiles.com/guide/8483-king-oddball-trophy-guide) | 5/10 | 20 |  | 18,615 |  | 0 | 19 |
+| [Borderlands](https://psnprofiles.com/guide/7332-borderlands-the-secret-armory-of-general-knoxx-dlc-trophy-guide) | 5/10 | 20 |  | 50,966 | 4/5 | 9 | 17 |
+| [Shovel Knight: Treasure Trove](https://psnprofiles.com/guide/19679-shovel-knight-treasure-trove-king-of-cards-dlc-trophy-guide) | 5/10 | 20 |  | 1,277 |  | 0 | 1 |
+| [Like a Dragon: Infinite Wealth](https://psnprofiles.com/guide/18866-like-a-dragon-infinite-wealth-master-vacation-dlc-trophy-guide) | 5/10 | 20 |  | 3,443 |  | 0 | 6 |
+| [Switch Galaxy Ultra](https://psnprofiles.com/guide/3759-switch-galaxy-ultra-trophy-guide) | 5/10 | 20 |  | 11,347 |  | 0 | 14 |
+| [Minecraft Dungeons](https://psnprofiles.com/guide/13437-minecraft-dungeons-season-1-dlc-trophy-guide) | 5/10 | 20 |  | 19,279 |  | 0 | 5 |
+| [Samurai Shodown VI](https://psnprofiles.com/guide/11331-samurai-shodown-vi-trophy-guide) | 5/10 | 25 |  | 8,037 |  | 0 | 3 |
+| [Mega Man Legacy Collection](https://psnprofiles.com/guide/5402-mega-man-legacy-collection-trophy-guide) | 5/10 | 25 |  | 47,064 | 5/5 | 6 | 43 |
+| [Resogun](https://psnprofiles.com/guide/17368-resogun-challengers-dlc-trophy-guide) | 5/10 | 25 |  | 3,051 |  | 0 | 3 |
+| [Another Crab's Treasure](https://psnprofiles.com/guide/19465-another-crabs-treasure-trophy-guide) | 5/10 | 25 |  | 3,726 |  | 0 | 11 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/14220-final-fantasy-xiv-endwalker-newfound-adventure-dlc-trophy-guide) | 5/10 | 25 |  | 8,101 |  | 0 | 15 |
+| [Driveclub](https://psnprofiles.com/guide/10385-driveclub-tour-dlc-trophy-guide) | 5/10 | 25 |  | 5,167 | 4/5 | 5 | 2 |
+| [Hell Let Loose](https://psnprofiles.com/guide/18962-hell-let-loose-skirmish-dlc-trophy-guide) | 5/10 | 25 |  | 2,177 |  | 0 | 2 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/9456-dead-by-daylight-additional-chapters-dead-by-daylight-cursed-legacy-chapter-dlc-trophy-guide) | 5/10 | 25 |  | 7,735 |  | 0 | 4 |
+| [Skulls of the Shogun](https://psnprofiles.com/guide/2923-skulls-of-the-shogun-trophy-guide) | 5/10 | 30 |  | 16,036 | 5/5 | 6 | 32 |
+| [Call of Duty: Black Ops III](https://psnprofiles.com/guide/10483-call-of-duty-black-ops-iii-call-of-duty-black-ops-iii-zombies-chronicles-dlc-trophy-guide) | 5/10 | 30 |  | 21,083 | 5/5 | 11 | 16 |
+| [H1Z1](https://psnprofiles.com/guide/7712-h1z1-trophy-guide) | 5/10 | 30 |  | 23,299 | 4/5 | 6 | 16 |
+| [Ghost of Tsushima](https://psnprofiles.com/guide/11395-ghost-of-tsushima-legends-mode-dlc-trophy-guide) | 5/10 | 30 |  | 161,676 | 5/5 | 15 | 75 |
+| [Outriders](https://psnprofiles.com/guide/17629-outriders-worldslayer-dlc-trophy-guide) | 5/10 | 30 |  | 5,187 |  | 0 | 2 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/11921-dead-by-daylight-additional-chapters-dead-by-daylight-all-kill-chapter-dlc-trophy-guide) | 5/10 | 35 |  | 6,532 |  | 0 | 1 |
+| [Phantasy Star Online 2](https://psnprofiles.com/guide/9191-phantasy-star-online-2-trophy-guide) | 5/10 | 35 |  | 17,233 |  | 0 | 10 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/7844-final-fantasy-xv-multiplayer-expansion-comrades-dlc-trophy-guide) | 5/10 | 35 |  | 55,039 | 4/5 | 7 | 19 |
+| [Sonic Adventure](https://psnprofiles.com/guide/2957-sonic-adventure-trophy-guide) | 5/10 | 35 |  | 23,799 | 5/5 | 9 | 28 |
+| [Sonic Adventure 2](https://psnprofiles.com/guide/5630-sonic-adventure-2-trophy-guide) | 5/10 | 40 |  | 24,499 | 4/5 | 5 | 16 |
+| [Days Gone](https://psnprofiles.com/guide/9723-days-gone-survival-mode-dlc-trophy-guide) | 5/10 | 40 |  | 54,756 | 5/5 | 11 | 20 |
+| [Rock Band 4](https://psnprofiles.com/guide/6279-rock-band-4-rock-band-rivals-expansion-dlc-trophy-guide) | 5/10 | 40 |  | 7,114 |  | 0 | 0 |
+| [IL-2 Sturmovik: Birds of Prey](https://psnprofiles.com/guide/15374-il-2-sturmovik-birds-of-prey-trophy-guide) | 5/10 | 50 |  | 3,599 | 5/5 | 5 | 7 |
+| [Trans-Galactic Tournament](https://psnprofiles.com/guide/14934-trans-galactic-tournament-trophy-guide) | 5/10 | 50 |  | 1,217 |  | 0 | 2 |
+| [World of Tanks](https://psnprofiles.com/guide/8169-world-of-tanks-mercenaries-dlc-trophy-guide) | 5/10 | 50 |  | 2,255 |  | 0 | 0 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/15128-dead-by-daylight-additional-chapters-dead-by-daylight-resident-evil-project-w-chapter-dlc-trophy-guide) | 5/10 | 50 |  | 5,110 |  | 0 | 1 |
+| [Surviving Mars](https://psnprofiles.com/guide/13576-surviving-mars-space-race-dlc-trophy-guide) | 5/10 | 50 |  | 3,405 |  | 0 | 2 |
+| [Brawlhalla](https://psnprofiles.com/guide/12220-brawlhalla-expansion-set-1-dlc-trophy-guide) | 5/10 | 70 |  | 10,422 | 5/5 | 5 | 4 |
+| [Darwin Project](https://psnprofiles.com/guide/10647-darwin-project-trophy-guide) | 5/10 | 75 |  | 5,721 |  | 0 | 6 |
+| [Loadout](https://psnprofiles.com/guide/3145-loadout-trophy-guide) | 5/10 | 100 |  | 9,866 | 4/5 | 9 | 19 |
+| [Genshin Impact](https://psnprofiles.com/guide/10995-genshin-impact-trophy-guide) | 5/10 | 200 |  | 80,974 | 4/5 | 17 | 61 |
+| [Dead by Daylight](https://psnprofiles.com/guide/9093-dead-by-daylight-left-behind-dlc-trophy-guide) | 5/10 | 200 |  | 13,997 | 3/5 | 5 | 4 |
+| [Surviving the Aftermath](https://psnprofiles.com/guide/16004-surviving-the-aftermath-new-alliances-dlc-trophy-guide) | 5/10 | 200 |  | 3,141 |  | 0 | 1 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/9118-payday-2-crimewave-edition-infamy-20-dlc-trophy-guide) | 5/10 | 250 |  | 7,796 | 2/5 | 9 | 4 |
+| [Boundless](https://psnprofiles.com/guide/10759-boundless-trophy-guide) | 6/10 | 900 | 0.00% | 5,924 |  | 0 | 4 |
+| [Dead Star](https://psnprofiles.com/guide/4740-dead-star-trophy-guide) | 6/10 | 150 | 0.20% | 18,130 |  | 0 | 14 |
+| [Elite Dangerous](https://psnprofiles.com/guide/9072-elite-dangerous-trophy-guide) | 6/10 | 400 | 0.28% | 34,444 | 5/5 | 8 | 26 |
+| [Eagle Flight](https://psnprofiles.com/guide/6523-eagle-flight-trophy-guide) | 6/10 | 35 | 0.52% | 20,575 | 4/5 | 6 | 10 |
+| [WWE 2K18](https://psnprofiles.com/guide/7046-wwe-2k18-trophy-guide) | 6/10 | 75 | 0.53% | 45,605 | 4/5 | 10 | 14 |
+| [EA Sports UFC 3](https://psnprofiles.com/guide/9870-ea-sports-ufc-3-trophy-guide) | 6/10 | 100 | 0.62% | 40,806 | 4/5 | 10 | 25 |
+| [nail'd](https://psnprofiles.com/guide/15491-naild-trophy-guide) | 6/10 | 30 | 0.63% | 4,060 |  | 0 | 4 |
+| [Far Cry 2](https://psnprofiles.com/guide/9182-far-cry-2-trophy-guide) | 6/10 | 120 | 0.63% | 69,758 | 4/5 | 19 | 38 |
+| [World of Tanks](https://psnprofiles.com/guide/7014-world-of-tanks-trophy-guide) | 6/10 | 500 | 0.64% | 31,498 |  | 0 | 13 |
+| [Windbound](https://psnprofiles.com/guide/13296-windbound-trophy-guide) | 6/10 | 45 | 0.68% | 35,115 | 5/5 | 6 | 16 |
+| [FIFA 20](https://psnprofiles.com/guide/9145-fifa-20-trophy-guide) | 6/10 | 70 | 0.68% | 134,216 | 4/5 | 21 | 41 |
+| [FIFA Street](https://psnprofiles.com/guide/3249-fifa-street-trophy-guide) | 6/10 | 40 | 0.70% | 14,716 |  | 0 | 13 |
+| [RIGS: Mechanized Combat League](https://psnprofiles.com/guide/7918-rigs-mechanized-combat-league-trophy-guide) | 6/10 | 25 | 0.71% | 14,924 | 5/5 | 5 | 12 |
+| [8-bit Armies](https://psnprofiles.com/guide/17237-8-bit-armies-trophy-guide) | 6/10 | 30 | 0.74% | 3,125 |  | 0 | 6 |
+| [Tennis World Tour 2](https://psnprofiles.com/guide/12637-tennis-world-tour-2-trophy-guide) | 6/10 | 80 | 0.74% | 64,076 | 5/5 | 14 | 36 |
+| [The Long Dark](https://psnprofiles.com/guide/15353-the-long-dark-trophy-guide) | 6/10 | 200 | 0.76% | 28,596 | 5/5 | 8 | 29 |
+| [Guitar Hero Live](https://psnprofiles.com/guide/3819-guitar-hero-live-trophy-guide) | 6/10 | 100 | 0.79% | 19,727 | 4/5 | 17 | 18 |
+| [Naughty Bear](https://psnprofiles.com/guide/8631-naughty-bear-trophy-guide) | 6/10 | 40 | 0.83% | 26,169 | 3/5 | 14 | 27 |
+| [Marvel Heroes Omega](https://psnprofiles.com/guide/6295-marvel-heroes-omega-trophy-guide) | 6/10 | 100 | 0.86% | 16,989 | 5/5 | 7 | 18 |
+| [Evolve](https://psnprofiles.com/guide/2488-evolve-trophy-guide) | 6/10 | 120 | 0.93% | 21,660 | 4/5 | 10 | 24 |
+| [FIFA 12](https://psnprofiles.com/guide/56-fifa-12-trophy-guide) | 6/10 | 50 | 0.95% | 12,864 | 4/5 | 6 | 16 |
+| [Mount & Blade: Warband](https://psnprofiles.com/guide/5506-mount-blade-warband-trophy-guide) | 6/10 | 70 | 0.96% | 60,135 | 5/5 | 11 | 33 |
+| [Starwhal](https://psnprofiles.com/guide/7442-starwhal-trophy-guide) | 6/10 | 45 | 1.00% | 21,859 | 5/5 | 5 | 23 |
+| [Kromaia Ω](https://psnprofiles.com/guide/8286-kromaia-%CF%89-trophy-guide) | 6/10 | 20 | 1.02% | 5,441 |  | 0 | 2 |
+| [Arizona Sunshine](https://psnprofiles.com/guide/16850-arizona-sunshine-trophy-guide) | 6/10 | 15 | 1.10% | 6,145 |  | 0 | 7 |
+| [Dangerous Golf](https://psnprofiles.com/guide/4607-dangerous-golf-trophy-guide) | 6/10 | 90 | 1.18% | 28,058 |  | 0 | 13 |
+| [Geometry Wars 3: Dimensions](https://psnprofiles.com/guide/3132-geometry-wars-3-dimensions-trophy-guide) | 6/10 | 18 | 1.23% | 11,952 | 3/5 | 7 | 29 |
+| [Guilty Gear Xrd: Revelator](https://psnprofiles.com/guide/6138-guilty-gear-xrd-revelator-trophy-guide) | 6/10 | 30 | 1.26% | 52,090 | 5/5 | 12 | 30 |
+| [Magicka 2](https://psnprofiles.com/guide/3156-magicka-2-trophy-guide) | 6/10 | 30 | 1.34% | 54,746 | 4/5 | 17 | 74 |
+| [Oreshika: Tainted Bloodlines](https://psnprofiles.com/guide/4591-oreshika-tainted-bloodlines-trophy-guide) | 6/10 | 120 | 1.36% | 43,252 | 5/5 | 17 | 92 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/12649-final-fantasy-xiv-trophy-guide) | 6/10 | 999 | 1.39% | 124,030 | 5/5 | 25 | 84 |
+| [Call of Duty: WWII](https://psnprofiles.com/guide/6731-call-of-duty-wwii-trophy-guide) | 6/10 | 70 | 1.41% | 233,595 | 5/5 | 44 | 237 |
+| [Kill Strain](https://psnprofiles.com/guide/6027-kill-strain-trophy-guide) | 6/10 | 28 | 1.43% | 10,857 |  | 0 | 9 |
+| [Quantum Theory](https://psnprofiles.com/guide/3706-quantum-theory-trophy-guide) | 6/10 | 69 | 1.43% | 18,688 | 5/5 | 7 | 12 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/6048-payday-2-crimewave-edition-trophy-guide) | 6/10 | 60 | 1.46% | 91,080 | 3/5 | 27 | 68 |
+| [Destruction AllStars](https://psnprofiles.com/guide/11634-destruction-allstars-trophy-guide) | 6/10 | 25 | 1.53% | 60,732 | 3/5 | 44 | 45 |
+| [Kane & Lynch 2: Dog Days](https://psnprofiles.com/guide/7670-kane-lynch-2-dog-days-trophy-guide) | 6/10 | 30 | 1.56% | 10,315 | 3/5 | 8 | 6 |
+| [Dynasty Warriors 8 Empires](https://psnprofiles.com/guide/9789-dynasty-warriors-8-empires-trophy-guide) | 6/10 | 140 | 1.59% | 44,365 | 4/5 | 7 | 26 |
+| [Dead Rising 4](https://psnprofiles.com/guide/7031-dead-rising-4-trophy-guide) | 6/10 | 150 | 1.59% | 62,492 | 4/5 | 9 | 26 |
+| [Killzone Shadow Fall](https://psnprofiles.com/guide/1834-killzone-shadow-fall-trophy-guide) | 6/10 | 50 | 1.60% | 147,146 | 5/5 | 36 | 161 |
+| [Just Dance 2021](https://psnprofiles.com/guide/13286-just-dance-2021-trophy-guide) | 6/10 | 40 | 1.62% | 11,738 |  | 0 | 3 |
+| [Grand Theft Auto V](https://psnprofiles.com/guide/400-grand-theft-auto-v-trophy-guide) | 6/10 | 160 | 1.64% | 131,716 | 5/5 | 31 | 197 |
+| [Tom Clancy's H.A.W.X. 2](https://psnprofiles.com/guide/4767-tom-clancys-hawx-2-trophy-guide) | 6/10 | 40 | 1.65% | 12,867 |  | 0 | 10 |
+| [Kayak VR: Mirage](https://psnprofiles.com/guide/19277-kayak-vr-mirage-trophy-guide) | 6/10 | 12 | 1.69% | 2,163 |  | 0 | 3 |
+| [Postal Redux](https://psnprofiles.com/guide/17439-postal-redux-trophy-guide) | 6/10 | 15 | 1.73% | 5,607 |  | 0 | 7 |
+| [Joe Dever's Lone Wolf Console Edition](https://psnprofiles.com/guide/4672-joe-devers-lone-wolf-console-edition-trophy-guide) | 6/10 | 50 | 1.74% | 30,183 | 5/5 | 7 | 13 |
+| [Batman: Arkham Origins](https://psnprofiles.com/guide/9270-batman-arkham-origins-trophy-guide) | 6/10 | 40 | 1.77% | 114,707 | 4/5 | 22 | 85 |
+| [Jurassic World Evolution 2](https://psnprofiles.com/guide/14990-jurassic-world-evolution-2-trophy-guide) | 6/10 | 80 | 1.77% | 71,381 | 5/5 | 5 | 47 |
+| [Helldivers](https://psnprofiles.com/guide/2512-helldivers-trophy-guide) | 6/10 | 100 | 1.83% | 82,919 | 5/5 | 25 | 142 |
+| [Dead Rising 2](https://psnprofiles.com/guide/4554-dead-rising-2-trophy-guide) | 6/10 | 60 | 1.90% | 93,450 | 4/5 | 13 | 47 |
+| [Paladins](https://psnprofiles.com/guide/9939-paladins-trophy-guide) | 6/10 | 70 | 1.90% | 51,721 | 4/5 | 21 | 48 |
+| [After the Fall](https://psnprofiles.com/guide/15366-after-the-fall-trophy-guide) | 6/10 | 100 | 1.90% | 7,572 |  | 0 | 7 |
+| [Everybody's Golf VR](https://psnprofiles.com/guide/14103-everybodys-golf-vr-trophy-guide) | 6/10 | 20 | 1.92% | 7,967 |  | 0 | 8 |
+| [Dissidia Final Fantasy NT](https://psnprofiles.com/guide/7054-dissidia-final-fantasy-nt-trophy-guide) | 6/10 | 200 | 1.98% | 67,669 | 4/5 | 12 | 59 |
+| [The King of Fighters XIV](https://psnprofiles.com/guide/9137-the-king-of-fighters-xiv-trophy-guide) | 6/10 | 50 | 2.03% | 21,434 | 4/5 | 7 | 18 |
+| [Metal Gear Survive](https://psnprofiles.com/guide/7585-metal-gear-survive-trophy-guide) | 6/10 | 200 | 2.03% | 56,725 | 5/5 | 9 | 20 |
+| [LocoRoco](https://psnprofiles.com/guide/7735-locoroco-trophy-guide) | 6/10 | 20 | 2.10% | 48,839 | 4/5 | 9 | 23 |
+| [TT Isle of Man](https://psnprofiles.com/guide/16072-tt-isle-of-man-trophy-guide) | 6/10 | 80 | 2.10% | 5,796 |  | 0 | 5 |
+| [Gauntlet](https://psnprofiles.com/guide/3313-gauntlet-trophy-guide) | 6/10 | 50 | 2.13% | 46,909 | 4/5 | 20 | 76 |
+| [Dead by Daylight](https://psnprofiles.com/guide/6993-dead-by-daylight-trophy-guide) | 6/10 | 150 | 2.21% | 178,196 | 5/5 | 46 | 127 |
+| [WWE 2K20](https://psnprofiles.com/guide/9566-wwe-2k20-trophy-guide) | 6/10 | 35 | 2.30% | 53,563 | 5/5 | 10 | 15 |
+| [Hammerwatch](https://psnprofiles.com/guide/13083-hammerwatch-trophy-guide) | 6/10 | 40 | 2.30% | 7,916 |  | 0 | 4 |
+| [Styx: Master of Shadows](https://psnprofiles.com/guide/15648-styx-master-of-shadows-trophy-guide) | 6/10 | 35 | 2.32% | 12,602 | 5/5 | 8 | 21 |
+| [Teenage Mutant Ninja Turtles: Mutants in Manhattan](https://psnprofiles.com/guide/11649-teenage-mutant-ninja-turtles-mutants-in-manhattan-trophy-guide) | 6/10 | 65 | 2.35% | 23,546 | 4/5 | 8 | 14 |
+| [EA Sports UFC 4](https://psnprofiles.com/guide/10755-ea-sports-ufc-4-trophy-guide) | 6/10 | 25 | 2.41% | 142,392 | 4/5 | 22 | 67 |
+| [Flame Over](https://psnprofiles.com/guide/4140-flame-over-trophy-guide) | 6/10 | 20 | 2.47% | 14,748 | 4/5 | 7 | 27 |
+| [Need for Speed: The Run](https://psnprofiles.com/guide/3150-need-for-speed-the-run-trophy-guide) | 6/10 | 50 | 2.56% | 26,394 | 5/5 | 12 | 32 |
+| [SoulCalibur V](https://psnprofiles.com/guide/11718-soulcalibur-v-trophy-guide) | 6/10 | 60 | 2.67% | 24,810 | 4/5 | 13 | 15 |
+| [Disgaea 3: Absence of Justice](https://psnprofiles.com/guide/4929-disgaea-3-absence-of-justice-trophy-guide) | 6/10 | 80 | 2.68% | 22,277 | 5/5 | 5 | 44 |
+| [Battlefield 3](https://psnprofiles.com/guide/6341-battlefield-3-trophy-guide) | 6/10 | 60 | 2.71% | 57,322 | 5/5 | 17 | 52 |
+| [Dynasty Warriors 8](https://psnprofiles.com/guide/3496-dynasty-warriors-8-trophy-guide) | 6/10 | 150 | 2.71% | 13,680 | 5/5 | 7 | 16 |
+| [Armello](https://psnprofiles.com/guide/4388-armello-trophy-guide) | 6/10 | 25 | 2.74% | 15,098 |  | 0 | 20 |
+| [Angry Birds Star Wars](https://psnprofiles.com/guide/18251-angry-birds-star-wars-trophy-guide) | 6/10 | 30 | 2.74% | 7,872 |  | 0 | 12 |
+| [F1 2019](https://psnprofiles.com/guide/8890-f1-2019-trophy-guide) | 6/10 | 75 | 2.74% | 38,642 | 4/5 | 14 | 18 |
+| [Oddworld: New 'n' Tasty](https://psnprofiles.com/guide/2501-oddworld-new-n-tasty-trophy-guide) | 6/10 | 17 | 2.75% | 74,938 | 5/5 | 25 | 146 |
+| [Skate 2](https://psnprofiles.com/guide/9172-skate-2-trophy-guide) | 6/10 | 35 | 2.77% | 15,429 |  | 0 | 6 |
+| [Muramasa Rebirth](https://psnprofiles.com/guide/1362-muramasa-rebirth-trophy-guide) | 6/10 | 45 | 2.81% | 51,157 | 5/5 | 24 | 129 |
+| [White Day: A Labyrinth Named School](https://psnprofiles.com/guide/6970-white-day-a-labyrinth-named-school-trophy-guide) | 6/10 | 45 | 2.81% | 24,922 |  | 0 | 28 |
+| [Lost Sea](https://psnprofiles.com/guide/5828-lost-sea-trophy-guide) | 6/10 | 20 | 2.87% | 31,516 | 5/5 | 5 | 23 |
+| [Rez Infinite](https://psnprofiles.com/guide/12139-rez-infinite-trophy-guide) | 6/10 | 12 | 2.99% | 30,152 | 5/5 | 6 | 31 |
+| [Just Cause 3](https://psnprofiles.com/guide/3645-just-cause-3-trophy-guide) | 6/10 | 90 | 2.99% | 157,548 | 5/5 | 61 | 295 |
+| [Red Dead Redemption](https://psnprofiles.com/guide/768-red-dead-redemption-trophy-guide) | 6/10 | 70 | 3.02% | 279,468 | 5/5 | 78 | 388 |
+| [The Last Guardian](https://psnprofiles.com/guide/5539-the-last-guardian-trophy-guide) | 6/10 | 25 | 3.04% | 138,307 | 5/5 | 26 | 221 |
+| [Wasteland 3](https://psnprofiles.com/guide/17165-wasteland-3-trophy-guide) | 6/10 | 60 | 3.05% | 12,220 | 4/5 | 9 | 21 |
+| [Stardew Valley](https://psnprofiles.com/guide/7708-stardew-valley-trophy-guide) | 6/10 | 110 | 3.06% | 261,209 | 5/5 | 46 | 233 |
+| [Brawlhalla](https://psnprofiles.com/guide/7611-brawlhalla-trophy-guide) | 6/10 | 120 | 3.08% | 100,080 | 5/5 | 21 | 64 |
+| [Disjunction](https://psnprofiles.com/guide/14179-disjunction-trophy-guide) | 6/10 | 16 | 3.20% | 3,749 |  | 0 | 4 |
+| [Zombi](https://psnprofiles.com/guide/3259-zombi-trophy-guide) | 6/10 | 24 | 3.28% | 68,070 | 4/5 | 19 | 128 |
+| [Grid 2](https://psnprofiles.com/guide/14816-grid-2-trophy-guide) | 6/10 | 25 | 3.31% | 9,480 | 4/5 | 8 | 7 |
+| [The Technomancer](https://psnprofiles.com/guide/11773-the-technomancer-trophy-guide) | 6/10 | 30 | 3.33% | 30,149 | 5/5 | 5 | 24 |
+| [Wet](https://psnprofiles.com/guide/2572-wet-trophy-guide) | 6/10 | 25 | 3.40% | 28,558 | 5/5 | 9 | 43 |
+| [Miasma Chronicles](https://psnprofiles.com/guide/18239-miasma-chronicles-trophy-guide) | 6/10 | 50 | 3.44% | 18,806 | 5/5 | 5 | 11 |
+| [Assassin's Creed Brotherhood](https://psnprofiles.com/guide/1128-assassins-creed-brotherhood-trophy-guide) | 6/10 | 55 | 3.50% | 287,074 | 5/5 | 26 | 314 |
+| [Tales of Zestiria](https://psnprofiles.com/guide/4148-tales-of-zestiria-trophy-guide) | 6/10 | 90 | 3.53% | 125,210 | 4/5 | 29 | 193 |
+| [The Aquatic Adventure of the Last Human](https://psnprofiles.com/guide/8445-the-aquatic-adventure-of-the-last-human-trophy-guide) | 6/10 | 20 | 3.58% | 6,558 |  | 0 | 8 |
+| [Transformers: Fall of Cybertron](https://psnprofiles.com/guide/895-transformers-fall-of-cybertron-trophy-guide) | 6/10 | 60 | 3.58% | 19,479 | 4/5 | 11 | 29 |
+| [The Escapists](https://psnprofiles.com/guide/5940-the-escapists-trophy-guide) | 6/10 | 20 | 3.59% | 46,379 | 5/5 | 22 | 82 |
+| [Yakuza 4](https://psnprofiles.com/guide/8640-yakuza-4-trophy-guide) | 6/10 | 80 | 3.61% | 140,776 | 4/5 | 17 | 69 |
+| [Disgaea D2](https://psnprofiles.com/guide/12056-disgaea-d2-trophy-guide) | 6/10 | 80 | 3.61% | 13,374 |  | 0 | 20 |
+| [Hunt: Showdown](https://psnprofiles.com/guide/10650-hunt-showdown-trophy-guide) | 6/10 | 150 | 3.62% | 44,465 | 4/5 | 8 | 13 |
+| [Red Faction](https://psnprofiles.com/guide/5934-red-faction-trophy-guide) | 6/10 | 30 | 3.63% | 36,185 | 5/5 | 8 | 43 |
+| [Disco Elysium](https://psnprofiles.com/guide/12298-disco-elysium-trophy-guide) | 6/10 | 60 | 3.73% | 150,553 | 3/5 | 45 | 99 |
+| [Moonlighter](https://psnprofiles.com/guide/10550-moonlighter-trophy-guide) | 6/10 | 25 | 3.79% | 73,211 | 5/5 | 14 | 56 |
+| [Deadlight Director's Cut](https://psnprofiles.com/guide/15071-deadlight-directors-cut-trophy-guide) | 6/10 | 10 | 3.83% | 10,819 | 4/5 | 5 | 14 |
+| [The Last of Us](https://psnprofiles.com/guide/348-the-last-of-us-trophy-guide) | 6/10 | 60 | 3.83% | 158,081 | 5/5 | 54 | 423 |
+| [Transformers: War for Cybertron](https://psnprofiles.com/guide/890-transformers-war-for-cybertron-trophy-guide) | 6/10 | 80 | 3.83% | 15,235 | 5/5 | 5 | 22 |
+| [White Day: A Labyrinth Named School](https://psnprofiles.com/guide/15443-white-day-a-labyrinth-named-school-trophy-guide) | 6/10 | 55 | 3.86% | 6,339 |  | 0 | 8 |
+| [Metro: Last Light](https://psnprofiles.com/guide/568-metro-last-light-trophy-guide) | 6/10 | 20 | 3.87% | 38,005 | 4/5 | 11 | 126 |
+| [Dragon Quest Heroes II](https://psnprofiles.com/guide/7212-dragon-quest-heroes-ii-trophy-guide) | 6/10 | 200 | 3.91% | 96,627 | 4/5 | 10 | 59 |
+| [Superhot](https://psnprofiles.com/guide/6311-superhot-trophy-guide) | 6/10 | 20 | 4.00% | 160,264 | 5/5 | 27 | 136 |
+| [Pac-Man Museum+](https://psnprofiles.com/guide/15496-pac-man-museum-trophy-guide) | 6/10 | 60 | 4.08% | 10,164 | 5/5 | 7 | 6 |
+| [Super Monkey Ball: Banana Blitz HD](https://psnprofiles.com/guide/9571-super-monkey-ball-banana-blitz-hd-trophy-guide) | 6/10 | 20 | 4.16% | 31,056 | 3/5 | 16 | 15 |
+| [Pathologic 2](https://psnprofiles.com/guide/10147-pathologic-2-trophy-guide) | 6/10 | 30 | 4.16% | 32,209 | 4/5 | 8 | 17 |
+| [Slime-san](https://psnprofiles.com/guide/13121-slime-san-trophy-guide) | 6/10 | 40 | 4.19% | 7,009 |  | 0 | 3 |
+| [Knights Contract](https://psnprofiles.com/guide/17531-knights-contract-trophy-guide) | 6/10 | 30 | 4.37% | 1,672 |  | 0 | 4 |
+| [The Lord of the Rings: Gollum](https://psnprofiles.com/guide/17042-the-lord-of-the-rings-gollum-trophy-guide) | 6/10 | 25 | 4.51% | 24,995 |  | 0 | 7 |
+| [Lone Survivor](https://psnprofiles.com/guide/410-lone-survivor-trophy-guide) | 6/10 | 12 | 4.58% | 37,677 | 5/5 | 29 | 141 |
+| [Flockers](https://psnprofiles.com/guide/4574-flockers-trophy-guide) | 6/10 | 30 | 4.66% | 12,284 |  | 0 | 7 |
+| [Kingdom Hearts Re:Chain of Memories](https://psnprofiles.com/guide/284-kingdom-hearts-rechain-of-memories-trophy-guide) | 6/10 | 100 | 4.77% | 74,445 | 4/5 | 17 | 96 |
+| [Knack](https://psnprofiles.com/guide/841-knack-trophy-guide) | 6/10 | 25 | 4.80% | 131,949 | 3/5 | 61 | 215 |
+| [Assassin's Creed III](https://psnprofiles.com/guide/4408-assassins-creed-iii-trophy-guide) | 6/10 | 60 | 4.81% | 121,683 | 4/5 | 27 | 158 |
+| [MotorStorm: Apocalypse](https://psnprofiles.com/guide/698-motorstorm-apocalypse-trophy-guide) | 6/10 | 30 | 4.82% | 24,008 | 5/5 | 6 | 31 |
+| [Cook, Serve, Delicious! 2!!](https://psnprofiles.com/guide/11932-cook-serve-delicious-2-trophy-guide) | 6/10 | 80 | 4.86% | 12,720 |  | 0 | 14 |
+| [Gods Will Fall](https://psnprofiles.com/guide/15372-gods-will-fall-trophy-guide) | 6/10 | 15 | 5.00% | 12,512 |  | 0 | 10 |
+| [BioShock 2](https://psnprofiles.com/guide/214-bioshock-2-trophy-guide) | 6/10 | 40 | 5.05% | 60,282 | 4/5 | 20 | 131 |
+| [Bionic Commando](https://psnprofiles.com/guide/7802-bionic-commando-trophy-guide) | 6/10 | 20 | 5.09% | 13,078 | 5/5 | 8 | 21 |
+| [Anarchy Reigns](https://psnprofiles.com/guide/2806-anarchy-reigns-trophy-guide) | 6/10 | 25 | 5.09% | 14,707 | 4/5 | 6 | 22 |
+| [Walkabout Mini Golf](https://psnprofiles.com/guide/16777-walkabout-mini-golf-trophy-guide) | 6/10 | 20 | 5.12% | 9,323 | 5/5 | 6 | 12 |
+| [Need for Speed: Undercover](https://psnprofiles.com/guide/15622-need-for-speed-undercover-trophy-guide) | 6/10 | 20 | 5.15% | 9,405 |  | 0 | 4 |
+| [NeuroWorm](https://psnprofiles.com/guide/16512-neuroworm-trophy-guide) | 6/10 | 4 | 5.26% | 1,069 |  | 0 | 2 |
+| [Chocobo's Mystery Dungeon: Every Buddy!](https://psnprofiles.com/guide/9401-chocobos-mystery-dungeon-every-buddy-trophy-guide) | 6/10 | 120 | 5.31% | 53,990 | 4/5 | 13 | 30 |
+| [Call of Duty: Modern Warfare III](https://psnprofiles.com/guide/17982-call-of-duty-modern-warfare-iii-trophy-guide) | 6/10 | 50 | 5.54% | 60,855 | 5/5 | 6 | 43 |
+| [Hotline Miami 2: Wrong Number](https://psnprofiles.com/guide/3647-hotline-miami-2-wrong-number-trophy-guide) | 6/10 | 30 | 5.57% | 89,941 | 5/5 | 17 | 103 |
+| [Warriors: Legends of Troy](https://psnprofiles.com/guide/2300-warriors-legends-of-troy-trophy-guide) | 6/10 | 40 | 5.77% | 16,341 | 4/5 | 5 | 15 |
+| [Ninjin: Clash of Carrots](https://psnprofiles.com/guide/14491-ninjin-clash-of-carrots-trophy-guide) | 6/10 | 20 | 5.80% | 4,587 |  | 0 | 6 |
+| [XCOM: Enemy Within](https://psnprofiles.com/guide/2-xcom-enemy-within-trophy-guide) | 6/10 | 20 | 5.81% | 21,997 | 4/5 | 15 | 42 |
+| [Shovel Knight: Treasure Trove](https://psnprofiles.com/guide/2740-shovel-knight-treasure-trove-trophy-guide) | 6/10 | 20 | 5.82% | 67,210 | 4/5 | 23 | 109 |
+| [Need for Speed: Most Wanted](https://psnprofiles.com/guide/373-need-for-speed-most-wanted-trophy-guide) | 6/10 | 20 | 5.85% | 83,240 | 5/5 | 32 | 110 |
+| [Marvel's Avengers](https://psnprofiles.com/guide/11574-marvels-avengers-trophy-guide) | 6/10 | 95 | 5.87% | 50,866 | 4/5 | 17 | 46 |
+| [Soul Sacrifice](https://psnprofiles.com/guide/472-soul-sacrifice-trophy-guide) | 6/10 | 50 | 5.88% | 33,920 | 4/5 | 21 | 94 |
 | [Kingdom Hearts](https://psnprofiles.com/guide/14-kingdom-hearts-trophy-guide) | 6/10 | 130 | 5.99% | 428,431 | 5/5 | 45 | 494 |
+| [ICO](https://psnprofiles.com/guide/486-ico-trophy-guide) | 6/10 | 10 | 6.02% | 54,511 | 5/5 | 32 | 172 |
+| [Ashes Cricket](https://psnprofiles.com/guide/8177-ashes-cricket-trophy-guide) | 6/10 | 25 | 6.13% | 7,822 |  | 0 | 4 |
+| [BioShock Infinite](https://psnprofiles.com/guide/339-bioshock-infinite-trophy-guide) | 6/10 | 20 | 6.19% | 100,381 | 5/5 | 29 | 239 |
+| [Metal Gear Solid: Peace Walker](https://psnprofiles.com/guide/2605-metal-gear-solid-peace-walker-trophy-guide) | 6/10 | 70 | 6.29% | 85,892 | 4/5 | 43 | 117 |
+| [Mitsurugi Kamui Hikae](https://psnprofiles.com/guide/4553-mitsurugi-kamui-hikae-trophy-guide) | 6/10 | 15 | 6.34% | 34,546 | 4/5 | 9 | 26 |
+| [Resident Evil Revelations](https://psnprofiles.com/guide/640-resident-evil-revelations-trophy-guide) | 6/10 | 50 | 6.47% | 46,159 | 4/5 | 17 | 84 |
+| [Gundam Versus](https://psnprofiles.com/guide/10157-gundam-versus-trophy-guide) | 6/10 | 75 | 6.47% | 13,010 |  | 0 | 8 |
+| [Matterfall](https://psnprofiles.com/guide/12414-matterfall-trophy-guide) | 6/10 | 20 | 6.51% | 23,092 |  | 0 | 15 |
+| [Final Fantasy X-2 HD](https://psnprofiles.com/guide/5956-final-fantasy-x-2-hd-trophy-guide) | 6/10 | 130 | 6.54% | 169,821 | 5/5 | 28 | 222 |
+| [Dynasty Warriors: Gundam Reborn](https://psnprofiles.com/guide/3731-dynasty-warriors-gundam-reborn-trophy-guide) | 6/10 | 100 | 6.55% | 15,020 |  | 0 | 18 |
+| [MechWarrior 5: Mercenaries](https://psnprofiles.com/guide/13830-mechwarrior-5-mercenaries-trophy-guide) | 6/10 | 45 | 6.66% | 15,979 |  | 0 | 2 |
+| [Mistover](https://psnprofiles.com/guide/15097-mistover-trophy-guide) | 6/10 | 40 | 6.75% | 2,633 |  | 0 | 5 |
+| [Song of Horror](https://psnprofiles.com/guide/16623-song-of-horror-trophy-guide) | 6/10 | 25 | 6.79% | 5,641 |  | 0 | 9 |
+| [Mass Effect](https://psnprofiles.com/guide/18-mass-effect-trophy-guide) | 6/10 | 60 | 6.80% | 79,253 | 4/5 | 34 | 189 |
+| [Summer Challenge](https://psnprofiles.com/guide/2173-summer-challenge-trophy-guide) | 6/10 | 15 | 6.82% | 1,573 |  | 0 | 0 |
+| [Onrush](https://psnprofiles.com/guide/7853-onrush-trophy-guide) | 6/10 | 25 | 6.86% | 84,411 | 4/5 | 37 | 85 |
+| [Star Wars: The Force Unleashed](https://psnprofiles.com/guide/277-star-wars-the-force-unleashed-trophy-guide) | 6/10 | 35 | 7.03% | 98,459 | 4/5 | 30 | 134 |
+| [Table Top Racing: World Tour](https://psnprofiles.com/guide/4356-table-top-racing-world-tour-trophy-guide) | 6/10 | 15 | 7.23% | 56,708 | 5/5 | 29 | 152 |
+| [Digimon Story Cyber Sleuth](https://psnprofiles.com/guide/4256-digimon-story-cyber-sleuth-trophy-guide) | 6/10 | 95 | 7.25% | 103,086 | 4/5 | 24 | 151 |
+| [Call of Duty: Modern Warfare 2](https://psnprofiles.com/guide/47-call-of-duty-modern-warfare-2-trophy-guide) | 6/10 | 30 | 7.36% | 80,120 | 5/5 | 28 | 169 |
 | [Shadow of the Colossus](https://psnprofiles.com/guide/7048-shadow-of-the-colossus-trophy-guide) | 6/10 | 40 | 7.36% | 318,417 | 5/5 | 70 | 445 |
+| [Mortal Shell](https://psnprofiles.com/guide/10863-mortal-shell-trophy-guide) | 6/10 | 25 | 7.38% | 166,569 | 5/5 | 18 | 149 |
+| [Atelier Meruru Plus: The Apprentice of Arland](https://psnprofiles.com/guide/6196-atelier-meruru-plus-the-apprentice-of-arland-trophy-guide) | 6/10 | 75 | 7.38% | 40,231 |  | 0 | 19 |
+| [Soul Sacrifice Delta](https://psnprofiles.com/guide/1408-soul-sacrifice-delta-trophy-guide) | 6/10 | 90 | 7.43% | 25,682 | 4/5 | 17 | 45 |
+| [Mass Effect 3](https://psnprofiles.com/guide/1287-mass-effect-3-trophy-guide) | 6/10 | 50 | 7.57% | 60,621 | 4/5 | 27 | 132 |
+| [God Eater Resurrection](https://psnprofiles.com/guide/4822-god-eater-resurrection-trophy-guide) | 6/10 | 80 | 7.60% | 56,205 | 5/5 | 18 | 88 |
+| [Dragon's Dogma: Dark Arisen](https://psnprofiles.com/guide/8629-dragons-dogma-dark-arisen-trophy-guide) | 6/10 | 90 | 7.70% | 222,423 | 4/5 | 24 | 95 |
+| [Tom Clancy's Splinter Cell](https://psnprofiles.com/guide/3288-tom-clancys-splinter-cell-trophy-guide) | 6/10 | 25 | 7.95% | 32,885 | 5/5 | 11 | 36 |
+| [Crash Bandicoot 2: Cortex Strikes Back](https://psnprofiles.com/guide/6199-crash-bandicoot-2-cortex-strikes-back-trophy-guide) | 6/10 | 14 | 8.01% | 149,087 | 5/5 | 43 | 248 |
+| [Titanfall 2](https://psnprofiles.com/guide/5263-titanfall-2-trophy-guide) | 6/10 | 17 | 8.07% | 196,490 | 5/5 | 105 | 349 |
+| [Ghostrunner](https://psnprofiles.com/guide/11898-ghostrunner-trophy-guide) | 6/10 | 12 | 8.18% | 194,001 | 4/5 | 14 | 203 |
+| [Streets of Rage 4](https://psnprofiles.com/guide/10122-streets-of-rage-4-trophy-guide) | 6/10 | 25 | 8.27% | 95,753 | 5/5 | 14 | 62 |
+| [E.X. Troopers](https://psnprofiles.com/guide/1666-ex-troopers-trophy-guide) | 6/10 | 40 | 8.27% | 9,832 | 5/5 | 5 | 24 |
 | [Batman: Arkham Asylum](https://psnprofiles.com/guide/757-batman-arkham-asylum-trophy-guide) | 6/10 | 20 | 8.54% | 346,929 | 5/5 | 53 | 552 |
+| [Devil May Cry 3](https://psnprofiles.com/guide/119-devil-may-cry-3-trophy-guide) | 6/10 | 50 | 8.62% | 96,934 | 5/5 | 11 | 142 |
+| [Five Nights at Freddy's: Help Wanted](https://psnprofiles.com/guide/8709-five-nights-at-freddys-help-wanted-trophy-guide) | 6/10 | 20 | 8.66% | 48,742 | 4/5 | 15 | 24 |
+| [Aggelos](https://psnprofiles.com/guide/10936-aggelos-trophy-guide) | 6/10 | 18 | 8.73% | 18,394 | 3/5 | 7 | 4 |
+| [Bayonetta](https://psnprofiles.com/guide/919-bayonetta-trophy-guide) | 6/10 | 40 | 8.81% | 118,237 | 4/5 | 27 | 134 |
+| [Destiny 2](https://psnprofiles.com/guide/6430-destiny-2-trophy-guide) | 6/10 | 200 | 8.93% | 190,637 | 3/5 | 52 | 163 |
+| [Guilty Gear: Strive](https://psnprofiles.com/guide/12594-guilty-gear-strive-trophy-guide) | 6/10 | 10 | 9.21% | 53,132 | 3/5 | 23 | 37 |
+| [Mobile Suit Gundam: Extreme Vs. Maxi Boost ON](https://psnprofiles.com/guide/10686-mobile-suit-gundam-extreme-vs-maxi-boost-on-trophy-guide) | 6/10 | 50 | 9.30% | 12,556 |  | 0 | 9 |
 | [Kingdom Hearts II](https://psnprofiles.com/guide/2086-kingdom-hearts-ii-trophy-guide) | 6/10 | 90 | 9.32% | 319,724 | 5/5 | 29 | 382 |
+| [Hitman 2: Silent Assassin](https://psnprofiles.com/guide/1318-hitman-2-silent-assassin-trophy-guide) | 6/10 | 20 | 9.35% | 31,579 | 4/5 | 17 | 70 |
+| [Tales of Vesperia](https://psnprofiles.com/guide/3083-tales-of-vesperia-trophy-guide) | 6/10 | 175 | 9.38% | 73,909 | 5/5 | 8 | 64 |
+| [Cyber Shadow](https://psnprofiles.com/guide/11722-cyber-shadow-trophy-guide) | 6/10 | 20 | 9.43% | 16,834 |  | 0 | 9 |
+| [BioShock Infinite](https://psnprofiles.com/guide/6872-bioshock-infinite-trophy-guide) | 6/10 | 30 | 9.44% | 171,040 | 4/5 | 58 | 237 |
+| [Resident Evil Code: Veronica X](https://psnprofiles.com/guide/6817-resident-evil-code-veronica-x-trophy-guide) | 6/10 | 15 | 9.60% | 82,688 | 4/5 | 10 | 89 |
+| [The Legend of Heroes: Trails of Cold Steel](https://psnprofiles.com/guide/3725-the-legend-of-heroes-trails-of-cold-steel-trophy-guide) | 6/10 | 100 | 9.72% | 262,857 | 5/5 | 37 | 178 |
+| [Project Warlock](https://psnprofiles.com/guide/12773-project-warlock-trophy-guide) | 6/10 | 15 | 9.91% | 10,492 |  | 0 | 7 |
+| [The Witness](https://psnprofiles.com/guide/6249-the-witness-trophy-guide) | 6/10 | 15 | 10.06% | 167,309 | 5/5 | 59 | 208 |
+| [Mass Effect 2](https://psnprofiles.com/guide/804-mass-effect-2-trophy-guide) | 6/10 | 40 | 10.06% | 56,073 | 5/5 | 24 | 153 |
+| [One More Dungeon](https://psnprofiles.com/guide/7073-one-more-dungeon-trophy-guide) | 6/10 | 7 | 10.12% | 8,970 |  | 0 | 8 |
+| [Mutant Year Zero: Road to Eden](https://psnprofiles.com/guide/9683-mutant-year-zero-road-to-eden-trophy-guide) | 6/10 | 30 | 10.12% | 38,563 | 4/5 | 14 | 18 |
+| [Ghosts 'n Goblins Resurrection](https://psnprofiles.com/guide/18959-ghosts-n-goblins-resurrection-trophy-guide) | 6/10 | 20 | 10.42% | 2,045 |  | 0 | 5 |
+| [Dragooned](https://psnprofiles.com/guide/7345-dragooned-trophy-guide) | 6/10 | 11 | 10.57% | 6,595 |  | 0 | 2 |
+| [Romancing SaGa 2](https://psnprofiles.com/guide/18411-romancing-saga-2-trophy-guide) | 6/10 | 45 | 10.97% | 2,795 |  | 0 | 9 |
+| [Tom Clancy's Rainbow Six Siege](https://psnprofiles.com/guide/3644-tom-clancys-rainbow-six-siege-trophy-guide) | 6/10 | 70 | 11.11% | 240,648 | 5/5 | 63 | 195 |
+| [Need for Speed Hot Pursuit Remastered](https://psnprofiles.com/guide/11143-need-for-speed-hot-pursuit-remastered-trophy-guide) | 6/10 | 35 | 11.12% | 118,283 | 4/5 | 20 | 67 |
+| [Powerslave Exhumed](https://psnprofiles.com/guide/13890-powerslave-exhumed-trophy-guide) | 6/10 | 25 | 11.14% | 10,788 |  | 0 | 4 |
+| [Exoprimal](https://psnprofiles.com/guide/19434-exoprimal-trophy-guide) | 6/10 | 100 | 11.22% | 2,839 |  | 0 | 2 |
+| [Lucky's Tale](https://psnprofiles.com/guide/14227-luckys-tale-trophy-guide) | 6/10 | 7 | 11.39% | 7,816 |  | 0 | 7 |
+| [Nine Parchments](https://psnprofiles.com/guide/6933-nine-parchments-trophy-guide) | 6/10 | 20 | 11.41% | 11,133 |  | 0 | 4 |
+| [ティアーズ・トゥ・ティアラ 外伝 アヴァロンの謎](https://psnprofiles.com/guide/8250-%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%82%BA%E3%83%88%E3%82%A5%E3%83%86%E3%82%A3%E3%82%A2%E3%83%A9-%E5%A4%96%E4%BC%9D-%E3%82%A2%E3%83%B4%E3%82%A1%E3%83%AD%E3%83%B3%E3%81%AE%E8%AC%8E-trophy-guide) | 6/10 | 100 | 11.55% | 2,739 |  | 0 | 3 |
+| [Deus Ex: Human Revolution - Director's Cut](https://psnprofiles.com/guide/7314-deus-ex-human-revolution-directors-cut-trophy-guide) | 6/10 | 35 | 11.74% | 60,638 | 5/5 | 10 | 60 |
+| [Classified: France '44](https://psnprofiles.com/guide/18938-classified-france-44-trophy-guide) | 6/10 | 60 | 11.76% | 2,275 |  | 0 | 4 |
+| [Solar Ash](https://psnprofiles.com/guide/13377-solar-ash-trophy-guide) | 6/10 | 15 | 11.87% | 17,486 | 5/5 | 5 | 26 |
+| [Yakuza Kiwami 2](https://psnprofiles.com/guide/10957-yakuza-kiwami-2-trophy-guide) | 6/10 | 80 | 12.05% | 114,436 | 3/5 | 47 | 86 |
+| [Alwa's Awakening](https://psnprofiles.com/guide/14838-alwas-awakening-trophy-guide) | 6/10 | 15 | 12.10% | 5,838 |  | 0 | 5 |
+| [Immortals of Aveum](https://psnprofiles.com/guide/19291-immortals-of-aveum-trophy-guide) | 6/10 | 35 | 12.24% | 12,935 | 4/5 | 7 | 29 |
+| [Remnant: From the Ashes](https://psnprofiles.com/guide/9005-remnant-from-the-ashes-trophy-guide) | 6/10 | 45 | 12.49% | 252,609 | 4/5 | 46 | 134 |
+| [MXGP 2019](https://psnprofiles.com/guide/15839-mxgp-2019-trophy-guide) | 6/10 | 18 | 12.64% | 1,253 |  | 0 | 3 |
+| [Peggle 2](https://psnprofiles.com/guide/18338-peggle-2-trophy-guide) | 6/10 | 40 | 12.80% | 4,639 |  | 0 | 4 |
+| [Returnal](https://psnprofiles.com/guide/12324-returnal-trophy-guide) | 6/10 | 50 | 13.06% | 285,084 | 5/5 | 85 | 261 |
+| [Diablo III: Reaper of Souls](https://psnprofiles.com/guide/4422-diablo-iii-reaper-of-souls-trophy-guide) | 6/10 | 60 | 13.15% | 162,388 | 5/5 | 34 | 195 |
+| [AVICII Invector](https://psnprofiles.com/guide/12316-avicii-invector-trophy-guide) | 6/10 | 15 | 13.23% | 30,066 | 4/5 | 10 | 16 |
+| [Dr. Fetus' Mean Meat Machine](https://psnprofiles.com/guide/17341-dr-fetus-mean-meat-machine-trophy-guide) | 6/10 | 11 | 13.58% | 5,356 |  | 0 | 4 |
+| [Armored Core VI: Fires of Rubicon](https://psnprofiles.com/guide/17834-armored-core-vi-fires-of-rubicon-trophy-guide) | 6/10 | 50 | 13.90% | 36,399 | 5/5 | 8 | 36 |
 | [Dark Souls II](https://psnprofiles.com/guide/357-dark-souls-ii-trophy-guide) | 6/10 | 80 | 13.93% | 424,403 | 5/5 | 54 | 421 |
+| [Tomb Raider I](https://psnprofiles.com/guide/18819-tomb-raider-i-trophy-guide) | 6/10 | 40 | 14.59% | 27,400 | 5/5 | 7 | 21 |
+| [Ghostrunner 2](https://psnprofiles.com/guide/17918-ghostrunner-2-trophy-guide) | 6/10 | 20 | 14.68% | 45,157 | 5/5 | 11 | 47 |
+| [Warhammer: Chaosbane](https://psnprofiles.com/guide/13648-warhammer-chaosbane-trophy-guide) | 6/10 | 30 | 15.05% | 45,214 | 5/5 | 6 | 17 |
+| [Jydge](https://psnprofiles.com/guide/12948-jydge-trophy-guide) | 6/10 | 20 | 15.37% | 6,849 |  | 0 | 4 |
+| [Resident Evil Village](https://psnprofiles.com/guide/12200-resident-evil-village-trophy-guide) | 6/10 | 25 | 15.41% | 254,598 | 5/5 | 56 | 237 |
+| [Mafia](https://psnprofiles.com/guide/10906-mafia-trophy-guide) | 6/10 | 25 | 15.42% | 288,876 | 4/5 | 45 | 298 |
+| [Helldivers 2](https://psnprofiles.com/guide/18732-helldivers-2-trophy-guide) | 6/10 | 55 | 15.48% | 163,447 | 4/5 | 55 | 123 |
+| [Gal*Gunvolt Burst](https://psnprofiles.com/guide/11183-galgunvolt-burst-trophy-guide) | 6/10 | 10 | 15.98% | 18,713 |  | 0 | 7 |
+| [Final Horizon](https://psnprofiles.com/guide/15038-final-horizon-trophy-guide) | 6/10 | 15 | 15.98% | 3,384 |  | 0 | 5 |
+| [The Talos Principle](https://psnprofiles.com/guide/3517-the-talos-principle-trophy-guide) | 6/10 | 25 | 16.87% | 111,111 | 5/5 | 39 | 79 |
+| [英雄伝説 閃の軌跡](https://psnprofiles.com/guide/2055-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E9%96%83%E3%81%AE%E8%BB%8C%E8%B7%A1-trophy-guide) | 6/10 | 100 | 17.02% | 18,523 | 5/5 | 6 | 13 |
+| [Chasm](https://psnprofiles.com/guide/10580-chasm-trophy-guide) | 6/10 | 15 | 17.16% | 23,492 | 4/5 | 7 | 22 |
+| [Wolfenstein: The New Order](https://psnprofiles.com/guide/1078-wolfenstein-the-new-order-trophy-guide) | 6/10 | 20 | 17.42% | 196,025 | 5/5 | 68 | 319 |
+| [Lost Ruins](https://psnprofiles.com/guide/15193-lost-ruins-trophy-guide) | 6/10 | 25 | 17.47% | 11,213 |  | 0 | 8 |
+| [英雄伝説 空の軌跡 FC Evolution](https://psnprofiles.com/guide/4045-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E7%A9%BA%E3%81%AE%E8%BB%8C%E8%B7%A1-fc-evolution-trophy-guide) | 6/10 | 125 | 17.59% | 30,882 | 5/5 | 13 | 29 |
 | [Dark Souls III](https://psnprofiles.com/guide/4281-dark-souls-iii-trophy-guide) | 6/10 | 110 | 18.07% | 575,983 | 5/5 | 110 | 548 |
+| [Pac-Man World Re-Pac](https://psnprofiles.com/guide/15131-pac-man-world-re-pac-trophy-guide) | 6/10 | 15 | 18.29% | 37,651 | 5/5 | 5 | 22 |
+| [Taiko no Tatsujin: V Version](https://psnprofiles.com/guide/4364-taiko-no-tatsujin-v-version-trophy-guide) | 6/10 | 25 | 18.29% | 11,612 | 5/5 | 10 | 24 |
+| [Sonic Superstars](https://psnprofiles.com/guide/18108-sonic-superstars-trophy-guide) | 6/10 | 14 | 18.40% | 24,057 |  | 0 | 22 |
+| [Resident Evil 2](https://psnprofiles.com/guide/8281-resident-evil-2-trophy-guide) | 6/10 | 30 | 18.45% | 127,096 | 5/5 | 85 | 166 |
+| [TimbermanVS](https://psnprofiles.com/guide/17442-timbermanvs-trophy-guide) | 6/10 | 10 | 19.09% | 2,131 |  | 0 | 2 |
+| [Mafia II](https://psnprofiles.com/guide/13529-mafia-ii-trophy-guide) | 6/10 | 26 | 20.46% | 73,182 | 4/5 | 45 | 140 |
+| [Ghost Blade HD](https://psnprofiles.com/guide/6403-ghost-blade-hd-trophy-guide) | 6/10 | 5 | 20.95% | 9,052 |  | 0 | 12 |
+| [Xenon Valkyrie+](https://psnprofiles.com/guide/12341-xenon-valkyrie-trophy-guide) | 6/10 | 10 | 21.17% | 19,444 |  | 0 | 19 |
+| [Sinner: Sacrifice for Redemption](https://psnprofiles.com/guide/13466-sinner-sacrifice-for-redemption-trophy-guide) | 6/10 | 8 | 21.66% | 11,616 |  | 0 | 8 |
+| [Monster Sanctuary](https://psnprofiles.com/guide/11421-monster-sanctuary-trophy-guide) | 6/10 | 40 | 23.55% | 36,094 | 5/5 | 9 | 19 |
+| [Halloween Forever](https://psnprofiles.com/guide/10762-halloween-forever-trophy-guide) | 6/10 | 10 | 23.70% | 6,848 |  | 0 | 3 |
+| [Hades](https://psnprofiles.com/guide/13057-hades-trophy-guide) | 6/10 | 50 | 24.29% | 261,261 | 5/5 | 17 | 258 |
+| [Arietta of Spirits](https://psnprofiles.com/guide/13758-arietta-of-spirits-trophy-guide) | 6/10 | 8 | 25.30% | 10,035 |  | 0 | 5 |
+| [Yooka-Laylee and the Impossible Lair](https://psnprofiles.com/guide/10782-yooka-laylee-and-the-impossible-lair-trophy-guide) | 6/10 | 25 | 26.41% | 21,704 | 5/5 | 8 | 22 |
+| [Assassin's Creed Brotherhood](https://psnprofiles.com/guide/18178-assassins-creed-brotherhood-trophy-guide) | 6/10 | 40 | 30.84% | 32,577 | 4/5 | 24 | 75 |
+| [Tails of Iron](https://psnprofiles.com/guide/13637-tails-of-iron-trophy-guide) | 6/10 | 15 | 34.05% | 151,176 | 5/5 | 30 | 87 |
+| [Super Night Riders](https://psnprofiles.com/guide/13641-super-night-riders-trophy-guide) | 6/10 | 6 | 36.94% | 5,096 |  | 0 | 6 |
+| [Blasphemous II](https://psnprofiles.com/guide/17505-blasphemous-ii-trophy-guide) | 6/10 | 25 | 39.95% | 37,779 | 4/5 | 9 | 30 |
+| [Watch Dogs 2](https://psnprofiles.com/guide/7849-watch-dogs-2-showd0wn-dlc-trophy-guide) | 6/10 | 1 |  | 24,718 | 5/5 | 6 | 12 |
+| [Mistover](https://psnprofiles.com/guide/15148-mistover-%E8%BF%BD%E5%8A%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%EF%BC%91%E9%97%87%E5%8C%BB%E8%80%85%E3%83%95%E3%82%A1%E3%82%A6%E3%82%B9%E3%83%88%E3%81%AE%E7%95%B0%E6%AC%A1%E5%85%83%E3%81%B6%E3%82%89%E3%82%8A%E6%97%85-dlc-trophy-guide) | 6/10 | 2 |  | 703 |  | 0 | 0 |
+| [Battlefield 4](https://psnprofiles.com/guide/7751-battlefield-4-second-assault-dlc-trophy-guide) | 6/10 | 2 |  | 15,469 | 4/5 | 5 | 4 |
+| [Super Street Fighter IV](https://psnprofiles.com/guide/6756-super-street-fighter-iv-super-street-fighter-%E2%85%A3-arcade-edition-dlc-trophy-guide) | 6/10 | 3 |  | 8,869 | 5/5 | 5 | 9 |
+| [Final Horizon](https://psnprofiles.com/guide/15039-final-horizon-dark-galaxy-dlc-trophy-guide) | 6/10 | 3 |  | 1,011 |  | 0 | 0 |
+| [Crash Bandicoot](https://psnprofiles.com/guide/6255-crash-bandicoot-lost-treasures-dlc-trophy-guide) | 6/10 | 3 |  | 89,662 | 5/5 | 21 | 47 |
+| [Emily Wants To Play](https://psnprofiles.com/guide/6752-emily-wants-to-play-trophy-guide) | 6/10 | 4 |  | 12,807 |  | 0 | 9 |
+| [Wolfenstein II: The New Colossus](https://psnprofiles.com/guide/12766-wolfenstein-ii-the-new-colossus-adventures-of-gunslinger-joe-dlc-trophy-guide) | 6/10 | 4 |  | 15,844 | 4/5 | 13 | 7 |
+| [Steep](https://psnprofiles.com/guide/16119-steep-extreme-dlc-trophy-guide) | 6/10 | 4 |  | 2,452 |  | 0 | 1 |
+| [Spelunker HD](https://psnprofiles.com/guide/2167-spelunker-hd-championship-mode-area-6-dlc-trophy-guide) | 6/10 | 5 |  | 747 |  | 0 | 1 |
+| [Spelunker HD](https://psnprofiles.com/guide/2168-spelunker-hd-championship-mode-area-7-dlc-trophy-guide) | 6/10 | 5 |  | 840 |  | 0 | 1 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/7793-final-fantasy-xv-episode-ignis-dlc-trophy-guide) | 6/10 | 5 |  | 58,568 | 5/5 | 8 | 29 |
+| [Resogun](https://psnprofiles.com/guide/1127-resogun-construction-kit-dlc-trophy-guide) | 6/10 | 5 |  | 16,057 | 5/5 | 10 | 25 |
+| [Call of Duty: Modern Warfare 3](https://psnprofiles.com/guide/15271-call-of-duty-modern-warfare-3-modern-warfare-3-black-ice-and-negotiator-dlc-trophy-guide) | 6/10 | 5 |  | 5,460 | 5/5 | 6 | 2 |
+| [Call of Duty: Infinite Warfare](https://psnprofiles.com/guide/5694-call-of-duty-infinite-warfare-call-of-duty-infinite-warfare-sabotage-dlc-trophy-guide) | 6/10 | 5 |  | 28,965 | 4/5 | 13 | 17 |
+| [Spelunker HD](https://psnprofiles.com/guide/2171-spelunker-hd-championship-mode-area-10-dlc-trophy-guide) | 6/10 | 5 |  | 1,668 |  | 0 | 1 |
+| [Castlevania: Lords of Shadow](https://psnprofiles.com/guide/592-castlevania-lords-of-shadow-resurrection-dlc-trophy-guide) | 6/10 | 5 |  | 8,227 | 4/5 | 6 | 9 |
+| [Cuphead](https://psnprofiles.com/guide/14751-cuphead-the-delicious-last-course-dlc-trophy-guide) | 6/10 | 5 |  | 19,994 | 5/5 | 11 | 14 |
+| [BioShock](https://psnprofiles.com/guide/12471-bioshock-challenge-room-dlc-trophy-guide) | 6/10 | 5 |  | 24,193 | 4/5 | 24 | 17 |
+| [Serial Cleaners](https://psnprofiles.com/guide/16772-serial-cleaners-dino-park-dlc-trophy-guide) | 6/10 | 6 |  | 2,057 |  | 0 | 0 |
+| [Zuma](https://psnprofiles.com/guide/18767-zuma-trophy-guide) | 6/10 | 6 |  | 1,855 |  | 0 | 2 |
+| [Not A Hero](https://psnprofiles.com/guide/8796-not-a-hero-trophy-guide) | 6/10 | 6 |  | 22,763 | 5/5 | 6 | 23 |
+| [Resogun](https://psnprofiles.com/guide/2432-resogun-defenders-dlc-trophy-guide) | 6/10 | 6 |  | 13,299 | 5/5 | 6 | 11 |
+| [Bejeweled 2](https://psnprofiles.com/guide/18779-bejeweled-2-trophy-guide) | 6/10 | 7 |  | 1,746 |  | 0 | 3 |
+| [Five Nights at Freddy's 3](https://psnprofiles.com/guide/9399-five-nights-at-freddys-3-trophy-guide) | 6/10 | 7 |  | 29,337 |  | 0 | 5 |
+| [Max Payne 3](https://psnprofiles.com/guide/12908-max-payne-3-deathmatch-made-in-heaven-dlc-trophy-guide) | 6/10 | 7 |  | 2,955 |  | 0 | 3 |
+| [Descenders](https://psnprofiles.com/guide/13177-descenders-the-grand-tour-dlc-trophy-guide) | 6/10 | 7 |  | 14,600 |  | 0 | 1 |
+| [Terraria](https://psnprofiles.com/guide/13101-terraria-journeys-end-dlc-trophy-guide) | 6/10 | 8 |  | 12,927 | 5/5 | 7 | 4 |
+| [Borderlands: The Pre-Sequel](https://psnprofiles.com/guide/4813-borderlands-the-pre-sequel-claptastic-voyage-dlc-trophy-guide) | 6/10 | 8 |  | 43,299 | 5/5 | 12 | 35 |
+| [Crypt of the NecroDancer](https://psnprofiles.com/guide/19098-crypt-of-the-necrodancer-synchrony-dlc-trophy-guide) | 6/10 | 8 |  | 2,183 | 5/5 | 12 | 6 |
+| [Call of Duty: Ghosts](https://psnprofiles.com/guide/1219-call-of-duty-ghosts-call-of-duty-ghosts-invasion-dlc-trophy-guide) | 6/10 | 8 |  | 17,574 |  | 0 | 13 |
+| [Need for Speed: Most Wanted](https://psnprofiles.com/guide/995-need-for-speed-most-wanted-terminal-velocity-dlc-trophy-guide) | 6/10 | 8 |  | 16,407 | 5/5 | 10 | 17 |
+| [Doom Eternal](https://psnprofiles.com/guide/12008-doom-eternal-the-ancient-gods-1-dlc-trophy-guide) | 6/10 | 8 |  | 28,758 | 4/5 | 10 | 19 |
+| [WipEout HD](https://psnprofiles.com/guide/2898-wipeout-hd-fury-add-on-dlc-trophy-guide) | 6/10 | 8 |  | 5,193 | 4/5 | 5 | 13 |
+| [8DAYS: Peace is our Business](https://psnprofiles.com/guide/6548-8days-peace-is-our-business-trophy-guide) | 6/10 | 8 |  | 3,006 |  | 0 | 9 |
+| [Dogfight 1942](https://psnprofiles.com/guide/2152-dogfight-1942-trophy-guide) | 6/10 | 9 |  | 3,507 |  | 0 | 3 |
+| [Jurassic World Evolution](https://psnprofiles.com/guide/14927-jurassic-world-evolution-claires-sanctuary-dlc-trophy-guide) | 6/10 | 9 |  | 2,517 |  | 0 | 1 |
+| [Need for Speed: Most Wanted](https://psnprofiles.com/guide/1000-need-for-speed-most-wanted-nfs-heroes-dlc-trophy-guide) | 6/10 | 9 |  | 16,537 | 5/5 | 8 | 16 |
+| [Railway Empire](https://psnprofiles.com/guide/18424-railway-empire-france-dlc-trophy-guide) | 6/10 | 10 |  | 753 |  | 0 | 0 |
+| [Call of Duty: Ghosts](https://psnprofiles.com/guide/1601-call-of-duty-ghosts-call-of-duty-ghosts-nemesis-dlc-trophy-guide) | 6/10 | 10 |  | 17,119 | 5/5 | 7 | 10 |
+| [Echochrome](https://psnprofiles.com/guide/12713-echochrome-trophy-guide) | 6/10 | 10 |  | 12,773 |  | 0 | 10 |
+| [All Zombies Must Die!](https://psnprofiles.com/guide/882-all-zombies-must-die-trophy-guide) | 6/10 | 10 |  | 6,389 |  | 0 | 6 |
+| [Cuphead](https://psnprofiles.com/guide/14744-cuphead-the-delicious-last-course-dlc-trophy-guide) | 6/10 | 10 |  | 35,293 | 5/5 | 14 | 25 |
+| [A Hat in Time](https://psnprofiles.com/guide/12055-a-hat-in-time-ahitsealthedeal-dlc-trophy-guide) | 6/10 | 10 |  | 18,172 | 5/5 | 6 | 10 |
+| [Batman: Arkham City](https://psnprofiles.com/guide/3027-batman-arkham-city-catwoman-dlc-trophy-guide) | 6/10 | 10 |  | 37,942 | 4/5 | 12 | 40 |
+| [Nidhogg](https://psnprofiles.com/guide/3885-nidhogg-trophy-guide) | 6/10 | 10 |  | 23,805 | 4/5 | 5 | 13 |
+| [Mutant Year Zero: Road to Eden](https://psnprofiles.com/guide/9697-mutant-year-zero-road-to-eden-seed-of-evil-dlc-trophy-guide) | 6/10 | 10 |  | 9,465 | 4/5 | 5 | 3 |
+| [Call of Duty: Advanced Warfare](https://psnprofiles.com/guide/11116-call-of-duty-advanced-warfare-reckoning-dlc-trophy-guide) | 6/10 | 10 |  | 14,552 |  | 0 | 4 |
+| [The Last Guy](https://psnprofiles.com/guide/6340-the-last-guy-add-on-dlc-trophy-guide) | 6/10 | 10 |  | 3,767 |  | 0 | 5 |
+| [Middle-earth: Shadow of Mordor](https://psnprofiles.com/guide/3346-middle-earth-shadow-of-mordor-lord-of-the-hunt-dlc-trophy-guide) | 6/10 | 10 |  | 70,605 | 4/5 | 12 | 71 |
+| [Werewolves Within](https://psnprofiles.com/guide/5742-werewolves-within-trophy-guide) | 6/10 | 10 |  | 11,265 |  | 0 | 4 |
+| [Need for Speed: Most Wanted](https://psnprofiles.com/guide/997-need-for-speed-most-wanted-movie-legends-dlc-trophy-guide) | 6/10 | 10 |  | 15,859 | 5/5 | 9 | 15 |
+| [SteamWorld Dig](https://psnprofiles.com/guide/1874-steamworld-dig-trophy-guide) | 6/10 | 10 |  | 34,436 | 4/5 | 13 | 79 |
+| [The Banner Saga 2](https://psnprofiles.com/guide/8467-the-banner-saga-2-survival-mode-dlc-trophy-guide) | 6/10 | 10 |  | 5,079 | 5/5 | 5 | 4 |
+| [Resident Evil 4](https://psnprofiles.com/guide/17681-resident-evil-4-separate-ways-dlc-trophy-guide) | 6/10 | 12 |  | 33,697 | 5/5 | 14 | 27 |
+| [Dirt Rally 2.0](https://psnprofiles.com/guide/13780-dirt-rally-20-season-four-dlc-trophy-guide) | 6/10 | 12 |  | 6,477 | 5/5 | 6 | 4 |
+| [Hyper Void](https://psnprofiles.com/guide/5531-hyper-void-trophy-guide) | 6/10 | 12 |  | 19,352 | 5/5 | 10 | 30 |
+| [Watch Dogs: Legion](https://psnprofiles.com/guide/12810-watch-dogs-legion-resistance-mode-dlc-trophy-guide) | 6/10 | 12 |  | 42,391 |  | 0 | 10 |
+| [Call of Duty: Black Ops II](https://psnprofiles.com/guide/9891-call-of-duty-black-ops-ii-vengeance-dlc-trophy-guide) | 6/10 | 12 |  | 12,892 |  | 0 | 6 |
+| [Men's Room Mayhem](https://psnprofiles.com/guide/5037-mens-room-mayhem-trophy-guide) | 6/10 | 12 |  | 3,689 |  | 0 | 3 |
+| [Sonic The Hedgehog 2](https://psnprofiles.com/guide/192-sonic-the-hedgehog-2-trophy-guide) | 6/10 | 12 |  | 15,061 | 4/5 | 10 | 27 |
+| [Frostpunk](https://psnprofiles.com/guide/12545-frostpunk-on-the-edge-dlc-trophy-guide) | 6/10 | 13 |  | 10,748 |  | 0 | 3 |
+| [Assassin's Creed Chronicles: China](https://psnprofiles.com/guide/3899-assassins-creed-chronicles-china-trophy-guide) | 6/10 | 15 |  | 73,026 | 5/5 | 6 | 75 |
+| [Road Not Taken](https://psnprofiles.com/guide/3408-road-not-taken-trophy-guide) | 6/10 | 15 |  | 12,984 | 5/5 | 5 | 35 |
+| [Dead by Daylight • Additional Chapters](https://psnprofiles.com/guide/11300-dead-by-daylight-additional-chapters-dead-by-daylight-a-binding-of-kin-chapter-dlc-trophy-guide) | 6/10 | 15 |  | 9,008 |  | 0 | 3 |
+| [Dead by Daylight](https://psnprofiles.com/guide/8498-dead-by-daylight-demise-of-the-faithful-chapter-dlc-trophy-guide) | 6/10 | 15 |  | 10,586 |  | 0 | 4 |
+| [Fallout 3](https://psnprofiles.com/guide/1294-fallout-3-point-lookout-dlc-trophy-guide) | 6/10 | 15 |  | 11,506 | 5/5 | 11 | 21 |
+| [Sonic CD](https://psnprofiles.com/guide/2522-sonic-cd-trophy-guide) | 6/10 | 15 |  | 16,313 | 5/5 | 6 | 13 |
+| [Star Wars: Racer Revenge](https://psnprofiles.com/guide/5114-star-wars-racer-revenge-trophy-guide) | 6/10 | 15 |  | 37,168 | 5/5 | 8 | 27 |
+| [Streets of Rage 2](https://psnprofiles.com/guide/6934-streets-of-rage-2-trophy-guide) | 6/10 | 15 |  | 9,673 | 5/5 | 5 | 10 |
+| [Muramasa Rebirth](https://psnprofiles.com/guide/6604-muramasa-rebirth-hells-where-the-heart-is-dlc-trophy-guide) | 6/10 | 15 |  | 8,036 |  | 0 | 12 |
+| [Hitman 3](https://psnprofiles.com/guide/14538-hitman-3-hitman-2-expansion-dlc-trophy-guide) | 6/10 | 17 |  | 7,598 |  | 0 | 6 |
+| [Warframe](https://psnprofiles.com/guide/5103-warframe-update-17-dlc-trophy-guide) | 6/10 | 20 |  | 5,880 |  | 0 | 7 |
+| [Call of Duty: Black Ops III](https://psnprofiles.com/guide/14428-call-of-duty-black-ops-iii-salvation-dlc-trophy-guide) | 6/10 | 20 |  | 13,965 | 5/5 | 6 | 14 |
+| [Dead by Daylight](https://psnprofiles.com/guide/8779-dead-by-daylight-ghost-face-dlc-trophy-guide) | 6/10 | 20 |  | 9,565 | 5/5 | 8 | 6 |
+| [Basement Crawl](https://psnprofiles.com/guide/861-basement-crawl-trophy-guide) | 6/10 | 20 |  | 1,833 |  | 0 | 5 |
+| [Mortal Kombat: Arcade Kollection](https://psnprofiles.com/guide/9581-mortal-kombat-arcade-kollection-trophy-guide) | 6/10 | 20 |  | 14,440 | 4/5 | 8 | 9 |
+| [Iconoclasts](https://psnprofiles.com/guide/14206-iconoclasts-trophy-guide) | 6/10 | 20 |  | 13,183 | 5/5 | 5 | 20 |
+| [Star Wars: Jedi Starfighter](https://psnprofiles.com/guide/5297-star-wars-jedi-starfighter-trophy-guide) | 6/10 | 25 |  | 31,985 | 5/5 | 7 | 25 |
+| [Yu-Gi-Oh! Master Duel](https://psnprofiles.com/guide/13864-yu-gi-oh-master-duel-trophy-guide) | 6/10 | 25 |  | 29,438 | 4/5 | 8 | 13 |
+| [Killzone Shadow Fall](https://psnprofiles.com/guide/9572-killzone-shadow-fall-insurgent-expansion-dlc-trophy-guide) | 6/10 | 25 |  | 24,205 | 5/5 | 9 | 4 |
+| [Entwined](https://psnprofiles.com/guide/1698-entwined-trophy-guide) | 6/10 | 25 |  | 26,536 | 4/5 | 13 | 51 |
+| [Mortal Shell](https://psnprofiles.com/guide/12724-mortal-shell-thevirtuouscycle-dlc-trophy-guide) | 6/10 | 25 |  | 52,754 | 5/5 | 9 | 18 |
+| [Castle Crashers](https://psnprofiles.com/guide/5971-castle-crashers-trophy-guide) | 6/10 | 25 |  | 10,471 |  | 0 | 7 |
+| [Days Gone](https://psnprofiles.com/guide/9857-days-gone-challenge-mode-dlc-trophy-guide) | 6/10 | 30 |  | 81,450 | 4/5 | 21 | 28 |
+| [Magic: The Gathering - Duels of the Planeswalkers](https://psnprofiles.com/guide/1611-magic-the-gathering-duels-of-the-planeswalkers-trophy-guide) | 6/10 | 30 |  | 5,286 |  | 0 | 9 |
+| [Stranger of Paradise: Final Fantasy Origin](https://psnprofiles.com/guide/15437-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift-dlc-trophy-guide) | 6/10 | 30 |  | 42,605 | 4/5 | 13 | 14 |
+| [The Last of Us](https://psnprofiles.com/guide/1007-the-last-of-us-grounded-mode-dlc-trophy-guide) | 6/10 | 30 |  | 72,664 | 5/5 | 14 | 57 |
+| [Destiny](https://psnprofiles.com/guide/5070-destiny-rise-of-iron-dlc-trophy-guide) | 6/10 | 30 |  | 26,095 | 5/5 | 14 | 23 |
+| [SpellForce III Reforced](https://psnprofiles.com/guide/19082-spellforce-iii-reforced-soul-harvest-dlc-trophy-guide) | 6/10 | 35 |  | 925 |  | 0 | 1 |
+| [Kingdom Come: Deliverance](https://psnprofiles.com/guide/10754-kingdom-come-deliverance-a-womans-lot-dlc-trophy-guide) | 6/10 | 35 |  | 52,544 | 5/5 | 11 | 9 |
+| [Overwatch 2](https://psnprofiles.com/guide/4716-overwatch-2-dlc-pack-1-dlc-trophy-guide) | 6/10 | 35 |  | 23,596 | 4/5 | 10 | 14 |
+| [Destiny 2](https://psnprofiles.com/guide/13597-destiny-2-forsaken-dlc-trophy-guide) | 6/10 | 40 |  | 28,399 | 5/5 | 7 | 11 |
+| [Atomicrops](https://psnprofiles.com/guide/12431-atomicrops-trophy-guide) | 6/10 | 50 |  | 8,403 |  | 0 | 5 |
+| [Castlevania: Harmony of Despair](https://psnprofiles.com/guide/14214-castlevania-harmony-of-despair-trophy-guide) | 6/10 | 50 |  | 9,796 | 5/5 | 5 | 6 |
+| [Grand Theft Auto V](https://psnprofiles.com/guide/6797-grand-theft-auto-v-grand-theft-auto-online-the-doomsday-heist-dlc-trophy-guide) | 6/10 | 50 |  | 85,733 | 5/5 | 23 | 70 |
+| [Resident Evil 4](https://psnprofiles.com/guide/16426-resident-evil-4-trophy-guide) | 6/10 | 50 | Handcannon | 250,442 | 5/5 | 76 | 192 |
+| [Mass Effect: Legendary Edition](https://psnprofiles.com/guide/12357-mass-effect-legendary-edition-trophy-guide) | 6/10 | 60 |  | 155,689 | 5/5 | 14 | 101 |
+| [Age of Wonders: Planetfall](https://psnprofiles.com/guide/16726-age-of-wonders-planetfall-star-kings-dlc-trophy-guide) | 6/10 | 60 |  | 1,626 |  | 0 | 0 |
+| [Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!!](https://psnprofiles.com/guide/12921-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting-trophy-guide) | 6/10 | 65 |  | 11,095 | 5/5 | 6 | 12 |
+| [Vigor](https://psnprofiles.com/guide/15467-vigor-trophy-guide) | 6/10 | 70 |  | 10,627 | 4/5 | 6 | 8 |
+| [World of Tanks](https://psnprofiles.com/guide/8152-world-of-tanks-the-motherland-dlc-trophy-guide) | 6/10 | 100 |  | 3,172 |  | 0 | 1 |
+| [Neverwinter](https://psnprofiles.com/guide/6327-neverwinter-legendary-adventures-dlc-trophy-guide) | 6/10 | 120 |  | 10,730 | 5/5 | 6 | 8 |
+| [World of Tanks](https://psnprofiles.com/guide/8159-world-of-tanks-tank-heroes-dlc-trophy-guide) | 6/10 | 200 |  | 3,117 |  | 0 | 0 |
+| [NBA 2K14](https://psnprofiles.com/guide/912-nba-2k14-trophy-guide) | 7/10 | 80 | 0.04% | 13,695 | 5/5 | 9 | 31 |
+| [Micro Machines World Series](https://psnprofiles.com/guide/6450-micro-machines-world-series-trophy-guide) | 7/10 | 50 | 0.21% | 14,553 |  | 0 | 8 |
+| [WWE '13](https://psnprofiles.com/guide/978-wwe-13-trophy-guide) | 7/10 | 75 | 0.39% | 14,050 | 4/5 | 7 | 8 |
+| [Bless Unleashed](https://psnprofiles.com/guide/11393-bless-unleashed-trophy-guide) | 7/10 | 350 | 0.43% | 28,231 | 5/5 | 14 | 30 |
+| [Call of Duty: Black Ops III](https://psnprofiles.com/guide/7256-call-of-duty-black-ops-iii-trophy-guide) | 7/10 | 100 | 0.47% | 67,154 | 5/5 | 8 | 41 |
+| [F.E.A.R. 2: Project Origin](https://psnprofiles.com/guide/250-fear-2-project-origin-trophy-guide) | 7/10 | 10 | 0.48% | 16,993 | 5/5 | 5 | 14 |
+| [LEGO Rock Band](https://psnprofiles.com/guide/13957-lego-rock-band-trophy-guide) | 7/10 | 100 | 0.53% | 14,546 |  | 0 | 7 |
+| [Star Wars: Squadrons](https://psnprofiles.com/guide/11309-star-wars-squadrons-trophy-guide) | 7/10 | 85 | 0.54% | 135,109 | 5/5 | 14 | 83 |
+| [Call of Duty: Black Ops 4](https://psnprofiles.com/guide/7945-call-of-duty-black-ops-4-trophy-guide) | 7/10 | 150 | 0.55% | 191,625 | 4/5 | 58 | 126 |
+| [Path of Exile](https://psnprofiles.com/guide/11184-path-of-exile-trophy-guide) | 7/10 | 250 | 0.58% | 69,863 | 5/5 | 8 | 41 |
+| [PlayStation VR Worlds](https://psnprofiles.com/guide/5798-playstation-vr-worlds-trophy-guide) | 7/10 | 25 | 0.60% | 70,357 | 5/5 | 15 | 64 |
+| [DCL: The Game](https://psnprofiles.com/guide/14507-dcl-the-game-trophy-guide) | 7/10 | 180 | 0.64% | 4,177 |  | 0 | 3 |
+| [Superhot VR](https://psnprofiles.com/guide/9744-superhot-vr-trophy-guide) | 7/10 | 15 | 0.65% | 32,728 | 5/5 | 8 | 31 |
+| [Absolver](https://psnprofiles.com/guide/7056-absolver-trophy-guide) | 7/10 | 60 | 0.66% | 76,131 | 4/5 | 13 | 70 |
+| [Army of Two: The 40th Day](https://psnprofiles.com/guide/12345-army-of-two-the-40th-day-trophy-guide) | 7/10 | 60 | 0.66% | 20,142 |  | 0 | 12 |
+| [Smite](https://psnprofiles.com/guide/5299-smite-trophy-guide) | 7/10 | 100 | 0.70% | 52,561 | 4/5 | 15 | 37 |
+| [Carnival Island](https://psnprofiles.com/guide/734-carnival-island-trophy-guide) | 7/10 | 25 | 0.75% | 4,318 |  | 0 | 6 |
+| [Virtua Tennis 2009](https://psnprofiles.com/guide/18364-virtua-tennis-2009-trophy-guide) | 7/10 | 80 | 0.75% | 2,834 |  | 0 | 5 |
+| [Class of Heroes 2G](https://psnprofiles.com/guide/8216-class-of-heroes-2g-trophy-guide) | 7/10 | 80 | 0.78% | 8,894 |  | 0 | 7 |
+| [Guitar Hero Live](https://psnprofiles.com/guide/7572-guitar-hero-live-trophy-guide) | 7/10 | 100 | 0.79% | 10,645 | 4/5 | 7 | 6 |
+| [3on3 Freestyle](https://psnprofiles.com/guide/10687-3on3-freestyle-trophy-guide) | 7/10 | 200 | 0.79% | 29,476 | 4/5 | 10 | 17 |
+| [Flame Over](https://psnprofiles.com/guide/4185-flame-over-trophy-guide) | 7/10 | 60 | 0.81% | 11,201 |  | 0 | 23 |
+| [Transformers: Devastation](https://psnprofiles.com/guide/3758-transformers-devastation-trophy-guide) | 7/10 | 25 | 0.89% | 61,449 | 4/5 | 17 | 107 |
+| [Guitar Hero: Warriors of Rock](https://psnprofiles.com/guide/4963-guitar-hero-warriors-of-rock-trophy-guide) | 7/10 | 35 | 0.90% | 13,573 | 4/5 | 6 | 9 |
+| [XCOM: Enemy Unknown](https://psnprofiles.com/guide/1133-xcom-enemy-unknown-trophy-guide) | 7/10 | 60 | 0.92% | 16,805 |  | 0 | 18 |
+| [Bleed 2](https://psnprofiles.com/guide/7061-bleed-2-trophy-guide) | 7/10 | 15 | 0.93% | 12,414 |  | 0 | 6 |
+| [ModNation Racers](https://psnprofiles.com/guide/827-modnation-racers-trophy-guide) | 7/10 | 80 | 1.03% | 17,127 | 5/5 | 10 | 34 |
+| [Worms W.M.D.](https://psnprofiles.com/guide/9538-worms-wmd-trophy-guide) | 7/10 | 50 | 1.04% | 31,943 | 5/5 | 6 | 17 |
+| [Guilty Gear Xrd -SIGN-](https://psnprofiles.com/guide/9189-guilty-gear-xrd-sign-trophy-guide) | 7/10 | 40 | 1.09% | 16,544 | 5/5 | 6 | 12 |
+| [Call of Duty: Infinite Warfare](https://psnprofiles.com/guide/11936-call-of-duty-infinite-warfare-trophy-guide) | 7/10 | 70 | 1.13% | 75,788 | 4/5 | 22 | 69 |
+| [Paint the Town Red](https://psnprofiles.com/guide/17299-paint-the-town-red-trophy-guide) | 7/10 | 35 | 1.14% | 6,293 |  | 0 | 9 |
+| [OlliOlli World](https://psnprofiles.com/guide/14128-olliolli-world-trophy-guide) | 7/10 | 50 | 1.27% | 70,696 | 4/5 | 11 | 45 |
+| [Earth Defense Force 2: Invaders from Planet Space](https://psnprofiles.com/guide/13969-earth-defense-force-2-invaders-from-planet-space-trophy-guide) | 7/10 | 350 | 1.34% | 5,170 | 5/5 | 5 | 6 |
+| [Soulstice](https://psnprofiles.com/guide/17775-soulstice-trophy-guide) | 7/10 | 45 | 1.37% | 11,378 |  | 0 | 12 |
+| [Velocity 2X](https://psnprofiles.com/guide/5500-velocity-2x-trophy-guide) | 7/10 | 25 | 1.40% | 28,600 | 5/5 | 10 | 36 |
+| [Kerbal Space Program](https://psnprofiles.com/guide/11930-kerbal-space-program-trophy-guide) | 7/10 | 60 | 1.41% | 10,175 |  | 0 | 5 |
+| [Persona 4: Arena Ultimax](https://psnprofiles.com/guide/8734-persona-4-arena-ultimax-trophy-guide) | 7/10 | 50 | 1.42% | 57,317 | 5/5 | 10 | 46 |
+| [Until Dawn: Rush of Blood](https://psnprofiles.com/guide/5240-until-dawn-rush-of-blood-trophy-guide) | 7/10 | 10 | 1.43% | 55,792 | 5/5 | 9 | 46 |
+| [Skydive: Proximity Flight](https://psnprofiles.com/guide/3270-skydive-proximity-flight-trophy-guide) | 7/10 | 8 | 1.44% | 6,327 |  | 0 | 6 |
+| [Soulstice](https://psnprofiles.com/guide/17780-soulstice-trophy-guide) | 7/10 | 60 | 1.44% | 9,050 | 5/5 | 5 | 15 |
+| [Amplitude](https://psnprofiles.com/guide/4178-amplitude-trophy-guide) | 7/10 | 10 | 1.45% | 23,304 | 4/5 | 8 | 26 |
+| [Kane & Lynch 2: Dog Days](https://psnprofiles.com/guide/8166-kane-lynch-2-dog-days-trophy-guide) | 7/10 | 30 | 1.56% | 21,068 | 4/5 | 9 | 17 |
+| [Sword Art Online: Hollow Fragment](https://psnprofiles.com/guide/1606-sword-art-online-hollow-fragment-trophy-guide) | 7/10 | 130 | 1.63% | 96,529 | 5/5 | 23 | 166 |
+| [XCOM: Enemy Unknown Plus](https://psnprofiles.com/guide/4774-xcom-enemy-unknown-plus-trophy-guide) | 7/10 | 35 | 1.75% | 12,921 |  | 0 | 11 |
+| [Marvel vs. Capcom 3: Fate of Two Worlds](https://psnprofiles.com/guide/1933-marvel-vs-capcom-3-fate-of-two-worlds-trophy-guide) | 7/10 | 50 | 1.77% | 20,313 | 4/5 | 9 | 18 |
+| [Overwatch 2](https://psnprofiles.com/guide/4451-overwatch-2-trophy-guide) | 7/10 | 100 | 1.81% | 161,240 | 4/5 | 52 | 166 |
+| [Payday 2](https://psnprofiles.com/guide/252-payday-2-trophy-guide) | 7/10 | 75 | 1.85% | 26,229 | 4/5 | 25 | 66 |
+| [Natural Doctrine](https://psnprofiles.com/guide/2147-natural-doctrine-trophy-guide) | 7/10 | 60 | 1.87% | 21,531 | 4/5 | 8 | 40 |
+| [Rain World](https://psnprofiles.com/guide/8749-rain-world-trophy-guide) | 7/10 | 35 | 1.88% | 64,590 | 5/5 | 6 | 33 |
 | [Call of Duty: Black Ops Cold War](https://psnprofiles.com/guide/11174-call-of-duty-black-ops-cold-war-trophy-guide) | 7/10 | 70 | 1.99% | 323,677 | 4/5 | 44 | 200 |
+| [Victor Vran](https://psnprofiles.com/guide/12936-victor-vran-trophy-guide) | 7/10 | 85 | 2.05% | 28,195 | 4/5 | 9 | 11 |
+| [LittleBigPlanet Karting](https://psnprofiles.com/guide/1968-littlebigplanet-karting-trophy-guide) | 7/10 | 50 | 2.08% | 26,641 | 5/5 | 18 | 58 |
+| [Steep](https://psnprofiles.com/guide/9002-steep-trophy-guide) | 7/10 | 30 | 2.12% | 83,335 | 5/5 | 19 | 92 |
+| [KanColle Kai](https://psnprofiles.com/guide/5247-kancolle-kai-trophy-guide) | 7/10 | 200 | 2.14% | 11,728 | 5/5 | 5 | 17 |
+| [Armored Core: Verdict Day](https://psnprofiles.com/guide/13077-armored-core-verdict-day-trophy-guide) | 7/10 | 45 | 2.27% | 21,846 | 4/5 | 20 | 8 |
+| [Unreal Tournament  3](https://psnprofiles.com/guide/274-unreal-tournament-3-trophy-guide) | 7/10 | 80 | 2.28% | 10,589 | 4/5 | 6 | 11 |
+| [Ace Combat 7: Skies Unknown](https://psnprofiles.com/guide/8243-ace-combat-7-skies-unknown-trophy-guide) | 7/10 | 50 | 2.32% | 109,215 | 4/5 | 25 | 63 |
+| [Marvel's Iron Man VR](https://psnprofiles.com/guide/10494-marvels-iron-man-vr-trophy-guide) | 7/10 | 15 | 2.37% | 28,645 | 5/5 | 6 | 22 |
+| [Sports Champions 2](https://psnprofiles.com/guide/6323-sports-champions-2-trophy-guide) | 7/10 | 30 | 2.40% | 8,739 |  | 0 | 9 |
+| [Outward](https://psnprofiles.com/guide/10032-outward-trophy-guide) | 7/10 | 65 | 2.44% | 39,246 | 5/5 | 6 | 20 |
+| [El Shaddai: Ascension of the Metatron](https://psnprofiles.com/guide/13146-el-shaddai-ascension-of-the-metatron-trophy-guide) | 7/10 | 70 | 2.46% | 8,646 | 4/5 | 7 | 11 |
+| [F.E.A.R. 3](https://psnprofiles.com/guide/8045-fear-3-trophy-guide) | 7/10 | 20 | 2.50% | 28,269 | 5/5 | 9 | 24 |
+| [Catherine: Full Body](https://psnprofiles.com/guide/9061-catherine-full-body-trophy-guide) | 7/10 | 75 | 2.59% | 241,705 | 5/5 | 31 | 167 |
+| [Dirt 3](https://psnprofiles.com/guide/1450-dirt-3-trophy-guide) | 7/10 | 30 | 2.60% | 23,551 | 3/5 | 14 | 30 |
+| [Star Ocean: Till the End of Time](https://psnprofiles.com/guide/6098-star-ocean-till-the-end-of-time-trophy-guide) | 7/10 | 130 | 2.61% | 53,791 | 5/5 | 9 | 62 |
+| [Dead Nation](https://psnprofiles.com/guide/117-dead-nation-trophy-guide) | 7/10 | 20 | 2.62% | 57,479 | 4/5 | 25 | 113 |
+| [Divinity: Original Sin 2](https://psnprofiles.com/guide/8218-divinity-original-sin-2-trophy-guide) | 7/10 | 100 | 2.69% | 142,703 | 5/5 | 16 | 72 |
+| [The Bit.Trip](https://psnprofiles.com/guide/4806-the-bittrip-trophy-guide) | 7/10 | 20 | 2.78% | 18,077 | 5/5 | 9 | 13 |
+| [Ys Origin](https://psnprofiles.com/guide/6149-ys-origin-trophy-guide) | 7/10 | 85 | 2.78% | 38,505 | 4/5 | 8 | 41 |
+| [Tears to Tiara II: Heir of the Overlord](https://psnprofiles.com/guide/1847-tears-to-tiara-ii-heir-of-the-overlord-trophy-guide) | 7/10 | 120 | 2.79% | 10,802 | 5/5 | 8 | 42 |
+| [BlazBlue: Chronophantasma](https://psnprofiles.com/guide/10005-blazblue-chronophantasma-trophy-guide) | 7/10 | 20 | 2.80% | 10,448 |  | 0 | 9 |
+| [Tales of Symphonia](https://psnprofiles.com/guide/545-tales-of-symphonia-trophy-guide) | 7/10 | 150 | 2.86% | 85,315 | 4/5 | 37 | 145 |
+| [World War Z](https://psnprofiles.com/guide/10153-world-war-z-trophy-guide) | 7/10 | 150 | 2.88% | 123,617 | 5/5 | 16 | 36 |
+| [LittleBigPlanet 2](https://psnprofiles.com/guide/70-littlebigplanet-2-trophy-guide) | 7/10 | 50 | 2.96% | 39,142 | 5/5 | 20 | 99 |
+| [Thumper](https://psnprofiles.com/guide/6710-thumper-trophy-guide) | 7/10 | 20 | 3.04% | 55,344 | 5/5 | 14 | 46 |
+| [Resident Evil Revelations 2](https://psnprofiles.com/guide/2569-resident-evil-revelations-2-trophy-guide) | 7/10 | 25 | 3.10% | 119,642 | 4/5 | 32 | 145 |
+| [3D Dot Game Heroes](https://psnprofiles.com/guide/4727-3d-dot-game-heroes-trophy-guide) | 7/10 | 70 | 3.10% | 25,820 |  | 0 | 40 |
+| [Call of Duty: Black Ops Declassified](https://psnprofiles.com/guide/7769-call-of-duty-black-ops-declassified-trophy-guide) | 7/10 | 15 | 3.12% | 49,455 | 4/5 | 9 | 45 |
+| [Fantasy General II](https://psnprofiles.com/guide/18505-fantasy-general-ii-trophy-guide) | 7/10 | 100 | 3.18% | 1,501 |  | 0 | 2 |
+| [Painkiller Hell & Damnation](https://psnprofiles.com/guide/10552-painkiller-hell-damnation-trophy-guide) | 7/10 | 20 | 3.31% | 12,424 |  | 0 | 7 |
+| [Serious Sam Collection](https://psnprofiles.com/guide/16531-serious-sam-collection-trophy-guide) | 7/10 | 40 | 3.42% | 16,327 | 5/5 | 5 | 11 |
+| [Yakuza Kiwami](https://psnprofiles.com/guide/10769-yakuza-kiwami-trophy-guide) | 7/10 | 80 | 3.53% | 234,944 | 4/5 | 51 | 168 |
+| [GigaBash](https://psnprofiles.com/guide/15141-gigabash-trophy-guide) | 7/10 | 30 | 3.58% | 17,553 |  | 0 | 5 |
+| [ToeJam & Earl: Back in the Groove](https://psnprofiles.com/guide/10150-toejam-earl-back-in-the-groove-trophy-guide) | 7/10 | 30 | 3.65% | 18,613 |  | 0 | 9 |
+| [Infinite: Beyond the Mind](https://psnprofiles.com/guide/14800-infinite-beyond-the-mind-trophy-guide) | 7/10 | 20 | 3.66% | 2,397 |  | 0 | 2 |
+| [Call of Duty: Black Ops](https://psnprofiles.com/guide/1036-call-of-duty-black-ops-trophy-guide) | 7/10 | 20 | 3.68% | 131,109 | 5/5 | 40 | 161 |
+| [Nex Machina](https://psnprofiles.com/guide/10473-nex-machina-trophy-guide) | 7/10 | 30 | 3.68% | 24,128 | 5/5 | 16 | 24 |
+| [Enter The Gungeon](https://psnprofiles.com/guide/4287-enter-the-gungeon-trophy-guide) | 7/10 | 70 | 3.69% | 183,407 | 4/5 | 33 | 135 |
+| [Hyper Light Drifter](https://psnprofiles.com/guide/5417-hyper-light-drifter-trophy-guide) | 7/10 | 20 | 3.74% | 58,523 | 5/5 | 7 | 54 |
+| [Neon Abyss](https://psnprofiles.com/guide/11498-neon-abyss-trophy-guide) | 7/10 | 50 | 3.75% | 22,023 | 5/5 | 6 | 12 |
+| [Butcher](https://psnprofiles.com/guide/13532-butcher-trophy-guide) | 7/10 | 15 | 3.77% | 6,566 |  | 0 | 8 |
+| [Call of Duty: Modern Warfare 3](https://psnprofiles.com/guide/1006-call-of-duty-modern-warfare-3-trophy-guide) | 7/10 | 35 | 3.92% | 94,255 | 4/5 | 32 | 164 |
+| [Death's Gambit](https://psnprofiles.com/guide/10156-deaths-gambit-trophy-guide) | 7/10 | 25 | 3.96% | 37,281 | 5/5 | 5 | 21 |
+| [Judgment](https://psnprofiles.com/guide/14054-judgment-trophy-guide) | 7/10 | 120 | 4.06% | 31,929 | 5/5 | 10 | 36 |
+| [Hi-Fi Rush](https://psnprofiles.com/guide/19486-hi-fi-rush-trophy-guide) | 7/10 | 60 | 4.07% | 17,136 | 5/5 | 7 | 36 |
+| [Skul: The Hero Slayer](https://psnprofiles.com/guide/19412-skul-the-hero-slayer-trophy-guide) | 7/10 | 31 | 4.20% | 7,410 |  | 0 | 12 |
+| [Epic Dumpster Bear](https://psnprofiles.com/guide/10444-epic-dumpster-bear-trophy-guide) | 7/10 | 25 | 4.23% | 8,889 | 4/5 | 6 | 3 |
 | [Batman: Arkham City](https://psnprofiles.com/guide/427-batman-arkham-city-trophy-guide) | 7/10 | 60 | 4.26% | 312,272 | 5/5 | 62 | 498 |
+| [Dead Cells](https://psnprofiles.com/guide/8191-dead-cells-trophy-guide) | 7/10 | 50 | 4.43% | 200,594 | 5/5 | 15 | 148 |
+| [Cryptark](https://psnprofiles.com/guide/13728-cryptark-trophy-guide) | 7/10 | 20 | 4.46% | 4,176 |  | 0 | 5 |
+| [Yakuza 5](https://psnprofiles.com/guide/8924-yakuza-5-trophy-guide) | 7/10 | 120 | 4.48% | 151,383 | 4/5 | 12 | 75 |
+| [Until You Fall](https://psnprofiles.com/guide/19327-until-you-fall-trophy-guide) | 7/10 | 40 | 4.62% | 1,578 |  | 0 | 2 |
 | [Yakuza 0](https://psnprofiles.com/guide/5654-yakuza-0-trophy-guide) | 7/10 | 140 | 4.65% | 791,430 | 5/5 | 106 | 508 |
+| [Split/Second](https://psnprofiles.com/guide/7396-splitsecond-trophy-guide) | 7/10 | 25 | 4.69% | 26,812 | 5/5 | 9 | 20 |
 | [Baldur's Gate III](https://psnprofiles.com/guide/17598-baldurs-gate-iii-trophy-guide) | 7/10 | 120 | 4.72% | 305,661 | 5/5 | 41 | 181 |
+| [No Straight Roads](https://psnprofiles.com/guide/12494-no-straight-roads-trophy-guide) | 7/10 | 30 | 4.76% | 25,802 | 5/5 | 7 | 14 |
+| [Kingdom Hearts Re:Chain of Memories](https://psnprofiles.com/guide/552-kingdom-hearts-rechain-of-memories-trophy-guide) | 7/10 | 120 | 4.77% | 41,885 | 4/5 | 8 | 91 |
+| [Fenix Furia](https://psnprofiles.com/guide/4736-fenix-furia-trophy-guide) | 7/10 | 30 | 4.85% | 8,810 |  | 0 | 2 |
+| [Ragnarok Odyssey ACE](https://psnprofiles.com/guide/2044-ragnarok-odyssey-ace-trophy-guide) | 7/10 | 90 | 4.87% | 19,246 | 4/5 | 6 | 34 |
+| [Attack on Titan 2](https://psnprofiles.com/guide/15078-attack-on-titan-2-trophy-guide) | 7/10 | 90 | 4.90% | 22,152 | 5/5 | 5 | 25 |
+| [DJMax Respect](https://psnprofiles.com/guide/7372-djmax-respect-trophy-guide) | 7/10 | 100 | 4.92% | 37,889 | 4/5 | 7 | 31 |
+| [Duke Nukem Forever](https://psnprofiles.com/guide/2754-duke-nukem-forever-trophy-guide) | 7/10 | 30 | 4.99% | 43,495 | 5/5 | 10 | 44 |
+| [DJMax Technika Tune](https://psnprofiles.com/guide/543-djmax-technika-tune-trophy-guide) | 7/10 | 80 | 4.99% | 8,355 | 5/5 | 6 | 12 |
+| [Metal Wolf Chaos XD](https://psnprofiles.com/guide/13279-metal-wolf-chaos-xd-trophy-guide) | 7/10 | 65 | 5.06% | 11,338 | 5/5 | 6 | 10 |
+| [Ace Combat 5: The Unsung War](https://psnprofiles.com/guide/8242-ace-combat-5-the-unsung-war-trophy-guide) | 7/10 | 50 | 5.32% | 20,679 | 4/5 | 16 | 21 |
+| [Dead Nation](https://psnprofiles.com/guide/692-dead-nation-trophy-guide) | 7/10 | 15 | 5.37% | 30,957 | 5/5 | 8 | 60 |
+| [Hatsune Miku: Project DIVA X](https://psnprofiles.com/guide/4933-hatsune-miku-project-diva-x-trophy-guide) | 7/10 | 70 | 5.40% | 57,123 | 3/5 | 55 | 61 |
+| [Edge of Eternity](https://psnprofiles.com/guide/18842-edge-of-eternity-trophy-guide) | 7/10 | 90 | 5.92% | 2,916 |  | 0 | 6 |
+| [Akiba's Trip: Hellbound & Debriefed](https://psnprofiles.com/guide/12720-akibas-trip-hellbound-debriefed-trophy-guide) | 7/10 | 50 | 6.02% | 21,036 |  | 0 | 11 |
+| [Skylanders SuperChargers](https://psnprofiles.com/guide/3856-skylanders-superchargers-trophy-guide) | 7/10 | 30 | 6.13% | 17,036 | 3/5 | 9 | 13 |
+| [Kingdom Hearts Birth by Sleep](https://psnprofiles.com/guide/2089-kingdom-hearts-birth-by-sleep-trophy-guide) | 7/10 | 150 | 6.25% | 280,794 | 5/5 | 25 | 260 |
+| [Baldur's Gate](https://psnprofiles.com/guide/14504-baldurs-gate-trophy-guide) | 7/10 | 40 | 6.26% | 46,201 | 4/5 | 5 | 22 |
+| [Destiny](https://psnprofiles.com/guide/1574-destiny-trophy-guide) | 7/10 | 100 | 6.41% | 96,887 | 4/5 | 68 | 212 |
+| [Brut@l](https://psnprofiles.com/guide/11545-brutl-trophy-guide) | 7/10 | 12 | 6.51% | 5,394 |  | 0 | 3 |
+| [Berserk and the Band of the Hawk](https://psnprofiles.com/guide/5960-berserk-and-the-band-of-the-hawk-trophy-guide) | 7/10 | 60 | 6.67% | 91,707 | 5/5 | 12 | 58 |
+| [The Hong Kong Massacre](https://psnprofiles.com/guide/9526-the-hong-kong-massacre-trophy-guide) | 7/10 | 22 | 6.92% | 23,286 | 4/5 | 7 | 13 |
 | [The Witcher 3: Wild Hunt](https://psnprofiles.com/guide/2842-the-witcher-3-wild-hunt-trophy-guide) | 7/10 | 110 | 7.14% | 983,429 | 5/5 | 131 | 1,117 |
+| [The Lord of the Rings: War in the North](https://psnprofiles.com/guide/12297-the-lord-of-the-rings-war-in-the-north-trophy-guide) | 7/10 | 50 | 7.19% | 14,502 | 5/5 | 6 | 21 |
+| [Caladrius Blaze](https://psnprofiles.com/guide/5819-caladrius-blaze-trophy-guide) | 7/10 | 35 | 7.51% | 28,620 | 5/5 | 6 | 18 |
+| [Final Fantasy IX](https://psnprofiles.com/guide/7421-final-fantasy-ix-trophy-guide) | 7/10 | 80 | 7.54% | 264,939 | 4/5 | 41 | 205 |
+| [Valfaris](https://psnprofiles.com/guide/9311-valfaris-trophy-guide) | 7/10 | 15 | 7.60% | 25,087 | 5/5 | 8 | 15 |
+| [お姉チャンバラZ～カグラ～ With NoNoNo!](https://psnprofiles.com/guide/16391-%E3%81%8A%E5%A7%89%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%A9z%E3%82%AB%E3%82%B0%E3%83%A9-with-nonono-trophy-guide) | 7/10 | 50 | 7.69% | 1,848 |  | 0 | 3 |
+| [Tom Clancy's Splinter Cell](https://psnprofiles.com/guide/1549-tom-clancys-splinter-cell-trophy-guide) | 7/10 | 20 | 7.95% | 11,773 | 5/5 | 5 | 20 |
+| [Axiom Verge](https://psnprofiles.com/guide/4063-axiom-verge-trophy-guide) | 7/10 | 20 | 8.02% | 48,277 | 5/5 | 7 | 49 |
+| [Will You Snail](https://psnprofiles.com/guide/14185-will-you-snail-trophy-guide) | 7/10 | 30 | 8.55% | 3,974 |  | 0 | 4 |
+| [Resident Evil Revelations](https://psnprofiles.com/guide/6398-resident-evil-revelations-trophy-guide) | 7/10 | 75 | 8.78% | 102,955 | 4/5 | 13 | 64 |
+| [Crash Bandicoot](https://psnprofiles.com/guide/6185-crash-bandicoot-trophy-guide) | 7/10 | 18 | 8.90% | 259,628 | 5/5 | 79 | 378 |
+| [Snake Pass](https://psnprofiles.com/guide/11731-snake-pass-trophy-guide) | 7/10 | 20 | 8.93% | 12,886 |  | 0 | 7 |
 | [Gran Turismo 7](https://psnprofiles.com/guide/14018-gran-turismo-7-trophy-guide) | 7/10 | 90 | 9.37% | 322,178 | 5/5 | 60 | 190 |
+| [Tom Clancy's Splinter Cell Chaos Theory](https://psnprofiles.com/guide/3501-tom-clancys-splinter-cell-chaos-theory-trophy-guide) | 7/10 | 30 | 9.40% | 24,370 | 5/5 | 7 | 32 |
+| [Tomb Raider II](https://psnprofiles.com/guide/18830-tomb-raider-ii-trophy-guide) | 7/10 | 30 | 9.41% | 19,326 | 5/5 | 12 | 9 |
+| [Baldur's Gate II](https://psnprofiles.com/guide/14533-baldurs-gate-ii-trophy-guide) | 7/10 | 90 | 10.17% | 20,910 |  | 0 | 16 |
+| [Ruiner](https://psnprofiles.com/guide/6539-ruiner-trophy-guide) | 7/10 | 10 | 10.24% | 39,438 | 4/5 | 16 | 34 |
+| [The Witcher 3: Wild Hunt – Game of the Year Edition](https://psnprofiles.com/guide/6610-the-witcher-3-wild-hunt-game-of-the-year-edition-trophy-guide) | 7/10 | 110 | 10.31% | 200,860 | 5/5 | 49 | 326 |
+| [Spec Ops: The Line](https://psnprofiles.com/guide/4325-spec-ops-the-line-trophy-guide) | 7/10 | 15 | 10.42% | 58,854 | 4/5 | 20 | 82 |
+| [永远消失的幻想乡 ～ The Disappearing of Gensokyo](https://psnprofiles.com/guide/14134-%E6%B0%B8%E8%BF%9C%E6%B6%88%E5%A4%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E4%B9%A1-the-disappearing-of-gensokyo-trophy-guide) | 7/10 | 25 | 10.64% | 2,581 |  | 0 | 0 |
+| [STAY](https://psnprofiles.com/guide/7976-stay-trophy-guide) | 7/10 | 10 | 10.71% | 24,186 |  | 0 | 11 |
+| [htoL#NiQ: The Firefly Diary](https://psnprofiles.com/guide/2461-htolniq-the-firefly-diary-trophy-guide) | 7/10 | 10 | 10.89% | 16,367 | 5/5 | 9 | 29 |
+| [One Step From Eden](https://psnprofiles.com/guide/14151-one-step-from-eden-trophy-guide) | 7/10 | 35 | 11.09% | 7,263 |  | 0 | 4 |
+| [Blasphemous](https://psnprofiles.com/guide/9115-blasphemous-trophy-guide) | 7/10 | 20 | 11.69% | 246,908 | 4/5 | 38 | 137 |
+| [Bastion](https://psnprofiles.com/guide/2871-bastion-trophy-guide) | 7/10 | 13 | 12.35% | 77,670 | 4/5 | 37 | 153 |
+| [Deemo Reborn](https://psnprofiles.com/guide/9396-deemo-reborn-trophy-guide) | 7/10 | 20 | 13.89% | 22,958 |  | 0 | 13 |
+| [Asterix & Obelix XXL](https://psnprofiles.com/guide/11113-asterix-obelix-xxl-trophy-guide) | 7/10 | 20 | 14.97% | 26,203 | 5/5 | 6 | 8 |
+| [Bill and Ted's Excellent Retro Collection](https://psnprofiles.com/guide/16377-bill-and-teds-excellent-retro-collection-trophy-guide) | 7/10 | 10 | 15.69% | 3,085 |  | 0 | 2 |
+| [Cuphead](https://psnprofiles.com/guide/10624-cuphead-trophy-guide) | 7/10 | 30 | 16.62% | 234,338 | 5/5 | 58 | 204 |
+| [Infinity Runner](https://psnprofiles.com/guide/3139-infinity-runner-trophy-guide) | 7/10 | 12 | 17.42% | 11,512 | 4/5 | 6 | 18 |
+| [Conan Exiles](https://psnprofiles.com/guide/7501-conan-exiles-trophy-guide) | 7/10 | 50 | 19.71% | 157,920 | 4/5 | 16 | 79 |
 | [Demon's Souls](https://psnprofiles.com/guide/11225-demons-souls-trophy-guide) | 7/10 | 40 | 21.71% | 725,952 | 5/5 | 161 | 498 |
 | [Bloodborne](https://psnprofiles.com/guide/2603-bloodborne-trophy-guide) | 7/10 | 50 | 21.74% | 817,159 | 5/5 | 204 | 1,113 |
 | [Sekiro: Shadows Die Twice](https://psnprofiles.com/guide/8525-sekiro-shadows-die-twice-trophy-guide) | 7/10 | 60 | 27.98% | 518,252 | 5/5 | 112 | 412 |
+| [Elden Ring](https://psnprofiles.com/guide/13983-elden-ring-trophy-guide) | 7/10 | 80 | 33.32% | 249,313 | 5/5 | 54 | 277 |
+| [Deep Black](https://psnprofiles.com/guide/7506-deep-black-trophy-guide) | 7/10 | 10 | 48.41% | 5,381 |  | 0 | 8 |
+| [Ender Lilies: Quietus of the Knights](https://psnprofiles.com/guide/14695-ender-lilies-quietus-of-the-knights-trophy-guide) | 7/10 | 25 | 55.62% | 33,977 | 4/5 | 9 | 27 |
+| [DJMax Respect](https://psnprofiles.com/guide/11402-djmax-respect-chunithm-dlc-trophy-guide) | 7/10 | 2 |  | 3,894 |  | 0 | 0 |
+| [Resident Evil 2](https://psnprofiles.com/guide/8390-resident-evil-2-the-ghost-survivors-dlc-trophy-guide) | 7/10 | 2 |  | 64,698 | 5/5 | 18 | 26 |
+| [Dying Light](https://psnprofiles.com/guide/5958-dying-light-parkour-fever-dlc-trophy-guide) | 7/10 | 2 |  | 36,926 | 5/5 | 14 | 24 |
+| [Dead Cells](https://psnprofiles.com/guide/14125-dead-cells-the-bank-dlc-trophy-guide) | 7/10 | 3 |  | 9,401 |  | 0 | 3 |
+| [DJMax Respect](https://psnprofiles.com/guide/12084-djmax-respect-portable-3-dlc-trophy-guide) | 7/10 | 3 |  | 2,799 |  | 0 | 0 |
+| [Enter The Gungeon](https://psnprofiles.com/guide/5702-enter-the-gungeon-the-supply-drop-update-dlc-trophy-guide) | 7/10 | 4 |  | 26,160 | 5/5 | 5 | 11 |
+| [Metal Gear Rising: Revengeance](https://psnprofiles.com/guide/635-metal-gear-rising-revengeance-sams-side-story-dlc-trophy-guide) | 7/10 | 4 |  | 14,844 | 4/5 | 12 | 20 |
+| [Dead Cells](https://psnprofiles.com/guide/14033-dead-cells-derelict-distillery-dlc-trophy-guide) | 7/10 | 5 |  | 7,817 |  | 0 | 3 |
+| [Dead Cells](https://psnprofiles.com/guide/13963-dead-cells-rise-of-the-giant-1-dlc-trophy-guide) | 7/10 | 5 |  | 10,452 |  | 0 | 3 |
+| [Kung Fury: Street Rage](https://psnprofiles.com/guide/3200-kung-fury-street-rage-trophy-guide) | 7/10 | 5 |  | 8,527 |  | 0 | 13 |
+| [Carnival Games VR](https://psnprofiles.com/guide/13974-carnival-games-vr-alley-adventure-dlc-trophy-guide) | 7/10 | 5 |  | 1,271 |  | 0 | 1 |
+| [Dead Cells](https://psnprofiles.com/guide/13997-dead-cells-rise-of-the-giant-2-dlc-trophy-guide) | 7/10 | 5 |  | 7,863 |  | 0 | 3 |
+| [Broforce](https://psnprofiles.com/guide/4299-broforce-trophy-guide) | 7/10 | 6 |  | 62,971 | 4/5 | 20 | 76 |
+| [Call of Duty: Ghosts](https://psnprofiles.com/guide/1260-call-of-duty-ghosts-call-of-duty-ghosts-onslaught-dlc-trophy-guide) | 7/10 | 6 |  | 19,602 | 5/5 | 8 | 14 |
+| [Outlast](https://psnprofiles.com/guide/8-outlast-trophy-guide) | 7/10 | 7 |  | 81,453 | 4/5 | 24 | 148 |
+| [Five Nights at Freddy's 4](https://psnprofiles.com/guide/10557-five-nights-at-freddys-4-trophy-guide) | 7/10 | 7 |  | 28,579 | 5/5 | 5 | 9 |
+| [Kung Fu Rider](https://psnprofiles.com/guide/17048-kung-fu-rider-trophy-guide) | 7/10 | 8 |  | 1,540 |  | 0 | 2 |
+| [Tharsis](https://psnprofiles.com/guide/5507-tharsis-trophy-guide) | 7/10 | 8 |  | 6,266 |  | 0 | 11 |
+| [Dead Cells](https://psnprofiles.com/guide/14034-dead-cells-the-bad-seed-dlc-trophy-guide) | 7/10 | 10 |  | 8,649 |  | 0 | 3 |
+| [Dead Cells](https://psnprofiles.com/guide/14019-dead-cells-rise-of-the-giant-3-dlc-trophy-guide) | 7/10 | 10 |  | 7,973 |  | 0 | 5 |
+| [Racket Fury: Table Tennis VR](https://psnprofiles.com/guide/18190-racket-fury-table-tennis-vr-trophy-guide) | 7/10 | 10 |  | 1,124 |  | 0 | 3 |
+| [Deep Rock Galactic](https://psnprofiles.com/guide/13607-deep-rock-galactic-missions-dlc-trophy-guide) | 7/10 | 10 |  | 8,915 |  | 0 | 3 |
+| [Need for Speed: Hot Pursuit](https://psnprofiles.com/guide/7350-need-for-speed-hot-pursuit-super-sports-dlc-trophy-guide) | 7/10 | 10 |  | 14,680 | 5/5 | 5 | 9 |
+| [Dead Cells](https://psnprofiles.com/guide/14037-dead-cells-fatal-falls-dlc-trophy-guide) | 7/10 | 10 |  | 8,870 |  | 0 | 3 |
+| [Persona 4: Arena Ultimax](https://psnprofiles.com/guide/16390-persona-4-arena-ultimax-additional-trophy-group-marie-dlc-trophy-guide) | 7/10 | 10 |  | 2,333 |  | 0 | 4 |
+| [KickBeat](https://psnprofiles.com/guide/1757-kickbeat-trophy-guide) | 7/10 | 10 |  | 6,329 |  | 0 | 13 |
+| [Call of Duty: Black Ops II](https://psnprofiles.com/guide/2717-call-of-duty-black-ops-ii-apocalypse-dlc-trophy-guide) | 7/10 | 10 |  | 11,942 | 4/5 | 9 | 11 |
+| [Metro: Last Light](https://psnprofiles.com/guide/15696-metro-last-light-ranger-mode-dlc-trophy-guide) | 7/10 | 10 |  | 1,836 |  | 0 | 1 |
+| [Batman: Arkham Knight](https://psnprofiles.com/guide/5285-batman-arkham-knight-community-challenge-dlc-trophy-guide) | 7/10 | 10 |  | 54,821 | 5/5 | 19 | 47 |
+| [Call of Duty: Black Ops III](https://psnprofiles.com/guide/7401-call-of-duty-black-ops-iii-awakening-dlc-trophy-guide) | 7/10 | 10 |  | 33,707 | 5/5 | 5 | 11 |
+| [Dead Cells](https://psnprofiles.com/guide/16302-dead-cells-return-to-castlevania-dlc-trophy-guide) | 7/10 | 10 |  | 9,297 |  | 0 | 7 |
+| [Rage 2](https://psnprofiles.com/guide/10602-rage-2-new-game-dlc-trophy-guide) | 7/10 | 10 |  | 16,316 |  | 0 | 7 |
+| [KickBeat](https://psnprofiles.com/guide/1758-kickbeat-trophy-guide) | 7/10 | 10 |  | 3,332 |  | 0 | 7 |
+| [Naughty Bear](https://psnprofiles.com/guide/10463-naughty-bear-episode-10-the-horrible-vampiricorn-dlc-trophy-guide) | 7/10 | 10 |  | 5,518 |  | 0 | 1 |
+| [Fu'un Super Combo](https://psnprofiles.com/guide/12207-fuun-super-combo-trophy-guide) | 7/10 | 10 |  | 3,521 |  | 0 | 6 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/7815-final-fantasy-xv-royal-dlc-trophy-guide) | 7/10 | 12 |  | 104,080 | 4/5 | 9 | 47 |
+| [Nioh](https://psnprofiles.com/guide/8431-nioh-defiant-honor-dlc-trophy-guide) | 7/10 | 15 |  | 51,201 | 5/5 | 9 | 28 |
+| [Bloodborne](https://psnprofiles.com/guide/3607-bloodborne-the-old-hunters-dlc-trophy-guide) | 7/10 | 15 |  | 161,372 | 4/5 | 45 | 116 |
+| [Okinawa Rush](https://psnprofiles.com/guide/14293-okinawa-rush-trophy-guide) | 7/10 | 15 |  | 4,083 |  | 0 | 2 |
+| [Need for Speed: Most Wanted](https://psnprofiles.com/guide/994-need-for-speed-most-wanted-ultimate-speed-dlc-trophy-guide) | 7/10 | 15 |  | 26,755 | 5/5 | 10 | 17 |
+| [Resident Evil 7: Biohazard](https://psnprofiles.com/guide/7616-resident-evil-7-biohazard-banned-footage-vol-1-dlc-trophy-guide) | 7/10 | 15 |  | 70,377 | 4/5 | 26 | 34 |
+| [Call of Duty: WWII](https://psnprofiles.com/guide/11628-call-of-duty-wwii-the-resistance-dlc-trophy-guide) | 7/10 | 15 |  | 15,463 | 5/5 | 8 | 6 |
+| [Carnival Games VR](https://psnprofiles.com/guide/13966-carnival-games-vr-trophy-guide) | 7/10 | 15 |  | 4,294 |  | 0 | 3 |
+| [Ninja Senki DX](https://psnprofiles.com/guide/6017-ninja-senki-dx-trophy-guide) | 7/10 | 15 |  | 15,310 | 5/5 | 6 | 19 |
+| [The King of Fighters 2002 Unlimited Match](https://psnprofiles.com/guide/11667-the-king-of-fighters-2002-unlimited-match-trophy-guide) | 7/10 | 15 |  | 6,364 |  | 0 | 5 |
+| [Jet Set Radio](https://psnprofiles.com/guide/18386-jet-set-radio-trophy-guide) | 7/10 | 15 |  | 2,650 |  | 0 | 2 |
+| [Nioh 2](https://psnprofiles.com/guide/11066-nioh-2-darkness-in-the-capital-dlc-trophy-guide) | 7/10 | 15 |  | 47,763 | 4/5 | 8 | 15 |
+| [Gravity Crash](https://psnprofiles.com/guide/1269-gravity-crash-trophy-guide) | 7/10 | 15 |  | 4,819 |  | 0 | 1 |
+| [Bejeweled 3](https://psnprofiles.com/guide/18879-bejeweled-3-trophy-guide) | 7/10 | 16 |  | 1,650 |  | 0 | 2 |
+| [Muramasa Rebirth](https://psnprofiles.com/guide/6582-muramasa-rebirth-fishy-tales-of-the-nekomata-dlc-trophy-guide) | 7/10 | 17 |  | 11,496 | 5/5 | 6 | 11 |
+| [Guilty Gear XX Λ Core Plus](https://psnprofiles.com/guide/9165-guilty-gear-xx-%CE%BB-core-plus-trophy-guide) | 7/10 | 17 |  | 8,436 |  | 0 | 8 |
+| [Muramasa Rebirth](https://psnprofiles.com/guide/6603-muramasa-rebirth-a-spirited-seven-nights-haunting-dlc-trophy-guide) | 7/10 | 18 |  | 7,757 |  | 0 | 13 |
+| [Far Cry 5](https://psnprofiles.com/guide/7779-far-cry-5-new-game-dlc-trophy-guide) | 7/10 | 20 |  | 39,266 | 5/5 | 10 | 25 |
+| [Ni no Kuni II: Revenant Kingdom](https://psnprofiles.com/guide/8884-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome-dlc-trophy-guide) | 7/10 | 20 |  | 73,064 | 5/5 | 7 | 13 |
+| [Nioh](https://psnprofiles.com/guide/8436-nioh-bloodsheds-end-dlc-trophy-guide) | 7/10 | 20 |  | 45,908 | 5/5 | 13 | 29 |
+| [Age of Wonders: Planetfall](https://psnprofiles.com/guide/16732-age-of-wonders-planetfall-invasions-dlc-trophy-guide) | 7/10 | 20 |  | 1,692 |  | 0 | 0 |
+| [Dead Cells](https://psnprofiles.com/guide/14041-dead-cells-the-queen-and-the-sea-dlc-trophy-guide) | 7/10 | 20 |  | 10,671 |  | 0 | 4 |
+| [Dante's Inferno](https://psnprofiles.com/guide/623-dantes-inferno-trials-of-st-lucia-dlc-trophy-guide) | 7/10 | 20 |  | 25,438 | 4/5 | 15 | 21 |
+| [Vertical Drop Heroes HD](https://psnprofiles.com/guide/15037-vertical-drop-heroes-hd-trophy-guide) | 7/10 | 20 |  | 1,689 |  | 0 | 0 |
+| [Neon Drive](https://psnprofiles.com/guide/6330-neon-drive-trophy-guide) | 7/10 | 20 |  | 6,381 | 4/5 | 6 | 3 |
+| [Sonic The Hedgehog 4: Episode I](https://psnprofiles.com/guide/312-sonic-the-hedgehog-4-episode-i-trophy-guide) | 7/10 | 20 |  | 12,967 |  | 0 | 11 |
+| [Action Henk](https://psnprofiles.com/guide/9648-action-henk-trophy-guide) | 7/10 | 25 |  | 14,482 |  | 0 | 5 |
+| [Shovel Knight: Treasure Trove](https://psnprofiles.com/guide/3348-shovel-knight-treasure-trove-plague-of-shadows-dlc-trophy-guide) | 7/10 | 25 |  | 15,634 | 5/5 | 6 | 15 |
+| [Call of Juarez: Gunslinger](https://psnprofiles.com/guide/2965-call-of-juarez-gunslinger-trophy-guide) | 7/10 | 25 |  | 18,489 | 4/5 | 7 | 40 |
+| [Kingdom Come: Deliverance](https://psnprofiles.com/guide/8350-kingdom-come-deliverance-hardcore-mode-dlc-trophy-guide) | 7/10 | 25 |  | 25,072 | 4/5 | 5 | 9 |
+| [Worldless](https://psnprofiles.com/guide/18198-worldless-trophy-guide) | 7/10 | 30 |  | 8,459 |  | 0 | 2 |
+| [Rocksmith](https://psnprofiles.com/guide/5833-rocksmith-bass-expansion-dlc-trophy-guide) | 7/10 | 30 |  | 2,928 |  | 0 | 2 |
+| [Nioh](https://psnprofiles.com/guide/8421-nioh-dragon-of-the-north-dlc-trophy-guide) | 7/10 | 30 |  | 56,938 | 5/5 | 12 | 30 |
+| [Nioh 2](https://psnprofiles.com/guide/10615-nioh-2-the-tengus-disciple-dlc-trophy-guide) | 7/10 | 35 |  | 54,430 | 4/5 | 10 | 16 |
+| [Tomb Raider I-III Remastered](https://psnprofiles.com/guide/18980-tomb-raider-i-iii-remastered-tomb-raider-i-dlc-trophy-guide) | 7/10 | 35 |  | 6,733 |  | 0 | 8 |
+| [Planets Under Attack](https://psnprofiles.com/guide/16976-planets-under-attack-trophy-guide) | 7/10 | 40 |  | 1,295 |  | 0 | 3 |
+| [Lies of P](https://psnprofiles.com/guide/17643-lies-of-p-trophy-guide) | 7/10 | 50 |  | 181,688 | 5/5 | 37 | 116 |
+| [Spelunky](https://psnprofiles.com/guide/14378-spelunky-trophy-guide) | 7/10 | 50 |  | 11,629 | 5/5 | 8 | 12 |
+| [Knights of Valour](https://psnprofiles.com/guide/8788-knights-of-valour-trophy-guide) | 7/10 | 50 |  | 8,777 | 5/5 | 5 | 6 |
+| [Ecolibrium](https://psnprofiles.com/guide/987-ecolibrium-trophy-guide) | 7/10 | 50 |  | 6,680 |  | 0 | 17 |
+| [Hustle Kings](https://psnprofiles.com/guide/3580-hustle-kings-trophy-guide) | 7/10 | 50 |  | 19,768 |  | 0 | 23 |
+| [Uncharted 4: A Thief's End](https://psnprofiles.com/guide/7438-uncharted-4-a-thiefs-end-uncharted-4-survival-dlc-trophy-guide) | 7/10 | 70 |  | 90,128 | 5/5 | 34 | 90 |
+| [Genshin Impact](https://psnprofiles.com/guide/12733-genshin-impact-trophy-guide) | 7/10 | 200 |  | 102,648 | 4/5 | 16 | 61 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/12669-final-fantasy-xiv-heavensward-dlc-trophy-guide) | 7/10 | 999 |  | 17,536 | 5/5 | 6 | 18 |
+| [Gonner 2](https://psnprofiles.com/guide/11426-gonner-2-trophy-guide) | 8/10 | 15 | 0.00% | 5,327 |  | 0 | 3 |
+| [NBA 2K16](https://psnprofiles.com/guide/4459-nba-2k16-trophy-guide) | 8/10 | 400 | 0.02% | 43,243 | 5/5 | 10 | 51 |
+| [Badland](https://psnprofiles.com/guide/13661-badland-trophy-guide) | 8/10 | 100 | 0.07% | 19,790 | 4/5 | 14 | 18 |
+| [Rock Band 3](https://psnprofiles.com/guide/6455-rock-band-3-trophy-guide) | 8/10 | 70 | 0.21% | 10,745 | 5/5 | 5 | 5 |
+| [MLB The Show 19](https://psnprofiles.com/guide/8798-mlb-the-show-19-trophy-guide) | 8/10 | 150 | 0.30% | 69,196 | 3/5 | 18 | 30 |
+| [DJ Hero 2](https://psnprofiles.com/guide/8372-dj-hero-2-trophy-guide) | 8/10 | 80 | 0.31% | 6,532 |  | 0 | 5 |
+| [The Finals](https://psnprofiles.com/guide/18223-the-finals-trophy-guide) | 8/10 | 750 | 0.31% | 30,904 | 3/5 | 47 | 22 |
+| [DJ Hero](https://psnprofiles.com/guide/1209-dj-hero-trophy-guide) | 8/10 | 40 | 0.36% | 8,796 |  | 0 | 8 |
+| [Battlezone](https://psnprofiles.com/guide/5794-battlezone-trophy-guide) | 8/10 | 250 | 0.36% | 11,942 |  | 0 | 7 |
+| [Stride](https://psnprofiles.com/guide/14115-stride-trophy-guide) | 8/10 | 15 | 0.46% | 3,786 |  | 0 | 6 |
+| [Nuclear Throne](https://psnprofiles.com/guide/11542-nuclear-throne-trophy-guide) | 8/10 | 200 | 0.57% | 17,915 | 5/5 | 11 | 14 |
+| [R.U.S.E.](https://psnprofiles.com/guide/258-ruse-trophy-guide) | 8/10 | 80 | 0.58% | 11,754 | 3/5 | 12 | 16 |
+| [Surgeon Simulator](https://psnprofiles.com/guide/1445-surgeon-simulator-trophy-guide) | 8/10 | 25 | 0.61% | 61,822 | 4/5 | 18 | 84 |
+| [OlliOlli2](https://psnprofiles.com/guide/3742-olliolli2-trophy-guide) | 8/10 | 35 | 0.64% | 36,194 | 5/5 | 9 | 57 |
+| [Warface](https://psnprofiles.com/guide/10204-warface-trophy-guide) | 8/10 | 120 | 0.65% | 41,538 | 4/5 | 15 | 26 |
+| [Earth Defense Force 2025](https://psnprofiles.com/guide/6188-earth-defense-force-2025-trophy-guide) | 8/10 | 400 | 0.67% | 19,078 |  | 0 | 13 |
+| [Bound](https://psnprofiles.com/guide/4873-bound-trophy-guide) | 8/10 | 40 | 0.70% | 96,404 | 4/5 | 19 | 72 |
+| [Just Dance 2017](https://psnprofiles.com/guide/10616-just-dance-2017-trophy-guide) | 8/10 | 50 | 0.70% | 13,778 | 5/5 | 7 | 4 |
+| [Crawl](https://psnprofiles.com/guide/13020-crawl-trophy-guide) | 8/10 | 50 | 0.73% | 6,721 |  | 0 | 9 |
+| [F1 23](https://psnprofiles.com/guide/17179-f1-23-trophy-guide) | 8/10 | 70 | 0.74% | 75,171 | 5/5 | 10 | 33 |
+| [Call of Duty: Black Ops III](https://psnprofiles.com/guide/3557-call-of-duty-black-ops-iii-trophy-guide) | 8/10 | 100 | 0.76% | 236,105 | 5/5 | 62 | 341 |
+| [Ridge Racer Unbounded](https://psnprofiles.com/guide/616-ridge-racer-unbounded-trophy-guide) | 8/10 | 40 | 0.77% | 9,493 |  | 0 | 5 |
+| [Deep Rock Galactic](https://psnprofiles.com/guide/13566-deep-rock-galactic-trophy-guide) | 8/10 | 300 | 0.79% | 70,474 | 5/5 | 33 | 68 |
+| [Max Payne 3](https://psnprofiles.com/guide/1210-max-payne-3-trophy-guide) | 8/10 | 70 | 0.80% | 85,146 | 4/5 | 29 | 82 |
+| [Hot Shots Golf: World Invitational](https://psnprofiles.com/guide/7082-hot-shots-golf-world-invitational-trophy-guide) | 8/10 | 40 | 0.81% | 11,909 |  | 0 | 8 |
+| [Test Drive Unlimited 2](https://psnprofiles.com/guide/1985-test-drive-unlimited-2-trophy-guide) | 8/10 | 100 | 0.83% | 13,865 | 5/5 | 6 | 16 |
+| [Warhammer: Vermintide 2](https://psnprofiles.com/guide/13649-warhammer-vermintide-2-trophy-guide) | 8/10 | 200 | 0.88% | 30,023 | 5/5 | 5 | 17 |
+| [Atari Flashback Classics Volume 1](https://psnprofiles.com/guide/11100-atari-flashback-classics-volume-1-trophy-guide) | 8/10 | 20 | 0.95% | 20,400 | 5/5 | 5 | 7 |
+| [Grand Theft Auto IV](https://psnprofiles.com/guide/1097-grand-theft-auto-iv-trophy-guide) | 8/10 | 70 | 0.95% | 201,406 | 5/5 | 69 | 235 |
+| [The Crew](https://psnprofiles.com/guide/2450-the-crew-trophy-guide) | 8/10 | 140 | 0.99% | 89,616 | 5/5 | 19 | 99 |
+| [Dreadnought](https://psnprofiles.com/guide/16013-dreadnought-trophy-guide) | 8/10 | 200 | 1.00% | 7,121 |  | 0 | 4 |
+| [Midnight Club: Los Angeles](https://psnprofiles.com/guide/763-midnight-club-los-angeles-trophy-guide) | 8/10 | 50 | 1.04% | 30,409 | 5/5 | 13 | 29 |
+| [Call of Duty: Black Ops II](https://psnprofiles.com/guide/1135-call-of-duty-black-ops-ii-trophy-guide) | 8/10 | 45 | 1.06% | 91,392 | 4/5 | 23 | 104 |
+| [Need for Speed: Shift 2 Unleashed](https://psnprofiles.com/guide/1132-need-for-speed-shift-2-unleashed-trophy-guide) | 8/10 | 55 | 1.08% | 29,357 | 5/5 | 9 | 33 |
+| [Ace Combat Assault Horizon](https://psnprofiles.com/guide/3218-ace-combat-assault-horizon-trophy-guide) | 8/10 | 80 | 1.13% | 14,887 | 5/5 | 5 | 16 |
+| [WipEout Omega Collection](https://psnprofiles.com/guide/8321-wipeout-omega-collection-trophy-guide) | 8/10 | 35 | 1.14% | 83,948 | 4/5 | 21 | 56 |
+| [WipEout 2048](https://psnprofiles.com/guide/2578-wipeout-2048-trophy-guide) | 8/10 | 50 | 1.17% | 18,893 | 5/5 | 6 | 38 |
+| [Rock Band 4](https://psnprofiles.com/guide/4587-rock-band-4-trophy-guide) | 8/10 | 60 | 1.20% | 27,925 | 4/5 | 10 | 17 |
+| [Deception IV: Blood Ties](https://psnprofiles.com/guide/10344-deception-iv-blood-ties-trophy-guide) | 8/10 | 80 | 1.20% | 16,505 |  | 0 | 15 |
+| [Pac-Man Championship Edition 2](https://psnprofiles.com/guide/8323-pac-man-championship-edition-2-trophy-guide) | 8/10 | 30 | 1.25% | 55,305 | 5/5 | 12 | 30 |
+| [Disgaea 4: A Promise Unforgotten](https://psnprofiles.com/guide/1650-disgaea-4-a-promise-unforgotten-trophy-guide) | 8/10 | 200 | 1.26% | 37,592 | 4/5 | 6 | 42 |
+| [Sonic & All-Stars Racing Transformed](https://psnprofiles.com/guide/1202-sonic-all-stars-racing-transformed-trophy-guide) | 8/10 | 25 | 1.28% | 44,986 | 4/5 | 14 | 58 |
+| [Ninja Gaiden 3](https://psnprofiles.com/guide/3091-ninja-gaiden-3-trophy-guide) | 8/10 | 70 | 1.32% | 27,599 | 5/5 | 7 | 25 |
+| [Warhammer: End Times - Vermintide](https://psnprofiles.com/guide/14669-warhammer-end-times-vermintide-trophy-guide) | 8/10 | 100 | 1.33% | 9,946 | 4/5 | 11 | 6 |
+| [Wuppo](https://psnprofiles.com/guide/12117-wuppo-trophy-guide) | 8/10 | 35 | 1.38% | 17,342 | 5/5 | 6 | 18 |
+| [Outlast 2](https://psnprofiles.com/guide/6571-outlast-2-trophy-guide) | 8/10 | 25 | 1.39% | 104,143 | 5/5 | 16 | 86 |
+| [Dirt Rally](https://psnprofiles.com/guide/9413-dirt-rally-trophy-guide) | 8/10 | 70 | 1.44% | 32,180 | 4/5 | 11 | 18 |
+| [Payday 2: Crimewave Edition](https://psnprofiles.com/guide/5586-payday-2-crimewave-edition-trophy-guide) | 8/10 | 30 | 1.46% | 34,905 | 4/5 | 17 | 37 |
+| [NASCAR The Game: Inside Line](https://psnprofiles.com/guide/476-nascar-the-game-inside-line-trophy-guide) | 8/10 | 70 | 1.47% | 6,790 | 5/5 | 6 | 6 |
+| [Blur](https://psnprofiles.com/guide/1173-blur-trophy-guide) | 8/10 | 65 | 1.48% | 28,749 | 5/5 | 6 | 26 |
+| [Unravel Two](https://psnprofiles.com/guide/9352-unravel-two-trophy-guide) | 8/10 | 20 | 1.51% | 75,552 | 5/5 | 16 | 68 |
+| [Medal of Honor Warfighter](https://psnprofiles.com/guide/148-medal-of-honor-warfighter-trophy-guide) | 8/10 | 80 | 1.52% | 38,294 | 4/5 | 18 | 52 |
+| [Lumines](https://psnprofiles.com/guide/18240-lumines-trophy-guide) | 8/10 | 75 | 1.59% | 3,074 |  | 0 | 4 |
+| [Rock Band 4](https://psnprofiles.com/guide/4705-rock-band-4-trophy-guide) | 8/10 | 60 | 1.62% | 11,867 |  | 0 | 8 |
+| [Toukiden: Kiwami](https://psnprofiles.com/guide/3115-toukiden-kiwami-trophy-guide) | 8/10 | 200 | 1.62% | 60,064 | 5/5 | 20 | 62 |
+| [EarthNight](https://psnprofiles.com/guide/12419-earthnight-trophy-guide) | 8/10 | 40 | 1.73% | 7,692 |  | 0 | 5 |
+| [Death Road to Canada](https://psnprofiles.com/guide/8547-death-road-to-canada-trophy-guide) | 8/10 | 60 | 1.73% | 18,875 | 5/5 | 6 | 16 |
+| [XCOM: Enemy Unknown Plus](https://psnprofiles.com/guide/4841-xcom-enemy-unknown-plus-trophy-guide) | 8/10 | 45 | 1.75% | 19,946 |  | 0 | 18 |
+| [Furi](https://psnprofiles.com/guide/4650-furi-trophy-guide) | 8/10 | 20 | 1.77% | 24,324 | 4/5 | 15 | 39 |
+| [Furi](https://psnprofiles.com/guide/4677-furi-trophy-guide) | 8/10 | 25 | 1.77% | 63,922 | 4/5 | 34 | 84 |
+| [Superbeat: Xonic](https://psnprofiles.com/guide/3568-superbeat-xonic-trophy-guide) | 8/10 | 50 | 1.77% | 26,331 | 5/5 | 6 | 26 |
+| [BlazBlue: Chronophantasma Extend](https://psnprofiles.com/guide/14143-blazblue-chronophantasma-extend-trophy-guide) | 8/10 | 60 | 1.77% | 10,168 |  | 0 | 5 |
+| [Hot Shots Golf: World Invitational](https://psnprofiles.com/guide/4713-hot-shots-golf-world-invitational-trophy-guide) | 8/10 | 40 | 1.78% | 16,824 | 4/5 | 6 | 13 |
+| [A Pixel Story](https://psnprofiles.com/guide/12314-a-pixel-story-trophy-guide) | 8/10 | 40 | 1.85% | 10,150 |  | 0 | 6 |
+| [Killzone 2](https://psnprofiles.com/guide/1538-killzone-2-trophy-guide) | 8/10 | 50 | 1.87% | 44,935 | 5/5 | 14 | 63 |
+| [Left Alive](https://psnprofiles.com/guide/13071-left-alive-trophy-guide) | 8/10 | 70 | 1.99% | 24,643 | 5/5 | 6 | 12 |
+| [Agarest: Generations of War Zero](https://psnprofiles.com/guide/2455-agarest-generations-of-war-zero-trophy-guide) | 8/10 | 175 | 2.04% | 14,171 | 5/5 | 5 | 26 |
+| [GWENT: The Witcher Card Game](https://psnprofiles.com/guide/8865-gwent-the-witcher-card-game-trophy-guide) | 8/10 | 70 | 2.09% | 34,010 | 5/5 | 7 | 22 |
+| [Trials of the Blood Dragon](https://psnprofiles.com/guide/4544-trials-of-the-blood-dragon-trophy-guide) | 8/10 | 20 | 2.17% | 32,928 | 4/5 | 6 | 24 |
+| [Downwell](https://psnprofiles.com/guide/6310-downwell-trophy-guide) | 8/10 | 20 | 2.26% | 49,663 | 4/5 | 17 | 61 |
+| [Shadow of the Colossus](https://psnprofiles.com/guide/418-shadow-of-the-colossus-trophy-guide) | 8/10 | 50 | 2.45% | 62,372 | 5/5 | 38 | 166 |
+| [Hand of Fate](https://psnprofiles.com/guide/13826-hand-of-fate-trophy-guide) | 8/10 | 35 | 2.47% | 4,308 |  | 0 | 6 |
+| [Eldest Souls](https://psnprofiles.com/guide/14916-eldest-souls-trophy-guide) | 8/10 | 20 | 2.49% | 30,936 |  | 0 | 19 |
+| [Darkest Dungeon](https://psnprofiles.com/guide/9036-darkest-dungeon-trophy-guide) | 8/10 | 80 | 2.49% | 80,740 | 5/5 | 21 | 57 |
+| [Doom](https://psnprofiles.com/guide/9412-doom-trophy-guide) | 8/10 | 15 | 2.56% | 103,103 | 4/5 | 22 | 66 |
+| [Devil May Cry 5](https://psnprofiles.com/guide/8989-devil-may-cry-5-trophy-guide) | 8/10 | 70 | 2.59% | 251,224 | 5/5 | 44 | 190 |
+| [Mirror's Edge](https://psnprofiles.com/guide/51-mirrors-edge-trophy-guide) | 8/10 | 40 | 2.74% | 67,229 | 5/5 | 36 | 153 |
+| [Tony Hawk's Pro Skater 1 + 2](https://psnprofiles.com/guide/10893-tony-hawks-pro-skater-1-2-trophy-guide) | 8/10 | 70 | 2.78% | 170,217 | 5/5 | 22 | 121 |
+| [Pato Box](https://psnprofiles.com/guide/15002-pato-box-trophy-guide) | 8/10 | 20 | 2.89% | 4,319 |  | 0 | 0 |
+| [Mother Russia Bleeds](https://psnprofiles.com/guide/6638-mother-russia-bleeds-trophy-guide) | 8/10 | 20 | 2.89% | 24,881 | 5/5 | 5 | 15 |
+| [Vikings: Wolves of Midgard](https://psnprofiles.com/guide/19571-vikings-wolves-of-midgard-trophy-guide) | 8/10 | 50 | 2.89% | 2,223 |  | 0 | 4 |
+| [Dragon Ball FighterZ](https://psnprofiles.com/guide/7930-dragon-ball-fighterz-trophy-guide) | 8/10 | 100 | 2.91% | 115,006 | 3/5 | 57 | 74 |
+| [Devil May Cry 4](https://psnprofiles.com/guide/12678-devil-may-cry-4-trophy-guide) | 8/10 | 90 | 2.94% | 59,549 | 5/5 | 16 | 58 |
+| [Rogue Legacy](https://psnprofiles.com/guide/1351-rogue-legacy-trophy-guide) | 8/10 | 50 | 2.97% | 58,876 | 4/5 | 41 | 129 |
+| [Prototype](https://psnprofiles.com/guide/2357-prototype-trophy-guide) | 8/10 | 45 | 3.02% | 97,506 | 5/5 | 12 | 95 |
+| [Command & Conquer Red Alert 3](https://psnprofiles.com/guide/4811-command-conquer-red-alert-3-trophy-guide) | 8/10 | 50 | 3.08% | 15,592 | 3/5 | 5 | 8 |
+| [LocoRoco 2](https://psnprofiles.com/guide/7771-locoroco-2-trophy-guide) | 8/10 | 40 | 3.09% | 23,368 |  | 0 | 15 |
+| [Yakuza 3](https://psnprofiles.com/guide/8149-yakuza-3-trophy-guide) | 8/10 | 100 | 3.16% | 171,948 | 5/5 | 9 | 82 |
+| [Slay the Spire](https://psnprofiles.com/guide/14674-slay-the-spire-trophy-guide) | 8/10 | 100 | 3.60% | 78,174 | 5/5 | 20 | 64 |
+| [Sacred 2: Fallen Angel](https://psnprofiles.com/guide/4824-sacred-2-fallen-angel-trophy-guide) | 8/10 | 120 | 3.65% | 19,206 | 5/5 | 5 | 8 |
+| [Dragon Age: Inquisition](https://psnprofiles.com/guide/2133-dragon-age-inquisition-trophy-guide) | 8/10 | 100 | 3.89% | 30,597 | 5/5 | 12 | 53 |
+| [Aliens: Fireteam Elite](https://psnprofiles.com/guide/12732-aliens-fireteam-elite-trophy-guide) | 8/10 | 100 | 3.90% | 90,537 | 4/5 | 8 | 52 |
+| [Everybody's Golf](https://psnprofiles.com/guide/6460-everybodys-golf-trophy-guide) | 8/10 | 40 | 3.93% | 121,920 | 5/5 | 21 | 62 |
+| [Metal Gear Solid 4: Guns of the Patriots](https://psnprofiles.com/guide/216-metal-gear-solid-4-guns-of-the-patriots-trophy-guide) | 8/10 | 80 | 4.10% | 93,646 | 5/5 | 42 | 234 |
+| [Beat Saber](https://psnprofiles.com/guide/8063-beat-saber-trophy-guide) | 8/10 | 30 | 4.39% | 69,451 | 5/5 | 13 | 45 |
+| [N++](https://psnprofiles.com/guide/3728-n-trophy-guide) | 8/10 | 75 | 4.48% | 29,117 | 5/5 | 5 | 27 |
+| [Resident Evil Resistance](https://psnprofiles.com/guide/10004-resident-evil-resistance-trophy-guide) | 8/10 | 40 | 4.57% | 85,801 | 5/5 | 18 | 37 |
+| [Rabi-Ribi](https://psnprofiles.com/guide/10429-rabi-ribi-trophy-guide) | 8/10 | 60 | 4.57% | 18,861 | 4/5 | 11 | 22 |
+| [Mega Man 11](https://psnprofiles.com/guide/9023-mega-man-11-trophy-guide) | 8/10 | 15 | 4.58% | 59,187 | 5/5 | 14 | 33 |
+| [Tomb Raider III](https://psnprofiles.com/guide/18948-tomb-raider-iii-trophy-guide) | 8/10 | 40 | 4.67% | 8,927 |  | 0 | 7 |
+| [Metal Gear Solid 2: Sons of Liberty](https://psnprofiles.com/guide/1634-metal-gear-solid-2-sons-of-liberty-trophy-guide) | 8/10 | 80 | 4.84% | 150,740 | 5/5 | 37 | 200 |
+| [Attack on Titan 2](https://psnprofiles.com/guide/15247-attack-on-titan-2-trophy-guide) | 8/10 | 80 | 4.90% | 7,833 | 4/5 | 5 | 10 |
+| [99Vidas](https://psnprofiles.com/guide/7308-99vidas-trophy-guide) | 8/10 | 60 | 5.00% | 50,388 | 5/5 | 8 | 35 |
+| [Art of Fighting Anthology](https://psnprofiles.com/guide/11673-art-of-fighting-anthology-trophy-guide) | 8/10 | 25 | 5.12% | 10,463 |  | 0 | 6 |
+| [Ninja Gaiden 3: Razor's Edge](https://psnprofiles.com/guide/13541-ninja-gaiden-3-razors-edge-trophy-guide) | 8/10 | 85 | 5.50% | 22,082 | 5/5 | 8 | 21 |
+| [Devil May Cry](https://psnprofiles.com/guide/847-devil-may-cry-trophy-guide) | 8/10 | 24 | 5.81% | 146,864 | 5/5 | 23 | 175 |
+| [Blue Rider](https://psnprofiles.com/guide/5870-blue-rider-trophy-guide) | 8/10 | 10 | 5.88% | 10,241 |  | 0 | 7 |
+| [Call of Duty: World at War](https://psnprofiles.com/guide/1187-call-of-duty-world-at-war-trophy-guide) | 8/10 | 25 | 6.03% | 83,857 | 4/5 | 32 | 87 |
+| [Dragon Age: Inquisition](https://psnprofiles.com/guide/2151-dragon-age-inquisition-trophy-guide) | 8/10 | 100 | 6.11% | 214,204 | 5/5 | 80 | 367 |
+| [Super Rude Bear Resurrection](https://psnprofiles.com/guide/8929-super-rude-bear-resurrection-trophy-guide) | 8/10 | 30 | 6.63% | 5,371 |  | 0 | 2 |
+| [Earth Defense Force: World Brothers](https://psnprofiles.com/guide/15617-earth-defense-force-world-brothers-trophy-guide) | 8/10 | 120 | 7.54% | 7,057 |  | 0 | 6 |
+| [Crash Team Racing Nitro-Fueled](https://psnprofiles.com/guide/8787-crash-team-racing-nitro-fueled-trophy-guide) | 8/10 | 40 | 7.67% | 170,800 | 5/5 | 57 | 170 |
+| [Diablo IV](https://psnprofiles.com/guide/17009-diablo-iv-trophy-guide) | 8/10 | 150 | 10.05% | 74,316 | 4/5 | 27 | 58 |
+| [The End is Nigh](https://psnprofiles.com/guide/8634-the-end-is-nigh-trophy-guide) | 8/10 | 40 | 10.06% | 7,729 |  | 0 | 4 |
+| [Rayman Origins](https://psnprofiles.com/guide/13374-rayman-origins-trophy-guide) | 8/10 | 35 | 10.31% | 28,335 | 4/5 | 28 | 25 |
+| [Call of Duty Classic](https://psnprofiles.com/guide/5271-call-of-duty-classic-trophy-guide) | 8/10 | 20 | 10.87% | 36,980 | 5/5 | 13 | 34 |
+| [The Evil Within 2](https://psnprofiles.com/guide/6560-the-evil-within-2-trophy-guide) | 8/10 | 45 | 11.22% | 174,109 | 5/5 | 30 | 124 |
 | [Final Fantasy VII Rebirth](https://psnprofiles.com/guide/18935-final-fantasy-vii-rebirth-trophy-guide) | 8/10 | 200 | 11.35% | 617,693 | 5/5 | 119 | 251 |
+| [Neon White](https://psnprofiles.com/guide/15841-neon-white-trophy-guide) | 8/10 | 40 | 11.47% | 24,228 |  | 0 | 26 |
+| [Drakengard 3](https://psnprofiles.com/guide/2428-drakengard-3-trophy-guide) | 8/10 | 40 | 11.93% | 44,575 | 5/5 | 20 | 58 |
+| [Rust](https://psnprofiles.com/guide/12296-rust-trophy-guide) | 8/10 | 70 | 14.49% | 33,530 | 5/5 | 6 | 13 |
 | [Dark Souls](https://psnprofiles.com/guide/1656-dark-souls-trophy-guide) | 8/10 | 70 | 16.04% | 721,015 | 5/5 | 60 | 493 |
+| [Demon's Souls](https://psnprofiles.com/guide/989-demons-souls-trophy-guide) | 8/10 | 50 | 16.05% | 123,500 |  | 0 | 163 |
+| [Bloodborne](https://psnprofiles.com/guide/2669-bloodborne-trophy-guide) | 8/10 | 50 | 21.74% | 191,952 | 5/5 | 71 | 196 |
 | [Elden Ring](https://psnprofiles.com/guide/14008-elden-ring-trophy-guide) | 8/10 | 65 | 38.39% | 685,258 | 4/5 | 161 | 385 |
+| [Velocity 2X](https://psnprofiles.com/guide/5550-velocity-2x-critical-urgency-dlc-trophy-guide) | 8/10 | 2 |  | 3,814 |  | 0 | 4 |
+| [Velocity 2X](https://psnprofiles.com/guide/5551-velocity-2x-dual-core-dlc-trophy-guide) | 8/10 | 3 |  | 3,795 |  | 0 | 4 |
+| [DJMax Respect](https://psnprofiles.com/guide/10044-djmax-respect-v-extension-dlc-trophy-guide) | 8/10 | 5 |  | 4,892 |  | 0 | 1 |
+| [Five Nights at Freddy's](https://psnprofiles.com/guide/9398-five-nights-at-freddys-trophy-guide) | 8/10 | 5 |  | 63,051 | 5/5 | 5 | 18 |
+| [Gran Turismo 6](https://psnprofiles.com/guide/15823-gran-turismo-6-ayrton-senna-tribute-dlc-trophy-guide) | 8/10 | 5 |  | 4,188 |  | 0 | 3 |
+| [Metal Gear Rising: Revengeance](https://psnprofiles.com/guide/15209-metal-gear-rising-revengeance-vr-mission-expansion-dlc-trophy-guide) | 8/10 | 8 |  | 4,721 | 5/5 | 5 | 3 |
+| [Deep Rock Galactic](https://psnprofiles.com/guide/13606-deep-rock-galactic-deep-dives-dlc-trophy-guide) | 8/10 | 8 |  | 6,986 |  | 0 | 3 |
+| [Jurassic World Evolution](https://psnprofiles.com/guide/15343-jurassic-world-evolution-cretaceous-challenges-dlc-trophy-guide) | 8/10 | 8 |  | 2,190 | 5/5 | 5 | 1 |
+| [DJMax Respect](https://psnprofiles.com/guide/7592-djmax-respect-clazziquai-edition-dlc-trophy-guide) | 8/10 | 10 |  | 5,472 |  | 0 | 3 |
+| [Mega Man 10](https://psnprofiles.com/guide/58-mega-man-10-trophy-guide) | 8/10 | 10 |  | 13,393 | 5/5 | 5 | 24 |
+| [Enter The Gungeon](https://psnprofiles.com/guide/8680-enter-the-gungeon-advanced-gungeons-and-draguns-dlc-trophy-guide) | 8/10 | 10 |  | 15,960 | 5/5 | 6 | 5 |
+| [Call of Duty: World at War](https://psnprofiles.com/guide/68-call-of-duty-world-at-war-map-2-dlc-trophy-guide) | 8/10 | 10 |  | 18,722 | 5/5 | 19 | 11 |
+| [DJMax Respect](https://psnprofiles.com/guide/7598-djmax-respect-technika-dlc-trophy-guide) | 8/10 | 10 |  | 6,644 |  | 0 | 3 |
+| [DJMax Respect](https://psnprofiles.com/guide/7599-djmax-respect-black-square-dlc-trophy-guide) | 8/10 | 10 |  | 5,933 |  | 0 | 2 |
+| [Space Channel 5 Part 2](https://psnprofiles.com/guide/94-space-channel-5-part-2-trophy-guide) | 8/10 | 10 |  | 3,967 |  | 0 | 3 |
+| [Race The Sun](https://psnprofiles.com/guide/5414-race-the-sun-trophy-guide) | 8/10 | 10 |  | 12,520 | 4/5 | 15 | 15 |
+| [DuckTales](https://psnprofiles.com/guide/3567-ducktales-trophy-guide) | 8/10 | 11 |  | 21,585 | 5/5 | 11 | 50 |
+| [Don't Starve](https://psnprofiles.com/guide/531-dont-starve-trophy-guide) | 8/10 | 12 |  | 39,247 | 4/5 | 12 | 69 |
+| [Jurassic World Evolution](https://psnprofiles.com/guide/15341-jurassic-world-evolution-challenge-mode-dlc-trophy-guide) | 8/10 | 12 |  | 3,117 |  | 0 | 1 |
+| [Darkest Dungeon](https://psnprofiles.com/guide/8973-darkest-dungeon-crimson-court-dlc-trophy-guide) | 8/10 | 12 |  | 12,370 | 5/5 | 5 | 9 |
+| [Darkest Dungeon](https://psnprofiles.com/guide/9035-darkest-dungeon-color-of-madness-dlc-trophy-guide) | 8/10 | 12 |  | 12,845 |  | 0 | 7 |
+| [Muramasa Rebirth](https://psnprofiles.com/guide/661-muramasa-rebirth-a-cause-to-daikon-for-dlc-trophy-guide) | 8/10 | 14 |  | 9,475 | 5/5 | 6 | 20 |
+| [Back 4 Blood](https://psnprofiles.com/guide/15220-back-4-blood-children-of-the-worm-dlc-trophy-guide) | 8/10 | 15 |  | 10,474 | 4/5 | 6 | 3 |
+| [PixelJunk Monsters](https://psnprofiles.com/guide/7149-pixeljunk-monsters-trophy-guide) | 8/10 | 15 |  | 12,123 |  | 0 | 2 |
+| [Wanderjahr](https://psnprofiles.com/guide/8821-wanderjahr-trophy-guide) | 8/10 | 15 |  | 3,916 |  | 0 | 5 |
+| [The Swindle](https://psnprofiles.com/guide/3915-the-swindle-trophy-guide) | 8/10 | 15 |  | 21,939 | 5/5 | 5 | 33 |
+| [Victor Vran](https://psnprofiles.com/guide/12962-victor-vran-mot%C3%B6rhead-through-the-ages-dlc-trophy-guide) | 8/10 | 20 |  | 5,760 |  | 0 | 1 |
+| [Frostpunk](https://psnprofiles.com/guide/12546-frostpunk-the-last-autumn-dlc-trophy-guide) | 8/10 | 20 |  | 13,607 | 5/5 | 5 | 2 |
+| [Max Payne](https://psnprofiles.com/guide/16621-max-payne-trophy-guide) | 8/10 | 25 |  | 12,715 |  | 0 | 10 |
+| [Overwatch 2](https://psnprofiles.com/guide/15331-overwatch-2-dlc-pack-3-dlc-trophy-guide) | 8/10 | 25 |  | 11,450 | 5/5 | 5 | 8 |
+| [Darkstalkers Resurrection](https://psnprofiles.com/guide/13996-darkstalkers-resurrection-trophy-guide) | 8/10 | 30 |  | 7,725 | 4/5 | 6 | 7 |
+| [Don't Starve](https://psnprofiles.com/guide/5092-dont-starve-trophy-guide) | 8/10 | 30 |  | 14,093 |  | 0 | 10 |
+| [Kingdom Hearts III](https://psnprofiles.com/guide/9656-kingdom-hearts-iii-re-mind-dlc-trophy-guide) | 8/10 | 30 |  | 107,219 | 5/5 | 14 | 61 |
+| [The Last Guy](https://psnprofiles.com/guide/5791-the-last-guy-trophy-guide) | 8/10 | 30 |  | 11,305 |  | 0 | 14 |
+| [Overwatch 2](https://psnprofiles.com/guide/7785-overwatch-2-dlc-pack-2-dlc-trophy-guide) | 8/10 | 30 |  | 17,666 | 4/5 | 7 | 7 |
+| [Fat Princess](https://psnprofiles.com/guide/876-fat-princess-trophy-guide) | 8/10 | 30 |  | 15,317 | 5/5 | 7 | 21 |
+| [Five Nights at Freddy's 5: Sister Location](https://psnprofiles.com/guide/19217-five-nights-at-freddys-5-sister-location-trophy-guide) | 8/10 | 35 |  | 1,850 |  | 0 | 2 |
+| [Retro/Grade](https://psnprofiles.com/guide/6267-retrograde-trophy-guide) | 8/10 | 35 |  | 6,997 |  | 0 | 12 |
+| [The Binding of Isaac: Rebirth](https://psnprofiles.com/guide/10240-the-binding-of-isaac-rebirth-the-binding-of-isaac-afterbirth-dlc-trophy-guide) | 8/10 | 50 |  | 25,322 | 4/5 | 5 | 6 |
+| [Destiny](https://psnprofiles.com/guide/3344-destiny-the-taken-king-dlc-trophy-guide) | 8/10 | 70 |  | 32,726 | 5/5 | 13 | 40 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/12670-final-fantasy-xiv-stormblood-dlc-trophy-guide) | 8/10 | 999 |  | 93,107 | 5/5 | 5 | 20 |
+| [Tom Clancy's EndWar](https://psnprofiles.com/guide/73-tom-clancys-endwar-trophy-guide) | 9/10 | 100 | 0.13% | 13,805 | 5/5 | 6 | 14 |
+| [The Elder Scrolls Online](https://psnprofiles.com/guide/16974-the-elder-scrolls-online-trophy-guide) | 9/10 | 600 | 0.16% | 24,928 | 4/5 | 13 | 17 |
+| [Injustice: Gods Among Us Ultimate Edition](https://psnprofiles.com/guide/5278-injustice-gods-among-us-ultimate-edition-trophy-guide) | 9/10 | 90 | 0.21% | 176,241 | 4/5 | 19 | 136 |
+| [Star Trek Online](https://psnprofiles.com/guide/9858-star-trek-online-trophy-guide) | 9/10 | 300 | 0.33% | 31,376 | 4/5 | 11 | 12 |
+| [I Am Bread](https://psnprofiles.com/guide/8735-i-am-bread-trophy-guide) | 9/10 | 40 | 0.39% | 86,436 | 4/5 | 24 | 54 |
+| [Rocksmith](https://psnprofiles.com/guide/2939-rocksmith-trophy-guide) | 9/10 | 50 | 0.43% | 9,593 | 4/5 | 5 | 6 |
+| [Tetris Effect](https://psnprofiles.com/guide/14550-tetris-effect-trophy-guide) | 9/10 | 150 | 0.54% | 55,463 | 4/5 | 17 | 34 |
+| [Super Street Fighter IV](https://psnprofiles.com/guide/6596-super-street-fighter-iv-trophy-guide) | 9/10 | 150 | 0.60% | 63,692 | 5/5 | 13 | 39 |
+| [Trackmania Turbo](https://psnprofiles.com/guide/4216-trackmania-turbo-trophy-guide) | 9/10 | 70 | 0.70% | 102,406 | 5/5 | 32 | 142 |
+| [XCOM 2](https://psnprofiles.com/guide/5391-xcom-2-trophy-guide) | 9/10 | 100 | 0.87% | 107,179 | 4/5 | 18 | 115 |
+| [XCOM: Enemy Unknown](https://psnprofiles.com/guide/1241-xcom-enemy-unknown-trophy-guide) | 9/10 | 100 | 0.92% | 21,796 | 4/5 | 17 | 52 |
+| [Battlefield: Bad Company](https://psnprofiles.com/guide/2911-battlefield-bad-company-trophy-guide) | 9/10 | 180 | 0.93% | 48,235 | 5/5 | 18 | 33 |
+| [Gran Turismo Sport](https://psnprofiles.com/guide/6951-gran-turismo-sport-trophy-guide) | 9/10 | 250 | 0.98% | 151,160 | 5/5 | 24 | 103 |
+| [FIFA 19](https://psnprofiles.com/guide/12722-fifa-19-trophy-guide) | 9/10 | 60 | 0.99% | 22,519 | 4/5 | 12 | 14 |
+| [WipEout HD](https://psnprofiles.com/guide/1041-wipeout-hd-trophy-guide) | 9/10 | 50 | 1.01% | 24,734 | 5/5 | 13 | 55 |
+| [Diablo II: Resurrected](https://psnprofiles.com/guide/12977-diablo-ii-resurrected-trophy-guide) | 9/10 | 999 | 1.16% | 154,829 | 4/5 | 20 | 52 |
+| [Frostpunk](https://psnprofiles.com/guide/11519-frostpunk-trophy-guide) | 9/10 | 100 | 1.21% | 68,747 | 5/5 | 11 | 34 |
+| [Trackmania](https://psnprofiles.com/guide/16782-trackmania-trophy-guide) | 9/10 | 200 | 1.27% | 20,605 | 5/5 | 16 | 18 |
+| [F1 2010](https://psnprofiles.com/guide/3022-f1-2010-trophy-guide) | 9/10 | 250 | 1.36% | 18,024 | 4/5 | 6 | 21 |
+| [John Wick Hex](https://psnprofiles.com/guide/16486-john-wick-hex-trophy-guide) | 9/10 | 20 | 1.58% | 15,364 | 5/5 | 6 | 13 |
+| [Shadow Warrior](https://psnprofiles.com/guide/3167-shadow-warrior-trophy-guide) | 9/10 | 50 | 1.59% | 56,730 | 5/5 | 9 | 56 |
+| [Sol Cresta](https://psnprofiles.com/guide/15743-sol-cresta-trophy-guide) | 9/10 | 50 | 1.60% | 6,833 |  | 0 | 10 |
+| [Yaiba: Ninja Gaiden Z](https://psnprofiles.com/guide/13665-yaiba-ninja-gaiden-z-trophy-guide) | 9/10 | 35 | 1.73% | 11,298 | 5/5 | 5 | 11 |
+| [Doom 3 BFG Edition](https://psnprofiles.com/guide/9930-doom-3-bfg-edition-trophy-guide) | 9/10 | 45 | 1.75% | 57,200 | 4/5 | 6 | 28 |
+| [Deadbolt](https://psnprofiles.com/guide/9495-deadbolt-trophy-guide) | 9/10 | 25 | 1.88% | 14,031 | 4/5 | 5 | 9 |
+| [Catherine](https://psnprofiles.com/guide/6099-catherine-trophy-guide) | 9/10 | 60 | 1.92% | 56,313 | 5/5 | 10 | 74 |
+| [Geometry Wars 3: Dimensions](https://psnprofiles.com/guide/2134-geometry-wars-3-dimensions-trophy-guide) | 9/10 | 50 | 2.01% | 19,142 | 5/5 | 5 | 30 |
+| [Sonic Unleashed](https://psnprofiles.com/guide/6-sonic-unleashed-trophy-guide) | 9/10 | 65 | 2.09% | 56,810 | 5/5 | 24 | 52 |
+| [Vanquish](https://psnprofiles.com/guide/45-vanquish-trophy-guide) | 9/10 | 15 | 2.26% | 78,327 | 5/5 | 16 | 110 |
+| [Downwell](https://psnprofiles.com/guide/9356-downwell-trophy-guide) | 9/10 | 30 | 2.26% | 16,782 | 5/5 | 14 | 23 |
+| [Divinity: Original Sin](https://psnprofiles.com/guide/3782-divinity-original-sin-trophy-guide) | 9/10 | 100 | 2.29% | 80,046 | 4/5 | 23 | 74 |
+| [Dariusburst: Another Chronicle EX+](https://psnprofiles.com/guide/18141-dariusburst-another-chronicle-ex-trophy-guide) | 9/10 | 40 | 2.50% | 983 |  | 0 | 0 |
+| [Trials Rising](https://psnprofiles.com/guide/18929-trials-rising-trophy-guide) | 9/10 | 50 | 2.65% | 5,398 |  | 0 | 8 |
+| [Everhood](https://psnprofiles.com/guide/18158-everhood-trophy-guide) | 9/10 | 40 | 2.94% | 2,440 |  | 0 | 4 |
+| [Silent Hill 2 HD](https://psnprofiles.com/guide/3-silent-hill-2-hd-trophy-guide) | 9/10 | 30 | 3.26% | 73,831 | 5/5 | 23 | 87 |
+| [Wargroove](https://psnprofiles.com/guide/12097-wargroove-trophy-guide) | 9/10 | 40 | 3.49% | 12,031 | 5/5 | 7 | 10 |
+| [Crash Bandicoot 4: It's About Time](https://psnprofiles.com/guide/11012-crash-bandicoot-4-its-about-time-trophy-guide) | 9/10 | 100 | 3.60% | 252,820 | 5/5 | 31 | 190 |
+| [Spelunky 2](https://psnprofiles.com/guide/11044-spelunky-2-trophy-guide) | 9/10 | 100 | 3.82% | 14,547 | 5/5 | 5 | 13 |
+| [The Evil Within](https://psnprofiles.com/guide/1785-the-evil-within-trophy-guide) | 9/10 | 50 | 4.03% | 72,350 | 5/5 | 27 | 188 |
+| [The Binding of Isaac: Rebirth](https://psnprofiles.com/guide/4064-the-binding-of-isaac-rebirth-trophy-guide) | 9/10 | 150 | 4.03% | 134,070 | 5/5 | 20 | 111 |
+| [Ninja Gaiden Σ](https://psnprofiles.com/guide/13480-ninja-gaiden-%CF%83-trophy-guide) | 9/10 | 90 | 4.25% | 59,342 | 5/5 | 9 | 45 |
+| [The Evil Within](https://psnprofiles.com/guide/1747-the-evil-within-trophy-guide) | 9/10 | 50 | 4.39% | 178,418 | 5/5 | 12 | 103 |
+| [Rick and Morty: Virtual Rick-ality](https://psnprofiles.com/guide/7349-rick-and-morty-virtual-rick-ality-trophy-guide) | 9/10 | 3 | 4.49% | 71,081 | 4/5 | 7 | 36 |
+| [Back 4 Blood](https://psnprofiles.com/guide/13154-back-4-blood-trophy-guide) | 9/10 | 100 | 4.58% | 125,741 | 4/5 | 21 | 53 |
+| [Dead Space 2](https://psnprofiles.com/guide/5059-dead-space-2-trophy-guide) | 9/10 | 40 | 6.36% | 72,093 | 4/5 | 25 | 81 |
+| [Hollow Knight](https://psnprofiles.com/guide/16957-hollow-knight-trophy-guide) | 9/10 | 100 | 9.40% | 78,683 | 4/5 | 15 | 72 |
+| [The End is Nigh](https://psnprofiles.com/guide/9320-the-end-is-nigh-trophy-guide) | 9/10 | 40 | 10.06% | 17,239 | 4/5 | 6 | 9 |
+| [Let It Die](https://psnprofiles.com/guide/9513-let-it-die-additional-trophy-dlc-trophy-guide) | 9/10 | 1 |  | 13,203 |  | 0 | 8 |
+| [DJMax Respect](https://psnprofiles.com/guide/14056-djmax-respect-v-extension-2-dlc-trophy-guide) | 9/10 | 5 |  | 3,720 |  | 0 | 0 |
+| [Persona 4: Arena Ultimax](https://psnprofiles.com/guide/8752-persona-4-arena-ultimax-additional-trophy-group-tohru-adachi-dlc-trophy-guide) | 9/10 | 8 |  | 4,514 |  | 0 | 5 |
+| [DJMax Respect](https://psnprofiles.com/guide/7926-djmax-respect-technika-2-dlc-trophy-guide) | 9/10 | 10 |  | 5,577 |  | 0 | 3 |
+| [Q*bert: Rebooted](https://psnprofiles.com/guide/7683-qbert-rebooted-trophy-guide) | 9/10 | 10 |  | 21,230 |  | 0 | 17 |
+| [Strange Brigade](https://psnprofiles.com/guide/14954-strange-brigade-graven-image-dlc-trophy-guide) | 9/10 | 10 |  | 3,696 |  | 0 | 0 |
+| [Mirror's Edge](https://psnprofiles.com/guide/276-mirrors-edge-pure-time-trials-dlc-trophy-guide) | 9/10 | 10 |  | 14,661 | 5/5 | 11 | 33 |
+| [Sniper Elite 4](https://psnprofiles.com/guide/13435-sniper-elite-4-authentic-plus-dlc-trophy-guide) | 9/10 | 15 |  | 9,484 |  | 0 | 3 |
+| [Uncharted 2: Among Thieves Remastered](https://psnprofiles.com/guide/3424-uncharted-2-among-thieves-remastered-extended-collection-dlc-trophy-guide) | 9/10 | 15 |  | 59,417 | 5/5 | 26 | 97 |
+| [Leo's Fortune](https://psnprofiles.com/guide/7483-leos-fortune-trophy-guide) | 9/10 | 15 |  | 16,758 |  | 0 | 2 |
+| [Dishonored](https://psnprofiles.com/guide/11902-dishonored-dunwall-city-trials-dlc-trophy-guide) | 9/10 | 15 |  | 26,202 | 4/5 | 9 | 19 |
+| [Earthworm Jim HD](https://psnprofiles.com/guide/15941-earthworm-jim-hd-trophy-guide) | 9/10 | 20 |  | 3,823 |  | 0 | 4 |
+| [Freddy Fazbear's Pizzeria Simulator](https://psnprofiles.com/guide/18026-freddy-fazbears-pizzeria-simulator-trophy-guide) | 9/10 | 35 |  | 4,943 |  | 0 | 9 |
+| [Deathverse: Let It Die](https://psnprofiles.com/guide/15599-deathverse-let-it-die-trophy-guide) | 9/10 | 50 |  | 5,928 |  | 0 | 7 |
+| [Tom Clancy's EndWar](https://psnprofiles.com/guide/251-tom-clancys-endwar-escalation-expansion-dlc-trophy-guide) | 9/10 | 50 |  | 1,932 |  | 0 | 5 |
+| [Dustforce](https://psnprofiles.com/guide/2666-dustforce-trophy-guide) | 9/10 | 60 |  | 7,409 | 5/5 | 7 | 9 |
+| [VVVVVV](https://psnprofiles.com/guide/7669-vvvvvv-trophy-guide) | 9/10 | 75 |  | 18,457 |  | 0 | 15 |
+| [Sine Mora](https://psnprofiles.com/guide/1794-sine-mora-trophy-guide) | 9/10 | 80 |  | 10,580 |  | 0 | 21 |
+| [Need for Speed](https://psnprofiles.com/guide/5618-need-for-speed-prestige-and-speedlists-dlc-trophy-guide) | 9/10 | 100 |  | 75,922 | 5/5 | 16 | 30 |
+| [Dirt Rally 2.0](https://psnprofiles.com/guide/10400-dirt-rally-20-colin-mcrae-dlc-trophy-guide) | 9/10 | 150 |  | 15,091 | 4/5 | 14 | 6 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/15076-final-fantasy-xiv-endwalker-buried-memory-dlc-trophy-guide) | 9/10 | 150 |  | 19,910 |  | 0 | 20 |
+| [The Binding of Isaac: Rebirth](https://psnprofiles.com/guide/13552-the-binding-of-isaac-rebirth-the-binding-of-isaac-repentance-dlc-trophy-guide) | 9/10 | 200 |  | 25,166 | 5/5 | 7 | 7 |
+| [Let It Die](https://psnprofiles.com/guide/5999-let-it-die-trophy-guide) | 9/10 | 350 |  | 44,278 | 5/5 | 5 | 40 |
+| [APB Reloaded](https://psnprofiles.com/guide/6503-apb-reloaded-trophy-guide) | 9/10 | 400 |  | 17,152 |  | 0 | 8 |
 | [Final Fantasy XIV](https://psnprofiles.com/guide/13381-final-fantasy-xiv-endwalker-dlc-trophy-guide) | 9/10 | 999 |  | 498,360 | 5/5 | 10 | 62 |
-| https://psnprofiles.com/guide/131-kingdom-hearts-synthesis-guide |  |  |  | 298,132 | 5/5 | 23 | 133 |
-| https://psnprofiles.com/guide/5658-yakuza-0-substory-and-friendship-guide |  |  |  | 403,563 | 5/5 | 26 | 112 |
-| https://psnprofiles.com/guide/11946-persona-5-royal-100-perfect-schedule |  |  |  | 2,546,151 | 5/5 | 39 | 456 |
-| https://psnprofiles.com/guide/7968-red-dead-redemption-2-gold-medals-challenges-and-100-completion-guide |  |  |  | 375,630 | 5/5 | 87 | 390 |
-| https://psnprofiles.com/guide/18934-final-fantasy-vii-rebirth-strategy-mini-game-guide |  |  |  | 389,649 | 5/5 | 67 | 75 |
-| https://psnprofiles.com/guide/8855-doodle-god-100-walkthrough |  |  |  | 309,592 |  | 0 | 8 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/12671-final-fantasy-xiv-shadowbringers-dlc-trophy-guide) | 9/10 | 999 |  | 14,809 | 5/5 | 6 | 18 |
+| [Dragon Fin Soup](https://psnprofiles.com/guide/3524-dragon-fin-soup-trophy-guide) | 10/10 | 70 | 0.00% | 43,691 | 5/5 | 7 | 54 |
+| [Crypt of the NecroDancer](https://psnprofiles.com/guide/7171-crypt-of-the-necrodancer-trophy-guide) | 10/10 | 900 | 0.08% | 119,361 | 5/5 | 23 | 89 |
+| [MLB The Show 16](https://psnprofiles.com/guide/8015-mlb-the-show-16-trophy-guide) | 10/10 | 90 | 0.18% | 10,188 | 3/5 | 8 | 5 |
+| [NBA 2K20](https://psnprofiles.com/guide/10734-nba-2k20-trophy-guide) | 10/10 | 350 | 0.21% | 39,836 | 5/5 | 17 | 33 |
+| [NBA 2K22](https://psnprofiles.com/guide/13320-nba-2k22-trophy-guide) | 10/10 | 150 | 0.36% | 48,023 | 5/5 | 6 | 12 |
+| [Persona 4: Arena](https://psnprofiles.com/guide/11602-persona-4-arena-trophy-guide) | 10/10 | 150 | 0.39% | 27,431 | 5/5 | 7 | 19 |
+| [Pathfinder: Kingmaker](https://psnprofiles.com/guide/16594-pathfinder-kingmaker-trophy-guide) | 10/10 | 300 | 0.39% | 3,305 | 5/5 | 5 | 16 |
+| [Twisted Metal](https://psnprofiles.com/guide/3519-twisted-metal-trophy-guide) | 10/10 | 100 | 0.40% | 38,407 | 5/5 | 10 | 23 |
+| [Super Meat Boy](https://psnprofiles.com/guide/3476-super-meat-boy-trophy-guide) | 10/10 | 100 | 0.40% | 161,589 | 4/5 | 51 | 162 |
+| [Yurukill: The Calumniation Games](https://psnprofiles.com/guide/14886-yurukill-the-calumniation-games-trophy-guide) | 10/10 | 21 | 0.46% | 7,833 |  | 0 | 5 |
+| [Gran Turismo 5](https://psnprofiles.com/guide/1255-gran-turismo-5-trophy-guide) | 10/10 | 500 | 0.54% | 81,957 | 5/5 | 38 | 75 |
+| [Koihime†Enbu Ryo Rai Rai](https://psnprofiles.com/guide/15980-koihimeenbu-ryo-rai-rai-trophy-guide) | 10/10 | 250 | 0.58% | 4,523 |  | 0 | 6 |
+| [Dead or Alive 5 Plus](https://psnprofiles.com/guide/15852-dead-or-alive-5-plus-trophy-guide) | 10/10 | 80 | 0.60% | 5,616 |  | 0 | 4 |
+| [Ikaruga](https://psnprofiles.com/guide/8224-ikaruga-trophy-guide) | 10/10 | 100 | 0.71% | 21,627 | 4/5 | 7 | 14 |
+| [Ultimate Marvel vs. Capcom 3](https://psnprofiles.com/guide/1668-ultimate-marvel-vs-capcom-3-trophy-guide) | 10/10 | 70 | 0.83% | 59,803 | 3/5 | 10 | 46 |
+| [Atari Flashback Classics Volume 2](https://psnprofiles.com/guide/11351-atari-flashback-classics-volume-2-trophy-guide) | 10/10 | 20 | 0.87% | 16,173 | 4/5 | 9 | 7 |
+| [Street Fighter V](https://psnprofiles.com/guide/3951-street-fighter-v-trophy-guide) | 10/10 | 150 | 0.89% | 155,146 | 4/5 | 41 | 114 |
+| [Pathfinder: Wrath of the Righteous](https://psnprofiles.com/guide/15479-pathfinder-wrath-of-the-righteous-trophy-guide) | 10/10 | 350 | 1.10% | 29,357 | 5/5 | 5 | 19 |
+| [Akai Katana Shin](https://psnprofiles.com/guide/16135-akai-katana-shin-trophy-guide) | 10/10 | 50 | 1.19% | 3,364 |  | 0 | 3 |
+| [Wolfenstein II: The New Colossus](https://psnprofiles.com/guide/6618-wolfenstein-ii-the-new-colossus-trophy-guide) | 10/10 | 50 | 1.27% | 197,794 | 4/5 | 41 | 169 |
+| [Doom 2](https://psnprofiles.com/guide/13993-doom-2-trophy-guide) | 10/10 | 30 | 1.60% | 27,327 | 5/5 | 12 | 28 |
+| [Ninja Gaiden Σ2](https://psnprofiles.com/guide/3069-ninja-gaiden-%CF%832-trophy-guide) | 10/10 | 60 | 1.79% | 17,927 | 4/5 | 11 | 23 |
+| [Ninja Gaiden Σ2](https://psnprofiles.com/guide/1004-ninja-gaiden-%CF%832-trophy-guide) | 10/10 | 130 | 1.79% | 45,332 | 4/5 | 9 | 26 |
+| [Bleed](https://psnprofiles.com/guide/6919-bleed-trophy-guide) | 10/10 | 15 | 2.13% | 15,893 |  | 0 | 11 |
+| [Fall Guys: Ultimate Knockout](https://psnprofiles.com/guide/10651-fall-guys-ultimate-knockout-trophy-guide) | 10/10 | 60 | 2.15% | 228,581 | 4/5 | 124 | 118 |
+| [Metal Gear Rising: Revengeance](https://psnprofiles.com/guide/232-metal-gear-rising-revengeance-trophy-guide) | 10/10 | 40 | 2.36% | 108,862 | 5/5 | 41 | 156 |
+| [Super Meat Boy Forever](https://psnprofiles.com/guide/12832-super-meat-boy-forever-trophy-guide) | 10/10 | 100 | 2.78% | 37,299 | 4/5 | 9 | 18 |
+| [Jump King](https://psnprofiles.com/guide/10474-jump-king-trophy-guide) | 10/10 | 100 | 2.98% | 63,159 | 5/5 | 7 | 21 |
+| [Splasher](https://psnprofiles.com/guide/11282-splasher-trophy-guide) | 10/10 | 50 | 5.43% | 34,147 | 5/5 | 13 | 18 |
+| [Ninja Gaiden Σ2](https://psnprofiles.com/guide/19141-ninja-gaiden-%CF%832-trophy-guide) | 10/10 | 120 | 6.21% | 4,861 | 5/5 | 6 | 6 |
+| [Fall Guys: Ultimate Knockout](https://psnprofiles.com/guide/14108-fall-guys-ultimate-knockout-trophy-guide) | 10/10 | 100 | 7.38% | 61,171 | 4/5 | 17 | 33 |
+| [Five Nights at Freddy's 2](https://psnprofiles.com/guide/9400-five-nights-at-freddys-2-trophy-guide) | 10/10 | 20 |  | 36,680 |  | 0 | 9 |
+| [Ultimate Custom Night](https://psnprofiles.com/guide/18972-ultimate-custom-night-trophy-guide) | 10/10 | 30 |  | 2,060 |  | 0 | 6 |
+| [Soulvars](https://psnprofiles.com/guide/18171-soulvars-trophy-guide) | 10/10 | 35 |  | 1,624 |  | 0 | 0 |
+| [Trials Fusion](https://psnprofiles.com/guide/8325-trials-fusion-trophy-guide) | 10/10 | 90 |  | 47,811 | 4/5 | 13 | 31 |
+| [DJMax Respect](https://psnprofiles.com/guide/16340-djmax-respect-link-disc-dlc-trophy-guide) | 10/10 | 100 |  | 3,450 |  | 0 | 4 |
+| [Crypt of the NecroDancer](https://psnprofiles.com/guide/17814-crypt-of-the-necrodancer-amplified-dlc-trophy-guide) | 10/10 | 150 |  | 5,625 | 5/5 | 8 | 8 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/15911-final-fantasy-xiv-endwalker-gods-revel-lands-tremble-dlc-trophy-guide) | 10/10 | 200 |  | 20,785 | 5/5 | 7 | 21 |
+| [Tetris Ultimate](https://psnprofiles.com/guide/10781-tetris-ultimate-trophy-guide) | 10/10 | 250 |  | 12,609 |  | 0 | 6 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/16848-final-fantasy-xiv-endwalker-the-dark-throne-dlc-trophy-guide) | 10/10 | 300 |  | 238,326 | 5/5 | 6 | 30 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/18082-final-fantasy-xiv-endwalker-growing-light-dlc-trophy-guide) | 10/10 | 999 |  | 166,829 |  | 0 | 22 |
+| https://psnprofiles.com/guide/19340-reveil-100-and-all-5-endings-walkthrough |  |  |  | 565 |  | 0 | 0 |
+| https://psnprofiles.com/guide/19596-%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%A1%E3%83%A2%E3%83%AF%E3%83%BC%E3%83%AB-%E3%83%95%E3%82%A7%E3%83%AB%E3%82%AC%E3%83%8A%E3%81%AE%E8%AA%93%E3%81%84-ys-memoire-the-oath-in-felghana-platinum-walkthrough |  |  |  | 695 |  | 0 | 2 |
+| https://psnprofiles.com/guide/19521-another-crabs-treasure-supplementary-collectibles-guide |  |  |  | 768 |  | 0 | 3 |
+| https://psnprofiles.com/guide/19232-moonglow-bay-fishing-guide |  |  |  | 820 |  | 0 | 3 |
+| https://psnprofiles.com/guide/17365-pathfinder-kingmaker-character-supplement-guide |  |  |  | 964 |  | 0 | 3 |
+| https://psnprofiles.com/guide/2760-duke-nukem-forever-collectibles-and-trophy-farming-locations-walkthrough |  |  |  | 17,420 | 5/5 | 7 | 22 |
+| https://psnprofiles.com/guide/1804-call-of-duty-black-ops-ii-giant-accomplishment-guide |  |  |  | 21,942 | 4/5 | 14 | 26 |
+| https://psnprofiles.com/guide/16624-song-of-horror-platinum-walkthrough |  |  |  | 6,754 |  | 0 | 5 |
+| https://psnprofiles.com/guide/12592-ghost-of-tsushima-body-mind-and-spirit-activities-guide |  |  |  | 33,541 | 4/5 | 14 | 10 |
+| https://psnprofiles.com/guide/3204-ninja-gaiden-%CF%832-comprehensive-mission-guide |  |  |  | 12,978 | 5/5 | 7 | 10 |
+| https://psnprofiles.com/guide/15831-dragon-quest-heroes-ii-endgame-guide |  |  |  | 11,263 | 4/5 | 5 | 13 |
+| https://psnprofiles.com/guide/10505-shovel-knight-specter-of-torment-all-collectible-locations |  |  |  | 13,590 |  | 0 | 4 |
+| https://psnprofiles.com/guide/16112-the-last-of-us-part-ii-platinum-and-dlc-guide |  |  |  | 15,817 | 5/5 | 15 | 27 |
+| https://psnprofiles.com/guide/16743-conception-plus-maidens-of-the-twelve-stars-quest-list-and-guide |  |  |  | 4,184 |  | 0 | 2 |
+| https://psnprofiles.com/guide/9696-dreams-prize-bubble-guide |  |  |  | 22,430 | 5/5 | 22 | 17 |
+| https://psnprofiles.com/guide/13654-grand-theft-auto-iii-is-that-all-youve-got-trophy-guide |  |  |  | 9,770 | 5/5 | 9 | 15 |
+| https://psnprofiles.com/guide/3350-the-book-of-unwritten-tales-2-walkthrough |  |  |  | 51,843 | 5/5 | 21 | 62 |
+| https://psnprofiles.com/guide/14168-bloodrayne-2-revamped-complete-game-walkthrough |  |  |  | 4,737 |  | 0 | 6 |
+| https://psnprofiles.com/guide/15383-the-legend-of-heroes-trails-from-zero-treasure-chest-guide |  |  |  | 14,414 | 4/5 | 7 | 4 |
+| https://psnprofiles.com/guide/3772-assassins-creed-rogue-100-sync-guide |  |  |  | 52,352 | 4/5 | 9 | 33 |
+| https://psnprofiles.com/guide/16357-the-legend-of-heroes-trails-to-azure-overall-walkthrough |  |  |  | 11,565 | 4/5 | 6 | 15 |
+| https://psnprofiles.com/guide/579-guacamelee-world-champion-guide |  |  |  | 16,513 | 5/5 | 13 | 20 |
+| https://psnprofiles.com/guide/14014-yu-gi-oh-master-duel-to-greater-heights-walkthrough |  |  |  | 4,841 |  | 0 | 6 |
+| https://psnprofiles.com/guide/1803-the-evil-within-akumu-playthrough-guide |  |  |  | 46,827 |  | 0 | 47 |
+| https://psnprofiles.com/guide/368-final-fantasy-x-hd-cloister-of-trials-guide |  |  |  | 33,125 | 5/5 | 21 | 98 |
+| https://psnprofiles.com/guide/12688-dantes-inferno-ea-community-trials-guide |  |  |  | 16,634 | 5/5 | 14 | 12 |
+| https://psnprofiles.com/guide/13917-rune-factory-4-special-shipped-all-items-guide |  |  |  | 19,707 |  | 0 | 7 |
+| https://psnprofiles.com/guide/16579-final-fantasy-iii-complete-walkthrough |  |  |  | 190,659 | 5/5 | 73 | 101 |
+| https://psnprofiles.com/guide/9813-tales-of-graces-f-walkthrough-guide |  |  |  | 29,475 | 4/5 | 7 | 20 |
 | https://psnprofiles.com/guide/6566-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E9%96%83%E3%81%AE%E8%BB%8C%E8%B7%A1iii-trails-of-cold-steel-iii-overall-walkthrough |  |  |  | 446,902 | 5/5 | 6 | 86 |
-| https://psnprofiles.com/guide/4970-the-legend-of-heroes-trails-of-cold-steel-ii-overall-walkthrough |  |  |  | 474,172 | 5/5 | 45 | 148 |
-| https://psnprofiles.com/guide/15974-persona-3-portable-ultimate-100-walkthrough |  |  |  | 451,656 | 5/5 | 13 | 136 |
-| https://psnprofiles.com/guide/3724-the-legend-of-heroes-trails-of-cold-steel-overall-walkthrough |  |  |  | 403,208 | 5/5 | 40 | 218 |
-| https://psnprofiles.com/guide/287-kingdom-hearts-rechain-of-memories-boss-guide |  |  |  | 292,299 | 4/5 | 22 | 62 |
-| https://psnprofiles.com/guide/7236-persona-5-complete-100-walkthrough |  |  |  | 622,267 | 5/5 | 108 | 360 |
+| https://psnprofiles.com/guide/18792-tomb-raider-i-unfinished-business-complete-dlc-guide |  |  |  | 8,090 |  | 0 | 3 |
+| https://psnprofiles.com/guide/8262-borderlands-the-pre-sequel-cross-save-quick-reference-trophy-guide |  |  |  | 14,894 | 5/5 | 5 | 11 |
+| https://psnprofiles.com/guide/14735-red-faction-guerrilla-collectibles-and-exploration-guide |  |  |  | 4,165 |  | 0 | 0 |
+| https://psnprofiles.com/guide/13636-megaquarium-fish-and-animal-compendium |  |  |  | 1,468 |  | 0 | 0 |
+| https://psnprofiles.com/guide/18451-metro-2033-redux-collectibles-guide |  |  |  | 3,647 | 5/5 | 6 | 7 |
+| https://psnprofiles.com/guide/11349-fifa-20-only-one-walkthrough |  |  |  | 7,711 | 5/5 | 5 | 3 |
+| https://psnprofiles.com/guide/6120-tales-of-innocence-r-faq |  |  |  | 16,477 | 5/5 | 5 | 15 |
+| https://psnprofiles.com/guide/15697-metro-last-light-ranger-mode-walkthrough |  |  |  | 2,659 |  | 0 | 1 |
+| https://psnprofiles.com/guide/16100-drowning-platinum-walkthrough |  |  |  | 1,980 |  | 0 | 3 |
+| https://psnprofiles.com/guide/7353-farpoint-challenge-guide |  |  |  | 19,019 | 5/5 | 6 | 19 |
+| https://psnprofiles.com/guide/13432-lego-dc-super-villains-dlc-packs-1-6-trophy-guide |  |  |  | 25,948 | 5/5 | 7 | 21 |
+| https://psnprofiles.com/guide/18624-aliens-fireteam-elite-solo-insane-difficulty-walkthrough |  |  |  | 3,734 |  | 0 | 8 |
+| https://psnprofiles.com/guide/3564-superbeat-xonic-gameplay-background |  |  |  | 9,428 | 5/5 | 5 | 8 |
+| https://psnprofiles.com/guide/9141-far-cry-2-multiplayer-guide |  |  |  | 25,565 | 4/5 | 11 | 21 |
+| https://psnprofiles.com/guide/4948-alone-with-you-platinum-walkthrough |  |  |  | 39,463 | 5/5 | 7 | 25 |
+| https://psnprofiles.com/guide/914-red-dead-redemption-redeemed-guide |  |  |  | 80,819 | 5/5 | 42 | 120 |
+| https://psnprofiles.com/guide/8356-trials-fusion-track-challenge-guide |  |  |  | 14,831 | 5/5 | 6 | 10 |
+| https://psnprofiles.com/guide/14930-seeds-of-resilience-animal-care-trophy-guide |  |  |  | 1,885 |  | 0 | 2 |
+| https://psnprofiles.com/guide/16901-lake-platinum-walkthrough |  |  |  | 23,976 | 5/5 | 14 | 32 |
+| https://psnprofiles.com/guide/2072-%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC-%E6%88%A6%E8%BB%8A%E9%81%93%E6%A5%B5%E3%82%81%E3%81%BE%E3%81%99-girls-und-panzer-supplement-guide |  |  |  | 4,517 |  | 0 | 8 |
+| https://psnprofiles.com/guide/17552-white-day-a-labyrinth-named-school-endinghellghostitem-guide |  |  |  | 2,480 |  | 0 | 2 |
+| https://psnprofiles.com/guide/15214-toem-100-walkthrough |  |  |  | 53,126 | 5/5 | 40 | 38 |
+| https://psnprofiles.com/guide/5822-gravity-rush-2-collectibles-manholes-side-mission-and-challenge-mission-guide |  |  |  | 49,801 | 4/5 | 38 | 39 |
+| https://psnprofiles.com/guide/18277-psnprofiles-leaderboard-rules-disputes |  |  |  | 12,322 | 4/5 | 55 | 32 |
+| https://psnprofiles.com/guide/8346-dying-light-the-bozak-horde-walkthrough |  |  |  | 36,207 | 5/5 | 13 | 15 |
+| https://psnprofiles.com/guide/2993-ys-memories-of-celceta-complementary-guide |  |  |  | 61,990 | 5/5 | 14 | 39 |
+| https://psnprofiles.com/guide/17564-black-skylands-black-skylands-treasure-chest-guide |  |  |  | 5,238 |  | 0 | 2 |
+| https://psnprofiles.com/guide/12177-toy-story-3-the-collector-gold-stars-guide |  |  |  | 20,222 | 5/5 | 6 | 15 |
+| https://psnprofiles.com/guide/9921-persona-5-royal-will-seed-collectible-locations |  |  |  | 37,570 | 5/5 | 6 | 30 |
+| https://psnprofiles.com/guide/4335-tales-of-vesperia-collectibles-guide |  |  |  | 47,869 |  | 0 | 27 |
+| https://psnprofiles.com/guide/12111-resident-evil-dont-stop-running-speedrun-guide |  |  |  | 17,612 | 5/5 | 14 | 27 |
+| https://psnprofiles.com/guide/5964-zero-escape-the-nonary-games-zero-escape-999-trophies-and-puzzles-guide |  |  |  | 33,935 | 4/5 | 9 | 37 |
+| https://psnprofiles.com/guide/10959-yakuza-kiwami-2-all-done-trophy-guide |  |  |  | 36,808 |  | 0 | 14 |
+| https://psnprofiles.com/guide/16425-resident-evil-4-professional-s-walkthrough-and-strategy-guide |  |  |  | 26,001 | 4/5 | 9 | 18 |
+| https://psnprofiles.com/guide/17729-mia-and-the-dragon-princess-trophy-walkthrough |  |  |  | 2,677 |  | 0 | 8 |
+| https://psnprofiles.com/guide/18797-persona-3-reload-ultimate-100-walkthrough |  |  |  | 126,903 |  | 0 | 48 |
 | https://psnprofiles.com/guide/8564-persona-4-golden-platinum-walkthrough |  |  |  | 780,147 | 5/5 | 34 | 356 |
-| https://psnprofiles.com/guide/3895-dark-cloud-2-ideas-scoops-and-inventions-guide |  |  |  | 308,217 | 5/5 | 8 | 36 |
+| https://psnprofiles.com/guide/7235-unepic-trophy-walkthrough |  |  |  | 10,603 | 5/5 | 7 | 12 |
+| https://psnprofiles.com/guide/16359-brok-the-investigator-platinum-walkthrough |  |  |  | 10,467 |  | 0 | 9 |
+| https://psnprofiles.com/guide/13998-horizon-forbidden-west-all-collectables-guide |  |  |  | 30,112 | 5/5 | 6 | 24 |
+| https://psnprofiles.com/guide/13125-hades-daedalus-hammer-upgrades |  |  |  | 22,070 |  | 0 | 9 |
+| https://psnprofiles.com/guide/3650-rocketbirds-hardboiled-chicken-collectible-signs-guide |  |  |  | 9,981 | 5/5 | 15 | 15 |
+| https://psnprofiles.com/guide/16396-fallout-3-all-dlc-trophies-walkthrough-and-roadmap |  |  |  | 5,393 | 5/5 | 7 | 15 |
+| https://psnprofiles.com/guide/12753-atelier-lulua-the-scion-of-arland-ultimate-end-game-gear-item-guide |  |  |  | 10,315 |  | 0 | 7 |
+| https://psnprofiles.com/guide/3482-moe-chronicle-monster-girl-guide |  |  |  | 132,051 | 5/5 | 6 | 21 |
+| https://psnprofiles.com/guide/16370-the-legend-of-heroes-trails-to-azure-treasure-chest-guide |  |  |  | 5,620 |  | 0 | 3 |
+| https://psnprofiles.com/guide/16016-red-dead-redemption-modern-multiplayer-boosting |  |  |  | 15,438 | 5/5 | 25 | 33 |
+| https://psnprofiles.com/guide/7861-skylanders-superchargers-figure-and-vehicle-guide |  |  |  | 7,801 |  | 0 | 0 |
+| https://psnprofiles.com/guide/15659-pac-man-museum-pac-master-guide |  |  |  | 3,827 |  | 0 | 4 |
+| https://psnprofiles.com/guide/14250-dusk-diver-combat-side-quests-gallery-guide |  |  |  | 5,205 |  | 0 | 5 |
+| https://psnprofiles.com/guide/7186-claire-full-trophy-walkthrough |  |  | The Good One | 51,547 | 5/5 | 54 | 111 |
+| https://psnprofiles.com/guide/8130-final-fantasy-ix-rank-s-treasure-hunter-guide |  |  |  | 60,245 | 3/5 | 9 | 20 |
+| https://psnprofiles.com/guide/9089-agent-a-a-puzzle-in-disguise-platinum-walkthrough-textimagevideo |  |  |  | 98,410 |  | 0 | 8 |
+| https://psnprofiles.com/guide/596-the-last-of-us-multiplayer-missions-guide |  |  |  | 215,346 | 5/5 | 65 | 262 |
+| https://psnprofiles.com/guide/16575-final-fantasy-pixel-remaster-walkthrough |  |  |  | 136,522 | 5/5 | 79 | 89 |
+| https://psnprofiles.com/guide/16583-final-fantasy-v-pixel-remaster-walkthrough |  |  |  | 106,443 | 4/5 | 82 | 38 |
+| https://psnprofiles.com/guide/2934-borderlands-2-cross-save-quick-reference-trophy-guide |  |  |  | 34,800 | 4/5 | 14 | 34 |
+| https://psnprofiles.com/guide/4052-swapquest-hidden-jewels-guide |  |  |  | 2,880 |  | 0 | 6 |
+| https://psnprofiles.com/guide/14218-sakura-succubus-3-platinum-walkthrough |  |  |  | 3,186 |  | 0 | 3 |
 | https://psnprofiles.com/guide/8080-hollow-knight-trophy-walkthrough |  |  | Heart of Hallownest | 451,585 | 5/5 | 60 | 430 |
+| https://psnprofiles.com/guide/4432-dark-souls-iii-pvp-supplement-guide |  |  |  | 9,348 | 3/5 | 11 | 4 |
+| https://psnprofiles.com/guide/7348-regalia-of-men-and-monarchs-trophy-walkthrough |  |  |  | 29,048 | 5/5 | 5 | 18 |
+| https://psnprofiles.com/guide/1109-watch-dogs-social-lubricant-guide |  |  |  | 14,457 | 5/5 | 16 | 28 |
+| https://psnprofiles.com/guide/13352-deponia-100-trophies-walkthrough |  |  | The End | 9,071 | 5/5 | 8 | 14 |
+| https://psnprofiles.com/guide/18230-tales-of-arise-beyond-the-dawn-expansion-sub-quest-guide |  |  |  | 6,947 | 5/5 | 6 | 8 |
+| https://psnprofiles.com/guide/15152-the-last-of-us-part-i-platinum-guide |  |  |  | 87,880 | 5/5 | 29 | 154 |
+| https://psnprofiles.com/guide/3709-assassins-creed-syndicate-jack-the-ripper-100-sync-guide |  |  |  | 68,797 | 5/5 | 14 | 22 |
+| https://psnprofiles.com/guide/7037-deus-ex-mankind-divided-missable-trophy-walkthrough |  |  |  | 51,685 | 5/5 | 24 | 78 |
+| https://psnprofiles.com/guide/4109-heavy-rain-trophy-walkthrough |  |  |  | 202,686 | 5/5 | 115 | 387 |
+| https://psnprofiles.com/guide/17563-dead-to-rights-retribution-cop-badges-guide |  |  |  | 1,455 |  | 0 | 1 |
+| https://psnprofiles.com/guide/15960-borderlands-the-pre-sequel-walkthrough-for-select-dlc-missions |  |  |  | 3,924 |  | 0 | 4 |
+| https://psnprofiles.com/guide/9337-batman-arkham-origins-multiplayer-guide |  |  |  | 32,426 | 4/5 | 19 | 21 |
+| https://psnprofiles.com/guide/15936-%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92%E5%B8%8C%E6%9C%9B%E3%81%AE%E8%BF%B7%E5%AE%AE%E3%81%A8%E9%9B%86%E3%81%84%E3%81%97%E5%86%92%E9%99%BA%E8%80%85%E3%81%9F%E3%81%A1plus-quests-guide |  |  |  | 1,570 |  | 0 | 1 |
+| https://psnprofiles.com/guide/6891-nine-parchments-how-to-unlock-all-characters-variations-guide |  |  |  | 55,476 |  | 0 | 3 |
+| https://psnprofiles.com/guide/8499-god-of-war-100-trophy-walkthrough |  |  |  | 146,558 | 5/5 | 93 | 143 |
+| https://psnprofiles.com/guide/18654-wolfenstein-ii-the-new-colossus-mein-leben-strategy-guide |  |  |  | 6,695 | 5/5 | 23 | 44 |
+| https://psnprofiles.com/guide/9295-atelier-ryza-ever-darkness-the-secret-hideout-walkthrough |  |  |  | 151,470 | 5/5 | 12 | 32 |
+| https://psnprofiles.com/guide/16460-romancelvania-the-dating-guide-for-lonely-vampires |  |  |  | 13,226 |  | 0 | 3 |
+| https://psnprofiles.com/guide/39-rapala-pro-bass-fishing-true-legend-guide |  |  |  | 49,191 |  | 0 | 4 |
+| https://psnprofiles.com/guide/17842-music-racer-ultimate-how-to-add-your-own-music |  |  |  | 1,945 |  | 0 | 3 |
+| https://psnprofiles.com/guide/5052-helldivers-powerleveling-crash-course |  |  |  | 8,990 | 3/5 | 15 | 9 |
+| https://psnprofiles.com/guide/3097-ninja-gaiden-%CF%832-general-advice |  |  |  | 5,847 |  | 0 | 4 |
+| https://psnprofiles.com/guide/18872-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire-all-endings-walkthrough |  |  |  | 1,709 |  | 0 | 0 |
+| https://psnprofiles.com/guide/964-puppeteer-collectible-guide |  |  |  | 36,332 | 5/5 | 62 | 126 |
+| https://psnprofiles.com/guide/18091-digimon-survive-platinum-walkthrough |  |  |  Unlocked -  Survival Maste | 5,332 |  | 0 | 15 |
+| https://psnprofiles.com/guide/6712-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F6-%E5%91%BD%E3%81%AE%E8%A9%A9-substories-guide |  |  |  | 81,993 |  | 0 | 25 |
+| https://psnprofiles.com/guide/14895-hot-shots-golf-platinum-walkthrough |  |  |  | 7,728 |  | 0 | 11 |
+| https://psnprofiles.com/guide/9698-the-dark-pictures-anthology-man-of-medan-collectibles-guide |  |  |  | 63,878 | 4/5 | 14 | 30 |
+| https://psnprofiles.com/guide/13889-this-is-the-police-2-calls-guide |  |  |  | 40,466 |  | 0 | 6 |
+| https://psnprofiles.com/guide/16130-akb1149-%E6%81%8B%E6%84%9B%E7%B7%8F%E9%81%B8%E6%8C%99-platinum-walkthrough |  |  |  | 2,198 |  | 0 | 4 |
+| https://psnprofiles.com/guide/18822-dark-souls-iii-platinum-walkthrough |  |  |  | 5,784 | 5/5 | 8 | 25 |
+| https://psnprofiles.com/guide/12339-operation-tango-platinum-walkthrough |  |  |  | 41,298 | 4/5 | 7 | 13 |
+| https://psnprofiles.com/guide/15925-borderlands-3-bounty-of-blood-all-crew-challenges |  |  |  | 9,311 | 5/5 | 5 | 5 |
+| https://psnprofiles.com/guide/9054-wolfenstein-multiplayer-guide |  |  |  | 9,695 | 5/5 | 6 | 9 |
+| https://psnprofiles.com/guide/18920-hypnospace-outlaw-case-and-archiving-guide |  |  |  | 2,569 |  | 0 | 0 |
+| https://psnprofiles.com/guide/1630-dragons-dogma-dark-arisen-the-hero-guide |  |  |  | 81,767 | 5/5 | 26 | 67 |
+| https://psnprofiles.com/guide/13893-simulacra-trophy-walkthrough |  |  |  | 13,592 | 4/5 | 7 | 9 |
+| https://psnprofiles.com/guide/12154-disgaea-d2-supplement-guide |  |  |  | 5,916 |  | 0 | 2 |
+| https://psnprofiles.com/guide/16950-tux-and-fanny-platinum-walkthrough |  |  |  | 2,673 |  | 0 | 1 |
+| https://psnprofiles.com/guide/9188-grand-theft-auto-iii-100-is-that-all-youve-got-trophy-guide |  |  |  | 35,420 | 5/5 | 14 | 40 |
+| https://psnprofiles.com/guide/3584-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E9%96%83%E3%81%AE%E8%BB%8C%E8%B7%A1%E2%85%A1-trails-of-cold-steel-ii-overall-walkthrough |  |  |  | 27,872 |  | 0 | 16 |
+| https://psnprofiles.com/guide/14545-call-of-duty-black-ops-4-blackout-character-guide |  |  |  | 13,864 | 5/5 | 11 | 19 |
+| https://psnprofiles.com/guide/11616-control-100-trophy-walkthrough |  |  |  | 79,639 | 5/5 | 62 | 177 |
+| https://psnprofiles.com/guide/14015-chicken-police-platinum-walkthrough |  |  |  | 47,380 | 5/5 | 13 | 44 |
+| https://psnprofiles.com/guide/3340-disgaea-4-a-promise-unforgotten-supplement-guide |  |  |  | 24,446 |  | 0 | 14 |
+| https://psnprofiles.com/guide/15324-attack-on-titan-2-inferno-mode-tips-materials-farming-guide-and-other-information-guide |  |  |  | 14,040 |  | 0 | 4 |
+| https://psnprofiles.com/guide/13006-tales-of-arise-sub-quest-guide |  |  |  | 53,305 | 5/5 | 7 | 29 |
+| https://psnprofiles.com/guide/13956-twelve-minutes-100-walkthrough-guide |  |  |  | 14,872 | 5/5 | 5 | 9 |
+| https://psnprofiles.com/guide/4804-virtues-last-reward-escapistredacted-guide |  |  |  | 24,047 |  | 0 | 16 |
+| https://psnprofiles.com/guide/19009-spellforce-iii-reforced-artifacts-blueprint-guide |  |  |  | 1,142 |  | 0 | 0 |
+| https://psnprofiles.com/guide/4749-riptide-gp-renegade-track-shortcuts-guide |  |  |  | 11,749 |  | 0 | 13 |
+| https://psnprofiles.com/guide/9938-persona-5-royal-confidants-guide |  |  |  | 191,953 | 5/5 | 9 | 44 |
+| https://psnprofiles.com/guide/2032-bioshock-worlds-of-hurt-expert-trophy-guide |  |  |  | 24,553 | 5/5 | 10 | 25 |
+| https://psnprofiles.com/guide/15974-persona-3-portable-ultimate-100-walkthrough |  |  |  | 451,656 | 5/5 | 13 | 136 |
+| https://psnprofiles.com/guide/17516-chicory-a-colorful-tale-platinum-walkthrough |  |  |  | 8,455 | 5/5 | 9 | 20 |
+| https://psnprofiles.com/guide/9670-spirit-hunter-ng-platinum-walkthrough |  |  |  | 103,478 | 5/5 | 8 | 17 |
+| https://psnprofiles.com/guide/17615-borderlands-2-a-vault-hunters-diary |  |  |  | 5,719 | 5/5 | 11 | 14 |
+| https://psnprofiles.com/guide/16585-final-fantasy-vi-pixel-remaster-walkthrough |  |  |  | 106,946 | 5/5 | 54 | 55 |
+| https://psnprofiles.com/guide/7978-castlevania-requiem-symphony-of-the-night-rondo-of-blood-trophy-walkthrough |  |  |  | 46,294 | 4/5 | 25 | 45 |
+| https://psnprofiles.com/guide/15927-dead-by-daylight-the-100-dead-by-daylight-guide |  |  |  | 8,936 | 5/5 | 17 | 33 |
+| https://psnprofiles.com/guide/17699-the-isle-tide-hotel-trophy-walkthrough |  |  |  | 7,039 |  | 0 | 5 |
+| https://psnprofiles.com/guide/6893-knee-deep-trophy-walkthrough |  |  | TROPHIES EARNED: | 4,232 | 5/5 | 8 | 13 |
+| https://psnprofiles.com/guide/1787-the-evil-within-collectables-guide |  |  |  | 24,066 |  | 0 | 15 |
+| https://psnprofiles.com/guide/4331-danganronpa-another-episode-ultra-despair-girls-collectibles-guide |  |  |  | 103,014 | 5/5 | 10 | 53 |
+| https://psnprofiles.com/guide/3895-dark-cloud-2-ideas-scoops-and-inventions-guide |  |  |  | 308,217 | 5/5 | 8 | 36 |
+| https://psnprofiles.com/guide/3527-beyond-good-evil-hd-collectible-guide |  |  |  | 12,152 | 5/5 | 10 | 22 |
+| https://psnprofiles.com/guide/9353-woven-collectible-platinum-walkthrough |  |  |  | 7,779 |  | 0 | 2 |
+| https://psnprofiles.com/guide/1136-tomb-raider-collectibles-guide |  |  |  | 35,696 | 5/5 | 12 | 57 |
+| https://psnprofiles.com/guide/8812-the-elder-scrolls-online-master-fisher-guide |  |  |  | 33,859 | 4/5 | 6 | 9 |
+| https://psnprofiles.com/guide/5505-shantae-half-genie-hero-any100-speedrun-guide |  |  |  | 35,678 | 5/5 | 8 | 27 |
+| https://psnprofiles.com/guide/17151-silent-hill-downpour-100-all-collectiblesside-questsendings-walkthrough-speedrun-guide |  |  |  | 3,312 | 5/5 | 5 | 8 |
+| https://psnprofiles.com/guide/16537-resident-evil-4-100-collectibles-walkthrough |  |  |  | 12,766 | 5/5 | 9 | 15 |
+| https://psnprofiles.com/guide/15398-hell-pie-devilish-collectables-guide |  |  |  | 9,544 |  | 0 | 1 |
+| https://psnprofiles.com/guide/13816-payday-2-crimewave-edition-complete-2022-platinum-guide |  |  |  | 10,514 | 5/5 | 10 | 20 |
+| https://psnprofiles.com/guide/10471-warframe-the-complete-trophy-guide-ps4 |  |  |  | 47,790 | 5/5 | 23 | 49 |
+| https://psnprofiles.com/guide/8433-resident-evil-2-ultimate-survival-guide |  |  |  | 53,944 | 5/5 | 35 | 46 |
+| https://psnprofiles.com/guide/13255-lego-city-undercover-special-assignments-collectables-guide |  |  |  | 15,123 | 5/5 | 6 | 16 |
+| https://psnprofiles.com/guide/14320-song-of-memories-platinum-walkthrough |  |  |  | 6,677 |  | 0 | 8 |
+| https://psnprofiles.com/guide/72-littlebigplanet-2-prize-bubble-location-guide |  |  |  | 12,298 | 5/5 | 14 | 30 |
+| https://psnprofiles.com/guide/5007-the-tomorrow-children-gameplay-guide |  |  |  | 7,612 |  | 0 | 7 |
+| https://psnprofiles.com/guide/3871-until-dawn-walkthrough-collectibles-guide |  |  |  | 50,822 | 5/5 | 42 | 74 |
+| https://psnprofiles.com/guide/4314-shantae-and-the-pirates-curse-any100-speedrun-walkthrough |  |  |  | 43,587 | 5/5 | 9 | 19 |
+| https://psnprofiles.com/guide/13581-death-mark-platinum-guide |  |  |  | 14,355 |  | 0 | 8 |
+| https://psnprofiles.com/guide/9645-front-mission-evolved-multiplayer-guide |  |  |  | 5,402 |  | 0 | 8 |
+| https://psnprofiles.com/guide/14440-vampire-the-masquerade-swansong-complete-walkthrough |  |  |  | 33,259 | 3/5 | 5 | 26 |
+| https://psnprofiles.com/guide/2653-paranormal-pursuit-the-gifted-one-walkthrough |  |  |  | 3,388 |  | 0 | 3 |
+| https://psnprofiles.com/guide/14221-final-fantasy-xiv-endwalker-encounter-guide-extreme |  |  |  | 116,472 |  | 0 | 16 |
+| https://psnprofiles.com/guide/15401-syphon-filter-full-game-walkthrough |  |  |  | 23,699 | 5/5 | 5 | 19 |
+| https://psnprofiles.com/guide/8315-kingdom-hearts-iii-synthesis-guide |  |  |  | 80,191 | 5/5 | 31 | 72 |
+| https://psnprofiles.com/guide/9678-the-walking-dead-the-final-season-disc-trophy-walkthrough |  |  |  | 52,656 |  | 0 | 45 |
+| https://psnprofiles.com/guide/16199-axiom-verge-2-collectibles-guide |  |  |  | 7,580 | 5/5 | 5 | 6 |
+| https://psnprofiles.com/guide/8855-doodle-god-100-walkthrough |  |  |  | 309,592 |  | 0 | 8 |
+| https://psnprofiles.com/guide/12062-atelier-sophie-the-alchemist-of-the-mysterious-book-compendium-guide |  |  |  | 15,436 |  | 0 | 5 |
+| https://psnprofiles.com/guide/7883-fist-of-the-north-star-lost-paradise-substory-guide |  |  |  | 71,211 | 5/5 | 5 | 19 |
+| https://psnprofiles.com/guide/8877-borderlands-cross-save-quick-reference-trophy-guide |  |  |  | 17,148 | 5/5 | 6 | 11 |
+| https://psnprofiles.com/guide/6257-nier-automata-walkthrough-on-story-and-all-endings |  |  |  | 92,723 | 5/5 | 23 | 79 |
+| https://psnprofiles.com/guide/4970-the-legend-of-heroes-trails-of-cold-steel-ii-overall-walkthrough |  |  |  | 474,172 | 5/5 | 45 | 148 |
+| https://psnprofiles.com/guide/14684-disney-classic-games-aladdin-and-the-lion-king-full-platinum-walkthrough |  |  |  | 14,838 | 5/5 | 6 | 14 |
+| https://psnprofiles.com/guide/18056-dark-souls-ii-scholar-of-the-first-sin-platinum-walkthrough |  |  |  | 13,637 | 5/5 | 16 | 50 |
+| https://psnprofiles.com/guide/17754-remnant-from-the-ashes-survival-mode-solo-guide |  |  |  | 4,661 | 5/5 | 6 | 6 |
+| https://psnprofiles.com/guide/3030-kingdom-hearts-rechain-of-memories-heartless-hunting-101 |  |  |  | 45,360 | 4/5 | 7 | 24 |
+| https://psnprofiles.com/guide/11564-tokyo-dark-remembrance-trophy-walkthrough |  |  |  | 18,156 | 5/5 | 11 | 12 |
+| https://psnprofiles.com/guide/15351-the-legend-of-heroes-trails-from-zero-walkthrough |  |  |  | 37,800 | 4/5 | 11 | 28 |
+| https://psnprofiles.com/guide/10663-buried-stars-full-platinum-walkthrough |  |  |  | 75,615 |  | 0 | 7 |
+| https://psnprofiles.com/guide/14472-beyond-a-steel-sky-platinum-walkthrough |  |  |  | 15,210 |  | 0 | 13 |
+| https://psnprofiles.com/guide/7674-devil-may-cry-missable-trophiescollectibles-guide |  |  |  | 6,452 | 4/5 | 7 | 22 |
+| https://psnprofiles.com/guide/5010-psycho-pass-mandatory-happiness-walkthrough |  |  |  | 110,263 | 5/5 | 46 | 145 |
+| https://psnprofiles.com/guide/8219-divinity-original-sin-2-tactician-honour-mode-walkthrough |  |  |  | 210,443 | 5/5 | 8 | 37 |
+| https://psnprofiles.com/guide/8797-bloodstained-ritual-of-the-night-definitive-collectible-guide |  |  |  | 58,834 | 5/5 | 10 | 43 |
+| https://psnprofiles.com/guide/14150-grand-theft-auto-v-doomsday-heist-walkthrough |  |  |  | 54,486 | 5/5 | 12 | 21 |
+| https://psnprofiles.com/guide/19186-final-fantasy-vii-rebirth-legendary-bout-combat-simulator-guide |  |  |  | 60,526 | 5/5 | 21 | 24 |
+| https://psnprofiles.com/guide/15510-god-of-war-ragnar%C3%B6k-all-collectibles-per-region |  |  |  | 85,031 | 5/5 | 28 | 85 |
+| https://psnprofiles.com/guide/13851-grand-theft-auto-vice-city-done-it-all-trophy-guide |  |  |  | 45,984 | 5/5 | 12 | 26 |
+| https://psnprofiles.com/guide/3248-port-royale-3-guide-to-manual-naval-battles |  |  |  | 19,907 |  | 0 | 8 |
+| https://psnprofiles.com/guide/7856-shadow-of-the-tomb-raider-trophy-walkthrough |  |  | Chalice of Torment | 44,015 | 5/5 | 33 | 63 |
+| https://psnprofiles.com/guide/19470-tunic-platinum-walkthrough |  |  |  | 93,927 | 5/5 | 9 | 78 |
+| https://psnprofiles.com/guide/14567-wild-arms-walkthrough |  |  |  | 57,818 | 5/5 | 8 | 33 |
+| https://psnprofiles.com/guide/12278-saga-frontier-remastered-character-recruitment-guide |  |  |  | 39,047 |  | 0 | 2 |
+| https://psnprofiles.com/guide/13587-super-monkey-ball-banana-mania-complete-conquest-trophy-walkthrough |  |  |  | 19,770 | 5/5 | 8 | 20 |
+| https://psnprofiles.com/guide/7-sonic-unleashed-medal-guide |  |  |  | 73,245 | 4/5 | 8 | 21 |
+| https://psnprofiles.com/guide/7205-shadow-of-the-colossus-time-trials-items-guide |  |  |  | 43,437 | 5/5 | 22 | 54 |
+| https://psnprofiles.com/guide/6917-knee-deep-opto-test-guide |  |  |  | 2,135 |  | 0 | 2 |
+| https://psnprofiles.com/guide/14768-keywe-collectibles-guide-secrets-of-the-telepost |  |  |  | 45,136 |  | 0 | 2 |
+| https://psnprofiles.com/guide/15600-medal-of-honor-warfighter-multiplayer-guide |  |  |  | 4,821 | 4/5 | 9 | 5 |
+| https://psnprofiles.com/guide/15172-epic-chef-complete-tournament-guide |  |  |  | 11,463 |  | 0 | 1 |
+| https://psnprofiles.com/guide/8739-devil-may-cry-4-bloody-palace-guide |  |  |  | 8,725 |  | 0 | 12 |
+| https://psnprofiles.com/guide/4696-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E7%A9%BA%E3%81%AE%E8%BB%8C%E8%B7%A1-sc-evolution-bracer-guild-monster-guide |  |  |  | 5,511 |  | 0 | 2 |
+| https://psnprofiles.com/guide/3864-dynasty-warriors-next-coalition-mode-s-rank-guide |  |  |  | 7,543 | 5/5 | 6 | 12 |
+| https://psnprofiles.com/guide/14289-reflection-of-mine-solutions-guide |  |  |  | 1,614 |  | 0 | 3 |
+| https://psnprofiles.com/guide/7502-overwatch-2-boosting-guide |  |  |  | 22,201 | 4/5 | 8 | 10 |
+| https://psnprofiles.com/guide/5992-the-sexy-brutale-walkthrough-collectibles-guide |  |  |  | 60,560 | 4/5 | 21 | 24 |
+| https://psnprofiles.com/guide/15201-we-are-ofk-how-to-get-all-3-voicemail-trophies |  |  |  | 4,465 |  | 0 | 2 |
+| https://psnprofiles.com/guide/14055-judgment-kamurogo-master-guide |  |  |  | 16,744 | 4/5 | 5 | 16 |
+| https://psnprofiles.com/guide/14904-fobia-st-dinfna-hotel-platinum-walkthrough |  |  |  | 39,315 | 5/5 | 8 | 2 |
+| https://psnprofiles.com/guide/3588-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E9%96%83%E3%81%AE%E8%BB%8C%E8%B7%A1-trails-of-cold-steel-overall-walkthrough |  |  |  | 53,071 |  | 0 | 21 |
+| https://psnprofiles.com/guide/4250-the-witcher-3-wild-hunt-card-collector-guide |  |  |  | 244,519 | 5/5 | 50 | 219 |
+| https://psnprofiles.com/guide/18259-sable-chum-egg-guide |  |  |  | 4,950 |  | 0 | 3 |
+| https://psnprofiles.com/guide/2761-broken-age-lets-get-this-good-time-over-with-speedrun-walkthrough |  |  |  | 28,381 | 5/5 | 40 | 74 |
+| https://psnprofiles.com/guide/3543-tales-of-hearts-r-namcoin-collection-guide |  |  |  | 33,150 | 5/5 | 10 | 33 |
+| https://psnprofiles.com/guide/14825-ai-the-somnium-files-nirvana-initiative-full-trophy-walkthrough |  |  |  | 47,704 | 5/5 | 5 | 14 |
+| https://psnprofiles.com/guide/18934-final-fantasy-vii-rebirth-strategy-mini-game-guide |  |  |  | 389,649 | 5/5 | 67 | 75 |
+| https://psnprofiles.com/guide/3170-fuse-echelon-and-collectibles-guide |  |  |  | 3,665 | 5/5 | 5 | 5 |
+| https://psnprofiles.com/guide/5232-lego-harry-potter-collection-years-1-4-collectables-guide |  |  |  | 147,001 | 5/5 | 16 | 85 |
+| https://psnprofiles.com/guide/15205-castlevania-lords-of-shadow-collectibles-guide |  |  |  | 13,809 |  | 0 | 5 |
+| https://psnprofiles.com/guide/14167-ticket-to-ride-the-complete-trophy-guide |  |  |  | 3,995 |  | 0 | 4 |
+| https://psnprofiles.com/guide/4076-tom-clancys-the-division-collectibles-guide |  |  |  | 21,393 | 4/5 | 9 | 42 |
+| https://psnprofiles.com/guide/9650-coffee-talk-drinks-guide-and-recipes |  |  |  | 115,681 | 5/5 | 13 | 12 |
+| https://psnprofiles.com/guide/11946-persona-5-royal-100-perfect-schedule |  |  |  | 2,546,151 | 5/5 | 39 | 456 |
+| https://psnprofiles.com/guide/7368-la-noire-five-star-case-guide |  |  |  | 125,063 | 4/5 | 24 | 63 |
+| https://psnprofiles.com/guide/12604-summon-night-6-lost-borders-complimentary-guide |  |  |  | 8,589 |  | 0 | 3 |
+| https://psnprofiles.com/guide/16510-bill-and-teds-excellent-retro-collection-bill-and-teds-excellent-nes-guide |  |  |  | 1,713 |  | 0 | 1 |
+| https://psnprofiles.com/guide/17331-oceanhorn-2-knights-of-the-lost-realm-collectible-guide |  |  |  | 11,265 |  | 0 | 5 |
+| https://psnprofiles.com/guide/16339-devil-may-cry-5-worthy-of-legend-trophy-guide |  |  |  | 14,020 | 4/5 | 7 | 33 |
+| https://psnprofiles.com/guide/9512-ni-no-kuni-ii-revenant-kingdom-solosseum-slog-level-27-guide |  |  |  | 25,436 |  | 0 | 7 |
+| https://psnprofiles.com/guide/2485-drakengard-3-drag-on-dragoon-3-collectibles-guide |  |  |  | 61,455 | 4/5 | 10 | 16 |
+| https://psnprofiles.com/guide/5843-superdimension-neptune-vs-sega-hard-girls-baseball-guide |  |  |  | 11,792 |  | 0 | 13 |
+| https://psnprofiles.com/guide/7943-fist-of-the-north-star-lost-paradise-substory-guide |  |  |  | 50,550 | 5/5 | 7 | 7 |
+| https://psnprofiles.com/guide/16356-the-legend-of-heroes-trails-to-azure-walkthrough |  |  |  | 28,947 | 5/5 | 12 | 28 |
+| https://psnprofiles.com/guide/8011-2064-read-only-memories-trophy-walkthrough |  |  |  | 76,767 | 5/5 | 52 | 134 |
+| https://psnprofiles.com/guide/17829-disgaea-7-vows-of-the-virtueless-demon-shogi-guide |  |  |  | 10,400 |  | 0 | 3 |
+| https://psnprofiles.com/guide/7630-alien-isolation-trophy-walkthrough |  |  |  | 56,880 | 5/5 | 39 | 89 |
+| https://psnprofiles.com/guide/15189-destroy-all-humans-2-reprobed-all-collectibles-artifacts-cds-posters-bathrooms-hives-cells |  |  |  | 31,504 | 5/5 | 5 | 8 |
+| https://psnprofiles.com/guide/16581-final-fantasy-iv-pixel-remaster-overall-walkthrough |  |  |  | 86,904 | 5/5 | 71 | 30 |
+| https://psnprofiles.com/guide/15819-lego-harry-potter-collection-years-5-7-collectibles-guide |  |  |  | 23,003 | 5/5 | 10 | 18 |
+| https://psnprofiles.com/guide/5892-yakuza-0-mahjong-completion-guide |  |  |  | 149,134 | 5/5 | 29 | 76 |
+| https://psnprofiles.com/guide/3954-batman-arkham-knight-character-combat-moves-guide |  |  |  | 167,515 | 5/5 | 18 | 35 |
+| https://psnprofiles.com/guide/16231-like-a-dragon-ishin-supplementary-guide |  |  |  | 12,156 |  | 0 | 16 |
+| https://psnprofiles.com/guide/11078-amnesia-rebirth-collectible-guide |  |  |  | 15,978 |  | 0 | 6 |
+| https://psnprofiles.com/guide/6567-the-evil-within-2-collectibles-guide |  |  |  | 177,553 | 5/5 | 11 | 35 |
+| https://psnprofiles.com/guide/13126-hades-the-fated-list-of-minor-prophecies |  |  |  | 26,281 |  | 0 | 13 |
+| https://psnprofiles.com/guide/7266-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E7%A9%BA%E3%81%AE%E8%BB%8C%E8%B7%A1-the-3rd-evolution-gralslitters-fiend-notebook |  |  |  | 4,024 |  | 0 | 2 |
+| https://psnprofiles.com/guide/1776-the-evil-within-collectables-guide |  |  |  | 128,112 | 5/5 | 10 | 61 |
+| https://psnprofiles.com/guide/16352-the-legend-of-dragoon-platinum-walkthrough-guide |  |  |  | 90,038 | 5/5 | 30 | 73 |
+| https://psnprofiles.com/guide/14962-lost-epic-complete-journal-divine-skills-kill-lists-and-quests |  |  |  | 38,528 |  | 0 | 2 |
+| https://psnprofiles.com/guide/6002-persona-5-confidant-guide |  |  |  | 92,958 | 5/5 | 26 | 77 |
+| https://psnprofiles.com/guide/18220-underdog-detective-trophy-walkthrough |  |  |  | 1,303 |  | 0 | 4 |
+| https://psnprofiles.com/guide/12224-grand-theft-auto-v-gold-medals-100-completion-guide |  |  |  | 166,699 | 5/5 | 21 | 66 |
+| https://psnprofiles.com/guide/2855-weird-park-the-final-show-walkthrough |  |  |  | 14,714 |  | 0 | 1 |
+| https://psnprofiles.com/guide/13663-void-trrlm-void-terrarium-blueprint-guide |  |  |  | 5,250 |  | 0 | 1 |
+| https://psnprofiles.com/guide/14873-stray-chapters-walkthrough-speedrun |  |  |  | 32,912 | 5/5 | 13 | 32 |
+| https://psnprofiles.com/guide/17960-the-dark-pictures-anthology-house-of-ashes-trophy-walkthrough |  |  |  | 7,790 | 5/5 | 12 | 13 |
+| https://psnprofiles.com/guide/3291-broken-sword-5-the-serpents-curse-walkthrough |  |  |  | 41,987 | 4/5 | 22 | 25 |
+| https://psnprofiles.com/guide/1142-tales-of-symphonia-dawn-of-the-new-world-monster-guide |  |  |  | 49,600 | 4/5 | 10 | 32 |
+| https://psnprofiles.com/guide/8348-resident-evil-2-the-tofu-survivors-tips-strategies |  |  |  | 14,666 | 5/5 | 7 | 12 |
+| https://psnprofiles.com/guide/3812-adventure-time-finn-and-jake-investigations-platinum-walkthrough-guide |  |  |  | 42,731 | 5/5 | 20 | 41 |
+| https://psnprofiles.com/guide/15249-lost-ruins-map-guide |  |  |  | 10,134 |  | 0 | 0 |
+| https://psnprofiles.com/guide/10770-yakuza-kiwami-perfectionist-guide |  |  |  | 73,939 | 4/5 | 31 | 45 |
+| https://psnprofiles.com/guide/15085-attack-on-titan-2-compendium-guide |  |  |  | 13,726 |  | 0 | 6 |
+| https://psnprofiles.com/guide/13652-final-fantasy-x-hd-the-remaster-supplement-guide |  |  | Important! - | 13,742 | 5/5 | 15 | 22 |
+| https://psnprofiles.com/guide/6631-wolfenstein-ii-the-new-colossus-collectibles-guide |  |  |  | 174,480 | 4/5 | 20 | 44 |
+| https://psnprofiles.com/guide/11804-maquette-100-game-and-trophy-walkthrough |  |  |  | 41,679 | 5/5 | 23 | 59 |
+| https://psnprofiles.com/guide/15087-observation-step-by-step-100-walkthrough |  |  |  | 16,325 | 5/5 | 17 | 20 |
+| https://psnprofiles.com/guide/13679-shinrai-broken-beyond-despair-platinum-guide |  |  |  | 2,057 |  | 0 | 2 |
+| https://psnprofiles.com/guide/16153-labyrinth-of-galleria-the-moon-society-maps-guide |  |  |  | 14,208 |  | 0 | 9 |
+| https://psnprofiles.com/guide/16328-figment-2-creed-valley-remembrane-shards-collectible-guide |  |  |  | 3,644 |  | 0 | 2 |
+| https://psnprofiles.com/guide/15815-the-dark-pictures-anthology-the-devil-in-me-collectible-guide |  |  |  | 23,537 |  | 0 | 8 |
+| https://psnprofiles.com/guide/7236-persona-5-complete-100-walkthrough |  |  |  | 622,267 | 5/5 | 108 | 360 |
+| https://psnprofiles.com/guide/4807-nightmares-from-the-deep-the-cursed-heart-walkthrough |  |  |  | 11,560 | 5/5 | 9 | 12 |
+| https://psnprofiles.com/guide/5792-the-last-guy-vip-rescue-guide |  |  |  | 11,370 |  | 0 | 9 |
+| https://psnprofiles.com/guide/14280-castlevania-harmony-of-despair-ultimate-inventory-and-monster-compendium-guide |  |  |  | 17,038 | 5/5 | 5 | 6 |
+| https://psnprofiles.com/guide/12115-resident-evil-4-ultimate-guide |  |  |  | 29,702 | 5/5 | 8 | 36 |
+| https://psnprofiles.com/guide/16369-no-mans-sky-permadeath-mode-and-path-finder-dlc-walkthrough |  |  |  | 8,915 | 5/5 | 5 | 9 |
+| https://psnprofiles.com/guide/1481-ys-memories-of-celceta-encyclopedia-celceta |  |  |  | 19,062 | 5/5 | 7 | 26 |
+| https://psnprofiles.com/guide/10118-troll-and-i-collectible-guide |  |  |  | 6,651 |  | 0 | 4 |
+| https://psnprofiles.com/guide/15347-the-legend-of-heroes-trails-from-zero-sidequest-guide |  |  |  | 25,282 | 4/5 | 11 | 8 |
+| https://psnprofiles.com/guide/8426-tokyo-xanadu-collectibles-guide |  |  |  | 22,452 |  | 0 | 8 |
+| https://psnprofiles.com/guide/2358-prototype-platinum-events-guide |  |  |  | 29,589 | 5/5 | 11 | 24 |
+| https://psnprofiles.com/guide/9318-medal-of-honor-multiplayer-guide |  |  |  | 12,289 | 4/5 | 11 | 10 |
+| https://psnprofiles.com/guide/18446-evil-west-collectibles-guide-per-chapter |  |  |  | 6,339 |  | 0 | 7 |
+| https://psnprofiles.com/guide/15708-crisis-core-final-fantasy-vii-reunion-missables-walkthrough |  |  | TROPHIES UNLOCKED | 143,806 | 5/5 | 24 | 53 |
+| https://psnprofiles.com/guide/13677-tails-of-iron-gear-guide |  |  |  | 92,680 | 5/5 | 14 | 15 |
+| https://psnprofiles.com/guide/15645-legend-of-mana-full-walkthrough |  |  |  | 260,154 | 5/5 | 47 | 72 |
+| https://psnprofiles.com/guide/17687-pathfinder-kingmaker-story-walkthrough-guide |  |  |  | 1,472 |  | 0 | 3 |
+| https://psnprofiles.com/guide/16577-final-fantasy-ii-the-pixel-remaster-walkthrough |  |  |  | 149,347 | 5/5 | 82 | 67 |
+| https://psnprofiles.com/guide/7855-little-dragons-caf%C3%A9-ingredients-location-guide |  |  |  | 52,588 | 5/5 | 7 | 22 |
+| https://psnprofiles.com/guide/13103-returnal-collectible-guide |  |  |  | 59,318 | 5/5 | 36 | 45 |
+| https://psnprofiles.com/guide/3606-grand-theft-auto-iv-multiplayer-trophy-guide |  |  |  | 83,214 | 5/5 | 104 | 141 |
+| https://psnprofiles.com/guide/17606-baldurs-gate-lord-of-murder-legacy-of-bhaal-difficulty-guide |  |  |  | 5,515 |  | 0 | 6 |
+| https://psnprofiles.com/guide/2526-dragon-ball-z-battle-of-z-unlockable-characters-guide |  |  |  | 31,496 | 5/5 | 5 | 7 |
 | https://psnprofiles.com/guide/13383-final-fantasy-xiv-endwalker-encounter-guide-pand%C3%A6monium |  |  |  | 565,282 |  | 0 | 64 |
+| https://psnprofiles.com/guide/14723-red-faction-guerrilla-mad-genius-guide |  |  |  | 4,291 |  | 0 | 2 |
+| https://psnprofiles.com/guide/16680-observer-system-redux-100-platinum-walkthrough |  |  |  | 18,463 |  | 0 | 17 |
+| https://psnprofiles.com/guide/18099-postal-4-no-regerts-postal-4-no-regerts-collectibleschallenges-guide |  |  |  | 5,076 |  | 0 | 4 |
+| https://psnprofiles.com/guide/15258-ashland-dossier-platinum-step-by-step-guide |  |  |  | 2,144 |  | 0 | 4 |
+| https://psnprofiles.com/guide/14399-resident-evil-revelations-raid-mode-guide |  |  |  | 35,643 | 5/5 | 11 | 20 |
+| https://psnprofiles.com/guide/1964-god-of-war-ascension-complete-collectable-walkthrough |  |  |  | 71,727 | 5/5 | 41 | 61 |
+| https://psnprofiles.com/guide/12338-biomutant-supplement-guide |  |  |  | 14,831 | 5/5 | 7 | 15 |
+| https://psnprofiles.com/guide/2804-syberia-2-old-schoolgossipsnoop-guide |  |  |  | 7,110 | 5/5 | 5 | 8 |
+| https://psnprofiles.com/guide/14152-the-cruel-king-and-the-great-hero-merciful-hero-supplementary-guide |  |  |  | 13,262 |  | 0 | 2 |
+| https://psnprofiles.com/guide/14393-elden-ring-platinum-walkthrough |  |  |  | 40,436 | 5/5 | 13 | 58 |
+| https://psnprofiles.com/guide/10000-the-complex-trophy-walkthrough |  |  |  | 25,947 | 4/5 | 16 | 20 |
+| https://psnprofiles.com/guide/9717-the-sims-4-platinum-trophy-walkthrough |  |  |  | 136,402 | 5/5 | 148 | 225 |
+| https://psnprofiles.com/guide/11092-the-legend-of-heroes-trails-of-cold-steel-iv-overall-walkthrough |  |  |  | 210,462 | 5/5 | 15 | 60 |
+| https://psnprofiles.com/guide/14390-tiny-tinas-wonderlands-otdh-loot-maps |  |  |  | 11,712 |  | 0 | 6 |
+| https://psnprofiles.com/guide/6867-keep-talking-and-nobody-explodes-module-tips-tricks |  |  |  | 37,866 |  | 0 | 3 |
+| https://psnprofiles.com/guide/16645-dark-souls-remastered-platinum-walkthrough-guide |  |  |  | 73,286 | 5/5 | 26 | 102 |
+| https://psnprofiles.com/guide/19236-tomb-raider-iii-the-lost-artifact-complete-dlc-guide |  |  |  | 1,924 |  | 0 | 2 |
+| https://psnprofiles.com/guide/14300-dungeon-and-gravestone-monsters-magic-food-and-misc-guide |  |  |  | 4,798 |  | 0 | 0 |
+| https://psnprofiles.com/guide/287-kingdom-hearts-rechain-of-memories-boss-guide |  |  |  | 292,299 | 4/5 | 22 | 62 |
+| https://psnprofiles.com/guide/14052-bleach-soul-resurreccion-characters-guide |  |  |  | 4,809 | 4/5 | 6 | 9 |
+| https://psnprofiles.com/guide/7074-tearaway-unfolded-completist-trophy-guide |  |  |  | 32,858 | 5/5 | 10 | 44 |
+| https://psnprofiles.com/guide/13171-hades-olympians-chaos-boons-full-guide |  |  |  | 12,481 |  | 0 | 11 |
+| https://psnprofiles.com/guide/1-psnprofiles-writing-a-guide |  |  |  | 33,251 | 5/5 | 51 | 203 |
+| https://psnprofiles.com/guide/2544-red-johnsons-chronicles-one-against-all-rank-a-100-guide |  |  |  | 13,367 |  | 0 | 2 |
+| https://psnprofiles.com/guide/12269-saga-frontier-remastered-technique-guide |  |  |  | 24,968 |  | 0 | 2 |
+| https://psnprofiles.com/guide/7477-the-evil-within-2-trophy-walkthrough |  |  |  | 25,957 | 5/5 | 11 | 48 |
+| https://psnprofiles.com/guide/9217-skate-2-perfectionist-guide |  |  |  | 11,517 |  | 0 | 4 |
+| https://psnprofiles.com/guide/29-rapala-pro-bass-fishing-master-challenger-guide |  |  |  | 20,821 | 4/5 | 5 | 3 |
+| https://psnprofiles.com/guide/16494-r%C3%B6ki-full-step-by-step-platinum-walkthrough |  |  |  | 26,962 | 4/5 | 5 | 11 |
+| https://psnprofiles.com/guide/19385-little-nightmares-hard-to-the-core-guide |  |  |  | 1,738 |  | 0 | 5 |
+| https://psnprofiles.com/guide/19254-tomb-raider-ii-golden-mask-complete-dlc-guide |  |  |  | 1,162 |  | 0 | 0 |
+| https://psnprofiles.com/guide/2864-destiny-flawless-raider-guide |  |  |  | 17,523 | 5/5 | 6 | 39 |
+| https://psnprofiles.com/guide/11279-demons-souls-full-trophy-walkthrough |  |  |  | 214,193 | 5/5 | 70 | 261 |
+| https://psnprofiles.com/guide/15452-stranger-of-paradise-final-fantasy-origin-build-crafting-material-farming-guide |  |  |  | 24,334 | 4/5 | 6 | 11 |
+| https://psnprofiles.com/guide/4980-sword-art-online-hollow-fragment-hollow-mission-implement-guide |  |  |  | 80,823 | 5/5 | 9 | 39 |
+| https://psnprofiles.com/guide/2708-ni-no-kuni-wrath-of-the-white-witch-alchemy-guide |  |  |  | 62,024 | 4/5 | 20 | 74 |
+| https://psnprofiles.com/guide/7151-white-album-%E7%B6%B4%E3%82%89%E3%82%8C%E3%82%8B%E5%86%AC%E3%81%AE%E6%83%B3%E3%81%84%E5%87%BA-walkthrough |  |  |  | 9,345 |  | 0 | 5 |
+| https://psnprofiles.com/guide/2213-history-great-battles-medieval-overall-walkthrough |  |  |  | 8,051 |  | 0 | 3 |
+| https://psnprofiles.com/guide/2457-the-order-1886-collectibles-guide |  |  |  | 53,059 | 5/5 | 64 | 103 |
+| https://psnprofiles.com/guide/14826-grand-theft-auto-iv-gold-star-trophy-guide |  |  |  | 13,286 | 5/5 | 21 | 15 |
+| https://psnprofiles.com/guide/3724-the-legend-of-heroes-trails-of-cold-steel-overall-walkthrough |  |  |  | 403,208 | 5/5 | 40 | 218 |
+| https://psnprofiles.com/guide/18148-kings-bounty-ii-all-spells-guide |  |  |  | 2,814 |  | 0 | 0 |
+| https://psnprofiles.com/guide/4646-star-ocean-integrity-and-faithlessness-item-enemy-roles-skills-and-battle-trophy-guide |  |  |  | 37,426 | 5/5 | 10 | 35 |
+| https://psnprofiles.com/guide/14963-lost-epic-100-map-all-chests-monuments-mazes-lithograph-fragments-and-mist |  |  |  | 26,341 |  | 0 | 3 |
+| https://psnprofiles.com/guide/17108-the-legend-of-heroes-trails-into-reverie-walkthrough |  |  |  | 30,870 | 5/5 | 10 | 25 |
+| https://psnprofiles.com/guide/1130-assassins-creed-brotherhood-abstergo-employee-of-the-month-guide |  |  |  | 45,676 | 4/5 | 25 | 37 |
+| https://psnprofiles.com/guide/12039-assassins-creed-valhalla-cross-save-trophy-guide |  |  |  | 55,967 | 4/5 | 11 | 33 |
+| https://psnprofiles.com/guide/3793-divinity-original-sin-gameplay-guide |  |  |  | 104,623 | 4/5 | 33 | 81 |
+| https://psnprofiles.com/guide/17056-grand-theft-auto-v-original-heist-walkthrough |  |  |  | 8,526 | 5/5 | 6 | 5 |
+| https://psnprofiles.com/guide/8674-call-of-duty-wwii-shadow-war-dlc-trophy-walkthrough |  |  |  | 20,049 | 4/5 | 14 | 14 |
+| https://psnprofiles.com/guide/7555-demon-gaze-ii-call-of-the-grimodar-content-guide |  |  |  | 16,838 |  | 0 | 3 |
+| https://psnprofiles.com/guide/18506-fantasy-general-ii-invasion-campaign-legend-difficulty-walkthrough |  |  |  | 1,961 |  | 0 | 1 |
+| https://psnprofiles.com/guide/6444-unepic-essential-guide |  |  |  | 11,278 |  | 0 | 7 |
+| https://psnprofiles.com/guide/6232-goosebumps-the-game-walkthrough-guide |  |  |  | 196,201 | 5/5 | 42 | 42 |
+| https://psnprofiles.com/guide/131-kingdom-hearts-synthesis-guide |  |  |  | 298,132 | 5/5 | 23 | 133 |
+| https://psnprofiles.com/guide/17079-unturned-side-quests-guide |  |  |  | 3,841 |  | 0 | 3 |
+| https://psnprofiles.com/guide/11121-crash-bandicoot-4-its-about-time-full-collectibles-guide |  |  |  | 49,407 | 5/5 | 9 | 42 |
+| https://psnprofiles.com/guide/14243-monster-hunter-world-iceborne-companion-guide |  |  |  | 15,613 | 3/5 | 7 | 12 |
+| https://psnprofiles.com/guide/16273-the-quarry-the-platinum-walkthrough-of-hacketts-quarry |  |  |  | 16,443 | 4/5 | 7 | 28 |
+| https://psnprofiles.com/guide/5658-yakuza-0-substory-and-friendship-guide |  |  |  | 403,563 | 5/5 | 26 | 112 |
+| https://psnprofiles.com/guide/13406-final-fantasy-xiv-triple-triad-compendium |  |  |  | 13,732 | 4/5 | 18 | 20 |
+| https://psnprofiles.com/guide/12420-everybodys-gone-to-the-rapture-platinum-walkthrough |  |  |  | 19,229 | 5/5 | 24 | 47 |
+| https://psnprofiles.com/guide/7973-final-fantasy-ix-missable-trophiescollectibles-guide |  |  |  | 107,200 | 5/5 | 14 | 49 |
+| https://psnprofiles.com/guide/14321-song-of-memories-illustrations-arounds-guide |  |  |  | 1,295 |  | 0 | 3 |
+| https://psnprofiles.com/guide/7816-yakuza-kiwami-2-minigame-completion-guide |  |  |  | 77,541 | 5/5 | 11 | 31 |
 | https://psnprofiles.com/guide/14002-elden-ring-100-walkthrough-platinum |  |  |  | 391,225 | 5/5 | 22 | 121 |
+| https://psnprofiles.com/guide/14268-wytchwood-all-ingredients-and-recipes-guide |  |  |  | 14,972 |  | 0 | 6 |
+| https://psnprofiles.com/guide/610-south-park-the-stick-of-truth-missable-collectibles-guide |  |  |  | 194,428 | 5/5 | 25 | 141 |
+| https://psnprofiles.com/guide/7172-crypt-of-the-necrodancer-ultimate-boss-guide |  |  |  | 20,372 | 5/5 | 13 | 25 |
+| https://psnprofiles.com/guide/16679-back-4-blood-complete-trophy-guide |  |  |  | 11,404 | 5/5 | 8 | 22 |
+| https://psnprofiles.com/guide/12759-assassins-creed-unity-100-memories-sync-guide |  |  |  | 20,287 | 5/5 | 8 | 8 |
+| https://psnprofiles.com/guide/16930-outlast-2-messiah-walkthrough |  |  |  | 5,500 | 5/5 | 9 | 9 |
+| https://psnprofiles.com/guide/15294-superliminal-100-trophy-walkthrough |  |  |  | 21,427 |  | 0 | 10 |
+| https://psnprofiles.com/guide/2882-star-ocean-the-last-hope-international-chest-locations-and-maps |  |  |  | 75,203 | 4/5 | 6 | 28 |
+| https://psnprofiles.com/guide/17388-conception-plus-maidens-of-the-twelve-stars-weapons-armor-and-accessory-locations-and-list |  |  |  | 2,547 |  | 0 | 0 |
+| https://psnprofiles.com/guide/9216-skate-2-hall-of-meat-guide |  |  |  | 14,637 |  | 0 | 2 |
+| https://psnprofiles.com/guide/17878-marvels-spider-man-2-all-story-missions-100-collectibles-side-stories |  |  |  | 5,302 | 5/5 | 9 | 9 |
+| https://psnprofiles.com/guide/16287-backfirewall-collectible-guide |  |  |  | 3,191 |  | 0 | 3 |
+| https://psnprofiles.com/guide/3075-ninja-gaiden-%CF%832-fiend-breakdown-guide |  |  |  | 5,240 |  | 0 | 2 |
+| https://psnprofiles.com/guide/15184-sekiro-shadows-die-twice-100-walkthrough |  |  |  | 54,616 | 5/5 | 21 | 67 |
+| https://psnprofiles.com/guide/12761-mail-mole-radish-collectable-guide |  |  |  | 1,518 |  | 0 | 0 |
+| https://psnprofiles.com/guide/7156-operation7-revolution-efficient-platinum-walkthrough |  |  |  | 7,498 | 5/5 | 5 | 6 |
+| https://psnprofiles.com/guide/16408-void-trrlm2-void-terrarium-2-blueprint-guide |  |  |  | 3,158 |  | 0 | 1 |
+| https://psnprofiles.com/guide/13854-borderlands-3-otdh-loot-maps |  |  |  | 24,849 | 4/5 | 10 | 10 |
+| https://psnprofiles.com/guide/14722-red-faction-guerrilla-guerrilla-actions-side-missions-guide |  |  |  | 5,120 |  | 0 | 0 |
+| https://psnprofiles.com/guide/8649-devil-may-cry-5-s-rank-guide |  |  |  | 102,852 | 5/5 | 23 | 67 |
+| https://psnprofiles.com/guide/9403-dead-rising-4-trials-guide |  |  |  | 23,774 |  | 0 | 4 |
+| https://psnprofiles.com/guide/3359-god-of-war-iii-missable-trophiescollectibles-guide |  |  |  | 82,686 | 5/5 | 36 | 81 |
+| https://psnprofiles.com/guide/3792-god-of-war-ghost-of-sparta-collectible-guide |  |  |  | 38,915 | 5/5 | 19 | 31 |
+| https://psnprofiles.com/guide/7968-red-dead-redemption-2-gold-medals-challenges-and-100-completion-guide |  |  |  | 375,630 | 5/5 | 87 | 390 |
+| https://psnprofiles.com/guide/19374-deliver-us-mars-platinum-walkthrough-complete-collectable-guide |  |  |  | 1,559 | 5/5 | 5 | 9 |
