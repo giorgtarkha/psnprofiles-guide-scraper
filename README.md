@@ -10,7 +10,7 @@ It is useful mainly for trophy hunters, to look for games based on difficulty, p
 > 
 > PSN profiles guides structure is not consistent, so it's possible for some fields to have abnormal data.
 > 
-> PSN profiles has rate limiting from same source, best configuration I found was 6 parallel requests with 4 second delays, so it will take some time for the whole website to be scraped, around 1 hour.  
+> PSN profiles has rate limiting from same source, best configuration I found was 6 parallel requests with 4 second delays, so it will take some time for all guides to be scraped, around 1 hour.  
 
 ## Fetched data
 > **Keep in mind that github fails to display some formats so other means to view the data has to be used.**<br/>
