@@ -153,7 +153,7 @@ func main() {
 
 	err := app.Run(os.Args)
 	if err != nil {
-		fmt.Println("failed to scrape psnprofiles,", err)
+		fmt.Printf("failed to scrape psnprofiles: %s\n", err.Error())
 		os.Exit(1)
 	}
 }
