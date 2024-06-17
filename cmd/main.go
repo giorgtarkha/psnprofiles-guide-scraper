@@ -17,6 +17,7 @@ const (
 const (
 	FIELD_GAME               = "game"
 	FIELD_LINK               = "link"
+	FIELD_PLATFORMS          = "platforms"
 	FIELD_DIFFUCULTY         = "difficulty"
 	FIELD_TIME_NEEDED        = "time_needed"
 	FIELD_PLATINUM_RARITY    = "platinum_rarity"

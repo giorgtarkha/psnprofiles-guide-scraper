@@ -26,6 +26,7 @@ const (
 type GuideData struct {
 	Game             string `json:"game"`
 	Link             string `json:"link"`
+	Platforms        string `json:"platforms"`
 	Difficulty       string `json:"difficulty"`
 	TimeNeeded       string `json:"time_needed"`
 	PlatinumRarity   string `json:"platinum_rarity"`
@@ -73,12 +74,11 @@ func NewScraper(p *ScraperParams) (*Scraper, error) {
 		formats:   p.Formats,
 		sortings:  p.Sortings,
 
-		lastPage: 5,
+		lastPage: 1,
 
 		collector: colly.NewCollector(
 			colly.Async(true),
 			colly.AllowURLRevisit(),
-			colly.UserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"),
 		),
 		wg:    sync.WaitGroup{},
 		pmu:   sync.Mutex{},
@@ -91,11 +91,11 @@ func NewScraper(p *ScraperParams) (*Scraper, error) {
 func (s *Scraper) init() {
 	s.collector.Limit(&colly.LimitRule{
 		DomainGlob:  "*",
-		Parallelism: 5,
-		Delay:       5 * time.Second,
+		Parallelism: 6,
+		Delay:       4 * time.Second,
 	})
 	s.collector.OnError(func(r *colly.Response, err error) {
-		fmt.Printf("failed on link %s, requeuing link: %s\n", r.Request.URL.String(), err.Error())
+		fmt.Printf("failed on link %s, reenqueueing link: %s\n", r.Request.URL.String(), err.Error())
 		s.links <- r.Request.URL.String()
 	})
 	s.collector.OnResponse(func(r *colly.Response) {
@@ -125,7 +125,7 @@ func (s *Scraper) scrape() {
 
 	go func() {
 		for link := range s.links {
-			fmt.Printf("visiting %s\n", link)
+			fmt.Printf("enqueueing %s\n", link)
 			go s.collector.Visit(link)
 		}
 	}()
@@ -231,6 +231,12 @@ func (s *Scraper) handleGuidePage(link string, doc *goquery.Document) {
 		}
 	})
 
+	platformList := []string{}
+	doc.Find(".platforms").Children().Each(func(index int, item *goquery.Selection) {
+		platformList = append(platformList, item.Text())
+	})
+	platforms := strings.Join(platformList, " ")
+
 	overviewInfo := doc.Find(".overview-info")
 	difficulty := overviewInfo.Find("span:nth-of-type(1)").Find("span:nth-of-type(1)").Text()
 	timeNeeded := overviewInfo.Find("span:nth-of-type(3)").Find("span:nth-of-type(1)").Text()
@@ -242,6 +248,7 @@ func (s *Scraper) handleGuidePage(link string, doc *goquery.Document) {
 	s.data[link] = &GuideData{
 		Game:             game,
 		Link:             link,
+		Platforms:        platforms,
 		Difficulty:       difficulty,
 		TimeNeeded:       timeNeeded,
 		PlatinumRarity:   platinumRarity,
@@ -477,12 +484,13 @@ func (s *Scraper) dumpCsv() error {
 	defer writer.Flush()
 
 	entries := [][]string{
-		{"game", "link", "difficulty", "time_needed", "platinum_rarity", "views", "guide_rating", "guide_rating_count", "user_favourites"},
+		{"game", "link", "platforms", "difficulty", "time_needed", "platinum_rarity", "views", "guide_rating", "guide_rating_count", "user_favourites"},
 	}
 	for _, entry := range s.sortedData {
 		entries = append(entries, []string{
 			entry.Game,
 			entry.Link,
+			entry.Platforms,
 			entry.Difficulty,
 			entry.TimeNeeded,
 			entry.PlatinumRarity,
@@ -508,39 +516,30 @@ func (s *Scraper) dumpMd() error {
 	defer file.Close()
 
 	builder := strings.Builder{}
-	builder.WriteString("| **game** | **difficulty** | **time_needed** | **platinum_rarity** | **views** | **guide_rating** | **guide_rating_count ** | **user_favourites ** |\n")
-	builder.WriteString("|:--------|:--------:|:-------:|:-----:|:------:|:------:|:-----:|:-----:|\n")
+	builder.WriteString("| **game** | **platforms** | **difficulty** | **time_needed** | **platinum_rarity** | **views** | **guide_rating** | **guide_rating_count** | **user_favourites** |\n")
+	builder.WriteString("|:--------|:------:|:----:|:----:|:----:|:-----:|:----:|:-----:|:-----:|\n")
 
 	for _, entry := range s.sortedData {
-		if entry.Game != "" {
-			_, err = builder.WriteString(
-				fmt.Sprintf(
-					"| [%s](%s) | %s | %s | %s | %s | %s | %s | %s |\n",
-					entry.Game,
-					entry.Link,
-					entry.Difficulty,
-					entry.TimeNeeded,
-					entry.PlatinumRarity,
-					entry.Views,
-					entry.GuideRating,
-					entry.GuideRatingCount,
-					entry.UserFavourites,
-				),
-			)
-		} else {
-			_, err = builder.WriteString(
-				fmt.Sprintf("| %s | %s | %s | %s | %s | %s | %s | %s |\n",
-					entry.Link,
-					entry.Difficulty,
-					entry.TimeNeeded,
-					entry.PlatinumRarity,
-					entry.Views,
-					entry.GuideRating,
-					entry.GuideRatingCount,
-					entry.UserFavourites,
-				),
-			)
+		game := entry.Game
+		if game == "" {
+			game = "Game name not found"
 		}
+
+		_, err = builder.WriteString(
+			fmt.Sprintf(
+				"| [%s](%s) | %s | %s | %s | %s | %s | %s | %s | %s |\n",
+				game,
+				entry.Link,
+				entry.Platforms,
+				entry.Difficulty,
+				entry.TimeNeeded,
+				entry.PlatinumRarity,
+				entry.Views,
+				entry.GuideRating,
+				entry.GuideRatingCount,
+				entry.UserFavourites,
+			),
+		)
 		if err != nil {
 			return err
 		}
