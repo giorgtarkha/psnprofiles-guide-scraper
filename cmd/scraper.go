@@ -265,6 +265,7 @@ func (s *Scraper) handleGuidePage(link string, doc *goquery.Document) {
 }
 
 func (s *Scraper) sortData() {
+	fmt.Print("sorting data\n")
 	s.sortedData = make([]*GuideData, len(s.data))
 	idx := 0
 	for _, entry := range s.data {
@@ -455,6 +456,7 @@ func (s *Scraper) dumpData() {
 }
 
 func (s *Scraper) dumpJson() error {
+	fmt.Print("exporting data to .json\n")
 	file, err := os.Create(filepath.Join(s.directory, "guide_data.json"))
 	if err != nil {
 		return err
@@ -474,6 +476,7 @@ func (s *Scraper) dumpJson() error {
 }
 
 func (s *Scraper) dumpCsv() error {
+	fmt.Print("exporting data to .csv\n")
 	file, err := os.Create(filepath.Join(s.directory, "guide_data.csv"))
 	if err != nil {
 		return err
@@ -509,6 +512,7 @@ func (s *Scraper) dumpCsv() error {
 }
 
 func (s *Scraper) dumpMd() error {
+	fmt.Print("exporting data to .md\n")
 	file, err := os.Create(filepath.Join(s.directory, "guide_data.md"))
 	if err != nil {
 		return err
