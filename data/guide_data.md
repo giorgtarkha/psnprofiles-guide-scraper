@@ -1,22 +1,102 @@
 | **game** | **difficulty** | **time_needed** | **platinum_rarity** | **views** | **guide_rating** | **guide_rating_count ** | **user_favourites ** |
 |:--------|:--------:|:-------:|:-----:|:------:|:------:|:-----:|:-----:|
-| [Final Fantasy VII Remake](https://psnprofiles.com/guide/9997-final-fantasy-vii-remake-trophy-guide) | 5/10 | 60 | 13.19% | 1,150,558 | 5/5 | 214 | 1,063 |
-| https://psnprofiles.com/guide/8564-persona-4-golden-platinum-walkthrough |  |  | N/A | 780,126 | 5/5 | 34 | 356 |
-| [Dark Souls](https://psnprofiles.com/guide/1656-dark-souls-trophy-guide) | 8/10 | 70 | 16.04% | 720,998 | 5/5 | 60 | 493 |
-| [Marvel's Spider-Man: Miles Morales](https://psnprofiles.com/guide/11179-marvels-spider-man-miles-morales-trophy-guide) | 3/10 | 20 | 37.95% | 753,921 | 5/5 | 87 | 704 |
-| [Ghost of Tsushima](https://psnprofiles.com/guide/10531-ghost-of-tsushima-trophy-guide) | 3/10 | 50 | 37.65% | 819,341 | 5/5 | 187 | 1,114 |
-| [Demon's Souls](https://psnprofiles.com/guide/11225-demons-souls-trophy-guide) | 7/10 | 40 | 21.71% | 725,927 | 5/5 | 161 | 498 |
-| [Persona 5 Royal](https://psnprofiles.com/guide/9920-persona-5-royal-trophy-guide) | 2/10 | 120 | 43.24% | 701,707 | 5/5 | 57 | 479 |
-| [Elden Ring](https://psnprofiles.com/guide/14008-elden-ring-trophy-guide) | 8/10 | 65 | 38.39% | 685,185 | 4/5 | 161 | 385 |
-| [God of War](https://psnprofiles.com/guide/7347-god-of-war-trophy-guide) | 4/10 | 40 | 27.19% | 846,219 | 5/5 | 299 | 1,468 |
-| [Horizon Zero Dawn](https://psnprofiles.com/guide/5810-horizon-zero-dawn-trophy-guide) | 3/10 | 40 | 27.83% | 814,826 | 5/5 | 324 | 1,590 |
-| [Cyberpunk 2077](https://psnprofiles.com/guide/11418-cyberpunk-2077-trophy-guide) | 3/10 | 70 | 9.97% | 814,625 | 5/5 | 74 | 702 |
-| [Star Wars Jedi: Fallen Order](https://psnprofiles.com/guide/9339-star-wars-jedi-fallen-order-trophy-guide) | 3/10 | 30 | 21.29% | 653,802 | 5/5 | 53 | 841 |
-| https://psnprofiles.com/guide/11946-persona-5-royal-100-perfect-schedule |  |  | N/A | 2,546,058 | 5/5 | 39 | 456 |
-| [The Last of Us Remastered](https://psnprofiles.com/guide/6004-the-last-of-us-remastered-trophy-guide) | 4/10 | 40 | 4.94% | 710,332 | 5/5 | 133 | 787 |
-| [Red Dead Redemption 2](https://psnprofiles.com/guide/7962-red-dead-redemption-2-trophy-guide) | 5/10 | 200 | 2.48% | 1,168,024 | 5/5 | 230 | 1,486 |
-| [The Witcher 3: Wild Hunt](https://psnprofiles.com/guide/2842-the-witcher-3-wild-hunt-trophy-guide) | 7/10 | 110 | 7.14% | 983,406 | 5/5 | 131 | 1,117 |
-| [Bloodborne](https://psnprofiles.com/guide/2603-bloodborne-trophy-guide) | 7/10 | 50 | 21.74% | 817,135 | 5/5 | 204 | 1,113 |
-| [Yakuza 0](https://psnprofiles.com/guide/5654-yakuza-0-trophy-guide) | 7/10 | 140 | 4.65% | 791,420 | 5/5 | 106 | 508 |
-| [Ratchet & Clank](https://psnprofiles.com/guide/4315-ratchet-clank-trophy-guide) | 3/10 | 25 | 19.69% | 773,392 | 5/5 | 228 | 1,095 |
-| [Grand Theft Auto V](https://psnprofiles.com/guide/1981-grand-theft-auto-v-trophy-guide) | 4/10 | 200 | 1.98% | 766,597 | 5/5 | 160 | 1,048 |
+| [Until Dawn](https://psnprofiles.com/guide/3260-until-dawn-trophy-guide) | 2/10 | 15 | 16.37% | 435,241 | 5/5 | 181 | 717 |
+| [Persona 5 Royal](https://psnprofiles.com/guide/9920-persona-5-royal-trophy-guide) | 2/10 | 120 | 43.24% | 701,720 | 5/5 | 57 | 479 |
+| [Astro's Playroom](https://psnprofiles.com/guide/11237-astros-playroom-trophy-guide) | 2/10 | 5 | 46.93% | 317,072 | 5/5 | 168 | 311 |
+| [Ratchet & Clank: Rift Apart](https://psnprofiles.com/guide/12355-ratchet-clank-rift-apart-trophy-guide) | 2/10 | 10 | 57.40% | 433,576 | 5/5 | 133 | 482 |
+| [Persona 5](https://psnprofiles.com/guide/5919-persona-5-trophy-guide) | 3/10 | 140 | 9.14% | 494,416 | 5/5 | 110 | 566 |
+| [Doom](https://psnprofiles.com/guide/4434-doom-trophy-guide) | 3/10 | 25 | 9.89% | 298,615 | 5/5 | 86 | 461 |
+| [Cyberpunk 2077](https://psnprofiles.com/guide/11418-cyberpunk-2077-trophy-guide) | 3/10 | 70 | 9.97% | 814,651 | 5/5 | 74 | 702 |
+| [Fallout 4](https://psnprofiles.com/guide/3638-fallout-4-trophy-guide) | 3/10 | 70 | 10.84% | 606,693 | 5/5 | 147 | 918 |
+| [Minecraft](https://psnprofiles.com/guide/1643-minecraft-trophy-guide) | 3/10 | 35 | 12.24% | 300,193 | 4/5 | 81 | 382 |
+| [Assassin's Creed Valhalla](https://psnprofiles.com/guide/11538-assassins-creed-valhalla-trophy-guide) | 3/10 | 100 | 12.63% | 517,820 | 5/5 | 34 | 511 |
+| [Middle-earth: Shadow of War](https://psnprofiles.com/guide/6615-middle-earth-shadow-of-war-trophy-guide) | 3/10 | 40 | 12.67% | 333,431 | 5/5 | 79 | 407 |
+| [Detroit: Become Human](https://psnprofiles.com/guide/7464-detroit-become-human-trophy-guide) | 3/10 | 20 | 12.87% | 544,256 | 5/5 | 227 | 827 |
+| [Far Cry 5](https://psnprofiles.com/guide/7339-far-cry-5-trophy-guide) | 3/10 | 25 | 13.43% | 321,659 | 5/5 | 88 | 404 |
+| [Death Stranding](https://psnprofiles.com/guide/9355-death-stranding-trophy-guide) | 3/10 | 100 | 13.80% | 456,036 | 5/5 | 128 | 603 |
+| [Far Cry 6](https://psnprofiles.com/guide/13040-far-cry-6-trophy-guide) | 3/10 | 30 | 14.71% | 395,499 | 4/5 | 37 | 329 |
+| [Erica](https://psnprofiles.com/guide/9027-erica-trophy-guide) | 3/10 | 9 | 16.54% | 294,416 | 4/5 | 32 | 241 |
+| [Subnautica](https://psnprofiles.com/guide/10701-subnautica-trophy-guide) | 3/10 | 40 | 18.66% | 345,394 | 5/5 | 65 | 277 |
+| [Ratchet & Clank](https://psnprofiles.com/guide/4315-ratchet-clank-trophy-guide) | 3/10 | 25 | 19.69% | 773,409 | 5/5 | 228 | 1,095 |
+| [Uncharted: The Lost Legacy](https://psnprofiles.com/guide/6375-uncharted-the-lost-legacy-trophy-guide) | 3/10 | 20 | 19.90% | 349,539 | 5/5 | 139 | 491 |
+| [Star Wars Jedi: Fallen Order](https://psnprofiles.com/guide/9339-star-wars-jedi-fallen-order-trophy-guide) | 3/10 | 30 | 21.29% | 653,809 | 5/5 | 53 | 841 |
+| [South Park: The Fractured But Whole](https://psnprofiles.com/guide/6591-south-park-the-fractured-but-whole-trophy-guide) | 3/10 | 20 | 22.47% | 301,330 | 5/5 | 68 | 369 |
+| [Hogwarts Legacy](https://psnprofiles.com/guide/16103-hogwarts-legacy-trophy-guide) | 3/10 | 50 | 22.82% | 391,074 | 5/5 | 83 | 442 |
+| [Assassin's Creed II](https://psnprofiles.com/guide/208-assassins-creed-ii-trophy-guide) | 3/10 | 20 | 22.92% | 372,202 | 5/5 | 47 | 538 |
+| [Final Fantasy VII](https://psnprofiles.com/guide/3661-final-fantasy-vii-trophy-guide) | 3/10 | 40 | 23.87% | 459,925 | 4/5 | 93 | 472 |
+| [Assassin's Creed Origins](https://psnprofiles.com/guide/6626-assassins-creed-origins-trophy-guide) | 3/10 | 50 | 24.20% | 483,075 | 5/5 | 126 | 737 |
+| [Final Fantasy XV](https://psnprofiles.com/guide/5390-final-fantasy-xv-trophy-guide) | 3/10 | 80 | 24.76% | 347,889 | 5/5 | 54 | 634 |
+| [inFamous: Second Son](https://psnprofiles.com/guide/454-infamous-second-son-trophy-guide) | 3/10 | 20 | 26.27% | 314,822 | 5/5 | 141 | 703 |
+| [The Last of Us Part II](https://psnprofiles.com/guide/10411-the-last-of-us-part-ii-trophy-guide) | 3/10 | 35 | 26.32% | 443,446 | 5/5 | 159 | 590 |
+| [Assassin's Creed Odyssey](https://psnprofiles.com/guide/8002-assassins-creed-odyssey-trophy-guide) | 3/10 | 70 | 27.09% | 542,884 | 5/5 | 126 | 724 |
+| [Horizon Zero Dawn](https://psnprofiles.com/guide/5810-horizon-zero-dawn-trophy-guide) | 3/10 | 40 | 27.83% | 814,836 | 5/5 | 324 | 1,590 |
+| [NieR: Automata](https://psnprofiles.com/guide/5884-nier-automata-trophy-guide) | 3/10 | 60 | 29.04% | 425,653 | 5/5 | 106 | 488 |
+| [Marvel's Guardians of the Galaxy](https://psnprofiles.com/guide/13221-marvels-guardians-of-the-galaxy-trophy-guide) | 3/10 | 20 | 29.05% | 388,352 | 4/5 | 79 | 492 |
+| [Ghost of Tsushima](https://psnprofiles.com/guide/10531-ghost-of-tsushima-trophy-guide) | 3/10 | 50 | 37.65% | 819,381 | 5/5 | 187 | 1,114 |
+| [Marvel's Spider-Man: Miles Morales](https://psnprofiles.com/guide/11179-marvels-spider-man-miles-morales-trophy-guide) | 3/10 | 20 | 37.95% | 753,936 | 5/5 | 87 | 704 |
+| [Marvel's Spider-Man](https://psnprofiles.com/guide/7818-marvels-spider-man-trophy-guide) | 3/10 | 25 | 42.17% | 604,513 | 5/5 | 200 | 828 |
+| [Grand Theft Auto V](https://psnprofiles.com/guide/1981-grand-theft-auto-v-trophy-guide) | 4/10 | 200 | 1.98% | 766,626 | 5/5 | 160 | 1,048 |
+| [The Last of Us Remastered](https://psnprofiles.com/guide/6004-the-last-of-us-remastered-trophy-guide) | 4/10 | 40 | 4.94% | 710,339 | 5/5 | 133 | 787 |
+| [Borderlands 2](https://psnprofiles.com/guide/59-borderlands-2-trophy-guide) | 4/10 | 60 | 5.86% | 350,100 | 5/5 | 50 | 534 |
+| [Rise of the Tomb Raider](https://psnprofiles.com/guide/5399-rise-of-the-tomb-raider-trophy-guide) | 4/10 | 40 | 5.99% | 375,737 | 5/5 | 116 | 568 |
+| [Batman: Arkham Knight](https://psnprofiles.com/guide/3023-batman-arkham-knight-trophy-guide) | 4/10 | 40 | 6.50% | 475,978 | 5/5 | 113 | 891 |
+| [Mortal Kombat 11](https://psnprofiles.com/guide/8604-mortal-kombat-11-trophy-guide) | 4/10 | 60 | 7.70% | 295,940 | 4/5 | 62 | 217 |
+| [Uncharted 4: A Thief's End](https://psnprofiles.com/guide/4401-uncharted-4-a-thiefs-end-trophy-guide) | 4/10 | 30 | 9.28% | 636,228 | 5/5 | 246 | 1,004 |
+| [Assassin's Creed Unity](https://psnprofiles.com/guide/3324-assassins-creed-unity-trophy-guide) | 4/10 | 50 | 10.26% | 297,267 | 5/5 | 79 | 429 |
+| [South Park: The Stick of Truth](https://psnprofiles.com/guide/86-south-park-the-stick-of-truth-trophy-guide) | 4/10 | 20 | 13.66% | 415,054 | 4/5 | 54 | 462 |
+| [Borderlands 3](https://psnprofiles.com/guide/9096-borderlands-3-trophy-guide) | 4/10 | 45 | 14.44% | 295,014 | 5/5 | 53 | 335 |
+| [God of War III Remastered](https://psnprofiles.com/guide/4759-god-of-war-iii-remastered-trophy-guide) | 4/10 | 12 | 14.72% | 431,084 | 5/5 | 98 | 533 |
+| [Call of Duty: Modern Warfare 2 Campaign Remastered](https://psnprofiles.com/guide/9960-call-of-duty-modern-warfare-2-campaign-remastered-trophy-guide) | 4/10 | 25 | 14.74% | 368,073 | 4/5 | 127 | 323 |
+| [Alan Wake](https://psnprofiles.com/guide/13042-alan-wake-trophy-guide) | 4/10 | 25 | 16.43% | 379,336 | 5/5 | 8 | 277 |
+| [Control](https://psnprofiles.com/guide/9040-control-trophy-guide) | 4/10 | 20 | 24.98% | 418,723 | 5/5 | 115 | 671 |
+| [Days Gone](https://psnprofiles.com/guide/8664-days-gone-trophy-guide) | 4/10 | 60 | 25.45% | 434,160 | 5/5 | 114 | 709 |
+| [God of War](https://psnprofiles.com/guide/7347-god-of-war-trophy-guide) | 4/10 | 40 | 27.19% | 846,243 | 5/5 | 299 | 1,468 |
+| [Horizon Forbidden West](https://psnprofiles.com/guide/13933-horizon-forbidden-west-trophy-guide) | 4/10 | 40 | 38.30% | 461,671 | 5/5 | 58 | 522 |
+| [Crisis Core: Final Fantasy VII - Reunion](https://psnprofiles.com/guide/15695-crisis-core-final-fantasy-vii-reunion-trophy-guide) | 4/10 | 40 | 39.48% | 351,772 | 4/5 | 40 | 138 |
+| [God of War Ragnarök](https://psnprofiles.com/guide/15509-god-of-war-ragnar%C3%B6k-trophy-guide) | 4/10 | 45 | 45.50% | 448,860 | 5/5 | 122 | 541 |
+| [Red Dead Redemption 2](https://psnprofiles.com/guide/7962-red-dead-redemption-2-trophy-guide) | 5/10 | 200 | 2.48% | 1,168,084 | 5/5 | 230 | 1,486 |
+| [Metal Gear Solid V: The Phantom Pain](https://psnprofiles.com/guide/3358-metal-gear-solid-v-the-phantom-pain-trophy-guide) | 5/10 | 130 | 4.86% | 328,530 | 5/5 | 91 | 605 |
+| [Assassin's Creed IV Black Flag](https://psnprofiles.com/guide/6231-assassins-creed-iv-black-flag-trophy-guide) | 5/10 | 50 | 5.37% | 309,835 | 5/5 | 58 | 352 |
+| [Final Fantasy X HD](https://psnprofiles.com/guide/358-final-fantasy-x-hd-trophy-guide) | 5/10 | 110 | 8.69% | 335,711 | 5/5 | 102 | 695 |
+| [Shadow of the Tomb Raider](https://psnprofiles.com/guide/7838-shadow-of-the-tomb-raider-trophy-guide) | 5/10 | 30 | 10.71% | 343,539 | 5/5 | 87 | 446 |
+| [Resident Evil 7: Biohazard](https://psnprofiles.com/guide/5653-resident-evil-7-biohazard-trophy-guide) | 5/10 | 25 | 10.84% | 381,872 | 5/5 | 76 | 437 |
+| [Final Fantasy VII Remake](https://psnprofiles.com/guide/9997-final-fantasy-vii-remake-trophy-guide) | 5/10 | 60 | 13.19% | 1,150,577 | 5/5 | 214 | 1,063 |
+| [The Elder Scrolls V: Skyrim](https://psnprofiles.com/guide/5439-the-elder-scrolls-v-skyrim-trophy-guide) | 5/10 | 125 | 14.08% | 472,484 | 5/5 | 65 | 460 |
+| [Uncharted: Drake's Fortune Remastered](https://psnprofiles.com/guide/3418-uncharted-drakes-fortune-remastered-trophy-guide) | 5/10 | 15 | 14.37% | 367,052 | 5/5 | 130 | 639 |
+| [Resident Evil 2](https://psnprofiles.com/guide/8293-resident-evil-2-trophy-guide) | 5/10 | 30 | 18.45% | 415,562 | 5/5 | 70 | 377 |
+| [Kingdom Hearts](https://psnprofiles.com/guide/14-kingdom-hearts-trophy-guide) | 6/10 | 130 | 5.99% | 428,431 | 5/5 | 45 | 494 |
+| [Shadow of the Colossus](https://psnprofiles.com/guide/7048-shadow-of-the-colossus-trophy-guide) | 6/10 | 40 | 7.36% | 318,417 | 5/5 | 70 | 445 |
+| [Batman: Arkham Asylum](https://psnprofiles.com/guide/757-batman-arkham-asylum-trophy-guide) | 6/10 | 20 | 8.54% | 346,929 | 5/5 | 53 | 552 |
+| [Kingdom Hearts II](https://psnprofiles.com/guide/2086-kingdom-hearts-ii-trophy-guide) | 6/10 | 90 | 9.32% | 319,724 | 5/5 | 29 | 382 |
+| [Dark Souls II](https://psnprofiles.com/guide/357-dark-souls-ii-trophy-guide) | 6/10 | 80 | 13.93% | 424,403 | 5/5 | 54 | 421 |
+| [Dark Souls III](https://psnprofiles.com/guide/4281-dark-souls-iii-trophy-guide) | 6/10 | 110 | 18.07% | 575,983 | 5/5 | 110 | 548 |
+| [Call of Duty: Black Ops Cold War](https://psnprofiles.com/guide/11174-call-of-duty-black-ops-cold-war-trophy-guide) | 7/10 | 70 | 1.99% | 323,677 | 4/5 | 44 | 200 |
+| [Batman: Arkham City](https://psnprofiles.com/guide/427-batman-arkham-city-trophy-guide) | 7/10 | 60 | 4.26% | 312,272 | 5/5 | 62 | 498 |
+| [Yakuza 0](https://psnprofiles.com/guide/5654-yakuza-0-trophy-guide) | 7/10 | 140 | 4.65% | 791,430 | 5/5 | 106 | 508 |
+| [Baldur's Gate III](https://psnprofiles.com/guide/17598-baldurs-gate-iii-trophy-guide) | 7/10 | 120 | 4.72% | 305,661 | 5/5 | 41 | 181 |
+| [The Witcher 3: Wild Hunt](https://psnprofiles.com/guide/2842-the-witcher-3-wild-hunt-trophy-guide) | 7/10 | 110 | 7.14% | 983,429 | 5/5 | 131 | 1,117 |
+| [Gran Turismo 7](https://psnprofiles.com/guide/14018-gran-turismo-7-trophy-guide) | 7/10 | 90 | 9.37% | 322,178 | 5/5 | 60 | 190 |
+| [Demon's Souls](https://psnprofiles.com/guide/11225-demons-souls-trophy-guide) | 7/10 | 40 | 21.71% | 725,952 | 5/5 | 161 | 498 |
+| [Bloodborne](https://psnprofiles.com/guide/2603-bloodborne-trophy-guide) | 7/10 | 50 | 21.74% | 817,159 | 5/5 | 204 | 1,113 |
+| [Sekiro: Shadows Die Twice](https://psnprofiles.com/guide/8525-sekiro-shadows-die-twice-trophy-guide) | 7/10 | 60 | 27.98% | 518,252 | 5/5 | 112 | 412 |
+| [Final Fantasy VII Rebirth](https://psnprofiles.com/guide/18935-final-fantasy-vii-rebirth-trophy-guide) | 8/10 | 200 | 11.35% | 617,693 | 5/5 | 119 | 251 |
+| [Dark Souls](https://psnprofiles.com/guide/1656-dark-souls-trophy-guide) | 8/10 | 70 | 16.04% | 721,015 | 5/5 | 60 | 493 |
+| [Elden Ring](https://psnprofiles.com/guide/14008-elden-ring-trophy-guide) | 8/10 | 65 | 38.39% | 685,258 | 4/5 | 161 | 385 |
+| [Final Fantasy XIV](https://psnprofiles.com/guide/13381-final-fantasy-xiv-endwalker-dlc-trophy-guide) | 9/10 | 999 |  | 498,360 | 5/5 | 10 | 62 |
+| https://psnprofiles.com/guide/131-kingdom-hearts-synthesis-guide |  |  |  | 298,132 | 5/5 | 23 | 133 |
+| https://psnprofiles.com/guide/5658-yakuza-0-substory-and-friendship-guide |  |  |  | 403,563 | 5/5 | 26 | 112 |
+| https://psnprofiles.com/guide/11946-persona-5-royal-100-perfect-schedule |  |  |  | 2,546,151 | 5/5 | 39 | 456 |
+| https://psnprofiles.com/guide/7968-red-dead-redemption-2-gold-medals-challenges-and-100-completion-guide |  |  |  | 375,630 | 5/5 | 87 | 390 |
+| https://psnprofiles.com/guide/18934-final-fantasy-vii-rebirth-strategy-mini-game-guide |  |  |  | 389,649 | 5/5 | 67 | 75 |
+| https://psnprofiles.com/guide/8855-doodle-god-100-walkthrough |  |  |  | 309,592 |  | 0 | 8 |
+| https://psnprofiles.com/guide/6566-%E8%8B%B1%E9%9B%84%E4%BC%9D%E8%AA%AC-%E9%96%83%E3%81%AE%E8%BB%8C%E8%B7%A1iii-trails-of-cold-steel-iii-overall-walkthrough |  |  |  | 446,902 | 5/5 | 6 | 86 |
+| https://psnprofiles.com/guide/4970-the-legend-of-heroes-trails-of-cold-steel-ii-overall-walkthrough |  |  |  | 474,172 | 5/5 | 45 | 148 |
+| https://psnprofiles.com/guide/15974-persona-3-portable-ultimate-100-walkthrough |  |  |  | 451,656 | 5/5 | 13 | 136 |
+| https://psnprofiles.com/guide/3724-the-legend-of-heroes-trails-of-cold-steel-overall-walkthrough |  |  |  | 403,208 | 5/5 | 40 | 218 |
+| https://psnprofiles.com/guide/287-kingdom-hearts-rechain-of-memories-boss-guide |  |  |  | 292,299 | 4/5 | 22 | 62 |
+| https://psnprofiles.com/guide/7236-persona-5-complete-100-walkthrough |  |  |  | 622,267 | 5/5 | 108 | 360 |
+| https://psnprofiles.com/guide/8564-persona-4-golden-platinum-walkthrough |  |  |  | 780,147 | 5/5 | 34 | 356 |
+| https://psnprofiles.com/guide/3895-dark-cloud-2-ideas-scoops-and-inventions-guide |  |  |  | 308,217 | 5/5 | 8 | 36 |
+| https://psnprofiles.com/guide/8080-hollow-knight-trophy-walkthrough |  |  | Heart of Hallownest | 451,585 | 5/5 | 60 | 430 |
+| https://psnprofiles.com/guide/13383-final-fantasy-xiv-endwalker-encounter-guide-pand%C3%A6monium |  |  |  | 565,282 |  | 0 | 64 |
+| https://psnprofiles.com/guide/14002-elden-ring-100-walkthrough-platinum |  |  |  | 391,225 | 5/5 | 22 | 121 |

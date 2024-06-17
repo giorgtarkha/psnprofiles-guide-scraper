@@ -5,8 +5,10 @@ import (
 	"encoding/csv"
 	"encoding/json"
 	"fmt"
+	"math"
 	"os"
 	"path/filepath"
+	"sort"
 	"strconv"
 	"strings"
 	"sync"
@@ -36,6 +38,7 @@ type GuideData struct {
 type Scraper struct {
 	directory string
 	formats   []string
+	sortings  []*Sorting
 
 	lastPage int
 
@@ -45,16 +48,32 @@ type Scraper struct {
 	pmu sync.Mutex
 	mu  sync.Mutex
 
-	links chan string
-	data  map[string]*GuideData
+	links      chan string
+	data       map[string]*GuideData
+	sortedData []*GuideData
 }
 
-func NewScraper(directory string, formats []string) *Scraper {
-	return &Scraper{
-		directory: directory,
-		formats:   formats,
+type Sorting struct {
+	Field    string
+	Strategy string
+}
 
-		lastPage: 1,
+type ScraperParams struct {
+	Directory string
+	Formats   []string
+	Sortings  []*Sorting
+}
+
+func NewScraper(p *ScraperParams) (*Scraper, error) {
+	if p == nil || p.Formats == nil || len(p.Formats) == 0 || p.Sortings == nil {
+		return nil, fmt.Errorf("failed to initialize scrapper, invalid parameters")
+	}
+	return &Scraper{
+		directory: p.Directory,
+		formats:   p.Formats,
+		sortings:  p.Sortings,
+
+		lastPage: 5,
 
 		collector: colly.NewCollector(
 			colly.Async(true),
@@ -66,7 +85,7 @@ func NewScraper(directory string, formats []string) *Scraper {
 		mu:    sync.Mutex{},
 		links: make(chan string),
 		data:  make(map[string]*GuideData),
-	}
+	}, nil
 }
 
 func (s *Scraper) init() {
@@ -114,44 +133,8 @@ func (s *Scraper) scrape() {
 	s.wg.Wait()
 	close(s.links)
 
-	for _, format := range s.formats {
-		switch format {
-		case FORMAT_JSON:
-			{
-				s.wg.Add(1)
-				go func() {
-					if err := s.dumpJson(); err != nil {
-						fmt.Printf("failed to export to json: %s\n", err.Error())
-					}
-					s.wg.Done()
-				}()
-			}
-		case FORMAT_CSV:
-			{
-				s.wg.Add(1)
-				go func() {
-					if err := s.dumpCsv(); err != nil {
-						fmt.Printf("failed to export to csv: %s\n", err.Error())
-					}
-					s.wg.Done()
-				}()
-			}
-		case FORMAT_MD:
-			{
-				s.wg.Add(1)
-				go func() {
-					if err := s.dumpMd(); err != nil {
-						fmt.Printf("failed to export to md: %s\n", err.Error())
-					}
-					s.wg.Done()
-				}()
-			}
-		default:
-			fmt.Printf("unknown format: %s\n", format)
-		}
-	}
-
-	s.wg.Wait()
+	s.sortData()
+	s.dumpData()
 }
 
 func (s *Scraper) handleGuideListPage(link string, doc *goquery.Document) {
@@ -255,9 +238,6 @@ func (s *Scraper) handleGuidePage(link string, doc *goquery.Document) {
 
 	platinumInfo := doc.Find("img[alt='Platinum']").ParentsFiltered("tr").First()
 	platinumRarity := platinumInfo.Children().Eq(platinumInfo.Children().Length() - 2).First().Children().First().Find("span").First().Text()
-	if platinumRarity == "" {
-		platinumRarity = "N/A"
-	}
 
 	s.mu.Lock()
 	s.data[link] = &GuideData{
@@ -278,6 +258,196 @@ func (s *Scraper) handleGuidePage(link string, doc *goquery.Document) {
 	s.wg.Done()
 }
 
+func (s *Scraper) sortData() {
+	s.sortedData = make([]*GuideData, len(s.data))
+	idx := 0
+	for _, entry := range s.data {
+		s.sortedData[idx] = entry
+		idx++
+	}
+
+	if s.sortings == nil || len(s.sortings) == 0 {
+		return
+	}
+
+	getDifficulty := func(i string) int {
+		if i == "" {
+			return -1
+		}
+		parts := strings.Split(i, "/")
+		if len(parts) == 2 {
+			r, err := strconv.Atoi(parts[0])
+			if err != nil {
+				return -1
+			}
+			return r
+		}
+		return -1
+	}
+
+	getInt := func(i string) int {
+		if i == "" {
+			return -1
+		}
+		r, err := strconv.Atoi(i)
+		if err != nil {
+			return -1
+		}
+		return r
+	}
+
+	getPlatinumRarity := func(i string) float64 {
+		if i == "" {
+			return -1
+		}
+		parts := strings.Split(i, "%")
+		if len(parts) == 2 {
+			r, err := strconv.ParseFloat(parts[0], 64)
+			if err != nil {
+				return -1
+			}
+			return r
+		}
+		return -1
+	}
+
+	compareI := func(i int, j int, strategy string) bool {
+		if i < 0 {
+			return strategy == SORT_STRATEGY_DESC
+		}
+		if j < 0 {
+			return strategy == SORT_STRATEGY_ASC
+		}
+		if strategy == SORT_STRATEGY_ASC {
+			return i < j
+		}
+		return i > j
+	}
+
+	compareF := func(i float64, j float64, strategy string) bool {
+		if i < 0 {
+			return strategy == SORT_STRATEGY_DESC
+		}
+		if j < 0 {
+			return strategy == SORT_STRATEGY_ASC
+		}
+		if strategy == SORT_STRATEGY_ASC {
+			return i < j
+		}
+		return i > j
+	}
+
+	sort.Slice(s.sortedData, func(i, j int) bool {
+		sortedDataI := s.sortedData[i]
+		sortedDataJ := s.sortedData[j]
+		for _, sorting := range s.sortings {
+			switch sorting.Field {
+			case FIELD_DIFFUCULTY:
+				{
+					difficultyI := getDifficulty(sortedDataI.Difficulty)
+					difficultyJ := getDifficulty(sortedDataJ.Difficulty)
+					if difficultyI != difficultyJ {
+						return compareI(difficultyI, difficultyJ, sorting.Strategy)
+					}
+				}
+			case FIELD_TIME_NEEDED:
+				{
+					timeNeededI := getInt(sortedDataI.TimeNeeded)
+					timeNeededJ := getInt(sortedDataJ.TimeNeeded)
+					if timeNeededI != timeNeededJ {
+						return compareI(timeNeededI, timeNeededJ, sorting.Strategy)
+					}
+				}
+			case FIELD_PLATINUM_RARITY:
+				{
+					rarityI := getPlatinumRarity(sortedDataI.PlatinumRarity)
+					rarityJ := getPlatinumRarity(sortedDataJ.PlatinumRarity)
+					if rarityI != rarityJ && math.Abs(rarityI-rarityJ) > 0.005 {
+						return compareF(rarityI, rarityJ, sorting.Strategy)
+					}
+				}
+			case FIELD_VIEWS:
+				{
+					viewsI := getInt(sortedDataI.Views)
+					viewsJ := getInt(sortedDataJ.Views)
+					if viewsI != viewsJ {
+						return compareI(viewsI, viewsJ, sorting.Strategy)
+					}
+				}
+			case FIELD_GUIDE_RATING:
+				{
+					guideRatingI := getInt(sortedDataI.GuideRating)
+					guideRatingJ := getInt(sortedDataJ.GuideRating)
+					if guideRatingI != guideRatingJ {
+						return compareI(guideRatingI, guideRatingJ, sorting.Strategy)
+					}
+				}
+			case FIELD_GUIDE_RATING_COUNT:
+				{
+					guideRatingCountI := getInt(sortedDataI.GuideRatingCount)
+					guideRatingCountJ := getInt(sortedDataJ.GuideRatingCount)
+					if guideRatingCountI != guideRatingCountJ {
+						return compareI(guideRatingCountI, guideRatingCountJ, sorting.Strategy)
+					}
+				}
+			case FIELD_USER_FAVOURITES:
+				{
+					userFavouritesI := getInt(sortedDataI.UserFavourites)
+					userFavouritesJ := getInt(sortedDataJ.UserFavourites)
+					if userFavouritesI != userFavouritesJ {
+						return compareI(userFavouritesI, userFavouritesJ, sorting.Strategy)
+					}
+				}
+			default:
+				{
+				}
+			}
+		}
+		return false
+	})
+}
+
+func (s *Scraper) dumpData() {
+	for _, format := range s.formats {
+		switch format {
+		case FORMAT_JSON:
+			{
+				s.wg.Add(1)
+				go func() {
+					if err := s.dumpJson(); err != nil {
+						fmt.Printf("failed to export to json: %s\n", err.Error())
+					}
+					s.wg.Done()
+				}()
+			}
+		case FORMAT_CSV:
+			{
+				s.wg.Add(1)
+				go func() {
+					if err := s.dumpCsv(); err != nil {
+						fmt.Printf("failed to export to csv: %s\n", err.Error())
+					}
+					s.wg.Done()
+				}()
+			}
+		case FORMAT_MD:
+			{
+				s.wg.Add(1)
+				go func() {
+					if err := s.dumpMd(); err != nil {
+						fmt.Printf("failed to export to md: %s\n", err.Error())
+					}
+					s.wg.Done()
+				}()
+			}
+		default:
+			fmt.Printf("unknown format: %s\n", format)
+		}
+	}
+
+	s.wg.Wait()
+}
+
 func (s *Scraper) dumpJson() error {
 	file, err := os.Create(filepath.Join(s.directory, "guide_data.json"))
 	if err != nil {
@@ -285,7 +455,7 @@ func (s *Scraper) dumpJson() error {
 	}
 	defer file.Close()
 
-	jsonData, err := json.MarshalIndent(s.data, "", " ")
+	jsonData, err := json.MarshalIndent(s.sortedData, "", " ")
 	if err != nil {
 		return err
 	}
@@ -310,7 +480,7 @@ func (s *Scraper) dumpCsv() error {
 	entries := [][]string{
 		{"game", "link", "difficulty", "time_needed", "platinum_rarity", "views", "guide_rating", "guide_rating_count", "user_favourites"},
 	}
-	for _, entry := range s.data {
+	for _, entry := range s.sortedData {
 		entries = append(entries, []string{
 			entry.Game,
 			entry.Link,
@@ -342,7 +512,7 @@ func (s *Scraper) dumpMd() error {
 	builder.WriteString("| **game** | **difficulty** | **time_needed** | **platinum_rarity** | **views** | **guide_rating** | **guide_rating_count ** | **user_favourites ** |\n")
 	builder.WriteString("|:--------|:--------:|:-------:|:-----:|:------:|:------:|:-----:|:-----:|\n")
 
-	for _, entry := range s.data {
+	for _, entry := range s.sortedData {
 		if entry.Game != "" {
 			_, err = builder.WriteString(
 				fmt.Sprintf(
