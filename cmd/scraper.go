@@ -69,36 +69,35 @@ func NewScraper(p *ScraperParams) (*Scraper, error) {
 	if p == nil || p.Formats == nil || len(p.Formats) == 0 || p.Sortings == nil {
 		return nil, fmt.Errorf("failed to initialize scrapper, invalid parameters")
 	}
-	return &Scraper{
+
+	s := &Scraper{
 		directory: p.Directory,
 		formats:   p.Formats,
 		sortings:  p.Sortings,
 
 		lastPage: 1,
 
-		collector: colly.NewCollector(
-			colly.Async(true),
-			colly.AllowURLRevisit(),
-		),
 		wg:    sync.WaitGroup{},
 		pmu:   sync.Mutex{},
 		mu:    sync.Mutex{},
 		links: make(chan string),
 		data:  make(map[string]*GuideData),
-	}, nil
-}
+	}
 
-func (s *Scraper) init() {
-	s.collector.Limit(&colly.LimitRule{
+	collector := colly.NewCollector(
+		colly.Async(true),
+		colly.AllowURLRevisit(),
+	)
+	collector.Limit(&colly.LimitRule{
 		DomainGlob:  "*",
 		Parallelism: 6,
 		Delay:       4 * time.Second,
 	})
-	s.collector.OnError(func(r *colly.Response, err error) {
+	collector.OnError(func(r *colly.Response, err error) {
 		fmt.Printf("failed on link %s, reenqueueing link: %s\n", r.Request.URL.String(), err.Error())
 		s.links <- r.Request.URL.String()
 	})
-	s.collector.OnResponse(func(r *colly.Response) {
+	collector.OnResponse(func(r *colly.Response) {
 		link := r.Request.URL.String()
 		doc, err := goquery.NewDocumentFromReader(bytes.NewReader(r.Body))
 		if err != nil {
@@ -113,6 +112,9 @@ func (s *Scraper) init() {
 			s.handleGuideListPage(link, doc)
 		}
 	})
+
+	s.collector = collector
+	return s, nil
 }
 
 func (s *Scraper) scrape() {

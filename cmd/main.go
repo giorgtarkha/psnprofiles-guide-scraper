@@ -143,7 +143,6 @@ func main() {
 					if err != nil {
 						return err
 					}
-					scraper.init()
 					scraper.scrape()
 					return nil
 				},
