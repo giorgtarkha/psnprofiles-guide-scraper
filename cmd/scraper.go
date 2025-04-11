@@ -489,7 +489,18 @@ func (s *Scraper) dumpCsv() error {
 	defer writer.Flush()
 
 	entries := [][]string{
-		{"game", "link", "platforms", "difficulty", "time_needed", "platinum_rarity", "views", "guide_rating", "guide_rating_count", "user_favourites"},
+		{
+			FIELD_GAME,
+			FIELD_LINK,
+			FIELD_PLATFORMS,
+			FIELD_DIFFUCULTY,
+			FIELD_TIME_NEEDED,
+			FIELD_PLATINUM_RARITY,
+			FIELD_VIEWS,
+			FIELD_GUIDE_RATING,
+			FIELD_GUIDE_RATING_COUNT,
+			FIELD_USER_FAVOURITES,
+		},
 	}
 	for _, entry := range s.sortedData {
 		entries = append(entries, []string{
@@ -522,7 +533,20 @@ func (s *Scraper) dumpMd() error {
 	defer file.Close()
 
 	builder := strings.Builder{}
-	builder.WriteString("| **game** | **platforms** | **difficulty** | **time_needed** | **platinum_rarity** | **views** | **guide_rating** | **guide_rating_count** | **user_favourites** |\n")
+	builder.WriteString(
+		fmt.Sprintf(
+			"| **%s** | **%s** | **%s** | **%s** | **%s** | **%s** | **%s** | **%s** | **%s** |\n",
+			FIELD_GAME,
+			FIELD_PLATFORMS,
+			FIELD_DIFFUCULTY,
+			FIELD_TIME_NEEDED,
+			FIELD_PLATINUM_RARITY,
+			FIELD_VIEWS,
+			FIELD_GUIDE_RATING,
+			FIELD_GUIDE_RATING_COUNT,
+			FIELD_USER_FAVOURITES,
+		),
+	)
 	builder.WriteString("|:--------|:------:|:----:|:----:|:----:|:-----:|:----:|:-----:|:-----:|\n")
 
 	for _, entry := range s.sortedData {
