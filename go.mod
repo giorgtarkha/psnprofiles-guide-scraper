@@ -3,12 +3,12 @@ module github.com/giorgtarkha/psnprofiles-guide-scraper
 go 1.22
 
 require (
+	github.com/PuerkitoBio/goquery v1.5.1
 	github.com/gocolly/colly/v2 v2.1.0
 	github.com/urfave/cli/v2 v2.27.2
 )
 
 require (
-	github.com/PuerkitoBio/goquery v1.5.1 // indirect
 	github.com/andybalholm/cascadia v1.2.0 // indirect
 	github.com/antchfx/htmlquery v1.2.3 // indirect
 	github.com/antchfx/xmlquery v1.2.4 // indirect
