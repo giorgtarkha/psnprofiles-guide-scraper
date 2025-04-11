@@ -34,7 +34,7 @@ Sorting priority is based on which sorting field is provided first.
 
 ```
 Sorting applied by default if Makefile is used is:
-'difficulty', 'platinum_rarity', 'time_needed', 'views' (All in ascending order)
+'difficulty', 'platinum_rarity', 'time_needed', 'views' (All in ascending order).
 
 > make
 runs the script and puts output in every format in same directory as the makefile.
@@ -49,7 +49,8 @@ runs the script and puts output in csv format in same directory as the makefile.
 runs the script and puts output in md format in same directory as the makefile.
 
 > make $(format)? OUTPUT_DIR=$(dir_to_export_to)
-runs the script and puts output in given format (or all formats) in given directory. If relative path is given, it is relative to $(makefile_dir)/cmd.
+runs the script and puts output in given format (or all formats) in given directory. 
+If relative path is given, it is relative to $(makefile_dir)/cmd.
 ```
 
 ### Running using Go
