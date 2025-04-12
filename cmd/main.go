@@ -51,7 +51,7 @@ var sortableFields = []string{
 func main() {
 	app := &cli.App{
 		Name:  "psnprofiles-guide-scraper",
-		Usage: "A simple CLI application",
+		Usage: "Guide scraper for https://psnprofiles.com",
 		Commands: []*cli.Command{
 			{
 				Name: "scrape",
