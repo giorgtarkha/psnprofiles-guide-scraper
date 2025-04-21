@@ -25,46 +25,46 @@ It is useful mainly for trophy hunters, to look for games based on difficulty, p
 
 This is used mostly as a one-time script, so no fancy stuff, no building, just running onces and that's it.
 
-> Available sortable fields:<br>
-`difficulty, time_needed, platinum_rarity, views, guide_rating, guide_rating_count, user_favourites`
+```
+Available sortable fields:
+difficulty, time_needed, platinum_rarity, views, guide_rating, guide_rating_count, user_favourites
 
-> Available output formats:<br>
-`json, csv, md`
+Available output formats:
+json, csv, md
+```
 
-> Sorting priority is based on which sorting field is provided first.
+> [!NOTE]
+> Sorting priority is based on which sorting field is provided first. Sorting applied by default if Makefile is used is:<br>
+> **difficulty, platinum_rarity, time_needed, views**<br>
+> (All in ascending order)
 
 ### Running using Make
 
-> Sorting applied by default if Makefile is used is:<br>
-`difficulty, platinum_rarity, time_needed, views`<br> (All in ascending order).
+```shell
+// runs the script and puts output in every format in same directory as the makefile
+$ make
 
-> `$ make`<br>
-runs the script and puts output in every format in same directory as the makefile.
+// runs the script and puts output in given format in same directory as the makefile.
+$ make <format>
 
-> `$ make json`<br>
-runs the script and puts output in json format in same directory as the makefile.
-
-> `$ make csv`<br>
-runs the script and puts output in csv format in same directory as the makefile.
-
-> `$ make md`<br>
-runs the script and puts output in md format in same directory as the makefile.
-
-> `$ make $(format)? OUTPUT_DIR=$(dir_to_export_to)`<br>
-runs the script and puts output in given format (or all formats) in given directory. 
-If relative path is given, it is relative to `$(makefile_dir)/cmd`.
+// runs the script and puts output in given format (or all formats) in given directory. If relative path is given, it is relative to ./cmd
+$ make OUTPUT_DIR=<dir_to_export_to>
+```
 
 ### Running using Go
 
-> `$ go run cmd/main.go scraper.go scrape -f $(format1) -f $(format2) ....`<br>
-runs the script and puts output in requested formats, at least one format is required. 
-By default output is put in same directory as the scripts.
+```shell
+// runs the script and puts output in requested formats, at least one format is required. By default output is put in same directory as the scripts.
 
-> `$ go run main.go scraper.go scrape -o $(output_dir) ....`<br>
-runs the script and puts output in requested directory.
+$ go run cmd/main.go scraper.go scrape -f <format1> -f <format2> ...
 
-> `$ go run main.go scraper.go scrape -s $(sorting1) -s $(sorting2) ....`<br>
-runs the script and sorts scraped data based on fields.
-Field priority is based on the order of input.
-By default ascending order is used, sort order can also be explicitly provided, for example:<br>
-`-s difficulty;asc -s platinum_rarity;desc`
+
+// runs the script and puts output in requested directory.
+
+$ go run main.go scraper.go scrape -o <output_dir> ...
+
+
+// runs the script and sorts scraped data based on fields. Field priority is based on the order of input. By default ascending order is used, sort order can also be explicitly provided, for example: -s difficulty;asc -s platinum_rarity;desc
+
+$ go run main.go scraper.go scrape -s <sorting1> -s <sorting2> ...
+```
