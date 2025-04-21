@@ -57,19 +57,14 @@ $ make OUTPUT_DIR=<dir_to_export_to>
 ```shell
 # runs the script and puts output in requested formats, at least one format is required. 
 # By default output is put in same directory as the scripts.
-
 $ go run cmd/main.go scraper.go scrape -f <format1> -f <format2> ...
 
-
 # runs the script and puts output in requested directory.
-
 $ go run main.go scraper.go scrape -o <output_dir> ...
-
 
 # runs the script and sorts scraped data based on fields. 
 # Field priority is based on the order of input. By default ascending order is used. 
 # Sort order can also be explicitly provided, for example: 
 # -s difficulty;asc -s platinum_rarity;desc
-
 $ go run main.go scraper.go scrape -s <sorting1> -s <sorting2> ...
 ```
