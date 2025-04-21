@@ -27,44 +27,49 @@ This is used mostly as a one-time script, so no fancy stuff, no building, just r
 
 ```
 Available sortable fields:
-difficulty, time_needed, platinum_rarity, views, guide_rating, guide_rating_count, user_favourites
+[ difficulty, time_needed, platinum_rarity, views, guide_rating, guide_rating_count, user_favourites ]
 
 Available output formats:
-json, csv, md
+[ json, csv, md ]
 ```
 
 > [!NOTE]
 > Sorting priority is based on which sorting field is provided first. Sorting applied by default if Makefile is used is:<br>
-> **difficulty, platinum_rarity, time_needed, views**<br>
+> **[ difficulty, platinum_rarity, time_needed, views ]**<br>
 > (All in ascending order)
 
 ### Running using Make
 
 ```shell
-// runs the script and puts output in every format in same directory as the makefile
+# runs the script and puts output in every format in same directory as the makefile
 $ make
 
-// runs the script and puts output in given format in same directory as the makefile.
+# runs the script and puts output in given format in same directory as the makefile.
 $ make <format>
 
-// runs the script and puts output in given format (or all formats) in given directory. If relative path is given, it is relative to ./cmd
+# runs the script and puts output in given format (or all formats) in given directory. 
+# If relative path is given, it is relative to ./cmd
 $ make OUTPUT_DIR=<dir_to_export_to>
 ```
 
 ### Running using Go
 
 ```shell
-// runs the script and puts output in requested formats, at least one format is required. By default output is put in same directory as the scripts.
+# runs the script and puts output in requested formats, at least one format is required. 
+# By default output is put in same directory as the scripts.
 
 $ go run cmd/main.go scraper.go scrape -f <format1> -f <format2> ...
 
 
-// runs the script and puts output in requested directory.
+# runs the script and puts output in requested directory.
 
 $ go run main.go scraper.go scrape -o <output_dir> ...
 
 
-// runs the script and sorts scraped data based on fields. Field priority is based on the order of input. By default ascending order is used, sort order can also be explicitly provided, for example: -s difficulty;asc -s platinum_rarity;desc
+# runs the script and sorts scraped data based on fields. 
+# Field priority is based on the order of input. By default ascending order is used. 
+# Sort order can also be explicitly provided, for example: 
+# -s difficulty;asc -s platinum_rarity;desc
 
 $ go run main.go scraper.go scrape -s <sorting1> -s <sorting2> ...
 ```
