@@ -32,9 +32,8 @@ This is used mostly as a one-time script, so no fancy stuff, no building, just r
 > Available output formats:<br>
 > **[ json, csv, md ]**
 >
-> Sorting priority is based on which sorting field is provided first. Sorting applied by default if Makefile is used is:<br>
+> Sorting priority is based on which sorting field is provided first. Sorting applied by default if Makefile is used (All in ascending order):<br>
 > **[ difficulty, platinum_rarity, time_needed, views ]**<br>
-> (All in ascending order)
 
 ### Running using Make
 
