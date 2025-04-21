@@ -25,13 +25,13 @@ It is useful mainly for trophy hunters, to look for games based on difficulty, p
 
 This is used mostly as a one-time script, so no fancy stuff, no building, just running onces and that's it.
 
-```
-Available sortable fields:
-[ difficulty, time_needed, platinum_rarity, views, guide_rating, guide_rating_count, user_favourites ]
 
-Available output formats:
-[ json, csv, md ]
-```
+> Available sortable fields:<br>
+> **[ difficulty, time_needed, platinum_rarity, views, guide_rating, guide_rating_count, user_favourites ]**<br>
+>
+> Available output formats:<br>
+> **[ json, csv, md ]**
+
 
 > [!NOTE]
 > Sorting priority is based on which sorting field is provided first. Sorting applied by default if Makefile is used is:<br>
